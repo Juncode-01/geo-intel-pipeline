@@ -1,1 +1,26 @@
-libraries my project needs
+# Data collection and processing
+requests==2.31.0
+pandas==2.1.0
+geopandas==0.14.0
+rasterio==1.3.9
+fiona==1.9.5
+shapely==2.0.2
+
+# Machine learning
+scikit-learn==1.3.0
+sentence-transformers==2.2.2
+numpy==1.24.0
+joblib==1.3.2
+
+# Vector database
+chromadb==0.4.18
+
+# LLM and agents
+google-generativeai==0.3.0
+google-adk==0.1.0
+openai==1.6.0
+
+# Utilities
+python-dotenv==1.0.0
+tqdm==4.66.1
+jupyter==1.0.0
