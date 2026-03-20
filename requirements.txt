@@ -1,26 +1,26 @@
 # Data collection and processing
-requests==2.31.0
-pandas==3.0.1
-geopandas==0.14.3
-rasterio==1.3.9
-fiona==1.9.5
-shapely==2.0.2
+requests
+pandas
+geopandas
+rasterio
+fiona
+shapely
 
 # Machine learning
-scikit-learn==1.4.0
-sentence-transformers==2.6.1
-numpy==2.0.0
-joblib==1.3.2
+scikit-learn
+sentence-transformers
+numpy
+joblib
 
 # Vector database
-chromadb==0.4.18
+chromadb
 
 # LLM and agents
-google-generativeai==0.3.0
-google-adk==0.1.0
-openai==1.6.0
+google-generativeai
+google-adk
+openai
 
 # Utilities
-python-dotenv==1.0.0
-tqdm==4.66.1
-jupyter==1.0.0
+python-dotenv
+tqdm
+jupyter
