@@ -1,0 +1,26 @@
+{
+  "dataset_id": "geology-quaternary-alluvium-and-cover",
+  "title": "Geology Quaternary Alluvium and Cover",
+  "source_type": "download",
+  "fetched_at": "2026-03-22T22:50:14.296020",
+  "feature_count": 1,
+  "geometry_types": [
+    "Polygon"
+  ],
+  "bounds": {
+    "west": -125.638163,
+    "south": 48.916375,
+    "east": -125.4,
+    "north": 49.0
+  },
+  "attribute_columns": [
+    "gid",
+    "label",
+    "area_m2",
+    "perimeter",
+    "edit_date",
+    "pub_org"
+  ],
+  "crs": "EPSG:4326",
+  "file_path": "data/raw/fetched/geology-quaternary-alluvium-and-cover.geojson"
+}

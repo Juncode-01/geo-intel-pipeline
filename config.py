@@ -58,3 +58,19 @@ CHANTERELLE_RELEVANT_TAGS = [
     "species",
     "habitat"
 ]
+
+# Fetching settings
+MAX_WFS_FEATURES = 5000     # cap per layer to avoid huge downloads
+REQUEST_TIMEOUT = 30        # seconds before giving up on a request
+RETRY_ATTEMPTS = 3          # how many times to retry a failed request
+
+# File size limits
+MAX_DOWNLOAD_MB = 200       # skip files larger than this
+
+# WFS output format preferences in order of preference
+WFS_FORMAT_PREFERENCE = [
+    "application/json",
+    "json",
+    "geojson",
+    "GML3"
+]

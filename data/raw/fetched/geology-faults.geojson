@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "geology-faults",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 81228, "ulid": "3dd849e6", "fault_type": "Thrust fault", "confidence": null, "fault_name": null, "length_m": 40461.0, "edit_date": "2018-04-05", "pub_org": "British Columbia Geological Survey" }, "geometry": { "type": "LineString", "coordinates": [ [ -125.4, 48.877730169211304 ], [ -125.423424038776517, 48.892463558406703 ], [ -125.451553205371212, 48.908855504484777 ], [ -125.460502581363528, 48.913352815576687 ], [ -125.470554662164318, 48.918313868860487 ], [ -125.480063810650009, 48.923726493495522 ], [ -125.496553717574415, 48.933667782479503 ], [ -125.609932276887918, 48.999998514017101 ], [ -125.609934981240599, 49.0 ] ] } },
+{ "type": "Feature", "properties": { "gid": 98614, "ulid": "e6240d74", "fault_type": "Fault", "confidence": null, "fault_name": null, "length_m": 317.0, "edit_date": "2018-04-05", "pub_org": "British Columbia Geological Survey" }, "geometry": { "type": "LineString", "coordinates": [ [ -125.550422571359348, 48.992927584688225 ], [ -125.5526424362873, 48.990474573552916 ] ] } },
+{ "type": "Feature", "properties": { "gid": 5468, "ulid": "0c4d0f8f", "fault_type": "Fault", "confidence": null, "fault_name": null, "length_m": 2354.0, "edit_date": "2018-04-05", "pub_org": "British Columbia Geological Survey" }, "geometry": { "type": "LineString", "coordinates": [ [ -125.550422571359348, 48.992927584688225 ], [ -125.532552744164278, 49.0 ] ] } },
+{ "type": "Feature", "properties": { "gid": 10613, "ulid": "66db0481", "fault_type": "Fault", "confidence": null, "fault_name": null, "length_m": 2032.0, "edit_date": "2018-04-05", "pub_org": "British Columbia Geological Survey" }, "geometry": { "type": "LineString", "coordinates": [ [ -125.543213380294546, 49.0 ], [ -125.550422571359348, 48.992927584688225 ] ] } }
+]
+}
