@@ -1,0 +1,47 @@
+{
+  "dataset_id": "bedrock-geology",
+  "title": "Bedrock Geology",
+  "source_type": "download",
+  "fetched_at": "2026-03-22T22:49:28.467965",
+  "feature_count": 7,
+  "geometry_types": [
+    "Polygon"
+  ],
+  "bounds": {
+    "west": -125.771346,
+    "south": 48.86367,
+    "east": -125.4,
+    "north": 49.0
+  },
+  "attribute_columns": [
+    "gid",
+    "upid",
+    "area_m2",
+    "strat_unit",
+    "era",
+    "period",
+    "strat_age",
+    "strat_name",
+    "gp_suite",
+    "fm_lithodm",
+    "mem_phase",
+    "rock_class",
+    "rock_type",
+    "rk_char",
+    "unit_desc",
+    "age_max",
+    "age_min",
+    "belt",
+    "terrane",
+    "basin",
+    "basin_age",
+    "project",
+    "src_url",
+    "src_ref_s",
+    "map_comp",
+    "edit_date",
+    "pub_org"
+  ],
+  "crs": "EPSG:4326",
+  "file_path": "data/raw/fetched/bedrock-geology.geojson"
+}
