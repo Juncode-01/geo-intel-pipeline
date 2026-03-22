@@ -123,7 +123,10 @@ class CollectorAgent:
         df = pd.DataFrame(self.collected)
         print(f"\nCollection complete.")
         print(f"Total unique datasets collected: {len(df)}")
-        print(f"Datasets with WFS endpoints: {df['has_wfs'].sum()}")
+        if df.empty:
+            print("No datasets collected - check API connectivity.")
+        else:
+            print(f"Datasets with WFS endpoints: {df['has_wfs'].sum()}")
         
         return df
 
@@ -137,6 +140,9 @@ if __name__ == "__main__":
     output_path = "data/raw/collected_metadata.csv"
     df.to_csv(output_path, index=False)
     print(f"\nSaved to {output_path}")
-    print("\nSample of collected data:")
-    print(df[["title", "formats", "has_wfs"]].head(10))
+    if not df.empty:
+        print("\nSample of collected data:")
+        print(df[["title", "formats", "has_wfs"]].head(10))
+    else:
+        print("\nNo data to display.")
     
