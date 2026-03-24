@@ -20,6 +20,7 @@ import geopandas as gpd
 from shapely.geometry import box
 from datetime import datetime
 from io import BytesIO
+from fetcher.wfs_client import get_capabilities, fetch_layer
 
 from config import (
     UCLUELET_BBOX,
@@ -477,20 +478,64 @@ class FetcherAgent:
 
         print(f"\nTotal features across all datasets: {total_features}")
 
+def discover_wfs_layers(self, keywords=None):
+    """
+    Pull all available layers from BC WFS and return them
+    as a DataFrame in the same shape as relevant_datasets.csv
+    so they can be passed straight into run().
+    """
+    print("Discovering layers from BC WFS...")
+    layer_names = get_capabilities()
+    print(f"Found {len(layer_names)} available layers\n")
+
+    rows = []
+    for name in layer_names:
+        # Skip if already fetched
+        if self._already_fetched(name):
+            continue
+
+        # Optional keyword filter so you don't fetch everything blindly
+        if keywords:
+            name_lower = name.lower()
+            if not any(kw.lower() in name_lower for kw in keywords):
+                continue
+
+        rows.append({
+            "id": name,
+            "title": name,
+            "relevance_score": 1.0,   # bypass RF threshold for now
+            "has_wfs": True,
+            "wfs_url": "https://openmaps.gov.bc.ca/geo/pub/wfs",
+            "download_url": None
+        })
+
+    df = pd.DataFrame(rows)
+    print(f"Queuing {len(df)} layers for fetching\n")
+    return df
+
 
 if __name__ == "__main__":
-    # Load the relevant datasets from Step 3 output
-    try:
-        df_relevant = pd.read_csv(
-            "data/processed/relevant_datasets.csv"
-        )
-        print(f"Loaded {len(df_relevant)} relevant datasets\n")
-    except FileNotFoundError:
-        print("relevant_datasets.csv not found.")
-        print("Run pipeline/ingest.py first to generate it.")
-        exit(1)
-
     agent = FetcherAgent()
+
+    # --- Option A: use your existing classified CSV (geology only) ---
+    # try:
+    #     df_relevant = pd.read_csv("data/processed/relevant_datasets.csv")
+    # except FileNotFoundError:
+    #     print("relevant_datasets.csv not found.")
+    #     exit(1)
+
+    # --- Option B: discover directly from WFS (use this now) ---
+    df_relevant = agent.discover_wfs_layers(keywords=[
+        "water", "watershed", "aquifer",
+        "road", "land", "forest", "soil",
+        "mineral", "tenure", "wildlife",
+        "zoning", "administrative"
+    ])
+
+    if df_relevant.empty:
+        print("No new layers found to fetch.")
+        exit(0)
+
     results = agent.run(df_relevant, min_score=0.6)
 
     print("\nFetch complete. Summary:")
