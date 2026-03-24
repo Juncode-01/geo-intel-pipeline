@@ -146,6 +146,7 @@ class FetcherAgent:
                 "service": "WFS",
                 "version": "2.0.0",
                 "request": "GetFeature",
+                "typeName": dataset_id,
                 "outputFormat": fmt,
                 "count": MAX_WFS_FEATURES,
                 "bbox": bbox_str
