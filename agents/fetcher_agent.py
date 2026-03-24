@@ -478,40 +478,40 @@ class FetcherAgent:
 
         print(f"\nTotal features across all datasets: {total_features}")
 
-def discover_wfs_layers(self, keywords=None):
-    """
-    Pull all available layers from BC WFS and return them
-    as a DataFrame in the same shape as relevant_datasets.csv
-    so they can be passed straight into run().
-    """
-    print("Discovering layers from BC WFS...")
-    layer_names = get_capabilities()
-    print(f"Found {len(layer_names)} available layers\n")
-
-    rows = []
-    for name in layer_names:
-        # Skip if already fetched
-        if self._already_fetched(name):
-            continue
-
-        # Optional keyword filter so you don't fetch everything blindly
-        if keywords:
-            name_lower = name.lower()
-            if not any(kw.lower() in name_lower for kw in keywords):
+    def discover_wfs_layers(self, keywords=None):
+        """
+        Pull all available layers from BC WFS and return them
+        as a DataFrame in the same shape as relevant_datasets.csv
+        so they can be passed straight into run().
+        """
+        print("Discovering layers from BC WFS...")
+        layer_names = get_capabilities()
+        print(f"Found {len(layer_names)} available layers\n")
+    
+        rows = []
+        for name in layer_names:
+            # Skip if already fetched
+            if self._already_fetched(name):
                 continue
-
-        rows.append({
-            "id": name,
-            "title": name,
-            "relevance_score": 1.0,   # bypass RF threshold for now
-            "has_wfs": True,
-            "wfs_url": "https://openmaps.gov.bc.ca/geo/pub/wfs",
-            "download_url": None
-        })
-
-    df = pd.DataFrame(rows)
-    print(f"Queuing {len(df)} layers for fetching\n")
-    return df
+    
+            # Optional keyword filter so you don't fetch everything blindly
+            if keywords:
+                name_lower = name.lower()
+                if not any(kw.lower() in name_lower for kw in keywords):
+                    continue
+    
+            rows.append({
+                "id": name,
+                "title": name,
+                "relevance_score": 1.0,   # bypass RF threshold for now
+                "has_wfs": True,
+                "wfs_url": "https://openmaps.gov.bc.ca/geo/pub/wfs",
+                "download_url": None
+            })
+    
+        df = pd.DataFrame(rows)
+        print(f"Queuing {len(df)} layers for fetching\n")
+        return df
 
 
 if __name__ == "__main__":
