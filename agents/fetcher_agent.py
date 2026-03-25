@@ -131,11 +131,11 @@ class FetcherAgent:
     # ----------------------------------------------------------
 
     def _fetch_wfs(self, dataset_id, title, wfs_url):
-        clean_id = dataset_id.removeprefix("pub:")
         """
         Fetch features from a WFS endpoint clipped to bounding box.
         Tries multiple output formats until one works.
         """
+        clean_id = dataset_id.removeprefix("pub:")
         bbox_str = (
             f"{self.bbox[0]},{self.bbox[1]},"
             f"{self.bbox[2]},{self.bbox[3]},"
