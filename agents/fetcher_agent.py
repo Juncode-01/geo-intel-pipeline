@@ -131,6 +131,7 @@ class FetcherAgent:
     # ----------------------------------------------------------
 
     def _fetch_wfs(self, dataset_id, title, wfs_url):
+        clean_id = dataset_id.removeprefix("pub:")
         """
         Fetch features from a WFS endpoint clipped to bounding box.
         Tries multiple output formats until one works.
@@ -146,7 +147,7 @@ class FetcherAgent:
                 "service": "WFS",
                 "version": "2.0.0",
                 "request": "GetFeature",
-                "typeName": dataset_id,
+                "typeName": clean_id,
                 "outputFormat": fmt,
                 "count": MAX_WFS_FEATURES,
                 "bbox": bbox_str
@@ -528,9 +529,11 @@ if __name__ == "__main__":
     # --- Option B: discover directly from WFS (use this now) ---
     df_relevant = agent.discover_wfs_layers(keywords=[
         "water", "watershed", "aquifer",
-        "road", "land", "forest", "soil",
-        "mineral", "tenure", "wildlife",
-        "zoning", "administrative"
+        "road", "forest", "soil",
+        "wildlife", "fish", "marine",
+        "shoreline", "coastal", "riparian",
+        "zoning", "administrative", "park",
+        "terrain", "slope", "elevation"
     ])
 
     if df_relevant.empty:
