@@ -43,7 +43,7 @@ SEARCH_TERMS = [
 
 # Geographic focus area - Ucluelet BC bounding box
 # Format: [min_longitude, min_latitude, max_longitude, max_latitude]
-UCLUELET_BBOX = [-125.8, 48.8, -125.4, 49.0]
+UCLUELET_BBOX = [-125.9, 48.8, -125.4, 49.0]
 
 # Chanterelle relevant data types for classifier priority
 CHANTERELLE_RELEVANT_TAGS = [
