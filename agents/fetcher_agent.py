@@ -149,6 +149,7 @@ class FetcherAgent:
                 "request": "GetFeature",
                 "typeName": clean_id,
                 "outputFormat": fmt,
+                "srsName": "EPSG:4326",
                 "count": MAX_WFS_FEATURES,
                 "bbox": bbox_str
             }
