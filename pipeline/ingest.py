@@ -8,33 +8,13 @@ Runnable as a module:
     python -m pipeline.ingest
 """
 
-from __future__ import annotations
-
-from importlib.util import module_from_spec, spec_from_file_location
-import sys
-from pathlib import Path
-
 import pandas as pd
 
 from agents.classifier_agent import ClassifierAgent
 from agents.collector_agent import CollectorAgent
+from agents.converter_agent_impl import ConverterAgent
 from agents.fetcher_agent import FetcherAgent
 from config import WFS_DISCOVERY_KEYWORDS
-
-
-def _load_converter_agent_class():
-    """Load ConverterAgent from the current repo layout."""
-    repo_root = Path(__file__).resolve().parents[1]
-    converter_path = repo_root / "agents" / "converter_agent.py" / "converter.py"
-
-    spec = spec_from_file_location("converter_module", converter_path)
-    if spec is None or spec.loader is None:
-        raise RuntimeError(f"Unable to load converter module from {converter_path}")
-
-    module = module_from_spec(spec)
-    sys.modules[spec.name] = module
-    spec.loader.exec_module(module)
-    return module.ConverterAgent
 
 
 def run_ingestion(
@@ -111,8 +91,7 @@ def run_ingestion(
     if convert_data:
         print("\nSTEP 4: Converting fetched geodata to structured text...")
         print("-" * 40)
-        converter_cls = _load_converter_agent_class()
-        converter_cls().run()
+        ConverterAgent().run()
 
     print("\nIngestion pipeline complete.")
     return df_relevant
