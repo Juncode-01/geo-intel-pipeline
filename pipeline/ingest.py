@@ -1,24 +1,47 @@
 """
 Ingest Pipeline
 ---------------
-Orchestrates collection, classification, and fetching
+Orchestrates collection, classification, fetching, and conversion
 of BC Catalogue geospatial datasets for the Ucluelet area.
+
+Runnable as a module:
+    python -m pipeline.ingest
 """
 
+from __future__ import annotations
+
+from importlib.util import module_from_spec, spec_from_file_location
+from pathlib import Path
+
 import pandas as pd
-from agents.collector_agent import CollectorAgent
+
 from agents.classifier_agent import ClassifierAgent
+from agents.collector_agent import CollectorAgent
 from agents.fetcher_agent import FetcherAgent
 from config import WFS_DISCOVERY_KEYWORDS
+
+
+def _load_converter_agent_class():
+    """Load ConverterAgent from the current repo layout."""
+    repo_root = Path(__file__).resolve().parents[1]
+    converter_path = repo_root / "agents" / "converter_agent.py" / "converter.py"
+
+    spec = spec_from_file_location("converter_module", converter_path)
+    if spec is None or spec.loader is None:
+        raise RuntimeError(f"Unable to load converter module from {converter_path}")
+
+    module = module_from_spec(spec)
+    spec.loader.exec_module(module)
+    return module.ConverterAgent
 
 
 def run_ingestion(
     score_threshold=0.6,
     fetch_data=True,
+    convert_data=True,
     include_wfs_discovery=True,
-    wfs_keywords=None
+    wfs_keywords=None,
 ):
-
     print("=" * 60)
     print("BC GEOSPATIAL DATA INGESTION PIPELINE")
     print("=" * 60)
@@ -29,10 +52,8 @@ def run_ingestion(
     print("-" * 40)
     collector = CollectorAgent()
     df_collected = collector.run()
-    df_collected.to_csv(
-        "data/raw/collected_metadata.csv", index=False
-    )
-    print(f"Saved: data/raw/collected_metadata.csv\n")
+    df_collected.to_csv("data/raw/collected_metadata.csv", index=False)
+    print("Saved: data/raw/collected_metadata.csv\n")
 
     # --- Step 2: Classify ---
     print("STEP 2: Classifying for relevance...")
@@ -44,19 +65,13 @@ def run_ingestion(
         classifier.train()
 
     df_scored = classifier.predict(df_collected)
-    df_scored.to_csv(
-        "data/processed/all_scored.csv", index=False
-    )
+    df_scored.to_csv("data/processed/all_scored.csv", index=False)
 
-    df_relevant = df_scored[
-        df_scored["relevance_score"] >= score_threshold
-    ].copy()
-    df_relevant.to_csv(
-        "data/processed/relevant_datasets.csv", index=False
-    )
+    df_relevant = df_scored[df_scored["relevance_score"] >= score_threshold].copy()
+    df_relevant.to_csv("data/processed/relevant_datasets.csv", index=False)
 
     print(f"\nRelevant datasets: {len(df_relevant)}")
-    print(f"Top 5:")
+    print("Top 5:")
     for _, row in df_relevant.head(5).iterrows():
         print(f"  [{row['relevance_score']:.2f}] {row['title']}")
     print()
@@ -70,22 +85,15 @@ def run_ingestion(
         df_fetch_targets = df_relevant.copy()
 
         # Optionally merge in direct WFS discovery layers from BC OpenMaps.
-        # These rows are shaped to match relevant_datasets.csv and can be
-        # fetched by the same FetcherAgent.run() method.
         if include_wfs_discovery:
             keywords = wfs_keywords or WFS_DISCOVERY_KEYWORDS
             df_wfs = fetcher.discover_wfs_layers(keywords=keywords)
 
             if not df_wfs.empty:
-                df_fetch_targets = pd.concat(
-                    [df_fetch_targets, df_wfs],
-                    ignore_index=True
-                )
+                df_fetch_targets = pd.concat([df_fetch_targets, df_wfs], ignore_index=True)
                 # De-duplicate by id so the same layer is not fetched twice.
                 # Keep first row (catalogue-scored rows come first).
-                df_fetch_targets = df_fetch_targets.drop_duplicates(
-                    subset=["id"], keep="first"
-                ).reset_index(drop=True)
+                df_fetch_targets = df_fetch_targets.drop_duplicates(subset=["id"], keep="first").reset_index(drop=True)
 
                 print(
                     "Merged fetch targets: "
@@ -97,9 +105,21 @@ def run_ingestion(
         fetcher.run(df_fetch_targets, min_score=score_threshold)
         fetcher.get_fetch_summary()
 
+    # --- Step 4: Convert ---
+    if convert_data:
+        print("\nSTEP 4: Converting fetched geodata to structured text...")
+        print("-" * 40)
+        converter_cls = _load_converter_agent_class()
+        converter_cls().run()
+
     print("\nIngestion pipeline complete.")
     return df_relevant
 
 
 if __name__ == "__main__":
-    run_ingestion(score_threshold=0.6, fetch_data=True)
+    run_ingestion(
+        score_threshold=0.6,
+        fetch_data=True,
+        convert_data=True,
+        include_wfs_discovery=True,
+    )

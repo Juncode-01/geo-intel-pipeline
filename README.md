@@ -10,7 +10,7 @@ climate datasets.
 ## Pipeline Overview
 1. BC Data Catalogue API → dataset discovery
 2. Random Forest classifier → relevance filtering  
-3. Format converters → structured text/JSON
+3. ConverterAgent → markdown + JSONL geospatial narratives
 4. ChromaDB vector store → semantic retrieval
 5. Local LLM (Ollama) → prediction and map generation
 
@@ -23,6 +23,13 @@ pip install -r requirements.txt
 - [x] Manual dataset labelling (130 records)
 - [ ] Random Forest classifier
 - [ ] Data collection agent
-- [ ] Format converters
+- [x] Format converters
 - [ ] Vector database
 - [ ] Local LLM integration
+
+## Run Full Pipeline
+Run the end-to-end collection → classification → fetch → conversion flow with:
+
+```bash
+python -m pipeline.ingest
+```
