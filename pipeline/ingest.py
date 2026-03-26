@@ -9,9 +9,15 @@ import pandas as pd
 from agents.collector_agent import CollectorAgent
 from agents.classifier_agent import ClassifierAgent
 from agents.fetcher_agent import FetcherAgent
+from config import WFS_DISCOVERY_KEYWORDS
 
 
-def run_ingestion(score_threshold=0.6, fetch_data=True):
+def run_ingestion(
+    score_threshold=0.6,
+    fetch_data=True,
+    include_wfs_discovery=True,
+    wfs_keywords=None
+):
 
     print("=" * 60)
     print("BC GEOSPATIAL DATA INGESTION PIPELINE")
@@ -60,7 +66,35 @@ def run_ingestion(score_threshold=0.6, fetch_data=True):
         print("STEP 3: Fetching geographic data...")
         print("-" * 40)
         fetcher = FetcherAgent()
-        results = fetcher.run(df_relevant, min_score=score_threshold)
+
+        df_fetch_targets = df_relevant.copy()
+
+        # Optionally merge in direct WFS discovery layers from BC OpenMaps.
+        # These rows are shaped to match relevant_datasets.csv and can be
+        # fetched by the same FetcherAgent.run() method.
+        if include_wfs_discovery:
+            keywords = wfs_keywords or WFS_DISCOVERY_KEYWORDS
+            df_wfs = fetcher.discover_wfs_layers(keywords=keywords)
+
+            if not df_wfs.empty:
+                df_fetch_targets = pd.concat(
+                    [df_fetch_targets, df_wfs],
+                    ignore_index=True
+                )
+                # De-duplicate by id so the same layer is not fetched twice.
+                # Keep first row (catalogue-scored rows come first).
+                df_fetch_targets = df_fetch_targets.drop_duplicates(
+                    subset=["id"], keep="first"
+                ).reset_index(drop=True)
+
+                print(
+                    "Merged fetch targets: "
+                    f"{len(df_relevant)} classified + "
+                    f"{len(df_wfs)} WFS-discovered -> "
+                    f"{len(df_fetch_targets)} unique datasets\n"
+                )
+
+        fetcher.run(df_fetch_targets, min_score=score_threshold)
         fetcher.get_fetch_summary()
 
     print("\nIngestion pipeline complete.")

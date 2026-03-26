@@ -74,3 +74,15 @@ WFS_FORMAT_PREFERENCE = [
     "geojson",
     "GML3"
 ]
+
+# Keywords for optional BC OpenMaps WFS layer discovery.
+# These are merged with classifier-selected catalogue datasets
+# during fetch in pipeline.ingest.
+WFS_DISCOVERY_KEYWORDS = [
+    "water", "watershed", "aquifer",
+    "road", "forest", "soil",
+    "wildlife", "fish", "marine",
+    "shoreline", "coastal", "riparian",
+    "zoning", "administrative", "park",
+    "terrain", "slope", "elevation"
+]
