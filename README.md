@@ -33,3 +33,9 @@ Run the end-to-end collection → classification → fetch → conversion flow w
 ```bash
 python -m pipeline.ingest
 ```
+
+## Converted Output Locations
+When conversion runs, files are written under `data/processed/`:
+- `data/processed/text_records.jsonl` (feature-level narratives)
+- `data/processed/layer_summaries.jsonl` (layer-level summaries)
+- `data/processed/text_corpus/*.md` (one markdown narrative file per dataset)
