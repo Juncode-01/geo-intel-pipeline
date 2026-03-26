@@ -11,6 +11,7 @@ Runnable as a module:
 from __future__ import annotations
 
 from importlib.util import module_from_spec, spec_from_file_location
+import sys
 from pathlib import Path
 
 import pandas as pd
@@ -31,6 +32,7 @@ def _load_converter_agent_class():
         raise RuntimeError(f"Unable to load converter module from {converter_path}")
 
     module = module_from_spec(spec)
+    sys.modules[spec.name] = module
     spec.loader.exec_module(module)
     return module.ConverterAgent
 
