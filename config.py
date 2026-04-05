@@ -20,6 +20,7 @@ PROCESSED_DIR = f"{DATA_DIR}/processed"
 LABELS_DIR = f"{DATA_DIR}/labels"
 MODELS_DIR = "models"
 OUTPUTS_DIR = "outputs"
+FETCH_OUTPUT_DIR = f"{RAW_DIR}/fetched"
 
 # Classifier settings
 LABELLED_DATA_PATH = f"{LABELS_DIR}/bc_datasets_labelled.csv"
@@ -86,3 +87,12 @@ WFS_DISCOVERY_KEYWORDS = [
     "zoning", "administrative", "park",
     "terrain", "slope", "elevation"
 ]
+
+# ChromaDB vector database settings
+CHROMA_DB_DIR = "data/chromadb"
+CHROMA_COLLECTION_NAME = "ucluelet_geodata"
+
+# Text chunking settings
+CHUNK_SIZE = 1000        # characters per chunk
+CHUNK_OVERLAP = 200      # overlap between chunks
+MAX_CHUNKS_PER_DOC = 500 # safety cap for very large documents

@@ -10,6 +10,7 @@ from agents.collector_agent import CollectorAgent
 from agents.classifier_agent import ClassifierAgent
 from agents.fetcher_agent import FetcherAgent
 from agents.converter_agent import ConverterAgent
+from agents.vector_store_agent import VectorStoreAgent
 from config import WFS_DISCOVERY_KEYWORDS
 
 
@@ -98,13 +99,20 @@ def run_ingestion(
         fetcher.run(df_fetch_targets, min_score=score_threshold)
         fetcher.get_fetch_summary()
 
-    print("\nIngestion pipeline complete.")
-
     # --- Step 4: Convert fetched data to LLM-readable text ---
     print("STEP 4: Converting geographic data to text...")
     print("-" * 40)
     converter = ConverterAgent()
     converter.run()
+
+    # --- Step 5: Ingest text into ChromaDB vector store ---
+    print("STEP 5: Ingesting text documents into ChromaDB...")
+    print("-" * 40)
+    vector_store = VectorStoreAgent()
+    vector_store.ingest_all()
+    vector_store.get_stats()
+
+    print("\nIngestion pipeline complete.")
 
     return df_relevant
 
