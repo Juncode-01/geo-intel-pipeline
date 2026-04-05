@@ -1,0 +1,43 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_KELP_BEDS
+Dataset ID:     pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_KELP_BEDS
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  11
+Geometry Types: Polygon
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.566349 S=48.879314 E=-125.4 N=48.951658
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  kelp id: numeric | range 37574.00 to 37690.00 | mean 37596.27
+  ra: categorical | values: 0
+  ri: numeric | range 3.00 to 3.00 | mean 3.00
+  feature: categorical | values: KELP
+  biomass: numeric | range 0.00 to 0.00 | mean 0.00
+  source1: categorical | values: CH3671
+  project: categorical | values: WCVI
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 11
+  Polygon: 11 features
+Area distribution (hectares): min=0.1 median=4.5 max=13.1
+Approximate centre: 48.9261°N, -125.4805°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 11 features:
+
+Feature 0 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_KELP_BEDS', located at approximately 48.8810°N, -125.4017°W. kelp id: 37690 | ra: 0 | ri: 3 | feature: KELP | biomass: 0 | source1: CH3671 | project: WCVI
+Feature 1 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_KELP_BEDS', located at approximately 48.9354°N, -125.4578°W. kelp id: 37581 | ra: 0 | ri: 3 | feature: KELP | biomass: 0 | source1: CH3671 | project: WCVI
+Feature 2 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_KELP_BEDS', located at approximately 48.9425°N, -125.4424°W. kelp id: 37578 | ra: 0 | ri: 3 | feature: KELP | biomass: 0 | source1: CH3671 | project: WCVI
+Feature 3 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_KELP_BEDS', located at approximately 48.9490°N, -125.4370°W. kelp id: 37576 | ra: 0 | ri: 3 | feature: KELP | biomass: 0 | source1: CH3671 | project: WCVI
+Feature 4 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_KELP_BEDS', located at approximately 48.9500°N, -125.4261°W. kelp id: 37574 | ra: 0 | ri: 3 | feature: KELP | biomass: 0 | source1: CH3671 | project: WCVI
+Feature 5 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_KELP_BEDS', located at approximately 48.9186°N, -125.4803°W. kelp id: 37606 | ra: 0 | ri: 3 | feature: KELP | biomass: 0 | source1: CH3671 | project: WCVI
+Feature 6 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_KELP_BEDS', located at approximately 48.9186°N, -125.4797°W. kelp id: 37607 | ra: 0 | ri: 3 | biomass: 0
+Feature 7 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_KELP_BEDS', located at approximately 48.9224°N, -125.4741°W. kelp id: 37594 | ra: 0 | ri: 3 | feature: KELP | biomass: 0 | source1: CH3671 | project: WCVI
+Feature 8 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_KELP_BEDS', located at approximately 48.9263°N, -125.5476°W. kelp id: 37587 | ra: 0 | ri: 3 | feature: KELP | biomass: 0 | source1: CH3671 | project: WCVI
+Feature 9 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_KELP_BEDS', located at approximately 48.9286°N, -125.5470°W. kelp id: 37584 | ra: 0 | ri: 3 | feature: KELP | biomass: 0 | source1: CH3671 | project: WCVI
+Feature 10 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_KELP_BEDS', located at approximately 48.9339°N, -125.5605°W. kelp id: 37582 | ra: 0 | ri: 3 | feature: KELP | biomass: 0 | source1: CH3671 | project: WCVI
+
+=== ECOLOGICAL RELEVANCE ===
+This dataset may provide supporting spatial context for habitat analysis in the Ucluelet region.

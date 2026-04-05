@@ -1,0 +1,54 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_TERRESTRIAL_ECOLOGY.STE_SOIL_PROJ_BOUNDARIES_SVW
+Dataset ID:     pub:WHSE_TERRESTRIAL_ECOLOGY.STE_SOIL_PROJ_BOUNDARIES_SVW
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  3
+Geometry Types: MultiPolygon, Polygon
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.76984 S=48.832804 E=-125.4 N=49.0
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  business area project id: numeric | range 4540.00 to 6012.00 | mean 5518.00
+  project type: categorical | values: SOIL
+  project name: categorical | values: Soil Landscapes of Canada V2.2: BC, Soils of Southern Vancouver Island, Soils of the Tofino-Ucluelet Lowland
+  project map scale: numeric | range 50000.00 to 1000000.00 | mean 366666.67
+  modification date: categorical | values: 2012-03-20
+  geographic location name: categorical | values: BC, TOFINO, UCLUELET, VANCOUVER ISLAND
+  project completion date: categorical | values: 1971, 1985
+  surveyed dates: categorical | values: 1966, 1974/76
+  responsible organization name: categorical | values: Agriculture Canada, BC Ministry of Forests
+, Canada Department of Agriculture
+  soil mapper name: categorical | values: R.H. Spilsbury, W.G. Burch, l. Cotic, J. Senyk, and L. Lacelle.
+  gis supervisor name: categorical | values: D. Bush
+  image type: categorical | values: 2
+  project identification: categorical | values: C100K, ROnly, SLCv2
+  map legend description: categorical | values: The PDF of the report is available from this link:
+  map legend data download link: categorical | values: http://sis.agr.gc.ca/cansis/publications/manuals/1991-1868/slc-v1_report.pdf, http://www.env.gov.bc.ca/esd/distdata/ecosystems/Soils_Reports/bc11_report.pdf, http://www.env.gov.bc.ca/esd/distdata/ecosystems/Soils_Reports/bc44_report.pdf
+  reference 1 data description: categorical | values: Soil data in file geodatabase format can be downloaded from:
+  reference 1 data download link: categorical | values: http://www.env.gov.bc.ca/esd/distdata/ecosystems/Soil_Data/SOIL_DATA_FGDB/
+  reference 2 data description: categorical | values: The PDF of the report is available from this link:
+  reference 2 data download link: categorical | values: http://sis.agr.gc.ca/cansis/publications/manuals/1991-1868/slc-v1_report.pdf, http://www.env.gov.bc.ca/esd/distdata/ecosystems/Soils_Reports/bc11_report.pdf, http://www.env.gov.bc.ca/esd/distdata/ecosystems/Soils_Reports/bc44_report.pdf
+  reference 3 data description: categorical | values: To find scanned maps related to these soil projects, see:
+  reference 3 data download link: categorical | values: http://www.env.gov.bc.ca/tei/access_tei.html#ScannedMaps
+  boundary only flag: categorical | values: 1
+  feature code: categorical | values: FF28520000
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 3
+  MultiPolygon: 2 features
+  Polygon: 1 features
+Area distribution (hectares): min=1223.6 median=9968.5 max=25210.9
+Approximate centre: 48.9443°N, -125.5233°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 3 features:
+
+Feature 0 from 'pub:WHSE_TERRESTRIAL_ECOLOGY.STE_SOIL_PROJ_BOUNDARIES_SVW', located at approximately 48.9884°N, -125.5989°W. business area project id: 6012 | project type: SOIL | project name: Soils of the Tofino-Ucluelet Lowland | project map scale: 50000 | modification date: 2012-03-20 00:00:00 | geographic location name: TOFINO, UCLUELET | project completion date: 1971 | surveyed dates: 1966 | responsible organization name: Canada Department of Agriculture | soil mapper name: R.H. Spilsbury, W.G. Burch | image type: 2 | project identification: ROnly | map legend description: The PDF of the report is available from this link: | map legend data download link: http://www.env.gov.bc.ca/esd/distdata/ecosystems/Soils_Reports/bc11_report.pdf | reference 2 data description: The PDF of the report is available from this link: | reference 2 data download link: http://www.env.gov.bc.ca/esd/distdata/ecosystems/Soils_Reports/bc11_report.pdf | reference 3 data description: To find scanned maps related to these soil projects, see: | reference 3 data download link: http://www.env.gov.bc.ca/tei/access_tei.html#ScannedMaps | boundary only flag: 1 | feature code: FF28520000
+Feature 1 from 'pub:WHSE_TERRESTRIAL_ECOLOGY.STE_SOIL_PROJ_BOUNDARIES_SVW', located at approximately 48.9693°N, -125.5093°W. business area project id: 4540 | project type: SOIL | project name: Soils of Southern Vancouver Island | project map scale: 50000 | modification date: 2012-03-20 00:00:00 | geographic location name: VANCOUVER ISLAND | project completion date: 1985 | surveyed dates: 1974/76 | responsible organization name: BC Ministry of Forests
+ | soil mapper name: l. Cotic, J. Senyk, and L. Lacelle. | gis supervisor name: D. Bush | project identification: C100K | map legend description: The PDF of the report is available from this link: | map legend data download link: http://www.env.gov.bc.ca/esd/distdata/ecosystems/Soils_Reports/bc44_report.pdf | reference 1 data description: Soil data in file geodatabase format can be downloaded from: | reference 1 data download link: http://www.env.gov.bc.ca/esd/distdata/ecosystems/Soil_Data/SOIL_DATA_FGDB/ | reference 2 data description: The PDF of the report is available from this link: | reference 2 data download link: http://www.env.gov.bc.ca/esd/distdata/ecosystems/Soils_Reports/bc44_report.pdf | reference 3 data description: To find scanned maps related to these soil projects, see: | reference 3 data download link: http://www.env.gov.bc.ca/tei/access_tei.html#ScannedMaps | boundary only flag: 1 | feature code: FF28520000
+Feature 2 from 'pub:WHSE_TERRESTRIAL_ECOLOGY.STE_SOIL_PROJ_BOUNDARIES_SVW', located at approximately 48.9443°N, -125.5233°W. business area project id: 6002 | project type: SOIL | project name: Soil Landscapes of Canada V2.2: BC | project map scale: 1000000 | modification date: 2012-03-20 00:00:00 | geographic location name: BC | responsible organization name: Agriculture Canada | project identification: SLCv2 | map legend description: The PDF of the report is available from this link: | map legend data download link: http://sis.agr.gc.ca/cansis/publications/manuals/1991-1868/slc-v1_report.pdf | reference 1 data description: Soil data in file geodatabase format can be downloaded from: | reference 1 data download link: http://www.env.gov.bc.ca/esd/distdata/ecosystems/Soil_Data/SOIL_DATA_FGDB/ | reference 2 data description: The PDF of the report is available from this link: | reference 2 data download link: http://sis.agr.gc.ca/cansis/publications/manuals/1991-1868/slc-v1_report.pdf | reference 3 data description: To find scanned maps related to these soil projects, see: | reference 3 data download link: http://www.env.gov.bc.ca/tei/access_tei.html#ScannedMaps | boundary only flag: 1 | feature code: FF28520000
+
+=== ECOLOGICAL RELEVANCE ===
+Soil and terrain data directly informs fungal habitat suitability. Chanterelles favour well-drained but moisture-retaining soils, often sandy loam or organic mineral mixes under coniferous canopy.

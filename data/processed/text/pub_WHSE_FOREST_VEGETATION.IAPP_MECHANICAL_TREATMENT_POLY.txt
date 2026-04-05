@@ -1,0 +1,38 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_FOREST_VEGETATION.IAPP_MECHANICAL_TREATMENT_POLY
+Dataset ID:     pub:WHSE_FOREST_VEGETATION.IAPP_MECHANICAL_TREATMENT_POLY
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  1
+Geometry Types: Polygon
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.594925 S=48.995093 E=-125.594897 N=48.995111
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  treatment id: numeric | range 386014.00 to 386014.00 | mean 386014.00
+  site id: numeric | range 279559.00 to 279559.00 | mean 279559.00
+  feature area: numeric | range 0.00 to 0.00 | mean 0.00
+  feature code: categorical | values: 898
+  invasive plant: categorical | values: SENE JAC
+  treatment date: categorical | values: 2017-07-18
+  area treated: categorical | values: .0001
+  mechanical method: categorical | values: Digging
+  utm easting: categorical | values: 310192
+  utm northing: categorical | values: 5430156
+  utm zone: categorical | values: 10
+  app link: categorical | values: https://apps.nrs.gov.bc.ca/ext/iapp/initViewSite.do?siteId=279559&mechanicalTreatmentId=260032
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 1
+  Polygon: 1 features
+Area distribution (hectares): min=0.0 median=0.0 max=0.0
+Approximate centre: 48.9951°N, -125.5949°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 1 features:
+
+Feature 0 from 'pub:WHSE_FOREST_VEGETATION.IAPP_MECHANICAL_TREATMENT_POLY', located at approximately 48.9951°N, -125.5949°W. treatment id: 386014 | site id: 279559 | feature area: 0.00031217560003569814 | feature code: 898 | invasive plant: SENE JAC | treatment date: 2017-07-18 00:00:00 | area treated: .0001 | mechanical method: Digging | utm easting: 310192 | utm northing: 5430156 | utm zone: 10 | app link: https://apps.nrs.gov.bc.ca/ext/iapp/initViewSite.do?siteId=279559&mechanicalTreatmentId=260032
+
+=== ECOLOGICAL RELEVANCE ===
+Vegetation and forest cover data indicates tree species composition. Chanterelles form mycorrhizal associations primarily with conifers — especially Douglas-fir, Sitka spruce, western hemlock, and western red cedar, all common in the Ucluelet region.

@@ -1,0 +1,31 @@
+=== DATASET RECORD ===
+Title:          Geology Quaternary Alluvium and Cover
+Dataset ID:     geology-quaternary-alluvium-and-cover
+Source:         DOWNLOAD
+Fetched:        2026-03-22
+Feature Count:  1
+Geometry Types: Polygon
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.638163 S=48.916375 E=-125.4 N=49.0
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  label: categorical | values: Qal
+  area m2: numeric | range 220035986.00 to 220035986.00 | mean 220035986.00
+  perimeter: numeric | range 211198.00 to 211198.00 | mean 211198.00
+  edit date: categorical | values: 2018-04-05
+  pub org: categorical | values: British Columbia Geological Survey
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 1
+  Polygon: 1 features
+Area distribution (hectares): min=6381.5 median=6381.5 max=6381.5
+Approximate centre: 48.9625°N, -125.5076°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 1 features:
+
+Feature 0 from 'Geology Quaternary Alluvium and Cover', located at approximately 48.9625°N, -125.5076°W. label: Qal | area m2: 220035986.0 | perimeter: 211198.0 | edit date: 2018-04-05 00:00:00 | pub org: British Columbia Geological Survey
+
+=== ECOLOGICAL RELEVANCE ===
+Vegetation and forest cover data indicates tree species composition. Chanterelles form mycorrhizal associations primarily with conifers — especially Douglas-fir, Sitka spruce, western hemlock, and western red cedar, all common in the Ucluelet region.

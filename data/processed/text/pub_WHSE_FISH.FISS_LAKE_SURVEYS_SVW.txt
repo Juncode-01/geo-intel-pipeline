@@ -1,0 +1,42 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_FISH.FISS_LAKE_SURVEYS_SVW
+Dataset ID:     pub:WHSE_FISH.FISS_LAKE_SURVEYS_SVW
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  1
+Geometry Types: Polygon
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.429939 S=48.992874 E=-125.410815 N=49.0
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  lake survey id: numeric | range 6110.00 to 6110.00 | mean 6110.00
+  wbody id: numeric | range 318944.00 to 318944.00 | mean 318944.00
+  survey date: categorical | values: 1960-10-04
+  agency name: categorical | values: Fisheries Branch Inventory/Data Unit
+  source: categorical | values: BC Lakes Database: survey_id 5787
+  source ref: categorical | values: UNTITLED DATA SHEET & BATHYMETRIC MAP - MAGGIE LAKE
+  season: categorical | values: Summer
+  station: categorical | values: 1
+  secchi depth: numeric | range 4.80 to 4.80 | mean 4.80
+  oxygen profile indicator: categorical | values: N
+  water temperature indicator: categorical | values: Y
+  new watershed code: categorical | values: 930-233800-00000-00000-0000-0000-000-000-000-000-000-000
+  trimmed watershed code: categorical | values: 930-233800
+  waterbody identifier: categorical | values: 01778ALBN
+  waterbody type: categorical | values: Lake
+  gazetted name: categorical | values: MAGGIE LAKE
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 1
+  Polygon: 1 features
+Area distribution (hectares): min=62.0 median=62.0 max=62.0
+Approximate centre: 48.9971°N, -125.4195°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 1 features:
+
+Feature 0 from 'pub:WHSE_FISH.FISS_LAKE_SURVEYS_SVW', located at approximately 48.9971°N, -125.4195°W. lake survey id: 6110 | wbody id: 318944 | survey date: 1960-10-04 00:00:00 | agency name: Fisheries Branch Inventory/Data Unit | source: BC Lakes Database: survey_id 5787 | source ref: UNTITLED DATA SHEET & BATHYMETRIC MAP - MAGGIE LAKE | season: Summer | station: 1 | secchi depth: 4.8 | oxygen profile indicator: N | water temperature indicator: Y | new watershed code: 930-233800-00000-00000-0000-0000-000-000-000-000-000-000 | trimmed watershed code: 930-233800 | waterbody identifier: 01778ALBN | waterbody type: Lake | gazetted name: MAGGIE LAKE
+
+=== ECOLOGICAL RELEVANCE ===
+This dataset may provide supporting spatial context for habitat analysis in the Ucluelet region.

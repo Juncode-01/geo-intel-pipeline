@@ -1,0 +1,33 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_FOREST_VEGETATION.BEC_NATURAL_DISTURBANCE_SV
+Dataset ID:     pub:WHSE_FOREST_VEGETATION.BEC_NATURAL_DISTURBANCE_SV
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  4
+Geometry Types: Polygon, MultiPolygon
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.74431 S=48.801052 E=-125.4 N=49.0
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  feature class skey: numeric | range 435.00 to 435.00 | mean 435.00
+  natural disturbance type code: categorical | values: NDT1
+  natural disturbance type desc: categorical | values: Ecosystems with rare stand-initiating events
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 4
+  Polygon: 3 features
+  MultiPolygon: 1 features
+Area distribution (hectares): min=40.8 median=1586.8 max=25492.0
+Approximate centre: 48.9382°N, -125.5285°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 4 features:
+
+Feature 0 from 'pub:WHSE_FOREST_VEGETATION.BEC_NATURAL_DISTURBANCE_SV', located at approximately 48.9724°N, -125.4716°W. feature class skey: 435 | natural disturbance type code: NDT1 | natural disturbance type desc: Ecosystems with rare stand-initiating events
+Feature 1 from 'pub:WHSE_FOREST_VEGETATION.BEC_NATURAL_DISTURBANCE_SV', located at approximately 48.9904°N, -125.5044°W. feature class skey: 435 | natural disturbance type code: NDT1 | natural disturbance type desc: Ecosystems with rare stand-initiating events
+Feature 2 from 'pub:WHSE_FOREST_VEGETATION.BEC_NATURAL_DISTURBANCE_SV', located at approximately 48.9330°N, -125.5339°W. feature class skey: 435 | natural disturbance type code: NDT1 | natural disturbance type desc: Ecosystems with rare stand-initiating events
+Feature 3 from 'pub:WHSE_FOREST_VEGETATION.BEC_NATURAL_DISTURBANCE_SV', located at approximately 48.9792°N, -125.4854°W. feature class skey: 435 | natural disturbance type code: NDT1 | natural disturbance type desc: Ecosystems with rare stand-initiating events
+
+=== ECOLOGICAL RELEVANCE ===
+Vegetation and forest cover data indicates tree species composition. Chanterelles form mycorrhizal associations primarily with conifers — especially Douglas-fir, Sitka spruce, western hemlock, and western red cedar, all common in the Ucluelet region.

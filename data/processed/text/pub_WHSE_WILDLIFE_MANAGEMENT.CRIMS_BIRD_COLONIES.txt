@@ -1,0 +1,64 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_BIRD_COLONIES
+Dataset ID:     pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_BIRD_COLONIES
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  7
+Geometry Types: Point
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.666856 S=48.882231 E=-125.433591 N=48.992503
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  birdcol id: numeric | range 421.00 to 460.00 | mean 439.71
+  ri: numeric | range 0.00 to 0.00 | mean 0.00
+  ra spr: numeric | range 0.00 to 0.00 | mean 0.00
+  ra sum: numeric | range 0.00 to 0.00 | mean 0.00
+  ra win: numeric | range 0.00 to 0.00 | mean 0.00
+  ra fal: numeric | range 0.00 to 0.00 | mean 0.00
+  np anmu: numeric | range 0.00 to 0.00 | mean 0.00
+  np bloy: numeric | range 0.00 to 3.00 | mean 1.29
+  np brco: numeric | range 0.00 to 0.00 | mean 0.00
+  np caau: numeric | range 0.00 to 0.00 | mean 0.00
+  np comu: numeric | range 0.00 to 0.00 | mean 0.00
+  np dadu: numeric | range 0.00 to 0.00 | mean 0.00
+  np dcco: numeric | range 0.00 to 0.00 | mean 0.00
+  np didu: numeric | range 0.00 to 0.00 | mean 0.00
+  np ftsp: numeric | range 0.00 to 0.00 | mean 0.00
+  np fushp: numeric | range 0.00 to 0.00 | mean 0.00
+  np gbhe: numeric | range 0.00 to 0.00 | mean 0.00
+  np gesw: numeric | range 0.00 to 0.00 | mean 0.00
+  np gwgu: numeric | range 0.00 to 0.00 | mean 0.00
+  np hopu: numeric | range 0.00 to 0.00 | mean 0.00
+  np logr: numeric | range 0.00 to 0.00 | mean 0.00
+  np lspe: numeric | range 0.00 to 0.00 | mean 0.00
+  np peco: numeric | range 0.00 to 5.00 | mean 1.29
+  np pigu: numeric | range 0.00 to 0.00 | mean 0.00
+  np rhau: numeric | range 0.00 to 0.00 | mean 0.00
+  np shbd: numeric | range 0.00 to 0.00 | mean 0.00
+  np tupu: numeric | range 0.00 to 0.00 | mean 0.00
+  np petrel: numeric | range 0.00 to 0.00 | mean 0.00
+  np corm: numeric | range 0.00 to 0.00 | mean 0.00
+  np gull: numeric | range 0.00 to 2.00 | mean 1.00
+  np alcd: numeric | range 0.00 to 1.00 | mean 0.57
+  location: categorical | values: Alley Rock, Cormorant Rock, Fletcher's Beach, Florencia Islet, George Fraser Island, Great Bear Rock, Starlight Reef
+  project: categorical | values: WCVI
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 7
+  Point: 7 features
+Approximate centre: 48.9319°N, -125.5438°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 7 features:
+
+Feature 0 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_BIRD_COLONIES', located at approximately 48.8822°N, -125.4851°W. birdcol id: 460 | ri: 0 | ra spr: 0 | ra sum: 0 | ra win: 0 | ra fal: 0 | np anmu: 0 | np bloy: 3 | np brco: 0 | np caau: 0 | np comu: 0 | np dadu: 0 | np dcco: 0 | np didu: 0 | np ftsp: 0 | np fushp: 0 | np gbhe: 0 | np gesw: 0 | np gwgu: 0 | np hopu: 0 | np logr: 0 | np lspe: 0 | np peco: 5 | np pigu: 0 | np rhau: 0 | np shbd: 0 | np tupu: 0 | np petrel: 0 | np corm: 0 | np gull: 2 | np alcd: 1 | location: Starlight Reef | project: WCVI
+Feature 1 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_BIRD_COLONIES', located at approximately 48.8917°N, -125.4544°W. birdcol id: 457 | ri: 0 | ra spr: 0 | ra sum: 0 | ra win: 0 | ra fal: 0 | np anmu: 0 | np bloy: 2 | np brco: 0 | np caau: 0 | np comu: 0 | np dadu: 0 | np dcco: 0 | np didu: 0 | np ftsp: 0 | np fushp: 0 | np gbhe: 0 | np gesw: 0 | np gwgu: 0 | np hopu: 0 | np logr: 0 | np lspe: 0 | np peco: 0 | np pigu: 0 | np rhau: 0 | np shbd: 0 | np tupu: 0 | np petrel: 0 | np corm: 0 | np gull: 2 | np alcd: 1 | location: Great Bear Rock | project: WCVI
+Feature 2 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_BIRD_COLONIES', located at approximately 48.8980°N, -125.4336°W. birdcol id: 447 | ri: 0 | ra spr: 0 | ra sum: 0 | ra win: 0 | ra fal: 0 | np anmu: 0 | np bloy: 0 | np brco: 0 | np caau: 0 | np comu: 0 | np dadu: 0 | np dcco: 0 | np didu: 0 | np ftsp: 0 | np fushp: 0 | np gbhe: 0 | np gesw: 0 | np gwgu: 0 | np hopu: 0 | np logr: 0 | np lspe: 0 | np peco: 0 | np pigu: 0 | np rhau: 0 | np shbd: 0 | np tupu: 0 | np petrel: 0 | np corm: 0 | np gull: 1 | np alcd: 1 | location: Alley Rock | project: WCVI
+Feature 3 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_BIRD_COLONIES', located at approximately 48.9061°N, -125.5139°W. birdcol id: 445 | ri: 0 | ra spr: 0 | ra sum: 0 | ra win: 0 | ra fal: 0 | np anmu: 0 | np bloy: 0 | np brco: 0 | np caau: 0 | np comu: 0 | np dadu: 0 | np dcco: 0 | np didu: 0 | np ftsp: 0 | np fushp: 0 | np gbhe: 0 | np gesw: 0 | np gwgu: 0 | np hopu: 0 | np logr: 0 | np lspe: 0 | np peco: 0 | np pigu: 0 | np rhau: 0 | np shbd: 0 | np tupu: 0 | np petrel: 0 | np corm: 0 | np gull: 0 | np alcd: 0 | location: George Fraser Island | project: WCVI
+Feature 4 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_BIRD_COLONIES', located at approximately 48.9726°N, -125.6097°W. birdcol id: 425 | ri: 0 | ra spr: 0 | ra sum: 0 | ra win: 0 | ra fal: 0 | np anmu: 0 | np bloy: 0 | np brco: 0 | np caau: 0 | np comu: 0 | np dadu: 0 | np dcco: 0 | np didu: 0 | np ftsp: 0 | np fushp: 0 | np gbhe: 0 | np gesw: 0 | np gwgu: 0 | np hopu: 0 | np logr: 0 | np lspe: 0 | np peco: 1 | np pigu: 0 | np rhau: 0 | np shbd: 0 | np tupu: 0 | np petrel: 0 | np corm: 0 | np gull: 0 | np alcd: 0 | location: Fletcher's Beach | project: WCVI
+Feature 5 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_BIRD_COLONIES', located at approximately 48.9801°N, -125.6430°W. birdcol id: 423 | ri: 0 | ra spr: 0 | ra sum: 0 | ra win: 0 | ra fal: 0 | np anmu: 0 | np bloy: 3 | np brco: 0 | np caau: 0 | np comu: 0 | np dadu: 0 | np dcco: 0 | np didu: 0 | np ftsp: 0 | np fushp: 0 | np gbhe: 0 | np gesw: 0 | np gwgu: 0 | np hopu: 0 | np logr: 0 | np lspe: 0 | np peco: 3 | np pigu: 0 | np rhau: 0 | np shbd: 0 | np tupu: 0 | np petrel: 0 | np corm: 0 | np gull: 2 | np alcd: 1 | location: Florencia Islet | project: WCVI
+Feature 6 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_BIRD_COLONIES', located at approximately 48.9925°N, -125.6669°W. birdcol id: 421 | ri: 0 | ra spr: 0 | ra sum: 0 | ra win: 0 | ra fal: 0 | np anmu: 0 | np bloy: 1 | np brco: 0 | np caau: 0 | np comu: 0 | np dadu: 0 | np dcco: 0 | np didu: 0 | np ftsp: 0 | np fushp: 0 | np gbhe: 0 | np gesw: 0 | np gwgu: 0 | np hopu: 0 | np logr: 0 | np lspe: 0 | np peco: 0 | np pigu: 0 | np rhau: 0 | np shbd: 0 | np tupu: 0 | np petrel: 0 | np corm: 0 | np gull: 0 | np alcd: 0 | location: Cormorant Rock | project: WCVI
+
+=== ECOLOGICAL RELEVANCE ===
+This dataset may provide supporting spatial context for habitat analysis in the Ucluelet region.

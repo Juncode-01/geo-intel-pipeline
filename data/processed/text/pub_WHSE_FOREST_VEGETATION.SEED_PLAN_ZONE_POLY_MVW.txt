@@ -1,0 +1,40 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_FOREST_VEGETATION.SEED_PLAN_ZONE_POLY_MVW
+Dataset ID:     pub:WHSE_FOREST_VEGETATION.SEED_PLAN_ZONE_POLY_MVW
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  9
+Geometry Types: Polygon
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.9 S=48.8 E=-125.4 N=49.0
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  seed plan zone id: numeric | range 1268.00 to 2924.00 | mean 1475.89
+  feature class skey: numeric | range 2591.00 to 2591.00 | mean 2591.00
+  seed plan zone code: categorical | values: M
+  vegetation code: categorical | values: AX, BA, CW, FDC, HW, PW, SS, YC
+  genetic class code: categorical | values: A, B
+  area: numeric | range 15364644.39 to 27168031.58 | mean 23855905.33
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 9
+  Polygon: 9 features
+Area distribution (hectares): min=28728.7 median=81534.8 max=81534.8
+Approximate centre: 48.9000°N, -125.6500°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 9 features:
+
+Feature 0 from 'pub:WHSE_FOREST_VEGETATION.SEED_PLAN_ZONE_POLY_MVW', located at approximately 48.9000°N, -125.6500°W. seed plan zone id: 1284 | feature class skey: 2591 | seed plan zone code: M | vegetation code: FDC | genetic class code: A | area: 15364644.3911929
+Feature 1 from 'pub:WHSE_FOREST_VEGETATION.SEED_PLAN_ZONE_POLY_MVW', located at approximately 48.9000°N, -125.6500°W. seed plan zone id: 1315 | feature class skey: 2591 | seed plan zone code: M | vegetation code: PW | genetic class code: A | area: 15409827.2697305
+Feature 2 from 'pub:WHSE_FOREST_VEGETATION.SEED_PLAN_ZONE_POLY_MVW', located at approximately 48.9382°N, -125.5285°W. seed plan zone id: 2924 | feature class skey: 2591 | seed plan zone code: M | genetic class code: B | area: 20920486.8472271
+Feature 3 from 'pub:WHSE_FOREST_VEGETATION.SEED_PLAN_ZONE_POLY_MVW', located at approximately 48.9000°N, -125.6500°W. seed plan zone id: 1277 | feature class skey: 2591 | seed plan zone code: M | vegetation code: CW | genetic class code: A | area: 27168031.5759683
+Feature 4 from 'pub:WHSE_FOREST_VEGETATION.SEED_PLAN_ZONE_POLY_MVW', located at approximately 48.9000°N, -125.6500°W. seed plan zone id: 1330 | feature class skey: 2591 | seed plan zone code: M | vegetation code: YC | genetic class code: A | area: 27168031.5759683
+Feature 5 from 'pub:WHSE_FOREST_VEGETATION.SEED_PLAN_ZONE_POLY_MVW', located at approximately 48.9000°N, -125.6500°W. seed plan zone id: 1325 | feature class skey: 2591 | seed plan zone code: M | vegetation code: SS | genetic class code: A | area: 27168031.5759683
+Feature 6 from 'pub:WHSE_FOREST_VEGETATION.SEED_PLAN_ZONE_POLY_MVW', located at approximately 48.9000°N, -125.6500°W. seed plan zone id: 1269 | feature class skey: 2591 | seed plan zone code: M | vegetation code: BA | genetic class code: A | area: 27168031.5759683
+Feature 7 from 'pub:WHSE_FOREST_VEGETATION.SEED_PLAN_ZONE_POLY_MVW', located at approximately 48.9000°N, -125.6500°W. seed plan zone id: 1291 | feature class skey: 2591 | seed plan zone code: M | vegetation code: HW | genetic class code: A | area: 27168031.5759683
+Feature 8 from 'pub:WHSE_FOREST_VEGETATION.SEED_PLAN_ZONE_POLY_MVW', located at approximately 48.9000°N, -125.6500°W. seed plan zone id: 1268 | feature class skey: 2591 | seed plan zone code: M | vegetation code: AX | genetic class code: A | area: 27168031.5759683
+
+=== ECOLOGICAL RELEVANCE ===
+Vegetation and forest cover data indicates tree species composition. Chanterelles form mycorrhizal associations primarily with conifers — especially Douglas-fir, Sitka spruce, western hemlock, and western red cedar, all common in the Ucluelet region.

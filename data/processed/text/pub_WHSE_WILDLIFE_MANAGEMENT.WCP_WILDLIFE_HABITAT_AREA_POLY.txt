@@ -1,0 +1,39 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_WILDLIFE_MANAGEMENT.WCP_WILDLIFE_HABITAT_AREA_POLY
+Dataset ID:     pub:WHSE_WILDLIFE_MANAGEMENT.WCP_WILDLIFE_HABITAT_AREA_POLY
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  3
+Geometry Types: Polygon
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.599204 S=48.983633 E=-125.435088 N=49.0
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  habitat area id: numeric | range 1098215.00 to 1101541.00 | mean 1099433.67
+  tag: categorical | values: 1-210, 1-393, 1-494
+  approval date: categorical | values: 2008-01-21, 2010-05-18, 2018-01-08
+  notice date: categorical | values: 2008-01-24, 2010-05-27, 2018-01-25
+  feature notes: categorical | values: Wildlife Habitat Area for Species at Risk - core, Wildlife Habitat Core Area, Wood Lake
+  feature code: categorical | values: FF33515120
+  org organization id: numeric | range 1.00 to 1.00 | mean 1.00
+  common species name: categorical | values: Marbled Murrelet, Red-legged frog
+  legislation act name: categorical | values: FRPA; ERAA
+  timber harvest code: categorical | values: NO HARVEST ZONE
+  hectares: numeric | range 18.60 to 87.00 | mean 46.67
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 3
+  Polygon: 3 features
+Area distribution (hectares): min=7.1 median=34.4 max=87.0
+Approximate centre: 48.9915°N, -125.4893°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 3 features:
+
+Feature 0 from 'pub:WHSE_WILDLIFE_MANAGEMENT.WCP_WILDLIFE_HABITAT_AREA_POLY', located at approximately 48.9907°N, -125.4435°W. habitat area id: 1098215 | tag: 1-210 | approval date: 2008-01-21 00:00:00 | notice date: 2008-01-24 00:00:00 | feature notes: Wildlife Habitat Core Area | feature code: FF33515120 | org organization id: 1 | common species name: Marbled Murrelet | legislation act name: FRPA; ERAA | timber harvest code: NO HARVEST ZONE | hectares: 87.0
+Feature 1 from 'pub:WHSE_WILDLIFE_MANAGEMENT.WCP_WILDLIFE_HABITAT_AREA_POLY', located at approximately 48.9918°N, -125.5830°W. habitat area id: 1101541 | tag: 1-494 | approval date: 2018-01-08 00:00:00 | notice date: 2018-01-25 00:00:00 | feature notes: Wood Lake | feature code: FF33515120 | org organization id: 1 | common species name: Red-legged frog | legislation act name: FRPA; ERAA | timber harvest code: NO HARVEST ZONE | hectares: 34.4
+Feature 2 from 'pub:WHSE_WILDLIFE_MANAGEMENT.WCP_WILDLIFE_HABITAT_AREA_POLY', located at approximately 48.9991°N, -125.5969°W. habitat area id: 1098545 | tag: 1-393 | approval date: 2010-05-18 00:00:00 | notice date: 2010-05-27 00:00:00 | feature notes: Wildlife Habitat Area for Species at Risk - core | feature code: FF33515120 | org organization id: 1 | common species name: Red-legged frog | legislation act name: FRPA; ERAA | timber harvest code: NO HARVEST ZONE | hectares: 18.6
+
+=== ECOLOGICAL RELEVANCE ===
+This dataset may provide supporting spatial context for habitat analysis in the Ucluelet region.

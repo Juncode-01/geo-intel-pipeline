@@ -1,0 +1,38 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_FOREST_TENURE.FTEN_MAP_NOTATN_POLY_SVW
+Dataset ID:     pub:WHSE_FOREST_TENURE.FTEN_MAP_NOTATN_POLY_SVW
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  1
+Geometry Types: MultiPolygon
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.582954 S=48.99449 E=-125.572445 N=48.999772
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  forest file id: categorical | values: MN3279
+  description: categorical | values: EP0368 Ucluelet
+  retirement date: categorical | values: 2010-10-05
+  amendment id: numeric | range 1.00 to 1.00 | mean 1.00
+  map label: categorical | values: MN3279
+  feature area: numeric | range 143115.00 to 143115.00 | mean 143115.00
+  feature perimeter: numeric | range 2421.30 to 2421.30 | mean 2421.30
+  feature class skey: numeric | range 1750.00 to 1750.00 | mean 1750.00
+  file status code: categorical | values: AR
+  admin district code: categorical | values: DSI
+  admin district name: categorical | values: South Island Natural Resource District
+  life cycle status code: categorical | values: RETIRED
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 1
+  MultiPolygon: 1 features
+Area distribution (hectares): min=14.3 median=14.3 max=14.3
+Approximate centre: 48.9976°N, -125.5772°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 1 features:
+
+Feature 0 from 'pub:WHSE_FOREST_TENURE.FTEN_MAP_NOTATN_POLY_SVW', located at approximately 48.9976°N, -125.5772°W. forest file id: MN3279 | description: EP0368 Ucluelet | retirement date: 2010-10-05 00:00:00 | amendment id: 1 | map label: MN3279 | feature area: 143115 | feature perimeter: 2421.3 | feature class skey: 1750 | file status code: AR | admin district code: DSI | admin district name: South Island Natural Resource District | life cycle status code: RETIRED
+
+=== ECOLOGICAL RELEVANCE ===
+Vegetation and forest cover data indicates tree species composition. Chanterelles form mycorrhizal associations primarily with conifers — especially Douglas-fir, Sitka spruce, western hemlock, and western red cedar, all common in the Ucluelet region.

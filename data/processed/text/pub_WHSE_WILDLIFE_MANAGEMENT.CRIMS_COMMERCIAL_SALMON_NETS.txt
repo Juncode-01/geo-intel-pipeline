@@ -1,0 +1,45 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_COMMERCIAL_SALMON_NETS
+Dataset ID:     pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_COMMERCIAL_SALMON_NETS
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  1
+Geometry Types: Polygon
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.580058 S=48.913202 E=-125.440757 N=48.977043
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  csalmnet id: numeric | range 1651.00 to 1651.00 | mean 1651.00
+  ri: numeric | range 1.00 to 1.00 | mean 1.00
+  ri gillnet: numeric | range 0.00 to 0.00 | mean 0.00
+  ri seine: numeric | range 0.00 to 0.00 | mean 0.00
+  location: categorical | values: North Shore Barkley Sound
+  start season: categorical | values: OCT
+  close season: categorical | values: OCT
+  csalmnet start: numeric | range 0.00 to 0.00 | mean 0.00
+  csalmnet close: numeric | range 0.00 to 0.00 | mean 0.00
+  gear type: categorical | values: Gillnet & Seine
+  percent1: numeric | range 0.00 to 0.00 | mean 0.00
+  percent2: numeric | range 0.00 to 0.00 | mean 0.00
+  percent3: numeric | range 0.00 to 0.00 | mean 0.00
+  percent4: numeric | range 0.00 to 0.00 | mean 0.00
+  accuracy: numeric | range 0.00 to 0.00 | mean 0.00
+  obs method: numeric | range 0.00 to 0.00 | mean 0.00
+  compiler: categorical | values: L. Gordon, R. Stennes
+  compile date: categorical | values: 1993-09-12
+  project: categorical | values: WCVI
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 1
+  Polygon: 1 features
+Area distribution (hectares): min=590.1 median=590.1 max=590.1
+Approximate centre: 48.9369°N, -125.5057°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 1 features:
+
+Feature 0 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_COMMERCIAL_SALMON_NETS', located at approximately 48.9369°N, -125.5057°W. csalmnet id: 1651 | ri: 1 | ri gillnet: 0 | ri seine: 0 | location: North Shore Barkley Sound | start season: OCT | close season: OCT | csalmnet start: 0 | csalmnet close: 0 | gear type: Gillnet & Seine | percent1: 0 | percent2: 0 | percent3: 0 | percent4: 0 | accuracy: 0 | obs method: 0 | compiler: L. Gordon, R. Stennes | compile date: 1993-09-12 00:00:00 | project: WCVI
+
+=== ECOLOGICAL RELEVANCE ===
+This dataset may provide supporting spatial context for habitat analysis in the Ucluelet region.

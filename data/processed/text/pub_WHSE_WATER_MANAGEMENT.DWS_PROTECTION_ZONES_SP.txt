@@ -1,0 +1,42 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_WATER_MANAGEMENT.DWS_PROTECTION_ZONES_SP
+Dataset ID:     pub:WHSE_WATER_MANAGEMENT.DWS_PROTECTION_ZONES_SP
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  3
+Geometry Types: Polygon
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.591336 S=48.989317 E=-125.568554 N=49.0
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  source type: categorical | values: Groundwater
+  system name: categorical | values: Ucluelet
+  zone category: categorical | values: Zone 1, Zone 2, Zone 3
+  zone type: categorical | values: Analytical Equation
+  zone details: categorical | values: 3-month time of travel, 6-month time of travel, 9-month time of travel
+  well tag number: numeric | range 81674.00 to 81674.00 | mean 81674.00
+  health authority: categorical | values: Vancouver Island
+  regional district: categorical | values: Alberni-Clayoquot
+  report name: categorical | values: Well Protection Plan
+  report url: categorical | values: http://a100.gov.bc.ca/pub/acat/public/viewReport.do?reportId=16572
+  date delineated: categorical | values: 2002
+  protection zone id: categorical | values: RDAC_PZ_0001, RDAC_PZ_0002, RDAC_PZ_0003
+  area sqkm: numeric | range 0.24 to 0.66 | mean 0.45
+  data source: categorical | values: Existing BCGW Capture Zones dataset
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 3
+  Polygon: 3 features
+Area distribution (hectares): min=24.1 median=44.2 max=60.8
+Approximate centre: 48.9950°N, -125.5807°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 3 features:
+
+Feature 0 from 'pub:WHSE_WATER_MANAGEMENT.DWS_PROTECTION_ZONES_SP', located at approximately 48.9920°N, -125.5865°W. source type: Groundwater | system name: Ucluelet | zone category: Zone 1 | zone type: Analytical Equation | zone details: 3-month time of travel | well tag number: 81674 | health authority: Vancouver Island | regional district: Alberni-Clayoquot | report name: Well Protection Plan | report url: http://a100.gov.bc.ca/pub/acat/public/viewReport.do?reportId=16572 | date delineated: 2002 | protection zone id: RDAC_PZ_0001 | area sqkm: 0.241 | data source: Existing BCGW Capture Zones dataset
+Feature 1 from 'pub:WHSE_WATER_MANAGEMENT.DWS_PROTECTION_ZONES_SP', located at approximately 48.9936°N, -125.5833°W. source type: Groundwater | system name: Ucluelet | zone category: Zone 2 | zone type: Analytical Equation | zone details: 6-month time of travel | well tag number: 81674 | health authority: Vancouver Island | regional district: Alberni-Clayoquot | report name: Well Protection Plan | report url: http://a100.gov.bc.ca/pub/acat/public/viewReport.do?reportId=16572 | date delineated: 2002 | protection zone id: RDAC_PZ_0002 | area sqkm: 0.442 | data source: Existing BCGW Capture Zones dataset
+Feature 2 from 'pub:WHSE_WATER_MANAGEMENT.DWS_PROTECTION_ZONES_SP', located at approximately 48.9950°N, -125.5807°W. source type: Groundwater | system name: Ucluelet | zone category: Zone 3 | zone type: Analytical Equation | zone details: 9-month time of travel | well tag number: 81674 | health authority: Vancouver Island | regional district: Alberni-Clayoquot | report name: Well Protection Plan | report url: http://a100.gov.bc.ca/pub/acat/public/viewReport.do?reportId=16572 | date delineated: 2002 | protection zone id: RDAC_PZ_0003 | area sqkm: 0.662 | data source: Existing BCGW Capture Zones dataset
+
+=== ECOLOGICAL RELEVANCE ===
+Hydrological data indicates soil moisture patterns and drainage regimes. Chanterelles favour areas with consistent subsurface moisture but not waterlogged conditions — typically mid-slope positions near but not in riparian zones.

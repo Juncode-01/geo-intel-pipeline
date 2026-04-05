@@ -1,0 +1,36 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_WILDLIFE_MANAGEMENT.WAA_GUIDE_OUTFITTER_AREA_SVW
+Dataset ID:     pub:WHSE_WILDLIFE_MANAGEMENT.WAA_GUIDE_OUTFITTER_AREA_SVW
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  1
+Geometry Types: Polygon
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.9 S=48.8 E=-125.4 N=49.0
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  guiding certificate no: numeric | range 100682.00 to 100682.00 | mean 100682.00
+  feature code: categorical | values: AR84650000
+  guide full name: categorical | values: DELUCA, Darren
+  guide first name: categorical | values: Darren
+  guide last name: categorical | values: DELUCA
+  status: categorical | values: ACTIVE
+  territory: categorical | values: 100G107
+  certificate holder full name: categorical | values: VancouverIslandGuideOutfittersLtd
+  organization id: numeric | range 1.00 to 1.00 | mean 1.00
+  organization name: categorical | values: Vancouver Island
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 1
+  Polygon: 1 features
+Area distribution (hectares): min=80295.7 median=80295.7 max=80295.7
+Approximate centre: 48.9015°N, -125.6470°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 1 features:
+
+Feature 0 from 'pub:WHSE_WILDLIFE_MANAGEMENT.WAA_GUIDE_OUTFITTER_AREA_SVW', located at approximately 48.9015°N, -125.6470°W. guiding certificate no: 100682 | feature code: AR84650000 | guide full name: DELUCA, Darren | guide first name: Darren | guide last name: DELUCA | status: ACTIVE | territory: 100G107 | certificate holder full name: VancouverIslandGuideOutfittersLtd | organization id: 1 | organization name: Vancouver Island
+
+=== ECOLOGICAL RELEVANCE ===
+This dataset may provide supporting spatial context for habitat analysis in the Ucluelet region.

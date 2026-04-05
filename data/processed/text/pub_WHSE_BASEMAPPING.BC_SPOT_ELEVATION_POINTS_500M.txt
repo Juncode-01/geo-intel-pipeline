@@ -1,0 +1,60 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_BASEMAPPING.BC_SPOT_ELEVATION_POINTS_500M
+Dataset ID:     pub:WHSE_BASEMAPPING.BC_SPOT_ELEVATION_POINTS_500M
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  34
+Geometry Types: Point
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.579852 S=48.905875 E=-125.44615 N=48.993075
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  elevation: numeric | range 1.00 to 354.00 | mean 43.32
+  fcode: categorical | values: HA28700100
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 34
+  Point: 34 features
+Approximate centre: 48.9577°N, -125.5274°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 34 features:
+
+Feature 0 from 'pub:WHSE_BASEMAPPING.BC_SPOT_ELEVATION_POINTS_500M', located at approximately 48.9059°N, -125.4462°W. elevation: 1 | fcode: HA28700100
+Feature 1 from 'pub:WHSE_BASEMAPPING.BC_SPOT_ELEVATION_POINTS_500M', located at approximately 48.9200°N, -125.4996°W. elevation: 10 | fcode: HA28700100
+Feature 2 from 'pub:WHSE_BASEMAPPING.BC_SPOT_ELEVATION_POINTS_500M', located at approximately 48.9217°N, -125.4989°W. elevation: 4 | fcode: HA28700100
+Feature 3 from 'pub:WHSE_BASEMAPPING.BC_SPOT_ELEVATION_POINTS_500M', located at approximately 48.9329°N, -125.5290°W. elevation: 21 | fcode: HA28700100
+Feature 4 from 'pub:WHSE_BASEMAPPING.BC_SPOT_ELEVATION_POINTS_500M', located at approximately 48.9348°N, -125.5275°W. elevation: 21 | fcode: HA28700100
+Feature 5 from 'pub:WHSE_BASEMAPPING.BC_SPOT_ELEVATION_POINTS_500M', located at approximately 48.9352°N, -125.5279°W. elevation: 21 | fcode: HA28700100
+Feature 6 from 'pub:WHSE_BASEMAPPING.BC_SPOT_ELEVATION_POINTS_500M', located at approximately 48.9367°N, -125.5133°W. elevation: 4 | fcode: HA28700100
+Feature 7 from 'pub:WHSE_BASEMAPPING.BC_SPOT_ELEVATION_POINTS_500M', located at approximately 48.9370°N, -125.5118°W. elevation: 4 | fcode: HA28700100
+Feature 8 from 'pub:WHSE_BASEMAPPING.BC_SPOT_ELEVATION_POINTS_500M', located at approximately 48.9376°N, -125.5241°W. elevation: 20 | fcode: HA28700100
+Feature 9 from 'pub:WHSE_BASEMAPPING.BC_SPOT_ELEVATION_POINTS_500M', located at approximately 48.9406°N, -125.4945°W. elevation: 3 | fcode: HA28700100
+Feature 10 from 'pub:WHSE_BASEMAPPING.BC_SPOT_ELEVATION_POINTS_500M', located at approximately 48.9508°N, -125.5315°W. elevation: 21 | fcode: HA28700100
+Feature 11 from 'pub:WHSE_BASEMAPPING.BC_SPOT_ELEVATION_POINTS_500M', located at approximately 48.9516°N, -125.5475°W. elevation: 26 | fcode: HA28700100
+Feature 12 from 'pub:WHSE_BASEMAPPING.BC_SPOT_ELEVATION_POINTS_500M', located at approximately 48.9525°N, -125.5332°W. elevation: 26 | fcode: HA28700100
+Feature 13 from 'pub:WHSE_BASEMAPPING.BC_SPOT_ELEVATION_POINTS_500M', located at approximately 48.9542°N, -125.5349°W. elevation: 24 | fcode: HA28700100
+Feature 14 from 'pub:WHSE_BASEMAPPING.BC_SPOT_ELEVATION_POINTS_500M', located at approximately 48.9575°N, -125.5398°W. elevation: 19 | fcode: HA28700100
+Feature 15 from 'pub:WHSE_BASEMAPPING.BC_SPOT_ELEVATION_POINTS_500M', located at approximately 48.9580°N, -125.5605°W. elevation: 12 | fcode: HA28700100
+Feature 16 from 'pub:WHSE_BASEMAPPING.BC_SPOT_ELEVATION_POINTS_500M', located at approximately 48.9593°N, -125.5399°W. elevation: 2 | fcode: HA28700100
+Feature 17 from 'pub:WHSE_BASEMAPPING.BC_SPOT_ELEVATION_POINTS_500M', located at approximately 48.9593°N, -125.5399°W. elevation: 2 | fcode: HA28700100
+Feature 18 from 'pub:WHSE_BASEMAPPING.BC_SPOT_ELEVATION_POINTS_500M', located at approximately 48.9628°N, -125.5649°W. elevation: 4 | fcode: HA28700100
+Feature 19 from 'pub:WHSE_BASEMAPPING.BC_SPOT_ELEVATION_POINTS_500M', located at approximately 48.9629°N, -125.5649°W. elevation: 4 | fcode: HA28700100
+Feature 20 from 'pub:WHSE_BASEMAPPING.BC_SPOT_ELEVATION_POINTS_500M', located at approximately 48.9650°N, -125.4882°W. elevation: 70 | fcode: HA28700100
+Feature 21 from 'pub:WHSE_BASEMAPPING.BC_SPOT_ELEVATION_POINTS_500M', located at approximately 48.9652°N, -125.4907°W. elevation: 74 | fcode: HA28700100
+Feature 22 from 'pub:WHSE_BASEMAPPING.BC_SPOT_ELEVATION_POINTS_500M', located at approximately 48.9750°N, -125.4841°W. elevation: 1 | fcode: HA28700100
+Feature 23 from 'pub:WHSE_BASEMAPPING.BC_SPOT_ELEVATION_POINTS_500M', located at approximately 48.9755°N, -125.4843°W. elevation: 1 | fcode: HA28700100
+Feature 24 from 'pub:WHSE_BASEMAPPING.BC_SPOT_ELEVATION_POINTS_500M', located at approximately 48.9803°N, -125.5110°W. elevation: 354 | fcode: HA28700100
+Feature 25 from 'pub:WHSE_BASEMAPPING.BC_SPOT_ELEVATION_POINTS_500M', located at approximately 48.9805°N, -125.5096°W. elevation: 354 | fcode: HA28700100
+Feature 26 from 'pub:WHSE_BASEMAPPING.BC_SPOT_ELEVATION_POINTS_500M', located at approximately 48.9855°N, -125.4958°W. elevation: 173 | fcode: HA28700100
+Feature 27 from 'pub:WHSE_BASEMAPPING.BC_SPOT_ELEVATION_POINTS_500M', located at approximately 48.9653°N, -125.5307°W. elevation: 5 | fcode: HA28700100
+Feature 28 from 'pub:WHSE_BASEMAPPING.BC_SPOT_ELEVATION_POINTS_500M', located at approximately 48.9701°N, -125.5691°W. elevation: 47 | fcode: HA28700100
+Feature 29 from 'pub:WHSE_BASEMAPPING.BC_SPOT_ELEVATION_POINTS_500M', located at approximately 48.9792°N, -125.5799°W. elevation: 28 | fcode: HA28700100
+Feature 30 from 'pub:WHSE_BASEMAPPING.BC_SPOT_ELEVATION_POINTS_500M', located at approximately 48.9822°N, -125.5777°W. elevation: 30 | fcode: HA28700100
+Feature 31 from 'pub:WHSE_BASEMAPPING.BC_SPOT_ELEVATION_POINTS_500M', located at approximately 48.9841°N, -125.5792°W. elevation: 20 | fcode: HA28700100
+Feature 32 from 'pub:WHSE_BASEMAPPING.BC_SPOT_ELEVATION_POINTS_500M', located at approximately 48.9908°N, -125.5426°W. elevation: 31 | fcode: HA28700100
+Feature 33 from 'pub:WHSE_BASEMAPPING.BC_SPOT_ELEVATION_POINTS_500M', located at approximately 48.9931°N, -125.5717°W. elevation: 36 | fcode: HA28700100
+
+=== ECOLOGICAL RELEVANCE ===
+Terrain data informs aspect and slope, which affect microclimate. North and east facing slopes in the Pacific Northwest retain more moisture and are often more productive for chanterelles than exposed south-facing slopes.

@@ -1,0 +1,29 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_WATER_MANAGEMENT.SSL_SNOW_SURVEY_BASIN_AREA_SP
+Dataset ID:     pub:WHSE_WATER_MANAGEMENT.SSL_SNOW_SURVEY_BASIN_AREA_SP
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  1
+Geometry Types: Polygon
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.67842 S=48.917085 E=-125.4 N=49.0
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  basin id: categorical | values: 15
+  feature code: categorical | values: FA12420100
+  basin name: categorical | values: Vancouver Island
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 1
+  Polygon: 1 features
+Area distribution (hectares): min=11766.7 median=11766.7 max=11766.7
+Approximate centre: 48.9687°N, -125.5116°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 1 features:
+
+Feature 0 from 'pub:WHSE_WATER_MANAGEMENT.SSL_SNOW_SURVEY_BASIN_AREA_SP', located at approximately 48.9687°N, -125.5116°W. basin id: 15 | feature code: FA12420100 | basin name: Vancouver Island
+
+=== ECOLOGICAL RELEVANCE ===
+Hydrological data indicates soil moisture patterns and drainage regimes. Chanterelles favour areas with consistent subsurface moisture but not waterlogged conditions — typically mid-slope positions near but not in riparian zones.

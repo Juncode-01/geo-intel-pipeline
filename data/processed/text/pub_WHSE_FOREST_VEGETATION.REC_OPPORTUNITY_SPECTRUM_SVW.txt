@@ -1,0 +1,47 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_FOREST_VEGETATION.REC_OPPORTUNITY_SPECTRUM_SVW
+Dataset ID:     pub:WHSE_FOREST_VEGETATION.REC_OPPORTUNITY_SPECTRUM_SVW
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  8
+Geometry Types: Polygon, MultiPolygon
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.74431 S=48.801036 E=-125.4 N=49.0
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  ros polygon no: numeric | range 4.00 to 215.00 | mean 94.38
+  org unit no: numeric | range 1619.00 to 1619.00 | mean 1619.00
+  project name: categorical | values: Recreation Regen 2019
+  rru number: numeric | range 0.00 to 0.00 | mean 0.00
+  ros polygon id: numeric | range 18096.00 to 18307.00 | mean 18186.38
+  rec opp spectrum code: categorical | values: P, R, RM, RN, SPNM
+  update date: categorical | values: 2019-02-11
+  update userid: categorical | values: HR GISolutions Inc.
+  data capture standard: numeric | range 98.00 to 98.00 | mean 98.00
+  feature code: categorical | values: AL70001000
+  description: categorical | values: Primitive, Roaded Modified, Roaded Natural, Rural, Semi-primitive Non-Motorized
+  effective date: categorical | values: 2004-01-15
+  expiry date: categorical | values: 2004-01-15
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 8
+  Polygon: 6 features
+  MultiPolygon: 2 features
+Area distribution (hectares): min=235.6 median=1016.2 max=14814.9
+Approximate centre: 48.9382°N, -125.5285°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 8 features:
+
+Feature 0 from 'pub:WHSE_FOREST_VEGETATION.REC_OPPORTUNITY_SPECTRUM_SVW', located at approximately 48.8293°N, -125.4143°W. ros polygon no: 4 | org unit no: 1619 | project name: Recreation Regen 2019 | rru number: 0 | ros polygon id: 18096 | rec opp spectrum code: P | update date: 2019-02-11 00:00:00 | update userid: HR GISolutions Inc. | data capture standard: 98 | feature code: AL70001000 | description: Primitive | effective date: 2004-01-15 00:00:00 | expiry date: 2004-01-15 00:00:00
+Feature 1 from 'pub:WHSE_FOREST_VEGETATION.REC_OPPORTUNITY_SPECTRUM_SVW', located at approximately 48.9674°N, -125.5094°W. ros polygon no: 118 | org unit no: 1619 | project name: Recreation Regen 2019 | rru number: 0 | ros polygon id: 18210 | rec opp spectrum code: RM | update date: 2019-02-11 00:00:00 | update userid: HR GISolutions Inc. | data capture standard: 98 | feature code: AL70001000 | description: Roaded Modified | effective date: 2004-01-15 00:00:00 | expiry date: 2004-01-15 00:00:00
+Feature 2 from 'pub:WHSE_FOREST_VEGETATION.REC_OPPORTUNITY_SPECTRUM_SVW', located at approximately 48.9238°N, -125.5515°W. ros polygon no: 215 | org unit no: 1619 | project name: Recreation Regen 2019 | rru number: 0 | ros polygon id: 18307 | rec opp spectrum code: SPNM | update date: 2019-02-11 00:00:00 | update userid: HR GISolutions Inc. | data capture standard: 98 | feature code: AL70001000 | description: Semi-primitive Non-Motorized | effective date: 2004-01-15 00:00:00 | expiry date: 2004-01-15 00:00:00
+Feature 3 from 'pub:WHSE_FOREST_VEGETATION.REC_OPPORTUNITY_SPECTRUM_SVW', located at approximately 48.9460°N, -125.5637°W. ros polygon no: 29 | org unit no: 1619 | project name: Recreation Regen 2019 | rru number: 0 | ros polygon id: 18121 | rec opp spectrum code: R | update date: 2019-02-11 00:00:00 | update userid: HR GISolutions Inc. | data capture standard: 98 | feature code: AL70001000 | description: Rural | effective date: 2004-01-15 00:00:00 | expiry date: 2004-01-15 00:00:00
+Feature 4 from 'pub:WHSE_FOREST_VEGETATION.REC_OPPORTUNITY_SPECTRUM_SVW', located at approximately 48.9302°N, -125.4624°W. ros polygon no: 162 | org unit no: 1619 | project name: Recreation Regen 2019 | rru number: 0 | ros polygon id: 18254 | rec opp spectrum code: RN | update date: 2019-02-11 00:00:00 | update userid: HR GISolutions Inc. | data capture standard: 98 | feature code: AL70001000 | description: Roaded Natural | effective date: 2004-01-15 00:00:00 | expiry date: 2004-01-15 00:00:00
+Feature 5 from 'pub:WHSE_FOREST_VEGETATION.REC_OPPORTUNITY_SPECTRUM_SVW', located at approximately 48.9644°N, -125.5508°W. ros polygon no: 31 | org unit no: 1619 | project name: Recreation Regen 2019 | rru number: 0 | ros polygon id: 18123 | rec opp spectrum code: R | update date: 2019-02-11 00:00:00 | update userid: HR GISolutions Inc. | data capture standard: 98 | feature code: AL70001000 | description: Rural | effective date: 2004-01-15 00:00:00 | expiry date: 2004-01-15 00:00:00
+Feature 6 from 'pub:WHSE_FOREST_VEGETATION.REC_OPPORTUNITY_SPECTRUM_SVW', located at approximately 48.9893°N, -125.4066°W. ros polygon no: 32 | org unit no: 1619 | project name: Recreation Regen 2019 | rru number: 0 | ros polygon id: 18124 | rec opp spectrum code: R | update date: 2019-02-11 00:00:00 | update userid: HR GISolutions Inc. | data capture standard: 98 | feature code: AL70001000 | description: Rural | effective date: 2004-01-15 00:00:00 | expiry date: 2004-01-15 00:00:00
+Feature 7 from 'pub:WHSE_FOREST_VEGETATION.REC_OPPORTUNITY_SPECTRUM_SVW', located at approximately 48.9926°N, -125.4978°W. ros polygon no: 164 | org unit no: 1619 | project name: Recreation Regen 2019 | rru number: 0 | ros polygon id: 18256 | rec opp spectrum code: RN | update date: 2019-02-11 00:00:00 | update userid: HR GISolutions Inc. | data capture standard: 98 | feature code: AL70001000 | description: Roaded Natural | effective date: 2004-01-15 00:00:00 | expiry date: 2004-01-15 00:00:00
+
+=== ECOLOGICAL RELEVANCE ===
+Vegetation and forest cover data indicates tree species composition. Chanterelles form mycorrhizal associations primarily with conifers — especially Douglas-fir, Sitka spruce, western hemlock, and western red cedar, all common in the Ucluelet region.

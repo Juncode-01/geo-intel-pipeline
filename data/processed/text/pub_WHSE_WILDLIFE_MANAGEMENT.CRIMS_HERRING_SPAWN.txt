@@ -1,0 +1,146 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_HERRING_SPAWN
+Dataset ID:     pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_HERRING_SPAWN
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  23
+Geometry Types: LineString
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.590901 S=48.920927 E=-125.4 N=48.976207
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  herring id: numeric | range 4716.00 to 4779.00 | mean 4755.22
+  ri: numeric | range 1.00 to 5.00 | mean 2.35
+  location: categorical | values:  
+  consistency: categorical | values:  
+  magnitude: categorical | values: Large
+  cumulative area: numeric | range 0.00 to 0.00 | mean 0.00
+  spawn frequency: numeric | range 0.00 to 0.00 | mean 0.00
+  spawn index: numeric | range 0.00 to 0.00 | mean 0.00
+  beginning year: numeric | range 1937.00 to 1937.00 | mean 1937.00
+  ending year: numeric | range 1986.00 to 1986.00 | mean 1986.00
+  mean day: numeric | range 0.00 to 0.00 | mean 0.00
+  num eggs: numeric | range 0.00 to 0.00 | mean 0.00
+  undate: categorical | values: 03-11
+  wdate: categorical | values: 03-11
+  gill 15: categorical | values: 8/15
+  gill cat: numeric | range 3448.00 to 3448.00 | mean 3448.00
+  seine 15: categorical | values: 12/15
+  seine cat: numeric | range 6554.00 to 6554.00 | mean 6554.00
+  spawn 50: categorical | values:  
+  comments: categorical | values: SECTION 232 REPRESENTS THE MAIN HERRING SPAWNING AREA IN BARKLEY SOUND WITH A CONTINUOUS RECORD OF  764 SPAWN RECORDS BETWEEN 1937 AND 1986, MOSTLY OC
+  comments2: categorical | values: THERE ARE THREE MAIN SPAWNING AREAS IN THIS SECTION OF BARKLEY SOUND:
+(1) TOQUART BAY
+(2) MACOAH PASSAGE AND
+(3) UCLUELET INLET
+  source1: categorical | values:  
+  source2: categorical | values:  
+  compiler: categorical | values:  
+  map date: categorical | values:  
+  project: categorical | values: WCVI
+  section: numeric | range 232.00 to 232.00 | mean 232.00
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 23
+  LineString: 23 features
+Approximate centre: 48.9483°N, -125.4974°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 23 features:
+
+Feature 0 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_HERRING_SPAWN', located at approximately 48.9233°N, -125.4790°W. herring id: 4778 | ri: 1 | magnitude: Large | cumulative area: 0 | spawn frequency: 0 | spawn index: 0 | beginning year: 1937 | ending year: 1986 | mean day: 0 | num eggs: 0 | undate: 03-11 | wdate: 03-11 | gill 15: 8/15 | gill cat: 3448 | seine 15: 12/15 | seine cat: 6554 | comments: SECTION 232 REPRESENTS THE MAIN HERRING SPAWNING AREA IN BARKLEY SOUND WITH A CONTINUOUS RECORD OF  764 SPAWN RECORDS BETWEEN 1937 AND 1986, MOSTLY OC | comments2: THERE ARE THREE MAIN SPAWNING AREAS IN THIS SECTION OF BARKLEY SOUND:
+(1) TOQUART BAY
+(2) MACOAH PASSAGE AND
+(3) UCLUELET INLET | project: WCVI | section: 232
+Feature 1 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_HERRING_SPAWN', located at approximately 48.9228°N, -125.5030°W. herring id: 4779 | ri: 1 | magnitude: Large | cumulative area: 0 | spawn frequency: 0 | spawn index: 0 | beginning year: 1937 | ending year: 1986 | mean day: 0 | num eggs: 0 | undate: 03-11 | wdate: 03-11 | gill 15: 8/15 | gill cat: 3448 | seine 15: 12/15 | seine cat: 6554 | comments: SECTION 232 REPRESENTS THE MAIN HERRING SPAWNING AREA IN BARKLEY SOUND WITH A CONTINUOUS RECORD OF  764 SPAWN RECORDS BETWEEN 1937 AND 1986, MOSTLY OC | comments2: THERE ARE THREE MAIN SPAWNING AREAS IN THIS SECTION OF BARKLEY SOUND:
+(1) TOQUART BAY
+(2) MACOAH PASSAGE AND
+(3) UCLUELET INLET | project: WCVI | section: 232
+Feature 2 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_HERRING_SPAWN', located at approximately 48.9270°N, -125.5309°W. herring id: 4776 | ri: 1 | magnitude: Large | cumulative area: 0 | spawn frequency: 0 | spawn index: 0 | beginning year: 1937 | ending year: 1986 | mean day: 0 | num eggs: 0 | undate: 03-11 | wdate: 03-11 | gill 15: 8/15 | gill cat: 3448 | seine 15: 12/15 | seine cat: 6554 | comments: SECTION 232 REPRESENTS THE MAIN HERRING SPAWNING AREA IN BARKLEY SOUND WITH A CONTINUOUS RECORD OF  764 SPAWN RECORDS BETWEEN 1937 AND 1986, MOSTLY OC | comments2: THERE ARE THREE MAIN SPAWNING AREAS IN THIS SECTION OF BARKLEY SOUND:
+(1) TOQUART BAY
+(2) MACOAH PASSAGE AND
+(3) UCLUELET INLET | project: WCVI | section: 232
+Feature 3 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_HERRING_SPAWN', located at approximately 48.9302°N, -125.5318°W. herring id: 4772 | ri: 1 | magnitude: Large | cumulative area: 0 | spawn frequency: 0 | spawn index: 0 | beginning year: 1937 | ending year: 1986 | mean day: 0 | num eggs: 0 | undate: 03-11 | wdate: 03-11 | gill 15: 8/15 | gill cat: 3448 | seine 15: 12/15 | seine cat: 6554 | comments: SECTION 232 REPRESENTS THE MAIN HERRING SPAWNING AREA IN BARKLEY SOUND WITH A CONTINUOUS RECORD OF  764 SPAWN RECORDS BETWEEN 1937 AND 1986, MOSTLY OC | comments2: THERE ARE THREE MAIN SPAWNING AREAS IN THIS SECTION OF BARKLEY SOUND:
+(1) TOQUART BAY
+(2) MACOAH PASSAGE AND
+(3) UCLUELET INLET | project: WCVI | section: 232
+Feature 4 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_HERRING_SPAWN', located at approximately 48.9313°N, -125.5363°W. herring id: 4773 | ri: 3 | magnitude: Large | cumulative area: 0 | spawn frequency: 0 | spawn index: 0 | beginning year: 1937 | ending year: 1986 | mean day: 0 | num eggs: 0 | undate: 03-11 | wdate: 03-11 | gill 15: 8/15 | gill cat: 3448 | seine 15: 12/15 | seine cat: 6554 | comments: SECTION 232 REPRESENTS THE MAIN HERRING SPAWNING AREA IN BARKLEY SOUND WITH A CONTINUOUS RECORD OF  764 SPAWN RECORDS BETWEEN 1937 AND 1986, MOSTLY OC | comments2: THERE ARE THREE MAIN SPAWNING AREAS IN THIS SECTION OF BARKLEY SOUND:
+(1) TOQUART BAY
+(2) MACOAH PASSAGE AND
+(3) UCLUELET INLET | project: WCVI | section: 232
+Feature 5 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_HERRING_SPAWN', located at approximately 48.9327°N, -125.5309°W. herring id: 4770 | ri: 1 | magnitude: Large | cumulative area: 0 | spawn frequency: 0 | spawn index: 0 | beginning year: 1937 | ending year: 1986 | mean day: 0 | num eggs: 0 | undate: 03-11 | wdate: 03-11 | gill 15: 8/15 | gill cat: 3448 | seine 15: 12/15 | seine cat: 6554 | comments: SECTION 232 REPRESENTS THE MAIN HERRING SPAWNING AREA IN BARKLEY SOUND WITH A CONTINUOUS RECORD OF  764 SPAWN RECORDS BETWEEN 1937 AND 1986, MOSTLY OC | comments2: THERE ARE THREE MAIN SPAWNING AREAS IN THIS SECTION OF BARKLEY SOUND:
+(1) TOQUART BAY
+(2) MACOAH PASSAGE AND
+(3) UCLUELET INLET | project: WCVI | section: 232
+Feature 6 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_HERRING_SPAWN', located at approximately 48.9575°N, -125.5711°W. herring id: 4752 | ri: 1 | magnitude: Large | cumulative area: 0 | spawn frequency: 0 | spawn index: 0 | beginning year: 1937 | ending year: 1986 | mean day: 0 | num eggs: 0 | undate: 03-11 | wdate: 03-11 | gill 15: 8/15 | gill cat: 3448 | seine 15: 12/15 | seine cat: 6554 | comments: SECTION 232 REPRESENTS THE MAIN HERRING SPAWNING AREA IN BARKLEY SOUND WITH A CONTINUOUS RECORD OF  764 SPAWN RECORDS BETWEEN 1937 AND 1986, MOSTLY OC | comments2: THERE ARE THREE MAIN SPAWNING AREAS IN THIS SECTION OF BARKLEY SOUND:
+(1) TOQUART BAY
+(2) MACOAH PASSAGE AND
+(3) UCLUELET INLET | project: WCVI | section: 232
+Feature 7 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_HERRING_SPAWN', located at approximately 48.9586°N, -125.5571°W. herring id: 4749 | ri: 1 | magnitude: Large | cumulative area: 0 | spawn frequency: 0 | spawn index: 0 | beginning year: 1937 | ending year: 1986 | mean day: 0 | num eggs: 0 | undate: 03-11 | wdate: 03-11 | gill 15: 8/15 | gill cat: 3448 | seine 15: 12/15 | seine cat: 6554 | comments: SECTION 232 REPRESENTS THE MAIN HERRING SPAWNING AREA IN BARKLEY SOUND WITH A CONTINUOUS RECORD OF  764 SPAWN RECORDS BETWEEN 1937 AND 1986, MOSTLY OC | comments2: THERE ARE THREE MAIN SPAWNING AREAS IN THIS SECTION OF BARKLEY SOUND:
+(1) TOQUART BAY
+(2) MACOAH PASSAGE AND
+(3) UCLUELET INLET | project: WCVI | section: 232
+Feature 8 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_HERRING_SPAWN', located at approximately 48.9619°N, -125.5830°W. herring id: 4741 | ri: 4 | magnitude: Large | cumulative area: 0 | spawn frequency: 0 | spawn index: 0 | beginning year: 1937 | ending year: 1986 | mean day: 0 | num eggs: 0 | undate: 03-11 | wdate: 03-11 | gill 15: 8/15 | gill cat: 3448 | seine 15: 12/15 | seine cat: 6554 | comments: SECTION 232 REPRESENTS THE MAIN HERRING SPAWNING AREA IN BARKLEY SOUND WITH A CONTINUOUS RECORD OF  764 SPAWN RECORDS BETWEEN 1937 AND 1986, MOSTLY OC | comments2: THERE ARE THREE MAIN SPAWNING AREAS IN THIS SECTION OF BARKLEY SOUND:
+(1) TOQUART BAY
+(2) MACOAH PASSAGE AND
+(3) UCLUELET INLET | project: WCVI | section: 232
+Feature 9 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_HERRING_SPAWN', located at approximately 48.9648°N, -125.5633°W. herring id: 4739 | ri: 1 | magnitude: Large | cumulative area: 0 | spawn frequency: 0 | spawn index: 0 | beginning year: 1937 | ending year: 1986 | mean day: 0 | num eggs: 0 | undate: 03-11 | wdate: 03-11 | gill 15: 8/15 | gill cat: 3448 | seine 15: 12/15 | seine cat: 6554 | comments: SECTION 232 REPRESENTS THE MAIN HERRING SPAWNING AREA IN BARKLEY SOUND WITH A CONTINUOUS RECORD OF  764 SPAWN RECORDS BETWEEN 1937 AND 1986, MOSTLY OC | comments2: THERE ARE THREE MAIN SPAWNING AREAS IN THIS SECTION OF BARKLEY SOUND:
+(1) TOQUART BAY
+(2) MACOAH PASSAGE AND
+(3) UCLUELET INLET | project: WCVI | section: 232
+Feature 10 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_HERRING_SPAWN', located at approximately 48.9276°N, -125.4706°W. herring id: 4777 | ri: 1 | magnitude: Large | cumulative area: 0 | spawn frequency: 0 | spawn index: 0 | beginning year: 1937 | ending year: 1986 | mean day: 0 | num eggs: 0 | undate: 03-11 | wdate: 03-11 | gill 15: 8/15 | gill cat: 3448 | seine 15: 12/15 | seine cat: 6554 | comments: SECTION 232 REPRESENTS THE MAIN HERRING SPAWNING AREA IN BARKLEY SOUND WITH A CONTINUOUS RECORD OF  764 SPAWN RECORDS BETWEEN 1937 AND 1986, MOSTLY OC | comments2: THERE ARE THREE MAIN SPAWNING AREAS IN THIS SECTION OF BARKLEY SOUND:
+(1) TOQUART BAY
+(2) MACOAH PASSAGE AND
+(3) UCLUELET INLET | project: WCVI | section: 232
+Feature 11 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_HERRING_SPAWN', located at approximately 48.9351°N, -125.4638°W. herring id: 4768 | ri: 2 | magnitude: Large | cumulative area: 0 | spawn frequency: 0 | spawn index: 0 | beginning year: 1937 | ending year: 1986 | mean day: 0 | num eggs: 0 | undate: 03-11 | wdate: 03-11 | gill 15: 8/15 | gill cat: 3448 | seine 15: 12/15 | seine cat: 6554 | comments: SECTION 232 REPRESENTS THE MAIN HERRING SPAWNING AREA IN BARKLEY SOUND WITH A CONTINUOUS RECORD OF  764 SPAWN RECORDS BETWEEN 1937 AND 1986, MOSTLY OC | comments2: THERE ARE THREE MAIN SPAWNING AREAS IN THIS SECTION OF BARKLEY SOUND:
+(1) TOQUART BAY
+(2) MACOAH PASSAGE AND
+(3) UCLUELET INLET | project: WCVI | section: 232
+Feature 12 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_HERRING_SPAWN', located at approximately 48.9421°N, -125.4562°W. herring id: 4765 | ri: 3 | magnitude: Large | cumulative area: 0 | spawn frequency: 0 | spawn index: 0 | beginning year: 1937 | ending year: 1986 | mean day: 0 | num eggs: 0 | undate: 03-11 | wdate: 03-11 | gill 15: 8/15 | gill cat: 3448 | seine 15: 12/15 | seine cat: 6554 | comments: SECTION 232 REPRESENTS THE MAIN HERRING SPAWNING AREA IN BARKLEY SOUND WITH A CONTINUOUS RECORD OF  764 SPAWN RECORDS BETWEEN 1937 AND 1986, MOSTLY OC | comments2: THERE ARE THREE MAIN SPAWNING AREAS IN THIS SECTION OF BARKLEY SOUND:
+(1) TOQUART BAY
+(2) MACOAH PASSAGE AND
+(3) UCLUELET INLET | project: WCVI | section: 232
+Feature 13 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_HERRING_SPAWN', located at approximately 48.9459°N, -125.4462°W. herring id: 4764 | ri: 3 | magnitude: Large | cumulative area: 0 | spawn frequency: 0 | spawn index: 0 | beginning year: 1937 | ending year: 1986 | mean day: 0 | num eggs: 0 | undate: 03-11 | wdate: 03-11 | gill 15: 8/15 | gill cat: 3448 | seine 15: 12/15 | seine cat: 6554 | comments: SECTION 232 REPRESENTS THE MAIN HERRING SPAWNING AREA IN BARKLEY SOUND WITH A CONTINUOUS RECORD OF  764 SPAWN RECORDS BETWEEN 1937 AND 1986, MOSTLY OC | comments2: THERE ARE THREE MAIN SPAWNING AREAS IN THIS SECTION OF BARKLEY SOUND:
+(1) TOQUART BAY
+(2) MACOAH PASSAGE AND
+(3) UCLUELET INLET | project: WCVI | section: 232
+Feature 14 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_HERRING_SPAWN', located at approximately 48.9506°N, -125.4124°W. herring id: 4762 | ri: 4 | magnitude: Large | cumulative area: 0 | spawn frequency: 0 | spawn index: 0 | beginning year: 1937 | ending year: 1986 | mean day: 0 | num eggs: 0 | undate: 03-11 | wdate: 03-11 | gill 15: 8/15 | gill cat: 3448 | seine 15: 12/15 | seine cat: 6554 | comments: SECTION 232 REPRESENTS THE MAIN HERRING SPAWNING AREA IN BARKLEY SOUND WITH A CONTINUOUS RECORD OF  764 SPAWN RECORDS BETWEEN 1937 AND 1986, MOSTLY OC | comments2: THERE ARE THREE MAIN SPAWNING AREAS IN THIS SECTION OF BARKLEY SOUND:
+(1) TOQUART BAY
+(2) MACOAH PASSAGE AND
+(3) UCLUELET INLET | project: WCVI | section: 232
+Feature 15 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_HERRING_SPAWN', located at approximately 48.9526°N, -125.4078°W. herring id: 4760 | ri: 1 | magnitude: Large | cumulative area: 0 | spawn frequency: 0 | spawn index: 0 | beginning year: 1937 | ending year: 1986 | mean day: 0 | num eggs: 0 | undate: 03-11 | wdate: 03-11 | gill 15: 8/15 | gill cat: 3448 | seine 15: 12/15 | seine cat: 6554 | comments: SECTION 232 REPRESENTS THE MAIN HERRING SPAWNING AREA IN BARKLEY SOUND WITH A CONTINUOUS RECORD OF  764 SPAWN RECORDS BETWEEN 1937 AND 1986, MOSTLY OC | comments2: THERE ARE THREE MAIN SPAWNING AREAS IN THIS SECTION OF BARKLEY SOUND:
+(1) TOQUART BAY
+(2) MACOAH PASSAGE AND
+(3) UCLUELET INLET | project: WCVI | section: 232
+Feature 16 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_HERRING_SPAWN', located at approximately 48.9535°N, -125.4393°W. herring id: 4758 | ri: 4 | magnitude: Large | cumulative area: 0 | spawn frequency: 0 | spawn index: 0 | beginning year: 1937 | ending year: 1986 | mean day: 0 | num eggs: 0 | undate: 03-11 | wdate: 03-11 | gill 15: 8/15 | gill cat: 3448 | seine 15: 12/15 | seine cat: 6554 | comments: SECTION 232 REPRESENTS THE MAIN HERRING SPAWNING AREA IN BARKLEY SOUND WITH A CONTINUOUS RECORD OF  764 SPAWN RECORDS BETWEEN 1937 AND 1986, MOSTLY OC | comments2: THERE ARE THREE MAIN SPAWNING AREAS IN THIS SECTION OF BARKLEY SOUND:
+(1) TOQUART BAY
+(2) MACOAH PASSAGE AND
+(3) UCLUELET INLET | project: WCVI | section: 232
+Feature 17 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_HERRING_SPAWN', located at approximately 48.9603°N, -125.4295°W. herring id: 4747 | ri: 4 | magnitude: Large | cumulative area: 0 | spawn frequency: 0 | spawn index: 0 | beginning year: 1937 | ending year: 1986 | mean day: 0 | num eggs: 0 | undate: 03-11 | wdate: 03-11 | gill 15: 8/15 | gill cat: 3448 | seine 15: 12/15 | seine cat: 6554 | comments: SECTION 232 REPRESENTS THE MAIN HERRING SPAWNING AREA IN BARKLEY SOUND WITH A CONTINUOUS RECORD OF  764 SPAWN RECORDS BETWEEN 1937 AND 1986, MOSTLY OC | comments2: THERE ARE THREE MAIN SPAWNING AREAS IN THIS SECTION OF BARKLEY SOUND:
+(1) TOQUART BAY
+(2) MACOAH PASSAGE AND
+(3) UCLUELET INLET | project: WCVI | section: 232
+Feature 18 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_HERRING_SPAWN', located at approximately 48.9656°N, -125.4176°W. herring id: 4734 | ri: 5 | magnitude: Large | cumulative area: 0 | spawn frequency: 0 | spawn index: 0 | beginning year: 1937 | ending year: 1986 | mean day: 0 | num eggs: 0 | undate: 03-11 | wdate: 03-11 | gill 15: 8/15 | gill cat: 3448 | seine 15: 12/15 | seine cat: 6554 | comments: SECTION 232 REPRESENTS THE MAIN HERRING SPAWNING AREA IN BARKLEY SOUND WITH A CONTINUOUS RECORD OF  764 SPAWN RECORDS BETWEEN 1937 AND 1986, MOSTLY OC | comments2: THERE ARE THREE MAIN SPAWNING AREAS IN THIS SECTION OF BARKLEY SOUND:
+(1) TOQUART BAY
+(2) MACOAH PASSAGE AND
+(3) UCLUELET INLET | project: WCVI | section: 232
+Feature 19 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_HERRING_SPAWN', located at approximately 48.9712°N, -125.4057°W. herring id: 4727 | ri: 5 | magnitude: Large | cumulative area: 0 | spawn frequency: 0 | spawn index: 0 | beginning year: 1937 | ending year: 1986 | mean day: 0 | num eggs: 0 | undate: 03-11 | wdate: 03-11 | gill 15: 8/15 | gill cat: 3448 | seine 15: 12/15 | seine cat: 6554 | comments: SECTION 232 REPRESENTS THE MAIN HERRING SPAWNING AREA IN BARKLEY SOUND WITH A CONTINUOUS RECORD OF  764 SPAWN RECORDS BETWEEN 1937 AND 1986, MOSTLY OC | comments2: THERE ARE THREE MAIN SPAWNING AREAS IN THIS SECTION OF BARKLEY SOUND:
+(1) TOQUART BAY
+(2) MACOAH PASSAGE AND
+(3) UCLUELET INLET | project: WCVI | section: 232
+Feature 20 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_HERRING_SPAWN', located at approximately 48.9663°N, -125.5887°W. herring id: 4738 | ri: 1 | magnitude: Large | cumulative area: 0 | spawn frequency: 0 | spawn index: 0 | beginning year: 1937 | ending year: 1986 | mean day: 0 | num eggs: 0 | undate: 03-11 | wdate: 03-11 | gill 15: 8/15 | gill cat: 3448 | seine 15: 12/15 | seine cat: 6554 | comments: SECTION 232 REPRESENTS THE MAIN HERRING SPAWNING AREA IN BARKLEY SOUND WITH A CONTINUOUS RECORD OF  764 SPAWN RECORDS BETWEEN 1937 AND 1986, MOSTLY OC | comments2: THERE ARE THREE MAIN SPAWNING AREAS IN THIS SECTION OF BARKLEY SOUND:
+(1) TOQUART BAY
+(2) MACOAH PASSAGE AND
+(3) UCLUELET INLET | project: WCVI | section: 232
+Feature 21 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_HERRING_SPAWN', located at approximately 48.9738°N, -125.5847°W. herring id: 4725 | ri: 1 | magnitude: Large | cumulative area: 0 | spawn frequency: 0 | spawn index: 0 | beginning year: 1937 | ending year: 1986 | mean day: 0 | num eggs: 0 | undate: 03-11 | wdate: 03-11 | gill 15: 8/15 | gill cat: 3448 | seine 15: 12/15 | seine cat: 6554 | comments: SECTION 232 REPRESENTS THE MAIN HERRING SPAWNING AREA IN BARKLEY SOUND WITH A CONTINUOUS RECORD OF  764 SPAWN RECORDS BETWEEN 1937 AND 1986, MOSTLY OC | comments2: THERE ARE THREE MAIN SPAWNING AREAS IN THIS SECTION OF BARKLEY SOUND:
+(1) TOQUART BAY
+(2) MACOAH PASSAGE AND
+(3) UCLUELET INLET | project: WCVI | section: 232
+Feature 22 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_HERRING_SPAWN', located at approximately 48.9744°N, -125.4003°W. herring id: 4716 | ri: 5 | magnitude: Large | cumulative area: 0 | spawn frequency: 0 | spawn index: 0 | beginning year: 1937 | ending year: 1986 | mean day: 0 | num eggs: 0 | undate: 03-11 | wdate: 03-11 | gill 15: 8/15 | gill cat: 3448 | seine 15: 12/15 | seine cat: 6554 | comments: SECTION 232 REPRESENTS THE MAIN HERRING SPAWNING AREA IN BARKLEY SOUND WITH A CONTINUOUS RECORD OF  764 SPAWN RECORDS BETWEEN 1937 AND 1986, MOSTLY OC | comments2: THERE ARE THREE MAIN SPAWNING AREAS IN THIS SECTION OF BARKLEY SOUND:
+(1) TOQUART BAY
+(2) MACOAH PASSAGE AND
+(3) UCLUELET INLET | project: WCVI | section: 232
+
+=== ECOLOGICAL RELEVANCE ===
+This dataset may provide supporting spatial context for habitat analysis in the Ucluelet region.

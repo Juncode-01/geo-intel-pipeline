@@ -1,0 +1,48 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_FOREST_TENURE.FTEN_RECREATION_LINES_SVW
+Dataset ID:     pub:WHSE_FOREST_TENURE.FTEN_RECREATION_LINES_SVW
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  4
+Geometry Types: LineString
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.479249 S=48.95276 E=-125.473079 N=48.958407
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  rmf skey: numeric | range 270950.00 to 270953.00 | mean 270951.50
+  forest file id: categorical | values: REC270949
+  section id: categorical | values: MTBBLUE 1, MTBBLUE 2, MTBCLIMB, MTBGREEN
+  recreation map feature code: categorical | values: RTR
+  project type: categorical | values: Recreation Trail Reserve
+  amendment id: numeric | range 0.00 to 0.00 | mean 0.00
+  map label: categorical | values: REC270949 MTBBLUE 1, REC270949 MTBBLUE 2, REC270949 MTBCLIMB, REC270949 MTBGREEN
+  project name: categorical | values: Barkley Trails
+  resource feature ind: categorical | values: Y
+  right of way: numeric | range 10.00 to 10.00 | mean 10.00
+  site location: categorical | values: UCLUELET
+  recreation view ind: categorical | values: N
+  recreation district code: categorical | values: RDSI
+  defined campsites: numeric | range 0.00 to 0.00 | mean 0.00
+  life cycle status code: categorical | values: ACTIVE
+  file status code: categorical | values: HI
+  district code: categorical | values: DSI
+  district name: categorical | values: DSI
+  feature class skey: numeric | range 728.00 to 728.00 | mean 728.00
+  feature length: numeric | range 0.49 to 1.10 | mean 0.75
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 4
+  LineString: 4 features
+Approximate centre: 48.9564°N, -125.4767°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 4 features:
+
+Feature 0 from 'pub:WHSE_FOREST_TENURE.FTEN_RECREATION_LINES_SVW', located at approximately 48.9557°N, -125.4780°W. rmf skey: 270952 | forest file id: REC270949 | section id: MTBBLUE 1 | recreation map feature code: RTR | project type: Recreation Trail Reserve | amendment id: 0 | map label: REC270949 MTBBLUE 1 | project name: Barkley Trails | resource feature ind: Y | right of way: 10 | site location: UCLUELET | recreation view ind: N | recreation district code: RDSI | defined campsites: 0 | life cycle status code: ACTIVE | file status code: HI | district code: DSI | district name: DSI | feature class skey: 728 | feature length: 0.8369
+Feature 1 from 'pub:WHSE_FOREST_TENURE.FTEN_RECREATION_LINES_SVW', located at approximately 48.9554°N, -125.4756°W. rmf skey: 270951 | forest file id: REC270949 | section id: MTBGREEN | recreation map feature code: RTR | project type: Recreation Trail Reserve | amendment id: 0 | map label: REC270949 MTBGREEN | project name: Barkley Trails | resource feature ind: Y | right of way: 10 | site location: UCLUELET | recreation view ind: N | recreation district code: RDSI | defined campsites: 0 | life cycle status code: ACTIVE | file status code: HI | district code: DSI | district name: DSI | feature class skey: 728 | feature length: 0.4867
+Feature 2 from 'pub:WHSE_FOREST_TENURE.FTEN_RECREATION_LINES_SVW', located at approximately 48.9569°N, -125.4768°W. rmf skey: 270950 | forest file id: REC270949 | section id: MTBCLIMB | recreation map feature code: RTR | project type: Recreation Trail Reserve | amendment id: 0 | map label: REC270949 MTBCLIMB | project name: Barkley Trails | resource feature ind: Y | right of way: 10 | site location: UCLUELET | recreation view ind: N | recreation district code: RDSI | defined campsites: 0 | life cycle status code: ACTIVE | file status code: HI | district code: DSI | district name: DSI | feature class skey: 728 | feature length: 1.1032
+Feature 3 from 'pub:WHSE_FOREST_TENURE.FTEN_RECREATION_LINES_SVW', located at approximately 48.9570°N, -125.4756°W. rmf skey: 270953 | forest file id: REC270949 | section id: MTBBLUE 2 | recreation map feature code: RTR | project type: Recreation Trail Reserve | amendment id: 0 | map label: REC270949 MTBBLUE 2 | project name: Barkley Trails | resource feature ind: Y | right of way: 10 | site location: UCLUELET | recreation view ind: N | recreation district code: RDSI | defined campsites: 0 | life cycle status code: ACTIVE | file status code: HI | district code: DSI | district name: DSI | feature class skey: 728 | feature length: 0.5728
+
+=== ECOLOGICAL RELEVANCE ===
+Vegetation and forest cover data indicates tree species composition. Chanterelles form mycorrhizal associations primarily with conifers — especially Douglas-fir, Sitka spruce, western hemlock, and western red cedar, all common in the Ucluelet region.

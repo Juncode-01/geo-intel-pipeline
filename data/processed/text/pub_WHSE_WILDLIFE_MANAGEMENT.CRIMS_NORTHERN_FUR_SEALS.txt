@@ -1,0 +1,31 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_NORTHERN_FUR_SEALS
+Dataset ID:     pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_NORTHERN_FUR_SEALS
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  1
+Geometry Types: Polygon
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.9 S=48.8 E=-125.4 N=49.0
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  nfurseal id: numeric | range 1.00 to 1.00 | mean 1.00
+  ri: numeric | range 1.00 to 1.00 | mean 1.00
+  species: categorical | values: NORTHERN FUR SEAL
+  nfurseal comment: categorical | values: Annual
+  project: categorical | values: WCVI
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 1
+  Polygon: 1 features
+Area distribution (hectares): min=71740.5 median=71740.5 max=71740.5
+Approximate centre: 48.8906°N, -125.6692°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 1 features:
+
+Feature 0 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_NORTHERN_FUR_SEALS', located at approximately 48.8906°N, -125.6692°W. nfurseal id: 1 | ri: 1 | species: NORTHERN FUR SEAL | nfurseal comment: Annual | project: WCVI
+
+=== ECOLOGICAL RELEVANCE ===
+This dataset may provide supporting spatial context for habitat analysis in the Ucluelet region.

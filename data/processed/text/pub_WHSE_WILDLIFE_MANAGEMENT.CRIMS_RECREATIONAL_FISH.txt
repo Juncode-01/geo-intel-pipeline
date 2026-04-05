@@ -1,0 +1,53 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_RECREATIONAL_FISH
+Dataset ID:     pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_RECREATIONAL_FISH
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  8
+Geometry Types: Polygon
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.9 S=48.8 E=-125.4 N=49.0
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  rfish id: numeric | range 1991.00 to 2057.00 | mean 2023.50
+  ri: numeric | range 1.00 to 5.00 | mean 3.38
+  location: categorical | values: 7 km off Long Beach, Chrow Island area, Lighthouse Bank to South Bank, NW Newcombe Channel, Off Ucluth Peninsula to George Fraser Is, Quisitis Point, Sail Rock, Wya Point and SE
+  species: categorical | values: Finfish
+  other species: categorical | values:  
+  start season: categorical | values: JUL, JUN, MAR
+  close season: categorical | values: AUG, JUL, JUN, OCT, SEP
+  rfish start: numeric | range 0.00 to 0.00 | mean 0.00
+  rfish close: numeric | range 0.00 to 0.00 | mean 0.00
+  timing: categorical | values:  
+  gear type: categorical | values: Hook & Line
+  use level: categorical | values:  
+  rfish comment: categorical | values:  
+  source1: categorical | values:  
+  source2: categorical | values:  
+  compiler: categorical | values: B. Spence, D. Palfrey, J. Morrison
+  compile date: categorical | values: 1993-06-12, 1993-09-15, 1995-02-02, 1995-03-16
+  accuracy: numeric | range 0.00 to 0.00 | mean 0.00
+  data date: categorical | values:  
+  project: categorical | values: WCVI
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 8
+  Polygon: 8 features
+Area distribution (hectares): min=42.6 median=268.7 max=31935.9
+Approximate centre: 48.8920°N, -125.7748°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 8 features:
+
+Feature 0 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_RECREATIONAL_FISH', located at approximately 48.8614°N, -125.5252°W. rfish id: 2057 | ri: 3 | location: Lighthouse Bank to South Bank | species: Finfish | start season: MAR | close season: JUN | rfish start: 0 | rfish close: 0 | gear type: Hook & Line | compiler: J. Morrison | compile date: 1993-09-15 00:00:00 | accuracy: 0 | project: WCVI
+Feature 1 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_RECREATIONAL_FISH', located at approximately 48.8821°N, -125.4036°W. rfish id: 2048 | ri: 3 | location: Sail Rock | species: Finfish | start season: JUL | close season: AUG | rfish start: 0 | rfish close: 0 | gear type: Hook & Line | compiler: J. Morrison | compile date: 1993-09-15 00:00:00 | accuracy: 0 | project: WCVI
+Feature 2 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_RECREATIONAL_FISH', located at approximately 48.8952°N, -125.4702°W. rfish id: 2034 | ri: 3 | location: Chrow Island area | species: Finfish | start season: MAR | close season: SEP | rfish start: 0 | rfish close: 0 | gear type: Hook & Line | compiler: J. Morrison | compile date: 1993-09-15 00:00:00 | accuracy: 0 | project: WCVI
+Feature 3 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_RECREATIONAL_FISH', located at approximately 48.8886°N, -125.7925°W. rfish id: 1991 | ri: 1 | location: 7 km off Long Beach | species: Finfish | start season: JUL | close season: AUG | rfish start: 0 | rfish close: 0 | gear type: Hook & Line | compiler: D. Palfrey | compile date: 1995-03-16 00:00:00 | accuracy: 0 | project: WCVI
+Feature 4 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_RECREATIONAL_FISH', located at approximately 48.9173°N, -125.5505°W. rfish id: 2030 | ri: 4 | location: Off Ucluth Peninsula to George Fraser Is | species: Finfish | start season: JUN | close season: OCT | rfish start: 0 | rfish close: 0 | gear type: Hook & Line | compiler: J. Morrison | compile date: 1993-06-12 00:00:00 | accuracy: 0 | project: WCVI
+Feature 5 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_RECREATIONAL_FISH', located at approximately 48.9355°N, -125.4500°W. rfish id: 2024 | ri: 3 | location: NW Newcombe Channel | species: Finfish | start season: JUN | close season: JUL | rfish start: 0 | rfish close: 0 | gear type: Hook & Line | compiler: J. Morrison | compile date: 1993-09-15 00:00:00 | accuracy: 0 | project: WCVI
+Feature 6 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_RECREATIONAL_FISH', located at approximately 48.9538°N, -125.6144°W. rfish id: 2007 | ri: 5 | location: Wya Point and SE | species: Finfish | start season: JUN | close season: SEP | rfish start: 0 | rfish close: 0 | gear type: Hook & Line | compiler: B. Spence | compile date: 1995-02-02 00:00:00 | accuracy: 0 | project: WCVI
+Feature 7 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_RECREATIONAL_FISH', located at approximately 48.9906°N, -125.6799°W. rfish id: 1997 | ri: 5 | location: Quisitis Point | species: Finfish | start season: JUN | close season: SEP | rfish start: 0 | rfish close: 0 | gear type: Hook & Line | compiler: B. Spence | compile date: 1995-02-02 00:00:00 | accuracy: 0 | project: WCVI
+
+=== ECOLOGICAL RELEVANCE ===
+This dataset may provide supporting spatial context for habitat analysis in the Ucluelet region.

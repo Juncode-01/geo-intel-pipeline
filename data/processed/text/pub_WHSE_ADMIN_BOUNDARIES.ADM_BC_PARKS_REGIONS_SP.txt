@@ -1,0 +1,28 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_ADMIN_BOUNDARIES.ADM_BC_PARKS_REGIONS_SP
+Dataset ID:     pub:WHSE_ADMIN_BOUNDARIES.ADM_BC_PARKS_REGIONS_SP
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  1
+Geometry Types: Polygon
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.9 S=48.8 E=-125.4 N=49.0
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  region number: numeric | range 1.00 to 1.00 | mean 1.00
+  region name: categorical | values: West Coast
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 1
+  Polygon: 1 features
+Area distribution (hectares): min=81532.8 median=81532.8 max=81532.8
+Approximate centre: 48.9000°N, -125.6500°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 1 features:
+
+Feature 0 from 'pub:WHSE_ADMIN_BOUNDARIES.ADM_BC_PARKS_REGIONS_SP', located at approximately 48.9000°N, -125.6500°W. region number: 1 | region name: West Coast
+
+=== ECOLOGICAL RELEVANCE ===
+Protected area data indicates zones with reduced human disturbance and intact old-growth forest — conditions highly associated with productive chanterelle habitat.

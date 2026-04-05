@@ -1,0 +1,39 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_COMMERCIAL_HERRING_ROE
+Dataset ID:     pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_COMMERCIAL_HERRING_ROE
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  2
+Geometry Types: Polygon
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.509719 S=48.894037 E=-125.4 N=48.974566
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  cherroe id: numeric | range 420.00 to 509.00 | mean 464.50
+  ri: numeric | range 4.00 to 5.00 | mean 4.50
+  spawning: numeric | range 0.00 to 0.00 | mean 0.00
+  location: categorical | values: Inner NW Barkley Sound, Outer NW Barkley Sound
+  fishery: categorical | values: Commercial Herring
+  start season: categorical | values: FEB
+  close season: categorical | values: MAR
+  cherroe close: numeric | range 0.00 to 0.00 | mean 0.00
+  gear type: categorical | values: Gillnet &
+  compiler: categorical | values: L. Gordon
+  compile date: categorical | values: 1993-09-15
+  project: categorical | values: WCVI
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 2
+  Polygon: 2 features
+Area distribution (hectares): min=532.3 median=1890.7 max=3249.1
+Approximate centre: 48.9250°N, -125.4381°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 2 features:
+
+Feature 0 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_COMMERCIAL_HERRING_ROE', located at approximately 48.9198°N, -125.4420°W. cherroe id: 509 | ri: 4 | spawning: 0 | location: Outer NW Barkley Sound | fishery: Commercial Herring | start season: FEB | close season: MAR | cherroe close: 0 | gear type: Gillnet & | compiler: L. Gordon | compile date: 1993-09-15 00:00:00 | project: WCVI
+Feature 1 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_COMMERCIAL_HERRING_ROE', located at approximately 48.9567°N, -125.4146°W. cherroe id: 420 | ri: 5 | spawning: 0 | location: Inner NW Barkley Sound | fishery: Commercial Herring | start season: FEB | close season: MAR | cherroe close: 0 | gear type: Gillnet & | compiler: L. Gordon | compile date: 1993-09-15 00:00:00 | project: WCVI
+
+=== ECOLOGICAL RELEVANCE ===
+This dataset may provide supporting spatial context for habitat analysis in the Ucluelet region.

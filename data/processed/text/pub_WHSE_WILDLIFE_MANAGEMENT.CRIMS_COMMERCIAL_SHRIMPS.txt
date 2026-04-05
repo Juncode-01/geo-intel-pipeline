@@ -1,0 +1,36 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_COMMERCIAL_SHRIMPS
+Dataset ID:     pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_COMMERCIAL_SHRIMPS
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  2
+Geometry Types: Polygon
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.601385 S=48.8 E=-125.4 N=48.940633
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  cshrimp id: numeric | range 71.00 to 81.00 | mean 76.00
+  ri: numeric | range 3.00 to 3.00 | mean 3.00
+  location: categorical | values: Offshore - Area 123, Outside Barkley Sound
+  start season: categorical | values: APR, JAN
+  close season: categorical | values: DEC
+  gear type: categorical | values: Trawl
+  compiler: categorical | values: B. Lunn
+  compile date: categorical | values: 1993-09-09, 1994-07-14
+  project: categorical | values: WCVI
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 2
+  Polygon: 2 features
+Area distribution (hectares): min=2661.8 median=2715.7 max=2769.6
+Approximate centre: 48.8566°N, -125.5208°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 2 features:
+
+Feature 0 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_COMMERCIAL_SHRIMPS', located at approximately 48.8100°N, -125.4780°W. cshrimp id: 81 | ri: 3 | location: Outside Barkley Sound | start season: APR | close season: DEC | gear type: Trawl | compile date: 1994-07-14 00:00:00 | project: WCVI
+Feature 1 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_COMMERCIAL_SHRIMPS', located at approximately 48.9013°N, -125.5618°W. cshrimp id: 71 | ri: 3 | location: Offshore - Area 123 | start season: JAN | close season: DEC | gear type: Trawl | compiler: B. Lunn | compile date: 1993-09-09 00:00:00 | project: WCVI
+
+=== ECOLOGICAL RELEVANCE ===
+This dataset may provide supporting spatial context for habitat analysis in the Ucluelet region.

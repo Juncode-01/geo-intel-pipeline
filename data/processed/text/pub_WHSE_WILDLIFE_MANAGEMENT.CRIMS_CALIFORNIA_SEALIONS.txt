@@ -1,0 +1,33 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_CALIFORNIA_SEALIONS
+Dataset ID:     pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_CALIFORNIA_SEALIONS
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  3
+Geometry Types: Polygon
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.9 S=48.8 E=-125.4 N=49.0
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  csealion id: numeric | range 1.00 to 7648.00 | mean 4590.00
+  ri: numeric | range 1.00 to 3.00 | mean 2.33
+  csealion comment: categorical | values: Monthly
+  species: categorical | values: California Sea Lion
+  project: categorical | values: WCVI
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 3
+  Polygon: 3 features
+Area distribution (hectares): min=595.5 median=10819.4 max=45116.6
+Approximate centre: 48.8922°N, -125.6840°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 3 features:
+
+Feature 0 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_CALIFORNIA_SEALIONS', located at approximately 48.8948°N, -125.4562°W. csealion id: 6121 | ri: 3 | csealion comment: Monthly | species: California Sea Lion | project: WCVI
+Feature 1 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_CALIFORNIA_SEALIONS', located at approximately 48.9892°N, -125.6359°W. csealion id: 7648 | ri: 3 | csealion comment: Monthly | species: California Sea Lion | project: WCVI
+Feature 2 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_CALIFORNIA_SEALIONS', located at approximately 48.8902°N, -125.7392°W. csealion id: 1 | ri: 1 | csealion comment: Monthly | species: California Sea Lion | project: WCVI
+
+=== ECOLOGICAL RELEVANCE ===
+This dataset may provide supporting spatial context for habitat analysis in the Ucluelet region.

@@ -1,0 +1,49 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_FISH.FISH_AQUATIC_INVASIVE_SPCS_SP
+Dataset ID:     pub:WHSE_FISH.FISH_AQUATIC_INVASIVE_SPCS_SP
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  1
+Geometry Types: Point
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.533419 S=48.933381 E=-125.533419 N=48.933381
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  aquatic invasive spcs occur id: categorical | values: CalVul0007
+  taxonomic group: categorical | values: Plant
+  scientific name: categorical | values: Calluna vulgaris
+  english name: categorical | values: Heather
+  natureserve element code: categorical | values: PDERI06010
+  species in bc species explorer: categorical | values: Yes
+  species status in bc: categorical | values: Exotic
+  new watershed code: categorical | values:  
+  waterbody id: categorical | values:  
+  waterbody type: categorical | values:  
+  bcgnis name: categorical | values:  
+  location information: categorical | values: S of Ucluelet, BC
+  utm zone: numeric | range 10.00 to 10.00 | mean 10.00
+  utm easting: numeric | range 314461.00 to 314461.00 | mean 314461.00
+  utm northing: numeric | range 5423144.00 to 5423144.00 | mean 5423144.00
+  bc albers easting: numeric | range 1034233.00 to 1034233.00 | mean 1034233.00
+  bc albers northing: numeric | range 435348.00 to 435348.00 | mean 435348.00
+  collection date: categorical | values: 1977-09-22
+  detailed species data: categorical | values:  
+  miscellaneous collection notes: categorical | values: Habitat: peat bog
+  yr occurrence info source publ: numeric | range 2009.00 to 2009.00 | mean 2009.00
+  occurrence source citation: categorical | values: The Beaty Biodiversity Museum. 2009. Herbarium collection database of the University of British Columbia Beaty Biodiversity Museum. University of British Columbia, Vancouver, BC, Canada.
+
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 1
+  Point: 1 features
+Approximate centre: 48.9334°N, -125.5334°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 1 features:
+
+Feature 0 from 'pub:WHSE_FISH.FISH_AQUATIC_INVASIVE_SPCS_SP', located at approximately 48.9334°N, -125.5334°W. aquatic invasive spcs occur id: CalVul0007 | taxonomic group: Plant | scientific name: Calluna vulgaris | english name: Heather | natureserve element code: PDERI06010 | species in bc species explorer: Yes | species status in bc: Exotic | location information: S of Ucluelet, BC | utm zone: 10 | utm easting: 314461 | utm northing: 5423144 | bc albers easting: 1034233 | bc albers northing: 435348 | collection date: 1977-09-22 00:00:00 | miscellaneous collection notes: Habitat: peat bog | yr occurrence info source publ: 2009 | occurrence source citation: The Beaty Biodiversity Museum. 2009. Herbarium collection database of the University of British Columbia Beaty Biodiversity Museum. University of British Columbia, Vancouver, BC, Canada.
+
+
+=== ECOLOGICAL RELEVANCE ===
+This dataset may provide supporting spatial context for habitat analysis in the Ucluelet region.

@@ -1,0 +1,32 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_BASEMAPPING.BC_WATER_LINES_500M
+Dataset ID:     pub:WHSE_BASEMAPPING.BC_WATER_LINES_500M
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  5
+Geometry Types: LineString, MultiLineString
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.655169 S=48.910894 E=-125.4 N=49.0
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  length: numeric | range 2163.98 to 287816.44 | mean 67912.26
+  fcode: categorical | values: GA24850000, GB15300000, GG05800000
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 5
+  LineString: 4 features
+  MultiLineString: 1 features
+Approximate centre: 48.9553°N, -125.5235°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 5 features:
+
+Feature 0 from 'pub:WHSE_BASEMAPPING.BC_WATER_LINES_500M', located at approximately 48.9883°N, -125.4058°W. length: 2163.982 | fcode: GA24850000
+Feature 1 from 'pub:WHSE_BASEMAPPING.BC_WATER_LINES_500M', located at approximately 48.9968°N, -125.5269°W. length: 10873.153 | fcode: GA24850000
+Feature 2 from 'pub:WHSE_BASEMAPPING.BC_WATER_LINES_500M', located at approximately 48.9954°N, -125.4161°W. length: 8449.091 | fcode: GB15300000
+Feature 3 from 'pub:WHSE_BASEMAPPING.BC_WATER_LINES_500M', located at approximately 48.9428°N, -125.5257°W. length: 287816.438 | fcode: GG05800000
+Feature 4 from 'pub:WHSE_BASEMAPPING.BC_WATER_LINES_500M', located at approximately 48.9939°N, -125.6227°W. length: 30258.66 | fcode: GG05800000
+
+=== ECOLOGICAL RELEVANCE ===
+Hydrological data indicates soil moisture patterns and drainage regimes. Chanterelles favour areas with consistent subsurface moisture but not waterlogged conditions — typically mid-slope positions near but not in riparian zones.

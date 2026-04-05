@@ -1,0 +1,32 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_DALLS_PORPOISES
+Dataset ID:     pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_DALLS_PORPOISES
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  1
+Geometry Types: Polygon
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.791041 S=48.8 E=-125.4 N=48.961177
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  dalporp id: numeric | range 2890.00 to 2890.00 | mean 2890.00
+  ra: numeric | range 2.00 to 2.00 | mean 2.00
+  ri: numeric | range 1.00 to 1.00 | mean 1.00
+  source1: categorical | values: SIGHTINGS AND MODEL
+  dalporp comment: categorical | values: 2891
+  project: categorical | values: WCVI
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 1
+  Polygon: 1 features
+Area distribution (hectares): min=15264.4 median=15264.4 max=15264.4
+Approximate centre: 48.8847°N, -125.6146°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 1 features:
+
+Feature 0 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_DALLS_PORPOISES', located at approximately 48.8847°N, -125.6146°W. dalporp id: 2890 | ra: 2 | ri: 1 | source1: SIGHTINGS AND MODEL | dalporp comment: 2891 | project: WCVI
+
+=== ECOLOGICAL RELEVANCE ===
+This dataset may provide supporting spatial context for habitat analysis in the Ucluelet region.

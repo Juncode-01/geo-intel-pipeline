@@ -1,0 +1,33 @@
+=== DATASET RECORD ===
+Title:          Geology Faults
+Dataset ID:     geology-faults
+Source:         DOWNLOAD
+Fetched:        2026-03-22
+Feature Count:  4
+Geometry Types: LineString
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.609935 S=48.87773 E=-125.4 N=49.0
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  ulid: categorical | values: 0c4d0f8f, 3dd849e6, 66db0481, e6240d74
+  fault type: categorical | values: Fault, Thrust fault
+  length m: numeric | range 317.00 to 40461.00 | mean 11291.00
+  edit date: categorical | values: 2018-04-05
+  pub org: categorical | values: British Columbia Geological Survey
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 4
+  LineString: 4 features
+Approximate centre: 48.9457°N, -125.5096°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 4 features:
+
+Feature 0 from 'Geology Faults', located at approximately 48.9389°N, -125.5049°W. ulid: 3dd849e6 | fault type: Thrust fault | length m: 40461.0 | edit date: 2018-04-05 00:00:00 | pub org: British Columbia Geological Survey
+Feature 1 from 'Geology Faults', located at approximately 48.9917°N, -125.5515°W. ulid: e6240d74 | fault type: Fault | length m: 317.0 | edit date: 2018-04-05 00:00:00 | pub org: British Columbia Geological Survey
+Feature 2 from 'Geology Faults', located at approximately 48.9965°N, -125.5415°W. ulid: 0c4d0f8f | fault type: Fault | length m: 2354.0 | edit date: 2018-04-05 00:00:00 | pub org: British Columbia Geological Survey
+Feature 3 from 'Geology Faults', located at approximately 48.9965°N, -125.5468°W. ulid: 66db0481 | fault type: Fault | length m: 2032.0 | edit date: 2018-04-05 00:00:00 | pub org: British Columbia Geological Survey
+
+=== ECOLOGICAL RELEVANCE ===
+This dataset may provide supporting spatial context for habitat analysis in the Ucluelet region.

@@ -1,0 +1,29 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_WATER_MANAGEMENT.WQ_WQO_RPT_INDEX_SP
+Dataset ID:     pub:WHSE_WATER_MANAGEMENT.WQ_WQO_RPT_INDEX_SP
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  1
+Geometry Types: Polygon
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.541616 S=48.955777 E=-125.466122 N=48.995332
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  wqo rpt index id: numeric | range 237315.00 to 237315.00 | mean 237315.00
+  assessment name: categorical | values: Mercantile Creek Community Watershed
+  report url: categorical | values: https://www2.gov.bc.ca/gov/content/environment/air-land-water/water/water-quality/water-quality-objectives/west-coast-region-water-quality-objectives
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 1
+  Polygon: 1 features
+Area distribution (hectares): min=1142.5 median=1142.5 max=1142.5
+Approximate centre: 48.9745°N, -125.4980°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 1 features:
+
+Feature 0 from 'pub:WHSE_WATER_MANAGEMENT.WQ_WQO_RPT_INDEX_SP', located at approximately 48.9745°N, -125.4980°W. wqo rpt index id: 237315 | assessment name: Mercantile Creek Community Watershed | report url: https://www2.gov.bc.ca/gov/content/environment/air-land-water/water/water-quality/water-quality-objectives/west-coast-region-water-quality-objectives
+
+=== ECOLOGICAL RELEVANCE ===
+Hydrological data indicates soil moisture patterns and drainage regimes. Chanterelles favour areas with consistent subsurface moisture but not waterlogged conditions — typically mid-slope positions near but not in riparian zones.

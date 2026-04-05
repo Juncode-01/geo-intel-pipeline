@@ -1,0 +1,55 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_BENTHIC_MARINE_ECOUNITS
+Dataset ID:     pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_BENTHIC_MARINE_ECOUNITS
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  21
+Geometry Types: Polygon, MultiPolygon
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.9 S=48.8 E=-125.4 N=49.0
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  benthic unit id: numeric | range 5383.00 to 7054.00 | mean 6137.48
+  substrate: categorical | values: H, M, S
+  exposure: categorical | values: H, M
+  benthu current: categorical | values: L
+  slope: categorical | values: F
+  depth: categorical | values: M, P, S
+  temperature: categorical | values: C, W
+  roughness: categorical | values: L, M
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 21
+  Polygon: 19 features
+  MultiPolygon: 2 features
+Area distribution (hectares): min=37.7 median=1676.4 max=15567.4
+Approximate centre: 48.8906°N, -125.6691°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 21 features:
+
+Feature 0 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_BENTHIC_MARINE_ECOUNITS', located at approximately 48.8066°N, -125.5368°W. benthic unit id: 5584 | substrate: M | exposure: H | benthu current: L | slope: F | depth: M | temperature: C | roughness: L
+Feature 1 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_BENTHIC_MARINE_ECOUNITS', located at approximately 48.8193°N, -125.4593°W. benthic unit id: 5566 | substrate: M | exposure: H | benthu current: L | slope: F | depth: M | temperature: C | roughness: M
+Feature 2 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_BENTHIC_MARINE_ECOUNITS', located at approximately 48.8425°N, -125.4049°W. benthic unit id: 5559 | substrate: H | exposure: H | benthu current: L | slope: F | depth: M | temperature: C | roughness: M
+Feature 3 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_BENTHIC_MARINE_ECOUNITS', located at approximately 48.8720°N, -125.4164°W. benthic unit id: 7054 | substrate: H | exposure: H | benthu current: L | slope: F | depth: M | temperature: C | roughness: L
+Feature 4 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_BENTHIC_MARINE_ECOUNITS', located at approximately 48.9057°N, -125.6603°W. benthic unit id: 7007 | substrate: S | exposure: H | benthu current: L | slope: F | depth: M | temperature: C | roughness: L
+Feature 5 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_BENTHIC_MARINE_ECOUNITS', located at approximately 48.9186°N, -125.4424°W. benthic unit id: 7033 | substrate: H | exposure: H | benthu current: L | slope: F | depth: P | temperature: W | roughness: M
+Feature 6 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_BENTHIC_MARINE_ECOUNITS', located at approximately 48.9339°N, -125.5421°W. benthic unit id: 5441 | substrate: H | exposure: H | benthu current: L | slope: F | depth: S | temperature: W | roughness: L
+Feature 7 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_BENTHIC_MARINE_ECOUNITS', located at approximately 48.9204°N, -125.5585°W. benthic unit id: 6994 | substrate: H | exposure: H | benthu current: L | slope: F | depth: P | temperature: C | roughness: L
+Feature 8 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_BENTHIC_MARINE_ECOUNITS', located at approximately 48.9513°N, -125.4036°W. benthic unit id: 7003 | substrate: M | exposure: M | benthu current: L | slope: F | depth: P | temperature: W | roughness: M
+Feature 9 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_BENTHIC_MARINE_ECOUNITS', located at approximately 48.8148°N, -125.6340°W. benthic unit id: 5549 | substrate: H | exposure: H | benthu current: L | slope: F | depth: M | temperature: C | roughness: L
+Feature 10 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_BENTHIC_MARINE_ECOUNITS', located at approximately 48.8282°N, -125.7784°W. benthic unit id: 5547 | substrate: H | exposure: H | benthu current: L | slope: F | depth: M | temperature: C | roughness: M
+Feature 11 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_BENTHIC_MARINE_ECOUNITS', located at approximately 48.8601°N, -125.6305°W. benthic unit id: 5510 | substrate: H | exposure: H | benthu current: L | slope: F | depth: P | temperature: C | roughness: M
+Feature 12 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_BENTHIC_MARINE_ECOUNITS', located at approximately 48.8699°N, -125.8515°W. benthic unit id: 6946 | substrate: S | exposure: H | benthu current: L | slope: F | depth: M | temperature: C | roughness: M
+Feature 13 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_BENTHIC_MARINE_ECOUNITS', located at approximately 48.8917°N, -125.8622°W. benthic unit id: 5492 | substrate: H | exposure: H | benthu current: L | slope: F | depth: M | temperature: C | roughness: M
+Feature 14 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_BENTHIC_MARINE_ECOUNITS', located at approximately 48.9009°N, -125.6079°W. benthic unit id: 5484 | substrate: S | exposure: H | benthu current: L | slope: F | depth: M | temperature: C | roughness: M
+Feature 15 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_BENTHIC_MARINE_ECOUNITS', located at approximately 48.9598°N, -125.7477°W. benthic unit id: 5439 | substrate: H | exposure: H | benthu current: L | slope: F | depth: M | temperature: C | roughness: L
+Feature 16 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_BENTHIC_MARINE_ECOUNITS', located at approximately 48.9563°N, -125.8216°W. benthic unit id: 5386 | substrate: H | exposure: H | benthu current: L | slope: F | depth: P | temperature: C | roughness: M
+Feature 17 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_BENTHIC_MARINE_ECOUNITS', located at approximately 48.9675°N, -125.6378°W. benthic unit id: 5383 | substrate: H | exposure: H | benthu current: L | slope: F | depth: P | temperature: W | roughness: L
+Feature 18 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_BENTHIC_MARINE_ECOUNITS', located at approximately 48.9879°N, -125.6491°W. benthic unit id: 6976 | substrate: S | exposure: H | benthu current: L | slope: F | depth: S | temperature: W | roughness: L
+Feature 19 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_BENTHIC_MARINE_ECOUNITS', located at approximately 48.9562°N, -125.4206°W. benthic unit id: 6995 | substrate: M | exposure: M | benthu current: L | slope: F | depth: S | temperature: W | roughness: L
+Feature 20 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_BENTHIC_MARINE_ECOUNITS', located at approximately 48.9609°N, -125.8833°W. benthic unit id: 6939 | substrate: S | exposure: H | benthu current: L | slope: F | depth: P | temperature: C | roughness: M
+
+=== ECOLOGICAL RELEVANCE ===
+This dataset may provide supporting spatial context for habitat analysis in the Ucluelet region.

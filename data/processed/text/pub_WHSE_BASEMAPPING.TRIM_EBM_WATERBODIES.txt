@@ -1,0 +1,60 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_BASEMAPPING.TRIM_EBM_WATERBODIES
+Dataset ID:     pub:WHSE_BASEMAPPING.TRIM_EBM_WATERBODIES
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  30
+Geometry Types: Polygon
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.601565 S=48.929445 E=-125.41087 N=49.0
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  fcode: categorical | values: GB15300000
+  feature type: categorical | values: lake
+  area: numeric | range 0.05 to 63.17 | mean 2.99
+  twa fid: numeric | range 1424.00 to 8855.00 | mean 2155.70
+  twa feature type no: numeric | range 5201.00 to 5202.00 | mean 5201.03
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 30
+  Polygon: 30 features
+Area distribution (hectares): min=0.0 median=0.4 max=62.6
+Approximate centre: 48.9885°N, -125.4592°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 30 features:
+
+Feature 0 from 'pub:WHSE_BASEMAPPING.TRIM_EBM_WATERBODIES', located at approximately 48.9296°N, -125.5298°W. fcode: GB15300000 | feature type: lake | area: 0.168 | twa fid: 1437 | twa feature type no: 5201
+Feature 1 from 'pub:WHSE_BASEMAPPING.TRIM_EBM_WATERBODIES', located at approximately 48.9297°N, -125.5288°W. fcode: GB15300000 | feature type: lake | area: 0.38 | twa fid: 1436 | twa feature type no: 5201
+Feature 2 from 'pub:WHSE_BASEMAPPING.TRIM_EBM_WATERBODIES', located at approximately 48.9300°N, -125.5300°W. fcode: GB15300000 | feature type: lake | area: 0.207 | twa fid: 1438 | twa feature type no: 5201
+Feature 3 from 'pub:WHSE_BASEMAPPING.TRIM_EBM_WATERBODIES', located at approximately 48.9303°N, -125.5290°W. fcode: GB15300000 | feature type: lake | area: 0.148 | twa fid: 1439 | twa feature type no: 5201
+Feature 4 from 'pub:WHSE_BASEMAPPING.TRIM_EBM_WATERBODIES', located at approximately 48.9407°N, -125.5170°W. fcode: GB15300000 | feature type: lake | area: 0.407 | twa fid: 1428 | twa feature type no: 5201
+Feature 5 from 'pub:WHSE_BASEMAPPING.TRIM_EBM_WATERBODIES', located at approximately 48.9440°N, -125.5614°W. fcode: GB15300000 | feature type: lake | area: 0.352 | twa fid: 1435 | twa feature type no: 5201
+Feature 6 from 'pub:WHSE_BASEMAPPING.TRIM_EBM_WATERBODIES', located at approximately 48.9443°N, -125.5237°W. fcode: GB15300000 | feature type: lake | area: 6.614 | twa fid: 1449 | twa feature type no: 5201
+Feature 7 from 'pub:WHSE_BASEMAPPING.TRIM_EBM_WATERBODIES', located at approximately 48.9532°N, -125.5273°W. fcode: GB15300000 | feature type: lake | area: 1.711 | twa fid: 1451 | twa feature type no: 5201
+Feature 8 from 'pub:WHSE_BASEMAPPING.TRIM_EBM_WATERBODIES', located at approximately 48.9560°N, -125.5300°W. fcode: GB15300000 | feature type: lake | area: 4.167 | twa fid: 1450 | twa feature type no: 5201
+Feature 9 from 'pub:WHSE_BASEMAPPING.TRIM_EBM_WATERBODIES', located at approximately 48.9832°N, -125.5428°W. fcode: GB15300000 | feature type: lake | area: 0.238 | twa fid: 1448 | twa feature type no: 5201
+Feature 10 from 'pub:WHSE_BASEMAPPING.TRIM_EBM_WATERBODIES', located at approximately 48.9687°N, -125.6011°W. fcode: GB15300000 | feature type: lake | area: 0.313 | twa fid: 1424 | twa feature type no: 5201
+Feature 11 from 'pub:WHSE_BASEMAPPING.TRIM_EBM_WATERBODIES', located at approximately 48.9861°N, -125.5921°W. fcode: GB15300000 | feature type: lake | area: 0.094 | twa fid: 1445 | twa feature type no: 5201
+Feature 12 from 'pub:WHSE_BASEMAPPING.TRIM_EBM_WATERBODIES', located at approximately 48.9866°N, -125.5928°W. fcode: GB15300000 | feature type: lake | area: 0.496 | twa fid: 1444 | twa feature type no: 5201
+Feature 13 from 'pub:WHSE_BASEMAPPING.TRIM_EBM_WATERBODIES', located at approximately 48.9879°N, -125.5955°W. fcode: GB15300000 | feature type: lake | area: 0.281 | twa fid: 1433 | twa feature type no: 5201
+Feature 14 from 'pub:WHSE_BASEMAPPING.TRIM_EBM_WATERBODIES', located at approximately 48.9884°N, -125.5948°W. fcode: GB15300000 | feature type: lake | area: 0.065 | twa fid: 1432 | twa feature type no: 5201
+Feature 15 from 'pub:WHSE_BASEMAPPING.TRIM_EBM_WATERBODIES', located at approximately 48.9913°N, -125.5887°W. fcode: GB15300000 | feature type: lake | area: 0.895 | twa fid: 1429 | twa feature type no: 5201
+Feature 16 from 'pub:WHSE_BASEMAPPING.TRIM_EBM_WATERBODIES', located at approximately 48.9913°N, -125.5846°W. fcode: GB15300000 | feature type: lake | area: 2.7 | twa fid: 1442 | twa feature type no: 5201
+Feature 17 from 'pub:WHSE_BASEMAPPING.TRIM_EBM_WATERBODIES', located at approximately 48.9930°N, -125.5851°W. fcode: GB15300000 | feature type: lake | area: 1.14 | twa fid: 1441 | twa feature type no: 5201
+Feature 18 from 'pub:WHSE_BASEMAPPING.TRIM_EBM_WATERBODIES', located at approximately 48.9938°N, -125.5830°W. fcode: GB15300000 | feature type: lake | area: 0.942 | twa fid: 1426 | twa feature type no: 5201
+Feature 19 from 'pub:WHSE_BASEMAPPING.TRIM_EBM_WATERBODIES', located at approximately 48.9937°N, -125.5955°W. fcode: GB15300000 | feature type: lake | area: 0.584 | twa fid: 1443 | twa feature type no: 5201
+Feature 20 from 'pub:WHSE_BASEMAPPING.TRIM_EBM_WATERBODIES', located at approximately 48.9951°N, -125.5951°W. fcode: GB15300000 | feature type: lake | area: 0.199 | twa fid: 1430 | twa feature type no: 5201
+Feature 21 from 'pub:WHSE_BASEMAPPING.TRIM_EBM_WATERBODIES', located at approximately 48.9960°N, -125.5826°W. fcode: GB15300000 | feature type: lake | area: 0.104 | twa fid: 1446 | twa feature type no: 5201
+Feature 22 from 'pub:WHSE_BASEMAPPING.TRIM_EBM_WATERBODIES', located at approximately 48.9973°N, -125.5952°W. fcode: GB15300000 | feature type: lake | area: 0.832 | twa fid: 1440 | twa feature type no: 5201
+Feature 23 from 'pub:WHSE_BASEMAPPING.TRIM_EBM_WATERBODIES', located at approximately 48.9975°N, -125.5828°W. fcode: GB15300000 | feature type: lake | area: 0.307 | twa fid: 1434 | twa feature type no: 5201
+Feature 24 from 'pub:WHSE_BASEMAPPING.TRIM_EBM_WATERBODIES', located at approximately 48.9978°N, -125.5821°W. fcode: GB15300000 | feature type: lake | area: 0.289 | twa fid: 1447 | twa feature type no: 5201
+Feature 25 from 'pub:WHSE_BASEMAPPING.TRIM_EBM_WATERBODIES', located at approximately 48.9998°N, -125.5949°W. fcode: GB15300000 | feature type: lake | area: 0.573 | twa fid: 8484 | twa feature type no: 5201
+Feature 26 from 'pub:WHSE_BASEMAPPING.TRIM_EBM_WATERBODIES', located at approximately 48.9915°N, -125.5796°W. fcode: GB15300000 | feature type: lake | area: 2.043 | twa fid: 1427 | twa feature type no: 5201
+Feature 27 from 'pub:WHSE_BASEMAPPING.TRIM_EBM_WATERBODIES', located at approximately 48.9939°N, -125.4816°W. fcode: GB15300000 | feature type: lake | area: 0.087 | twa fid: 1431 | twa feature type no: 5201
+Feature 28 from 'pub:WHSE_BASEMAPPING.TRIM_EBM_WATERBODIES', located at approximately 48.9971°N, -125.4195°W. fcode: GB15300000 | feature type: lake | area: 63.173 | twa fid: 8507 | twa feature type no: 5201
+Feature 29 from 'pub:WHSE_BASEMAPPING.TRIM_EBM_WATERBODIES', located at approximately 49.0000°N, -125.5452°W. fcode: GB15300000 | feature type: lake | area: 0.046 | twa fid: 8855 | twa feature type no: 5202
+
+=== ECOLOGICAL RELEVANCE ===
+Hydrological data indicates soil moisture patterns and drainage regimes. Chanterelles favour areas with consistent subsurface moisture but not waterlogged conditions — typically mid-slope positions near but not in riparian zones.

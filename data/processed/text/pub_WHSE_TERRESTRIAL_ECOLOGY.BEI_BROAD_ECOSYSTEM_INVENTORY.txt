@@ -1,0 +1,48 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_TERRESTRIAL_ECOLOGY.BEI_BROAD_ECOSYSTEM_INVENTORY
+Dataset ID:     pub:WHSE_TERRESTRIAL_ECOLOGY.BEI_BROAD_ECOSYSTEM_INVENTORY
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  17
+Geometry Types: Polygon, MultiPolygon
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.9 S=48.8 E=-125.4 N=49.0
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  bei skey: numeric | range 498594.00 to 552125.00 | mean 548835.29
+  area: numeric | range 305479.38 to 16726105088.00 | mean 993341307.59
+  perimeter: numeric | range 2508.28 to 3854133.00 | mean 246433.89
+  qbei tag: text | 17 unique values | sample: 031_64781, 031_64884, 031_64895, 031_64907, 031_64909...
+  feature code: categorical | values: WI25000140
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 17
+  Polygon: 15 features
+  MultiPolygon: 2 features
+Area distribution (hectares): min=30.5 median=405.2 max=71839.5
+Approximate centre: 48.9000°N, -125.6500°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 17 features:
+
+Feature 0 from 'pub:WHSE_TERRESTRIAL_ECOLOGY.BEI_BROAD_ECOSYSTEM_INVENTORY', located at approximately 48.9557°N, -125.4616°W. bei skey: 552059 | area: 5461223.5 | perimeter: 14855.759 | qbei tag: 031_65050 | feature code: WI25000140
+Feature 1 from 'pub:WHSE_TERRESTRIAL_ECOLOGY.BEI_BROAD_ECOSYSTEM_INVENTORY', located at approximately 48.9677°N, -125.4733°W. bei skey: 552021 | area: 9665145.0 | perimeter: 18598.967 | qbei tag: 031_65012 | feature code: WI25000140
+Feature 2 from 'pub:WHSE_TERRESTRIAL_ECOLOGY.BEI_BROAD_ECOSYSTEM_INVENTORY', located at approximately 48.9653°N, -125.4282°W. bei skey: 551973 | area: 6857587.5 | perimeter: 27229.393 | qbei tag: 031_64964 | feature code: WI25000140
+Feature 3 from 'pub:WHSE_TERRESTRIAL_ECOLOGY.BEI_BROAD_ECOSYSTEM_INVENTORY', located at approximately 48.9783°N, -125.4241°W. bei skey: 551980 | area: 9594597.0 | perimeter: 24648.107 | qbei tag: 031_64972 | feature code: WI25000140
+Feature 4 from 'pub:WHSE_TERRESTRIAL_ECOLOGY.BEI_BROAD_ECOSYSTEM_INVENTORY', located at approximately 48.9904°N, -125.5044°W. bei skey: 552013 | area: 844288.875 | perimeter: 4978.443 | qbei tag: 031_65005 | feature code: WI25000140
+Feature 5 from 'pub:WHSE_TERRESTRIAL_ECOLOGY.BEI_BROAD_ECOSYSTEM_INVENTORY', located at approximately 48.9902°N, -125.4390°W. bei skey: 551995 | area: 3134351.5 | perimeter: 9622.232 | qbei tag: 031_64987 | feature code: WI25000140
+Feature 6 from 'pub:WHSE_TERRESTRIAL_ECOLOGY.BEI_BROAD_ECOSYSTEM_INVENTORY', located at approximately 48.9806°N, -125.4843°W. bei skey: 551892 | area: 11145935.0 | perimeter: 24535.723 | qbei tag: 031_64884 | feature code: WI25000140
+Feature 7 from 'pub:WHSE_TERRESTRIAL_ECOLOGY.BEI_BROAD_ECOSYSTEM_INVENTORY', located at approximately 48.9971°N, -125.4204°W. bei skey: 551983 | area: 1280029.0 | perimeter: 5258.215 | qbei tag: 031_64975 | feature code: WI25000140
+Feature 8 from 'pub:WHSE_TERRESTRIAL_ECOLOGY.BEI_BROAD_ECOSYSTEM_INVENTORY', located at approximately 48.9956°N, -125.4690°W. bei skey: 551915 | area: 6584419.0 | perimeter: 14347.731 | qbei tag: 031_64907 | feature code: WI25000140
+Feature 9 from 'pub:WHSE_TERRESTRIAL_ECOLOGY.BEI_BROAD_ECOSYSTEM_INVENTORY', located at approximately 48.9360°N, -125.5456°W. bei skey: 552125 | area: 2456547.25 | perimeter: 14928.406 | qbei tag: 031_65117 | feature code: WI25000140
+Feature 10 from 'pub:WHSE_TERRESTRIAL_ECOLOGY.BEI_BROAD_ECOSYSTEM_INVENTORY', located at approximately 48.9571°N, -125.5463°W. bei skey: 551998 | area: 33481654.0 | perimeter: 61540.082 | qbei tag: 031_64990 | feature code: WI25000140
+Feature 11 from 'pub:WHSE_TERRESTRIAL_ECOLOGY.BEI_BROAD_ECOSYSTEM_INVENTORY', located at approximately 48.9649°N, -125.5778°W. bei skey: 552076 | area: 305479.375 | perimeter: 2508.283 | qbei tag: 031_65068 | feature code: WI25000140
+Feature 12 from 'pub:WHSE_TERRESTRIAL_ECOLOGY.BEI_BROAD_ECOSYSTEM_INVENTORY', located at approximately 48.9824°N, -125.5156°W. bei skey: 551917 | area: 16600099.0 | perimeter: 21818.57 | qbei tag: 031_64909 | feature code: WI25000140
+Feature 13 from 'pub:WHSE_TERRESTRIAL_ECOLOGY.BEI_BROAD_ECOSYSTEM_INVENTORY', located at approximately 48.9854°N, -125.5457°W. bei skey: 551903 | area: 17709238.0 | perimeter: 34909.973 | qbei tag: 031_64895 | feature code: WI25000140
+Feature 14 from 'pub:WHSE_TERRESTRIAL_ECOLOGY.BEI_BROAD_ECOSYSTEM_INVENTORY', located at approximately 48.9938°N, -125.5898°W. bei skey: 551967 | area: 8649443.0 | perimeter: 13122.268 | qbei tag: 031_64958 | feature code: WI25000140
+Feature 15 from 'pub:WHSE_TERRESTRIAL_ECOLOGY.BEI_BROAD_ECOSYSTEM_INVENTORY', located at approximately 48.9982°N, -125.6659°W. bei skey: 551789 | area: 26927104.0 | perimeter: 42341.055 | qbei tag: 031_64781 | feature code: WI25000140
+Feature 16 from 'pub:WHSE_TERRESTRIAL_ECOLOGY.BEI_BROAD_ECOSYSTEM_INVENTORY', located at approximately 48.8906°N, -125.6689°W. bei skey: 498594 | area: 16726105088.0 | perimeter: 3854133.0 | qbei tag: 035_48443 | feature code: WI25000140
+
+=== ECOLOGICAL RELEVANCE ===
+This dataset may provide supporting spatial context for habitat analysis in the Ucluelet region.

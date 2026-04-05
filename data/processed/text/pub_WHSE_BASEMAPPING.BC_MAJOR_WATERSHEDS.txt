@@ -1,0 +1,31 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_BASEMAPPING.BC_MAJOR_WATERSHEDS
+Dataset ID:     pub:WHSE_BASEMAPPING.BC_MAJOR_WATERSHEDS
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  1
+Geometry Types: MultiPolygon
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.672271 S=48.920088 E=-125.4 N=49.0
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  area: numeric | range 16723888128.00 to 16723888128.00 | mean 16723888128.00
+  perimeter: numeric | range 3493671.00 to 3493671.00 | mean 3493671.00
+  major watershed code: categorical | values: WA2
+  major watershed system: categorical | values: Vancouver Island (West) Rivers
+  fcode: categorical | values: WA25100110
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 1
+  MultiPolygon: 1 features
+Area distribution (hectares): min=9609.5 median=9609.5 max=9609.5
+Approximate centre: 48.9700°N, -125.5081°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 1 features:
+
+Feature 0 from 'pub:WHSE_BASEMAPPING.BC_MAJOR_WATERSHEDS', located at approximately 48.9700°N, -125.5081°W. area: 16723888128 | perimeter: 3493671.0 | major watershed code: WA2 | major watershed system: Vancouver Island (West) Rivers | fcode: WA25100110
+
+=== ECOLOGICAL RELEVANCE ===
+Hydrological data indicates soil moisture patterns and drainage regimes. Chanterelles favour areas with consistent subsurface moisture but not waterlogged conditions — typically mid-slope positions near but not in riparian zones.

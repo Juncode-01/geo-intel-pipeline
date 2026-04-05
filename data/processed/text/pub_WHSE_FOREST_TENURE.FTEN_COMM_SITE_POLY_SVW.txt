@@ -1,0 +1,41 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_FOREST_TENURE.FTEN_COMM_SITE_POLY_SVW
+Dataset ID:     pub:WHSE_FOREST_TENURE.FTEN_COMM_SITE_POLY_SVW
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  1
+Geometry Types: Polygon
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.501494 S=48.961353 E=-125.498674 N=48.963209
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  forest file id: categorical | values: CS08408
+  site name: categorical | values: Frederick Repeater
+  primary tenure holder: categorical | values: MOFR-Radio Operations
+  occupancy date: categorical | values: 1986-04-28
+  expiry date: categorical | values: 9999-12-31
+  tower elevation: numeric | range 757.00 to 757.00 | mean 757.00
+  amendment id: numeric | range 0.00 to 0.00 | mean 0.00
+  map label: categorical | values: CS08408
+  feature area: numeric | range 39999.00 to 39999.00 | mean 39999.00
+  feature perimeter: numeric | range 800.00 to 800.00 | mean 800.00
+  feature class skey: numeric | range 2350.00 to 2350.00 | mean 2350.00
+  file status code: categorical | values: HI
+  admin district code: categorical | values: DSI
+  admin district name: categorical | values: South Island Natural Resource District
+  life cycle status code: categorical | values: ACTIVE
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 1
+  Polygon: 1 features
+Area distribution (hectares): min=4.0 median=4.0 max=4.0
+Approximate centre: 48.9623°N, -125.5001°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 1 features:
+
+Feature 0 from 'pub:WHSE_FOREST_TENURE.FTEN_COMM_SITE_POLY_SVW', located at approximately 48.9623°N, -125.5001°W. forest file id: CS08408 | site name: Frederick Repeater | primary tenure holder: MOFR-Radio Operations | occupancy date: 1986-04-28 00:00:00 | expiry date: 9999-12-31 00:00:00 | tower elevation: 757 | amendment id: 0 | map label: CS08408 | feature area: 39999 | feature perimeter: 800 | feature class skey: 2350 | file status code: HI | admin district code: DSI | admin district name: South Island Natural Resource District | life cycle status code: ACTIVE
+
+=== ECOLOGICAL RELEVANCE ===
+Vegetation and forest cover data indicates tree species composition. Chanterelles form mycorrhizal associations primarily with conifers — especially Douglas-fir, Sitka spruce, western hemlock, and western red cedar, all common in the Ucluelet region.

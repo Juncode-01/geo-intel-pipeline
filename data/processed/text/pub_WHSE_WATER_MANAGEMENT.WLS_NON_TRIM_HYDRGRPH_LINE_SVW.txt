@@ -1,0 +1,33 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_WATER_MANAGEMENT.WLS_NON_TRIM_HYDRGRPH_LINE_SVW
+Dataset ID:     pub:WHSE_WATER_MANAGEMENT.WLS_NON_TRIM_HYDRGRPH_LINE_SVW
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  6
+Geometry Types: LineString
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.592793 S=48.948446 E=-125.535854 N=48.980363
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  non trim hydrgrph line id: numeric | range 89418002.00 to 89427971.00 | mean 89421628.83
+  feature code: categorical | values: GA24850000
+  stream name: categorical | values: Bartram Creek, Grant Brook, Mountview Creek, North Brook
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 6
+  LineString: 6 features
+Approximate centre: 48.9625°N, -125.5742°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 6 features:
+
+Feature 0 from 'pub:WHSE_WATER_MANAGEMENT.WLS_NON_TRIM_HYDRGRPH_LINE_SVW', located at approximately 48.9490°N, -125.5377°W. non trim hydrgrph line id: 89419787 | feature code: GA24850000 | stream name: Bartram Creek
+Feature 1 from 'pub:WHSE_WATER_MANAGEMENT.WLS_NON_TRIM_HYDRGRPH_LINE_SVW', located at approximately 48.9550°N, -125.5851°W. non trim hydrgrph line id: 89427971 | feature code: GA24850000
+Feature 2 from 'pub:WHSE_WATER_MANAGEMENT.WLS_NON_TRIM_HYDRGRPH_LINE_SVW', located at approximately 48.9553°N, -125.5879°W. non trim hydrgrph line id: 89427970 | feature code: GA24850000
+Feature 3 from 'pub:WHSE_WATER_MANAGEMENT.WLS_NON_TRIM_HYDRGRPH_LINE_SVW', located at approximately 48.9627°N, -125.5913°W. non trim hydrgrph line id: 89418034 | feature code: GA24850000 | stream name: Mountview Creek
+Feature 4 from 'pub:WHSE_WATER_MANAGEMENT.WLS_NON_TRIM_HYDRGRPH_LINE_SVW', located at approximately 48.9722°N, -125.5879°W. non trim hydrgrph line id: 89418009 | feature code: GA24850000 | stream name: Grant Brook
+Feature 5 from 'pub:WHSE_WATER_MANAGEMENT.WLS_NON_TRIM_HYDRGRPH_LINE_SVW', located at approximately 48.9796°N, -125.5786°W. non trim hydrgrph line id: 89418002 | feature code: GA24850000 | stream name: North Brook
+
+=== ECOLOGICAL RELEVANCE ===
+Hydrological data indicates soil moisture patterns and drainage regimes. Chanterelles favour areas with consistent subsurface moisture but not waterlogged conditions — typically mid-slope positions near but not in riparian zones.

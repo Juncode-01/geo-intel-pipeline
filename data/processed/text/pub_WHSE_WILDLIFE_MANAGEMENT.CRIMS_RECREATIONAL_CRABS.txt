@@ -1,0 +1,51 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_RECREATIONAL_CRABS
+Dataset ID:     pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_RECREATIONAL_CRABS
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  3
+Geometry Types: Polygon
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.590906 S=48.942874 E=-125.4 N=48.979067
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  rcrab id: numeric | range 1461.00 to 1489.00 | mean 1472.67
+  ri: numeric | range 2.00 to 3.00 | mean 2.67
+  ri first nations: numeric | range 0.00 to 0.00 | mean 0.00
+  ri biological: numeric | range 0.00 to 0.00 | mean 0.00
+  ri commercial: numeric | range 0.00 to 0.00 | mean 0.00
+  ri recreational: numeric | range 0.00 to 0.00 | mean 0.00
+  location: categorical | values: Macoah Passage S., Ucluelet Harbour
+  species: categorical | values:  
+  other species: categorical | values:  
+  start season: categorical | values: JAN, MAY
+  close season: categorical | values: DEC, SEP
+  rcrab start: numeric | range 0.00 to 0.00 | mean 0.00
+  rcrab close: numeric | range 0.00 to 0.00 | mean 0.00
+  timing: categorical | values:  
+  gear type: categorical | values: Trap
+  rcrab comment: categorical | values:  
+  source1: categorical | values:  
+  source2: categorical | values:  
+  compiler: categorical | values: B. Lunn, H. Touchie
+  compile date: categorical | values: 1993-09-09, 1996-01-18
+  accuracy: numeric | range 0.00 to 0.00 | mean 0.00
+  data date: categorical | values:  
+  project: categorical | values: WCVI
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 3
+  Polygon: 3 features
+Area distribution (hectares): min=40.0 median=183.3 max=411.8
+Approximate centre: 48.9598°N, -125.5176°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 3 features:
+
+Feature 0 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_RECREATIONAL_CRABS', located at approximately 48.9529°N, -125.4089°W. rcrab id: 1489 | ri: 3 | ri first nations: 0 | ri biological: 0 | ri commercial: 0 | ri recreational: 0 | location: Macoah Passage S. | start season: JAN | close season: DEC | rcrab start: 0 | rcrab close: 0 | gear type: Trap | compiler: B. Lunn | compile date: 1993-09-09 00:00:00 | accuracy: 0 | project: WCVI
+Feature 1 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_RECREATIONAL_CRABS', located at approximately 48.9620°N, -125.5700°W. rcrab id: 1468 | ri: 2 | ri first nations: 0 | ri biological: 0 | ri commercial: 0 | ri recreational: 0 | location: Ucluelet Harbour | start season: MAY | close season: SEP | rcrab start: 0 | rcrab close: 0 | gear type: Trap | compiler: H. Touchie | compile date: 1996-01-18 00:00:00 | accuracy: 0 | project: WCVI
+Feature 2 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_RECREATIONAL_CRABS', located at approximately 48.9561°N, -125.4237°W. rcrab id: 1461 | ri: 3 | ri first nations: 0 | ri biological: 0 | ri commercial: 0 | ri recreational: 0 | location: Macoah Passage S. | start season: JAN | close season: DEC | rcrab start: 0 | rcrab close: 0 | gear type: Trap | compiler: B. Lunn | compile date: 1993-09-09 00:00:00 | accuracy: 0 | project: WCVI
+
+=== ECOLOGICAL RELEVANCE ===
+This dataset may provide supporting spatial context for habitat analysis in the Ucluelet region.

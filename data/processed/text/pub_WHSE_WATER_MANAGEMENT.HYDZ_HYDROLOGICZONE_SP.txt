@@ -1,0 +1,30 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_WATER_MANAGEMENT.HYDZ_HYDROLOGICZONE_SP
+Dataset ID:     pub:WHSE_WATER_MANAGEMENT.HYDZ_HYDROLOGICZONE_SP
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  1
+Geometry Types: Polygon
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.9 S=48.8 E=-125.4 N=49.0
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  hydrologiczone sp id: numeric | range 28.00 to 28.00 | mean 28.00
+  feature code: categorical | values: GF83070000
+  hydrologiczone no: numeric | range 29.00 to 29.00 | mean 29.00
+  hydrologiczone name: categorical | values: WESTERN VANCOUVER ISLAND
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 1
+  Polygon: 1 features
+Area distribution (hectares): min=62658.5 median=62658.5 max=62658.5
+Approximate centre: 48.9153°N, -125.6061°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 1 features:
+
+Feature 0 from 'pub:WHSE_WATER_MANAGEMENT.HYDZ_HYDROLOGICZONE_SP', located at approximately 48.9153°N, -125.6061°W. hydrologiczone sp id: 28 | feature code: GF83070000 | hydrologiczone no: 29 | hydrologiczone name: WESTERN VANCOUVER ISLAND
+
+=== ECOLOGICAL RELEVANCE ===
+Hydrological data indicates soil moisture patterns and drainage regimes. Chanterelles favour areas with consistent subsurface moisture but not waterlogged conditions — typically mid-slope positions near but not in riparian zones.

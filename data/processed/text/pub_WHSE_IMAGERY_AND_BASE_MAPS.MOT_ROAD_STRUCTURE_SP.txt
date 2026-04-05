@@ -1,0 +1,42 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_IMAGERY_AND_BASE_MAPS.MOT_ROAD_STRUCTURE_SP
+Dataset ID:     pub:WHSE_IMAGERY_AND_BASE_MAPS.MOT_ROAD_STRUCTURE_SP
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  5
+Geometry Types: LineString
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.58733 S=48.948495 E=-125.542391 N=48.98081
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  hwy structure class id: numeric | range 3022873.00 to 3027231.00 | mean 3025583.60
+  chris hwy structure road id: categorical | values: 2337, 2651, 3776, 7981, 7982
+  admin unit code: categorical | values: 402
+  admin unit name: categorical | values: Central Island  SA
+  cross section position: categorical | values: All Lanes, Under
+  bmis structure road id: categorical | values: 2337, 2651, 3776, 7981, 7982
+  bmis structure number: categorical | values: 06575, 06919, 07897, 07898, 08564
+  bmis structure name: categorical | values: MERCANTILE CR, PORT ALBION, SALMON CREEK CULV, THORNTON, WILLOWBRAE ROAD
+  bmis structure type: categorical | values: BRIDGE, CULVERT
+  bmis struct status type desc: categorical | values: OPEN/IN USE
+  chris anchor section id: numeric | range 1404327.00 to 3273482.00 | mean 1778158.20
+  start event location: numeric | range 0.15 to 3.74 | mean 1.43
+  end event location: numeric | range 0.17 to 3.76 | mean 1.45
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 5
+  LineString: 5 features
+Approximate centre: 48.9674°N, -125.5598°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 5 features:
+
+Feature 0 from 'pub:WHSE_IMAGERY_AND_BASE_MAPS.MOT_ROAD_STRUCTURE_SP', located at approximately 48.9486°N, -125.5424°W. hwy structure class id: 3022873 | chris hwy structure road id: 2651 | admin unit code: 402 | admin unit name: Central Island  SA | cross section position: All Lanes | bmis structure road id: 2651 | bmis structure number: 06919 | bmis structure name: PORT ALBION | bmis structure type: BRIDGE | bmis struct status type desc: OPEN/IN USE | chris anchor section id: 1404328 | start event location: 0.15 | end event location: 0.171
+Feature 1 from 'pub:WHSE_IMAGERY_AND_BASE_MAPS.MOT_ROAD_STRUCTURE_SP', located at approximately 48.9644°N, -125.5431°W. hwy structure class id: 3027230 | chris hwy structure road id: 7981 | admin unit code: 402 | admin unit name: Central Island  SA | cross section position: All Lanes | bmis structure road id: 7981 | bmis structure number: 07897 | bmis structure name: MERCANTILE CR | bmis structure type: BRIDGE | bmis struct status type desc: OPEN/IN USE | chris anchor section id: 1404327 | start event location: 3.743 | end event location: 3.761
+Feature 2 from 'pub:WHSE_IMAGERY_AND_BASE_MAPS.MOT_ROAD_STRUCTURE_SP', located at approximately 48.9727°N, -125.5872°W. hwy structure class id: 3023355 | chris hwy structure road id: 2337 | admin unit code: 402 | admin unit name: Central Island  SA | cross section position: All Lanes | bmis structure road id: 2337 | bmis structure number: 06575 | bmis structure name: WILLOWBRAE ROAD | bmis structure type: BRIDGE | bmis struct status type desc: OPEN/IN USE | chris anchor section id: 3273482 | start event location: 0.325 | end event location: 0.346
+Feature 3 from 'pub:WHSE_IMAGERY_AND_BASE_MAPS.MOT_ROAD_STRUCTURE_SP', located at approximately 48.9747°N, -125.5537°W. hwy structure class id: 3027231 | chris hwy structure road id: 7982 | admin unit code: 402 | admin unit name: Central Island  SA | cross section position: All Lanes | bmis structure road id: 7982 | bmis structure number: 07898 | bmis structure name: THORNTON | bmis structure type: BRIDGE | bmis struct status type desc: OPEN/IN USE | chris anchor section id: 1404327 | start event location: 2.218 | end event location: 2.239
+Feature 4 from 'pub:WHSE_IMAGERY_AND_BASE_MAPS.MOT_ROAD_STRUCTURE_SP', located at approximately 48.9808°N, -125.5719°W. hwy structure class id: 3027229 | chris hwy structure road id: 3776 | admin unit code: 402 | admin unit name: Central Island  SA | cross section position: Under | bmis structure road id: 3776 | bmis structure number: 08564 | bmis structure name: SALMON CREEK CULV | bmis structure type: CULVERT | bmis struct status type desc: OPEN/IN USE | chris anchor section id: 1404327 | start event location: 0.714 | end event location: 0.718
+
+=== ECOLOGICAL RELEVANCE ===
+This dataset may provide supporting spatial context for habitat analysis in the Ucluelet region.

@@ -1,0 +1,44 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_FOREST_VEGETATION.BEC_BIOGEOCLIMATIC_250K_SPG
+Dataset ID:     pub:WHSE_FOREST_VEGETATION.BEC_BIOGEOCLIMATIC_250K_SPG
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  4
+Geometry Types: Polygon, MultiPolygon
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.74431 S=48.801152 E=-125.4 N=49.0
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  feature class skey: numeric | range 435.00 to 435.00 | mean 435.00
+  zone: categorical | values: CWH
+  subzone: categorical | values: vh, vm
+  variant: categorical | values: 1, 2
+  natural disturbance: categorical | values: NDT1
+  bgc label: categorical | values: CWH vh 1, CWH vm 1, CWH vm 2
+  map label: categorical | values: CWHvh1, CWHvm1, CWHvm2
+  zone name: categorical | values: Coastal Western Hemlock
+  subzone name: categorical | values: Very Wet Hypermaritime, Very Wet Maritime
+  variant name: categorical | values: Montane, Southern, Submontane
+  phase name: categorical | values:  
+  natural disturbance name: categorical | values: Ecosystems with rare stand-initiating events
+  feature area: numeric | range 407959.00 to 23067330780.00 | mean 9947884427.25
+  feature length: numeric | range 2631.00 to 17675104.00 | mean 4946537.75
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 4
+  Polygon: 3 features
+  MultiPolygon: 1 features
+Area distribution (hectares): min=39.5 median=1585.3 max=25478.0
+Approximate centre: 48.9383°N, -125.5285°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 4 features:
+
+Feature 0 from 'pub:WHSE_FOREST_VEGETATION.BEC_BIOGEOCLIMATIC_250K_SPG', located at approximately 48.9724°N, -125.4716°W. feature class skey: 435 | zone: CWH | subzone: vm | variant: 2 | natural disturbance: NDT1 | bgc label: CWH vm 2 | map label: CWHvm2 | zone name: Coastal Western Hemlock | subzone name: Very Wet Maritime | variant name: Montane | natural disturbance name: Ecosystems with rare stand-initiating events | feature area: 407959 | feature length: 2631
+Feature 1 from 'pub:WHSE_FOREST_VEGETATION.BEC_BIOGEOCLIMATIC_250K_SPG', located at approximately 48.9905°N, -125.5044°W. feature class skey: 435 | zone: CWH | subzone: vm | variant: 2 | natural disturbance: NDT1 | bgc label: CWH vm 2 | map label: CWHvm2 | zone name: Coastal Western Hemlock | subzone name: Very Wet Maritime | variant name: Montane | natural disturbance name: Ecosystems with rare stand-initiating events | feature area: 844303 | feature length: 4978
+Feature 2 from 'pub:WHSE_FOREST_VEGETATION.BEC_BIOGEOCLIMATIC_250K_SPG', located at approximately 48.9331°N, -125.5338°W. feature class skey: 435 | zone: CWH | subzone: vh | variant: 1 | natural disturbance: NDT1 | bgc label: CWH vh 1 | map label: CWHvh1 | zone name: Coastal Western Hemlock | subzone name: Very Wet Hypermaritime | variant name: Southern | natural disturbance name: Ecosystems with rare stand-initiating events | feature area: 16722954667 | feature length: 2103438
+Feature 3 from 'pub:WHSE_FOREST_VEGETATION.BEC_BIOGEOCLIMATIC_250K_SPG', located at approximately 48.9792°N, -125.4854°W. feature class skey: 435 | zone: CWH | subzone: vm | variant: 1 | natural disturbance: NDT1 | bgc label: CWH vm 1 | map label: CWHvm1 | zone name: Coastal Western Hemlock | subzone name: Very Wet Maritime | variant name: Submontane | natural disturbance name: Ecosystems with rare stand-initiating events | feature area: 23067330780 | feature length: 17675104
+
+=== ECOLOGICAL RELEVANCE ===
+Vegetation and forest cover data indicates tree species composition. Chanterelles form mycorrhizal associations primarily with conifers — especially Douglas-fir, Sitka spruce, western hemlock, and western red cedar, all common in the Ucluelet region.

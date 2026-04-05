@@ -1,0 +1,29 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_PELAGIC_MARINE_ECOUNITS
+Dataset ID:     pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_PELAGIC_MARINE_ECOUNITS
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  1
+Geometry Types: Polygon
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.9 S=48.8 E=-125.4 N=49.0
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  pelagic unit id: numeric | range 273.00 to 273.00 | mean 273.00
+  stratification: categorical | values: M
+  salinity: categorical | values: E
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 1
+  Polygon: 1 features
+Area distribution (hectares): min=71870.5 median=71870.5 max=71870.5
+Approximate centre: 48.8906°N, -125.6689°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 1 features:
+
+Feature 0 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_PELAGIC_MARINE_ECOUNITS', located at approximately 48.8906°N, -125.6689°W. pelagic unit id: 273 | stratification: M | salinity: E
+
+=== ECOLOGICAL RELEVANCE ===
+This dataset may provide supporting spatial context for habitat analysis in the Ucluelet region.

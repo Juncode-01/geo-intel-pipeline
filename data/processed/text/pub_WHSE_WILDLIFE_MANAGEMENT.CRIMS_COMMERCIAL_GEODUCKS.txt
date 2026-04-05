@@ -1,0 +1,35 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_COMMERCIAL_GEODUCKS
+Dataset ID:     pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_COMMERCIAL_GEODUCKS
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  2
+Geometry Types: Polygon
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.442268 S=48.942144 E=-125.4 N=48.970865
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  cgeoduck id: numeric | range 877.00 to 898.00 | mean 887.50
+  ri: numeric | range 4.00 to 4.00 | mean 4.00
+  location: categorical | values: Forbes, David and Ines Islands, Maggie River shore
+  species: categorical | values: Geoduck
+  start season: categorical | values: FEB
+  close season: categorical | values: MAY
+  gear type: categorical | values: Dive
+  project: categorical | values: WCVI
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 2
+  Polygon: 2 features
+Area distribution (hectares): min=108.9 median=127.8 max=146.8
+Approximate centre: 48.9540°N, -125.4160°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 2 features:
+
+Feature 0 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_COMMERCIAL_GEODUCKS', located at approximately 48.9530°N, -125.4088°W. cgeoduck id: 898 | ri: 4 | location: Forbes, David and Ines Islands | species: Geoduck | start season: FEB | close season: MAY | gear type: Dive | project: WCVI
+Feature 1 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_COMMERCIAL_GEODUCKS', located at approximately 48.9548°N, -125.4213°W. cgeoduck id: 877 | ri: 4 | location: Maggie River shore | species: Geoduck | start season: FEB | close season: MAY | gear type: Dive | project: WCVI
+
+=== ECOLOGICAL RELEVANCE ===
+This dataset may provide supporting spatial context for habitat analysis in the Ucluelet region.

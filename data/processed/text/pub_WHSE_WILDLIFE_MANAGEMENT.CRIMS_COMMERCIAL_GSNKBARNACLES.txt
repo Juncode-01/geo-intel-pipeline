@@ -1,0 +1,36 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_COMMERCIAL_GSNKBARNACLES
+Dataset ID:     pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_COMMERCIAL_GSNKBARNACLES
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  3
+Geometry Types: Polygon
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.577818 S=48.919224 E=-125.536622 N=48.946482
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  cgooseb id: numeric | range 716.00 to 724.00 | mean 719.00
+  ri: numeric | range 4.00 to 4.00 | mean 4.00
+  compile date: categorical | values: 1993-09-09, 1994-09-09
+  gear type: categorical | values: Hand
+  location: categorical | values: Amphitrite Pt., Outer Ucluth Peninsula
+  start season: categorical | values: JAN
+  close season: categorical | values: DEC
+  project: categorical | values: WCVI
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 3
+  Polygon: 3 features
+Area distribution (hectares): min=1.0 median=14.6 max=15.9
+Approximate centre: 48.9305°N, -125.5537°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 3 features:
+
+Feature 0 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_COMMERCIAL_GSNKBARNACLES', located at approximately 48.9235°N, -125.5446°W. cgooseb id: 724 | ri: 4 | compile date: 1993-09-09 00:00:00 | gear type: Hand | location: Amphitrite Pt. | start season: JAN | close season: DEC | project: WCVI
+Feature 1 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_COMMERCIAL_GSNKBARNACLES', located at approximately 48.9371°N, -125.5619°W. cgooseb id: 717 | ri: 4 | compile date: 1994-09-09 00:00:00 | gear type: Hand | location: Outer Ucluth Peninsula | start season: JAN | close season: DEC | project: WCVI
+Feature 2 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_COMMERCIAL_GSNKBARNACLES', located at approximately 48.9452°N, -125.5766°W. cgooseb id: 716 | ri: 4 | compile date: 1994-09-09 00:00:00 | gear type: Hand | location: Outer Ucluth Peninsula | start season: JAN | close season: DEC | project: WCVI
+
+=== ECOLOGICAL RELEVANCE ===
+This dataset may provide supporting spatial context for habitat analysis in the Ucluelet region.

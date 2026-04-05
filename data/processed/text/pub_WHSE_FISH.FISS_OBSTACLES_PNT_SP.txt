@@ -1,0 +1,52 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_FISH.FISS_OBSTACLES_PNT_SP
+Dataset ID:     pub:WHSE_FISH.FISS_OBSTACLES_PNT_SP
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  11
+Geometry Types: Point
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.574419 S=48.935772 E=-125.446632 N=48.977928
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  fish obstacle point id: numeric | range 26368.00 to 33314.00 | mean 27673.09
+  wbody id: numeric | range 318976.00 to 319002.00 | mean 318985.00
+  obstacle code: categorical | values: C, CV, D, F, X
+  obstacle name: categorical | values: Cascade, Culvert, Dam, Falls, Log jam
+  source: text | 11 unique values | sample: FISS Database: survey_id 16009, FISS Database: survey_id 16065, FISS Database: survey_id 16066, FISS Database: survey_id 16123, FISS Database: survey_id 16124...
+  source ref: categorical | values:  CATALOGUE OF SALMON STREAMS AND SPAWNING ESCAPEMENTS OF STATISTICAL AREAS 22 AND 23  (NITINAT AND BARKLEY SOUND), 01-JAN-89 FISHERY OFFICER, PORT ALBERNI  (1975 - PRESENT).  PERSONAL INFORMATION.  INTERVIEWED JAN 18 - 19, 1989, 01-JAN-95 SISS map information (source not indicated), 01-MAR-01 COLLECTION SUMMARY FOR COASTAL CUTTHROAT TROUT (ONCORHYNCHUS CLARKI CLARKI) SAMPLED JUNE - SEPT. 2001 ON THE WEST COAST OF VANCOUVER ISLAND
+  height: numeric | range 0.00 to 0.00 | mean 0.00
+  length: numeric | range 0.00 to 0.00 | mean 0.00
+  utm zone: numeric | range 10.00 to 10.00 | mean 10.00
+  utm easting: numeric | range 311626.00 to 320869.00 | mean 316333.55
+  utm northing: numeric | range 5423347.00 to 5428196.00 | mean 5425583.45
+  waterbody identifier: categorical | values: 00000ALBN
+  waterbody type: categorical | values: Stream
+  gazetted name: categorical | values: ITATSOO CREEK, MERCANTILE CREEK, SMITH CREEK, THORNTON CREEK
+  new watershed code: categorical | values: 930-236100-00000-00000-0000-0000-000-000-000-000-000-000, 930-236300-00000-00000-0000-0000-000-000-000-000-000-000, 930-239300-00000-00000-0000-0000-000-000-000-000-000-000, 930-242800-00000-00000-0000-0000-000-000-000-000-000-000, 930-243300-00000-00000-0000-0000-000-000-000-000-000-000, 930-243600-00000-00000-0000-0000-000-000-000-000-000-000, 930-244500-00000-00000-0000-0000-000-000-000-000-000-000
+  trimmed watershed code: categorical | values: 930-236100, 930-236300, 930-239300, 930-242800, 930-243300, 930-243600, 930-244500
+  feature code: categorical | values: GA11215110, GA11215130, P130004000, P130005000, P130007000
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 11
+  Point: 11 features
+Approximate centre: 48.9579°N, -125.5091°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 11 features:
+
+Feature 0 from 'pub:WHSE_FISH.FISS_OBSTACLES_PNT_SP', located at approximately 48.9358°N, -125.5077°W. fish obstacle point id: 26482 | wbody id: 318982 | obstacle code: F | obstacle name: Falls | source: FISS Database: survey_id 16123 | source ref: 01-JAN-89 FISHERY OFFICER, PORT ALBERNI  (1975 - PRESENT).  PERSONAL INFORMATION.  INTERVIEWED JAN 18 - 19, 1989 | height: 0 | length: 0 | utm zone: 10 | utm easting: 316351 | utm northing: 5423347 | waterbody identifier: 00000ALBN | waterbody type: Stream | gazetted name: ITATSOO CREEK | new watershed code: 930-239300-00000-00000-0000-0000-000-000-000-000-000-000 | trimmed watershed code: 930-239300 | feature code: P130004000
+Feature 1 from 'pub:WHSE_FISH.FISS_OBSTACLES_PNT_SP', located at approximately 48.9569°N, -125.5396°W. fish obstacle point id: 26368 | wbody id: 318986 | obstacle code: C | obstacle name: Cascade | source: FISS Database: survey_id 16009 | source ref: 01-JAN-89 FISHERY OFFICER, PORT ALBERNI  (1975 - PRESENT).  PERSONAL INFORMATION.  INTERVIEWED JAN 18 - 19, 1989 | height: 0 | length: 0 | utm zone: 10 | utm easting: 314097 | utm northing: 5425768 | waterbody identifier: 00000ALBN | waterbody type: Stream | new watershed code: 930-242800-00000-00000-0000-0000-000-000-000-000-000-000 | trimmed watershed code: 930-242800 | feature code: GA11215110
+Feature 2 from 'pub:WHSE_FISH.FISS_OBSTACLES_PNT_SP', located at approximately 48.9637°N, -125.5513°W. fish obstacle point id: 26425 | wbody id: 318989 | obstacle code: D | obstacle name: Dam | source: FISS Database: survey_id 16066 | source ref:  CATALOGUE OF SALMON STREAMS AND SPAWNING ESCAPEMENTS OF STATISTICAL AREAS 22 AND 23  (NITINAT AND BARKLEY SOUND) | height: 0 | length: 0 | utm zone: 10 | utm easting: 313262 | utm northing: 5426563 | waterbody identifier: 00000ALBN | waterbody type: Stream | gazetted name: MERCANTILE CREEK | new watershed code: 930-243300-00000-00000-0000-0000-000-000-000-000-000-000 | trimmed watershed code: 930-243300 | feature code: P130007000
+Feature 3 from 'pub:WHSE_FISH.FISS_OBSTACLES_PNT_SP', located at approximately 48.9641°N, -125.5507°W. fish obstacle point id: 26483 | wbody id: 318989 | obstacle code: F | obstacle name: Falls | source: FISS Database: survey_id 16124 | source ref:  CATALOGUE OF SALMON STREAMS AND SPAWNING ESCAPEMENTS OF STATISTICAL AREAS 22 AND 23  (NITINAT AND BARKLEY SOUND) | height: 0 | length: 0 | utm zone: 10 | utm easting: 313312 | utm northing: 5426602 | waterbody identifier: 00000ALBN | waterbody type: Stream | gazetted name: MERCANTILE CREEK | new watershed code: 930-243300-00000-00000-0000-0000-000-000-000-000-000-000 | trimmed watershed code: 930-243300 | feature code: P130004000
+Feature 4 from 'pub:WHSE_FISH.FISS_OBSTACLES_PNT_SP', located at approximately 48.9668°N, -125.5603°W. fish obstacle point id: 26484 | wbody id: 318999 | obstacle code: F | obstacle name: Falls | source: FISS Database: survey_id 16125 | source ref: 01-JAN-95 SISS map information (source not indicated) | height: 0 | length: 0 | utm zone: 10 | utm easting: 312621 | utm northing: 5426926 | waterbody identifier: 00000ALBN | waterbody type: Stream | gazetted name: THORNTON CREEK | new watershed code: 930-243600-00000-00000-0000-0000-000-000-000-000-000-000 | trimmed watershed code: 930-243600 | feature code: P130004000
+Feature 5 from 'pub:WHSE_FISH.FISS_OBSTACLES_PNT_SP', located at approximately 48.9779°N, -125.5744°W. fish obstacle point id: 33314 | wbody id: 319002 | obstacle code: CV | obstacle name: Culvert | source: FISS Database: survey_id 618539 | source ref: 01-MAR-01 COLLECTION SUMMARY FOR COASTAL CUTTHROAT TROUT (ONCORHYNCHUS CLARKI CLARKI) SAMPLED JUNE - SEPT. 2001 ON THE WEST COAST OF VANCOUVER ISLAND | height: 0 | length: 0 | utm zone: 10 | utm easting: 311626 | utm northing: 5428196 | waterbody identifier: 00000ALBN | waterbody type: Stream | gazetted name: SMITH CREEK | new watershed code: 930-244500-00000-00000-0000-0000-000-000-000-000-000-000 | trimmed watershed code: 930-244500 | feature code: P130005000
+Feature 6 from 'pub:WHSE_FISH.FISS_OBSTACLES_PNT_SP', located at approximately 48.9358°N, -125.5077°W. fish obstacle point id: 26424 | wbody id: 318982 | obstacle code: D | obstacle name: Dam | source: FISS Database: survey_id 16065 | source ref:  CATALOGUE OF SALMON STREAMS AND SPAWNING ESCAPEMENTS OF STATISTICAL AREAS 22 AND 23  (NITINAT AND BARKLEY SOUND) | height: 0 | length: 0 | utm zone: 10 | utm easting: 316351 | utm northing: 5423347 | waterbody identifier: 00000ALBN | waterbody type: Stream | gazetted name: ITATSOO CREEK | new watershed code: 930-239300-00000-00000-0000-0000-000-000-000-000-000-000 | trimmed watershed code: 930-239300 | feature code: P130007000
+Feature 7 from 'pub:WHSE_FISH.FISS_OBSTACLES_PNT_SP', located at approximately 48.9482°N, -125.4466°W. fish obstacle point id: 31970 | wbody id: 318978 | obstacle code: C | obstacle name: Cascade | source: FISS Database: survey_id 21664 | source ref:  CATALOGUE OF SALMON STREAMS AND SPAWNING ESCAPEMENTS OF STATISTICAL AREAS 22 AND 23  (NITINAT AND BARKLEY SOUND) | height: 0 | length: 0 | utm zone: 10 | utm easting: 320869 | utm northing: 5424580 | waterbody identifier: 00000ALBN | waterbody type: Stream | new watershed code: 930-236300-00000-00000-0000-0000-000-000-000-000-000-000 | trimmed watershed code: 930-236300 | feature code: GA11215110
+Feature 8 from 'pub:WHSE_FISH.FISS_OBSTACLES_PNT_SP', located at approximately 48.9530°N, -125.4496°W. fish obstacle point id: 26817 | wbody id: 318976 | obstacle code: X | obstacle name: Log jam | source: FISS Database: survey_id 16468 | source ref: 01-JAN-89 FISHERY OFFICER, PORT ALBERNI  (1975 - PRESENT).  PERSONAL INFORMATION.  INTERVIEWED JAN 18 - 19, 1989 | height: 0 | length: 0 | utm zone: 10 | utm easting: 320669 | utm northing: 5425128 | waterbody identifier: 00000ALBN | waterbody type: Stream | new watershed code: 930-236100-00000-00000-0000-0000-000-000-000-000-000-000 | trimmed watershed code: 930-236100 | feature code: GA11215130
+Feature 9 from 'pub:WHSE_FISH.FISS_OBSTACLES_PNT_SP', located at approximately 48.9547°N, -125.4534°W. fish obstacle point id: 26818 | wbody id: 318976 | obstacle code: X | obstacle name: Log jam | source: FISS Database: survey_id 16469 | source ref: 01-JAN-89 FISHERY OFFICER, PORT ALBERNI  (1975 - PRESENT).  PERSONAL INFORMATION.  INTERVIEWED JAN 18 - 19, 1989 | height: 0 | length: 0 | utm zone: 10 | utm easting: 320396 | utm northing: 5425323 | waterbody identifier: 00000ALBN | waterbody type: Stream | new watershed code: 930-236100-00000-00000-0000-0000-000-000-000-000-000-000 | trimmed watershed code: 930-236100 | feature code: GA11215130
+Feature 10 from 'pub:WHSE_FISH.FISS_OBSTACLES_PNT_SP', located at approximately 48.9575°N, -125.4574°W. fish obstacle point id: 26819 | wbody id: 318976 | obstacle code: X | obstacle name: Log jam | source: FISS Database: survey_id 16470 | source ref: 01-JAN-89 FISHERY OFFICER, PORT ALBERNI  (1975 - PRESENT).  PERSONAL INFORMATION.  INTERVIEWED JAN 18 - 19, 1989 | height: 0 | length: 0 | utm zone: 10 | utm easting: 320115 | utm northing: 5425638 | waterbody identifier: 00000ALBN | waterbody type: Stream | new watershed code: 930-236100-00000-00000-0000-0000-000-000-000-000-000-000 | trimmed watershed code: 930-236100 | feature code: GA11215130
+
+=== ECOLOGICAL RELEVANCE ===
+This dataset may provide supporting spatial context for habitat analysis in the Ucluelet region.

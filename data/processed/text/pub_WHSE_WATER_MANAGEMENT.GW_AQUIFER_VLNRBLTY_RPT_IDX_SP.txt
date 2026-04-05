@@ -1,0 +1,29 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_WATER_MANAGEMENT.GW_AQUIFER_VLNRBLTY_RPT_IDX_SP
+Dataset ID:     pub:WHSE_WATER_MANAGEMENT.GW_AQUIFER_VLNRBLTY_RPT_IDX_SP
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  1
+Geometry Types: Polygon
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.841001 S=48.81894 E=-125.4 N=49.0
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  aquifer vlnrblty rpt idx id: numeric | range 9144.00 to 9144.00 | mean 9144.00
+  technical report url: categorical | values: http://a100.gov.bc.ca/pub/acat/public/viewReport.do?reportId=19413
+  guidance report url: categorical | values: http://a100.gov.bc.ca/pub/acat/public/viewReport.do?reportId=23346
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 1
+  Polygon: 1 features
+Area distribution (hectares): min=32482.7 median=32482.7 max=32482.7
+Approximate centre: 48.9396°N, -125.5470°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 1 features:
+
+Feature 0 from 'pub:WHSE_WATER_MANAGEMENT.GW_AQUIFER_VLNRBLTY_RPT_IDX_SP', located at approximately 48.9396°N, -125.5470°W. aquifer vlnrblty rpt idx id: 9144 | technical report url: http://a100.gov.bc.ca/pub/acat/public/viewReport.do?reportId=19413 | guidance report url: http://a100.gov.bc.ca/pub/acat/public/viewReport.do?reportId=23346
+
+=== ECOLOGICAL RELEVANCE ===
+Hydrological data indicates soil moisture patterns and drainage regimes. Chanterelles favour areas with consistent subsurface moisture but not waterlogged conditions — typically mid-slope positions near but not in riparian zones.

@@ -1,0 +1,34 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_GRAY_WHALES
+Dataset ID:     pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_GRAY_WHALES
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  3
+Geometry Types: MultiPolygon, Polygon
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.9 S=48.8 E=-125.4 N=49.0
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  gwhale id: numeric | range 15429.00 to 29483.00 | mean 20340.00
+  ri: numeric | range 1.00 to 3.00 | mean 2.00
+  species: categorical | values: GRAY WHALE
+  gwhale comment: categorical | values: Migrant - Monthly, Resident - Monthly
+  project: categorical | values: WCVI_M, WCVI_R
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 3
+  Polygon: 2 features
+  MultiPolygon: 1 features
+Area distribution (hectares): min=6902.5 median=8776.6 max=56059.0
+Approximate centre: 48.8906°N, -125.6692°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 3 features:
+
+Feature 0 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_GRAY_WHALES', located at approximately 48.9202°N, -125.5689°W. gwhale id: 29483 | ri: 2 | species: GRAY WHALE | gwhale comment: Migrant - Monthly | project: WCVI_M
+Feature 1 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_GRAY_WHALES', located at approximately 48.9308°N, -125.5017°W. gwhale id: 15429 | ri: 1 | species: GRAY WHALE | gwhale comment: Resident - Monthly | project: WCVI_R
+Feature 2 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_GRAY_WHALES', located at approximately 48.8806°N, -125.7078°W. gwhale id: 16108 | ri: 3 | species: GRAY WHALE | gwhale comment: Migrant - Monthly | project: WCVI_M
+
+=== ECOLOGICAL RELEVANCE ===
+This dataset may provide supporting spatial context for habitat analysis in the Ucluelet region.

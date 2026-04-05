@@ -1,0 +1,28 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_BASEMAPPING.NTS_BC_WATER_POINTS_125M
+Dataset ID:     pub:WHSE_BASEMAPPING.NTS_BC_WATER_POINTS_125M
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  1
+Geometry Types: Point
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.400252 S=48.989872 E=-125.400252 N=48.989872
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  elevation: numeric | range 0.00 to 0.00 | mean 0.00
+  rotation: numeric | range 19.00 to 19.00 | mean 19.00
+  fcode: categorical | values: GA90002110
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 1
+  Point: 1 features
+Approximate centre: 48.9899°N, -125.4003°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 1 features:
+
+Feature 0 from 'pub:WHSE_BASEMAPPING.NTS_BC_WATER_POINTS_125M', located at approximately 48.9899°N, -125.4003°W. elevation: 0 | rotation: 19 | fcode: GA90002110
+
+=== ECOLOGICAL RELEVANCE ===
+Hydrological data indicates soil moisture patterns and drainage regimes. Chanterelles favour areas with consistent subsurface moisture but not waterlogged conditions — typically mid-slope positions near but not in riparian zones.

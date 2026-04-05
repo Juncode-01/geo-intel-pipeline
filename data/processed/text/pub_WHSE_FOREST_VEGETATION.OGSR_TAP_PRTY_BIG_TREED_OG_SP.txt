@@ -1,0 +1,49 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_FOREST_VEGETATION.OGSR_TAP_PRTY_BIG_TREED_OG_SP
+Dataset ID:     pub:WHSE_FOREST_VEGETATION.OGSR_TAP_PRTY_BIG_TREED_OG_SP
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  15
+Geometry Types: Polygon
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.671187 S=48.905322 E=-125.432654 N=49.0
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  ogsr tpbto sysid: numeric | range 170644.00 to 173494.00 | mean 172198.93
+  priority big treed og id: numeric | range 204190.00 to 207767.00 | mean 206155.40
+  tap classification label: categorical | values: Priority big-treed old growth
+  region name: categorical | values: West Coast Natural Resource Region
+  district name: categorical | values: South Island Natural Resource District
+  landscape unit provid: numeric | range 61.00 to 2227.00 | mean 1091.00
+  landscape unit name: categorical | values: Barkley Sound Islands, Clayoquot SMZ, Maggie
+  landscape unit number: categorical | values: 999
+  bgc label: categorical | values: CWH vh 1, CWH vm 1
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 15
+  Polygon: 15 features
+Area distribution (hectares): min=0.2 median=5.1 max=24.8
+Approximate centre: 48.9700°N, -125.5344°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 15 features:
+
+Feature 0 from 'pub:WHSE_FOREST_VEGETATION.OGSR_TAP_PRTY_BIG_TREED_OG_SP', located at approximately 48.9070°N, -125.4706°W. ogsr tpbto sysid: 170644 | priority big treed og id: 204190 | tap classification label: Priority big-treed old growth | region name: West Coast Natural Resource Region | district name: South Island Natural Resource District | landscape unit provid: 61 | landscape unit name: Barkley Sound Islands | bgc label: CWH vh 1
+Feature 1 from 'pub:WHSE_FOREST_VEGETATION.OGSR_TAP_PRTY_BIG_TREED_OG_SP', located at approximately 48.9424°N, -125.4788°W. ogsr tpbto sysid: 171964 | priority big treed og id: 205871 | tap classification label: Priority big-treed old growth | region name: West Coast Natural Resource Region | district name: South Island Natural Resource District | landscape unit provid: 815 | landscape unit name: Maggie | bgc label: CWH vh 1
+Feature 2 from 'pub:WHSE_FOREST_VEGETATION.OGSR_TAP_PRTY_BIG_TREED_OG_SP', located at approximately 48.9437°N, -125.4937°W. ogsr tpbto sysid: 171965 | priority big treed og id: 205872 | tap classification label: Priority big-treed old growth | region name: West Coast Natural Resource Region | district name: South Island Natural Resource District | landscape unit provid: 815 | landscape unit name: Maggie | bgc label: CWH vh 1
+Feature 3 from 'pub:WHSE_FOREST_VEGETATION.OGSR_TAP_PRTY_BIG_TREED_OG_SP', located at approximately 48.9611°N, -125.4807°W. ogsr tpbto sysid: 171971 | priority big treed og id: 205878 | tap classification label: Priority big-treed old growth | region name: West Coast Natural Resource Region | district name: South Island Natural Resource District | landscape unit provid: 815 | landscape unit name: Maggie | bgc label: CWH vm 1
+Feature 4 from 'pub:WHSE_FOREST_VEGETATION.OGSR_TAP_PRTY_BIG_TREED_OG_SP', located at approximately 48.9815°N, -125.4576°W. ogsr tpbto sysid: 171972 | priority big treed og id: 205879 | tap classification label: Priority big-treed old growth | region name: West Coast Natural Resource Region | district name: South Island Natural Resource District | landscape unit provid: 815 | landscape unit name: Maggie | bgc label: CWH vm 1
+Feature 5 from 'pub:WHSE_FOREST_VEGETATION.OGSR_TAP_PRTY_BIG_TREED_OG_SP', located at approximately 48.9913°N, -125.4341°W. ogsr tpbto sysid: 171973 | priority big treed og id: 205880 | tap classification label: Priority big-treed old growth | region name: West Coast Natural Resource Region | district name: South Island Natural Resource District | landscape unit provid: 815 | landscape unit name: Maggie | bgc label: CWH vm 1
+Feature 6 from 'pub:WHSE_FOREST_VEGETATION.OGSR_TAP_PRTY_BIG_TREED_OG_SP', located at approximately 48.9925°N, -125.4332°W. ogsr tpbto sysid: 171967 | priority big treed og id: 205874 | tap classification label: Priority big-treed old growth | region name: West Coast Natural Resource Region | district name: South Island Natural Resource District | landscape unit provid: 815 | landscape unit name: Maggie | bgc label: CWH vh 1
+Feature 7 from 'pub:WHSE_FOREST_VEGETATION.OGSR_TAP_PRTY_BIG_TREED_OG_SP', located at approximately 48.9926°N, -125.5115°W. ogsr tpbto sysid: 171974 | priority big treed og id: 205881 | tap classification label: Priority big-treed old growth | region name: West Coast Natural Resource Region | district name: South Island Natural Resource District | landscape unit provid: 815 | landscape unit name: Maggie | bgc label: CWH vm 1
+Feature 8 from 'pub:WHSE_FOREST_VEGETATION.OGSR_TAP_PRTY_BIG_TREED_OG_SP', located at approximately 48.9066°N, -125.5137°W. ogsr tpbto sysid: 170646 | priority big treed og id: 204192 | tap classification label: Priority big-treed old growth | region name: West Coast Natural Resource Region | district name: South Island Natural Resource District | landscape unit provid: 61 | landscape unit name: Barkley Sound Islands | bgc label: CWH vh 1
+Feature 9 from 'pub:WHSE_FOREST_VEGETATION.OGSR_TAP_PRTY_BIG_TREED_OG_SP', located at approximately 48.9800°N, -125.6114°W. ogsr tpbto sysid: 173490 | priority big treed og id: 207763 | tap classification label: Priority big-treed old growth | region name: West Coast Natural Resource Region | district name: South Island Natural Resource District | landscape unit provid: 2227 | landscape unit name: Clayoquot SMZ | landscape unit number: 999 | bgc label: CWH vh 1
+Feature 10 from 'pub:WHSE_FOREST_VEGETATION.OGSR_TAP_PRTY_BIG_TREED_OG_SP', located at approximately 48.9893°N, -125.5852°W. ogsr tpbto sysid: 171966 | priority big treed og id: 205873 | tap classification label: Priority big-treed old growth | region name: West Coast Natural Resource Region | district name: South Island Natural Resource District | landscape unit provid: 815 | landscape unit name: Maggie | bgc label: CWH vh 1
+Feature 11 from 'pub:WHSE_FOREST_VEGETATION.OGSR_TAP_PRTY_BIG_TREED_OG_SP', located at approximately 48.9973°N, -125.6282°W. ogsr tpbto sysid: 173492 | priority big treed og id: 207765 | tap classification label: Priority big-treed old growth | region name: West Coast Natural Resource Region | district name: South Island Natural Resource District | landscape unit provid: 2227 | landscape unit name: Clayoquot SMZ | landscape unit number: 999 | bgc label: CWH vh 1
+Feature 12 from 'pub:WHSE_FOREST_VEGETATION.OGSR_TAP_PRTY_BIG_TREED_OG_SP', located at approximately 48.9967°N, -125.5119°W. ogsr tpbto sysid: 171975 | priority big treed og id: 205882 | tap classification label: Priority big-treed old growth | region name: West Coast Natural Resource Region | district name: South Island Natural Resource District | landscape unit provid: 815 | landscape unit name: Maggie | bgc label: CWH vm 1
+Feature 13 from 'pub:WHSE_FOREST_VEGETATION.OGSR_TAP_PRTY_BIG_TREED_OG_SP', located at approximately 48.9969°N, -125.6689°W. ogsr tpbto sysid: 173491 | priority big treed og id: 207764 | tap classification label: Priority big-treed old growth | region name: West Coast Natural Resource Region | district name: South Island Natural Resource District | landscape unit provid: 2227 | landscape unit name: Clayoquot SMZ | landscape unit number: 999 | bgc label: CWH vh 1
+Feature 14 from 'pub:WHSE_FOREST_VEGETATION.OGSR_TAP_PRTY_BIG_TREED_OG_SP', located at approximately 48.9996°N, -125.6597°W. ogsr tpbto sysid: 173494 | priority big treed og id: 207767 | tap classification label: Priority big-treed old growth | region name: West Coast Natural Resource Region | district name: South Island Natural Resource District | landscape unit provid: 2227 | landscape unit name: Clayoquot SMZ | landscape unit number: 999 | bgc label: CWH vh 1
+
+=== ECOLOGICAL RELEVANCE ===
+Vegetation and forest cover data indicates tree species composition. Chanterelles form mycorrhizal associations primarily with conifers — especially Douglas-fir, Sitka spruce, western hemlock, and western red cedar, all common in the Ucluelet region.

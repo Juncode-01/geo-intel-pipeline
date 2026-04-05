@@ -1,0 +1,33 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_WILDLIFE_MANAGEMENT.WAA_TRAPLINE_AREAS_SP
+Dataset ID:     pub:WHSE_WILDLIFE_MANAGEMENT.WAA_TRAPLINE_AREAS_SP
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  5
+Geometry Types: Polygon
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.617818 S=48.901942 E=-125.4 N=49.0
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  trapline areas sp id: numeric | range 2904002.00 to 2904032.00 | mean 2904024.80
+  feature code: categorical | values: WI35100110
+  trapline area identifier: categorical | values: TR0108T403, T_0108T435, T_0108T480, T_0108T487, T_0108T497
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 5
+  Polygon: 5 features
+Area distribution (hectares): min=164.3 median=1649.3 max=4691.4
+Approximate centre: 48.9643°N, -125.5025°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 5 features:
+
+Feature 0 from 'pub:WHSE_WILDLIFE_MANAGEMENT.WAA_TRAPLINE_AREAS_SP', located at approximately 48.9433°N, -125.5474°W. trapline areas sp id: 2904032 | feature code: WI35100110 | trapline area identifier: T_0108T435
+Feature 1 from 'pub:WHSE_WILDLIFE_MANAGEMENT.WAA_TRAPLINE_AREAS_SP', located at approximately 48.9553°N, -125.5799°W. trapline areas sp id: 2904031 | feature code: WI35100110 | trapline area identifier: T_0108T480
+Feature 2 from 'pub:WHSE_WILDLIFE_MANAGEMENT.WAA_TRAPLINE_AREAS_SP', located at approximately 48.9548°N, -125.4667°W. trapline areas sp id: 2904029 | feature code: WI35100110 | trapline area identifier: T_0108T487
+Feature 3 from 'pub:WHSE_WILDLIFE_MANAGEMENT.WAA_TRAPLINE_AREAS_SP', located at approximately 48.9543°N, -125.4075°W. trapline areas sp id: 2904030 | feature code: WI35100110 | trapline area identifier: T_0108T497
+Feature 4 from 'pub:WHSE_WILDLIFE_MANAGEMENT.WAA_TRAPLINE_AREAS_SP', located at approximately 48.9791°N, -125.4998°W. trapline areas sp id: 2904002 | feature code: WI35100110 | trapline area identifier: TR0108T403
+
+=== ECOLOGICAL RELEVANCE ===
+This dataset may provide supporting spatial context for habitat analysis in the Ucluelet region.

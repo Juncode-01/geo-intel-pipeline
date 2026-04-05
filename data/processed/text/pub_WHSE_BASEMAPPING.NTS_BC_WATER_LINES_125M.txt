@@ -1,0 +1,96 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_BASEMAPPING.NTS_BC_WATER_LINES_125M
+Dataset ID:     pub:WHSE_BASEMAPPING.NTS_BC_WATER_LINES_125M
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  70
+Geometry Types: LineString
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.673164 S=48.89145 E=-125.4 N=49.0
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  length: numeric | range 29.97 to 34107.89 | mean 1846.06
+  fcode: categorical | values: GA24850000, GB15300000, GE14850000, GG05800000
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 70
+  LineString: 70 features
+Approximate centre: 48.9573°N, -125.5203°W
+
+=== FEATURE DESCRIPTIONS ===
+Dataset has 70 features. Describing a representative sample of 70:
+
+Feature 22 from 'pub:WHSE_BASEMAPPING.NTS_BC_WATER_LINES_125M', located at approximately 48.9443°N, -125.5246°W. length: 1461.089 | fcode: GB15300000
+Feature 0 from 'pub:WHSE_BASEMAPPING.NTS_BC_WATER_LINES_125M', located at approximately 48.9014°N, -125.5113°W. length: 467.409 | fcode: GE14850000
+Feature 49 from 'pub:WHSE_BASEMAPPING.NTS_BC_WATER_LINES_125M', located at approximately 48.9954°N, -125.4220°W. length: 1651.109 | fcode: GB15300000
+Feature 4 from 'pub:WHSE_BASEMAPPING.NTS_BC_WATER_LINES_125M', located at approximately 48.9189°N, -125.4853°W. length: 576.254 | fcode: GE14850000
+Feature 54 from 'pub:WHSE_BASEMAPPING.NTS_BC_WATER_LINES_125M', located at approximately 48.9848°N, -125.5437°W. length: 667.248 | fcode: GA24850000
+Feature 18 from 'pub:WHSE_BASEMAPPING.NTS_BC_WATER_LINES_125M', located at approximately 48.9474°N, -125.4539°W. length: 1202.967 | fcode: GA24850000
+Feature 10 from 'pub:WHSE_BASEMAPPING.NTS_BC_WATER_LINES_125M', located at approximately 48.8924°N, -125.4554°W. length: 603.619 | fcode: GE14850000
+Feature 33 from 'pub:WHSE_BASEMAPPING.NTS_BC_WATER_LINES_125M', located at approximately 48.9575°N, -125.5571°W. length: 1185.164 | fcode: GG05800000
+Feature 45 from 'pub:WHSE_BASEMAPPING.NTS_BC_WATER_LINES_125M', located at approximately 48.9731°N, -125.4439°W. length: 4203.601 | fcode: GA24850000
+Feature 12 from 'pub:WHSE_BASEMAPPING.NTS_BC_WATER_LINES_125M', located at approximately 48.9091°N, -125.4715°W. length: 613.368 | fcode: GE14850000
+Feature 31 from 'pub:WHSE_BASEMAPPING.NTS_BC_WATER_LINES_125M', located at approximately 48.9476°N, -125.5547°W. length: 502.472 | fcode: GE14850000
+Feature 9 from 'pub:WHSE_BASEMAPPING.NTS_BC_WATER_LINES_125M', located at approximately 48.9294°N, -125.5069°W. length: 731.255 | fcode: GA24850000
+Feature 67 from 'pub:WHSE_BASEMAPPING.NTS_BC_WATER_LINES_125M', located at approximately 48.9971°N, -125.4117°W. length: 223.045 | fcode: GA24850000
+Feature 5 from 'pub:WHSE_BASEMAPPING.NTS_BC_WATER_LINES_125M', located at approximately 48.9227°N, -125.5343°W. length: 502.741 | fcode: GE14850000
+Feature 62 from 'pub:WHSE_BASEMAPPING.NTS_BC_WATER_LINES_125M', located at approximately 48.9894°N, -125.5536°W. length: 1172.8 | fcode: GA24850000
+Feature 30 from 'pub:WHSE_BASEMAPPING.NTS_BC_WATER_LINES_125M', located at approximately 48.9267°N, -125.5516°W. length: 570.804 | fcode: GE14850000
+Feature 58 from 'pub:WHSE_BASEMAPPING.NTS_BC_WATER_LINES_125M', located at approximately 48.9755°N, -125.5473°W. length: 1295.805 | fcode: GA24850000
+Feature 35 from 'pub:WHSE_BASEMAPPING.NTS_BC_WATER_LINES_125M', located at approximately 48.9639°N, -125.5518°W. length: 1284.509 | fcode: GA24850000
+Feature 57 from 'pub:WHSE_BASEMAPPING.NTS_BC_WATER_LINES_125M', located at approximately 48.9706°N, -125.5709°W. length: 1929.112 | fcode: GG05800000
+Feature 47 from 'pub:WHSE_BASEMAPPING.NTS_BC_WATER_LINES_125M', located at approximately 48.9894°N, -125.4071°W. length: 1981.618 | fcode: GA24850000
+Feature 16 from 'pub:WHSE_BASEMAPPING.NTS_BC_WATER_LINES_125M', located at approximately 48.9445°N, -125.4610°W. length: 45.421 | fcode: GA24850000
+Feature 34 from 'pub:WHSE_BASEMAPPING.NTS_BC_WATER_LINES_125M', located at approximately 48.9518°N, -125.5725°W. length: 34107.895 | fcode: GG05800000
+Feature 42 from 'pub:WHSE_BASEMAPPING.NTS_BC_WATER_LINES_125M', located at approximately 48.9583°N, -125.4512°W. length: 2245.047 | fcode: GA24850000
+Feature 28 from 'pub:WHSE_BASEMAPPING.NTS_BC_WATER_LINES_125M', located at approximately 48.9560°N, -125.5306°W. length: 463.426 | fcode: GB15300000
+Feature 7 from 'pub:WHSE_BASEMAPPING.NTS_BC_WATER_LINES_125M', located at approximately 48.9233°N, -125.5452°W. length: 475.298 | fcode: GE14850000
+Feature 53 from 'pub:WHSE_BASEMAPPING.NTS_BC_WATER_LINES_125M', located at approximately 48.9801°N, -125.5269°W. length: 2515.823 | fcode: GA24850000
+Feature 40 from 'pub:WHSE_BASEMAPPING.NTS_BC_WATER_LINES_125M', located at approximately 48.9520°N, -125.4102°W. length: 2090.42 | fcode: GE14850000
+Feature 44 from 'pub:WHSE_BASEMAPPING.NTS_BC_WATER_LINES_125M', located at approximately 48.9714°N, -125.4621°W. length: 1228.197 | fcode: GA24850000
+Feature 46 from 'pub:WHSE_BASEMAPPING.NTS_BC_WATER_LINES_125M', located at approximately 48.9788°N, -125.4211°W. length: 4390.311 | fcode: GA24850000
+Feature 19 from 'pub:WHSE_BASEMAPPING.NTS_BC_WATER_LINES_125M', located at approximately 48.9500°N, -125.4457°W. length: 574.624 | fcode: GG05800000
+Feature 56 from 'pub:WHSE_BASEMAPPING.NTS_BC_WATER_LINES_125M', located at approximately 48.9958°N, -125.5348°W. length: 3125.734 | fcode: GA24850000
+Feature 39 from 'pub:WHSE_BASEMAPPING.NTS_BC_WATER_LINES_125M', located at approximately 48.9705°N, -125.5590°W. length: 1203.066 | fcode: GA24850000
+Feature 25 from 'pub:WHSE_BASEMAPPING.NTS_BC_WATER_LINES_125M', located at approximately 48.9522°N, -125.4970°W. length: 640.267 | fcode: GA24850000
+Feature 38 from 'pub:WHSE_BASEMAPPING.NTS_BC_WATER_LINES_125M', located at approximately 48.9667°N, -125.5638°W. length: 89.945 | fcode: GA24850000
+Feature 13 from 'pub:WHSE_BASEMAPPING.NTS_BC_WATER_LINES_125M', located at approximately 48.9310°N, -125.4736°W. length: 7090.615 | fcode: GG05800000
+Feature 50 from 'pub:WHSE_BASEMAPPING.NTS_BC_WATER_LINES_125M', located at approximately 48.9577°N, -125.5377°W. length: 845.952 | fcode: GA24850000
+Feature 3 from 'pub:WHSE_BASEMAPPING.NTS_BC_WATER_LINES_125M', located at approximately 48.9184°N, -125.5015°W. length: 634.731 | fcode: GE14850000
+Feature 17 from 'pub:WHSE_BASEMAPPING.NTS_BC_WATER_LINES_125M', located at approximately 48.9450°N, -125.4672°W. length: 1323.048 | fcode: GB15300000
+Feature 8 from 'pub:WHSE_BASEMAPPING.NTS_BC_WATER_LINES_125M', located at approximately 48.9278°N, -125.5460°W. length: 579.062 | fcode: GE14850000
+Feature 55 from 'pub:WHSE_BASEMAPPING.NTS_BC_WATER_LINES_125M', located at approximately 48.9857°N, -125.5294°W. length: 1706.828 | fcode: GA24850000
+Feature 6 from 'pub:WHSE_BASEMAPPING.NTS_BC_WATER_LINES_125M', located at approximately 48.9231°N, -125.5253°W. length: 810.551 | fcode: GE14850000
+Feature 36 from 'pub:WHSE_BASEMAPPING.NTS_BC_WATER_LINES_125M', located at approximately 48.9636°N, -125.5625°W. length: 672.984 | fcode: GG05800000
+Feature 64 from 'pub:WHSE_BASEMAPPING.NTS_BC_WATER_LINES_125M', located at approximately 48.9917°N, -125.5804°W. length: 841.798 | fcode: GB15300000
+Feature 69 from 'pub:WHSE_BASEMAPPING.NTS_BC_WATER_LINES_125M', located at approximately 48.9988°N, -125.4092°W. length: 328.984 | fcode: GA24850000
+Feature 68 from 'pub:WHSE_BASEMAPPING.NTS_BC_WATER_LINES_125M', located at approximately 48.9982°N, -125.4153°W. length: 585.484 | fcode: GB15300000
+Feature 15 from 'pub:WHSE_BASEMAPPING.NTS_BC_WATER_LINES_125M', located at approximately 48.9444°N, -125.4607°W. length: 29.967 | fcode: GA24850000
+Feature 27 from 'pub:WHSE_BASEMAPPING.NTS_BC_WATER_LINES_125M', located at approximately 48.9541°N, -125.5295°W. length: 85.077 | fcode: GA24850000
+Feature 41 from 'pub:WHSE_BASEMAPPING.NTS_BC_WATER_LINES_125M', located at approximately 48.9557°N, -125.4363°W. length: 1554.122 | fcode: GG05800000
+Feature 26 from 'pub:WHSE_BASEMAPPING.NTS_BC_WATER_LINES_125M', located at approximately 48.9529°N, -125.5280°W. length: 584.36 | fcode: GB15300000
+Feature 48 from 'pub:WHSE_BASEMAPPING.NTS_BC_WATER_LINES_125M', located at approximately 48.9951°N, -125.4123°W. length: 323.078 | fcode: GB15300000
+Feature 24 from 'pub:WHSE_BASEMAPPING.NTS_BC_WATER_LINES_125M', located at approximately 48.9459°N, -125.5453°W. length: 511.054 | fcode: GE14850000
+Feature 59 from 'pub:WHSE_BASEMAPPING.NTS_BC_WATER_LINES_125M', located at approximately 48.9794°N, -125.6443°W. length: 758.26 | fcode: GE14850000
+Feature 63 from 'pub:WHSE_BASEMAPPING.NTS_BC_WATER_LINES_125M', located at approximately 48.9911°N, -125.5632°W. length: 734.719 | fcode: GA24850000
+Feature 11 from 'pub:WHSE_BASEMAPPING.NTS_BC_WATER_LINES_125M', located at approximately 48.9067°N, -125.4713°W. length: 793.551 | fcode: GE14850000
+Feature 32 from 'pub:WHSE_BASEMAPPING.NTS_BC_WATER_LINES_125M', located at approximately 48.9564°N, -125.5475°W. length: 793.056 | fcode: GA24850000
+Feature 66 from 'pub:WHSE_BASEMAPPING.NTS_BC_WATER_LINES_125M', located at approximately 48.9988°N, -125.5560°W. length: 364.779 | fcode: GA24850000
+Feature 61 from 'pub:WHSE_BASEMAPPING.NTS_BC_WATER_LINES_125M', located at approximately 48.9857°N, -125.5702°W. length: 1249.798 | fcode: GA24850000
+Feature 37 from 'pub:WHSE_BASEMAPPING.NTS_BC_WATER_LINES_125M', located at approximately 48.9647°N, -125.5776°W. length: 2508.141 | fcode: GE14850000
+Feature 29 from 'pub:WHSE_BASEMAPPING.NTS_BC_WATER_LINES_125M', located at approximately 48.9557°N, -125.5315°W. length: 380.607 | fcode: GB15300000
+Feature 43 from 'pub:WHSE_BASEMAPPING.NTS_BC_WATER_LINES_125M', located at approximately 48.9673°N, -125.4148°W. length: 3350.139 | fcode: GG05800000
+Feature 65 from 'pub:WHSE_BASEMAPPING.NTS_BC_WATER_LINES_125M', located at approximately 48.9972°N, -125.6658°W. length: 2010.461 | fcode: GG05800000
+Feature 1 from 'pub:WHSE_BASEMAPPING.NTS_BC_WATER_LINES_125M', located at approximately 48.9058°N, -125.5151°W. length: 1074.182 | fcode: GE14850000
+Feature 52 from 'pub:WHSE_BASEMAPPING.NTS_BC_WATER_LINES_125M', located at approximately 48.9749°N, -125.5027°W. length: 5332.017 | fcode: GA24850000
+Feature 21 from 'pub:WHSE_BASEMAPPING.NTS_BC_WATER_LINES_125M', located at approximately 48.9345°N, -125.5237°W. length: 7546.442 | fcode: GG05800000
+Feature 2 from 'pub:WHSE_BASEMAPPING.NTS_BC_WATER_LINES_125M', located at approximately 48.9082°N, -125.5118°W. length: 562.298 | fcode: GE14850000
+Feature 23 from 'pub:WHSE_BASEMAPPING.NTS_BC_WATER_LINES_125M', located at approximately 48.9433°N, -125.4799°W. length: 3214.299 | fcode: GA24850000
+Feature 20 from 'pub:WHSE_BASEMAPPING.NTS_BC_WATER_LINES_125M', located at approximately 48.9379°N, -125.5127°W. length: 1736.014 | fcode: GA24850000
+Feature 60 from 'pub:WHSE_BASEMAPPING.NTS_BC_WATER_LINES_125M', located at approximately 48.9794°N, -125.5740°W. length: 389.805 | fcode: GA24850000
+Feature 14 from 'pub:WHSE_BASEMAPPING.NTS_BC_WATER_LINES_125M', located at approximately 48.9443°N, -125.4626°W. length: 195.283 | fcode: GA24850000
+Feature 51 from 'pub:WHSE_BASEMAPPING.NTS_BC_WATER_LINES_125M', located at approximately 48.9612°N, -125.5333°W. length: 1700.875 | fcode: GA24850000
+
+=== ECOLOGICAL RELEVANCE ===
+Hydrological data indicates soil moisture patterns and drainage regimes. Chanterelles favour areas with consistent subsurface moisture but not waterlogged conditions — typically mid-slope positions near but not in riparian zones.

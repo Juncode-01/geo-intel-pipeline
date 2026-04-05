@@ -1,0 +1,41 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_FOREST_TENURE.FTEN_MANAGED_LICENCE_POLY_SVW
+Dataset ID:     pub:WHSE_FOREST_TENURE.FTEN_MANAGED_LICENCE_POLY_SVW
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  1
+Geometry Types: MultiPolygon
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.518887 S=48.929424 E=-125.409951 N=49.0
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  forest file id: categorical | values: K3S
+  map block id: categorical | values: A
+  ml type code: categorical | values: SCHEDULE_B
+  ml comment: categorical | values: N
+  amendment id: numeric | range 4.00 to 4.00 | mean 4.00
+  map label: categorical | values: K3S A SCHEDULE_B
+  feature area: numeric | range 67566308.00 to 67566308.00 | mean 67566308.00
+  feature perimeter: numeric | range 102075.20 to 102075.20 | mean 102075.20
+  client number: categorical | values: 00164945
+  client name: categorical | values: BARKLEY COMMUNITY FOREST LIMITED PARTNERSHIP
+  feature class skey: numeric | range 2400.00 to 2400.00 | mean 2400.00
+  file status code: categorical | values: HI
+  admin district code: categorical | values: RWC
+  admin district name: categorical | values: West Coast Natural Resource Region
+  life cycle status code: categorical | values: ACTIVE
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 1
+  MultiPolygon: 1 features
+Area distribution (hectares): min=2738.3 median=2738.3 max=2738.3
+Approximate centre: 48.9716°N, -125.4620°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 1 features:
+
+Feature 0 from 'pub:WHSE_FOREST_TENURE.FTEN_MANAGED_LICENCE_POLY_SVW', located at approximately 48.9716°N, -125.4620°W. forest file id: K3S | map block id: A | ml type code: SCHEDULE_B | ml comment: N | amendment id: 4 | map label: K3S A SCHEDULE_B | feature area: 67566308 | feature perimeter: 102075.2 | client number: 00164945 | client name: BARKLEY COMMUNITY FOREST LIMITED PARTNERSHIP | feature class skey: 2400 | file status code: HI | admin district code: RWC | admin district name: West Coast Natural Resource Region | life cycle status code: ACTIVE
+
+=== ECOLOGICAL RELEVANCE ===
+Vegetation and forest cover data indicates tree species composition. Chanterelles form mycorrhizal associations primarily with conifers — especially Douglas-fir, Sitka spruce, western hemlock, and western red cedar, all common in the Ucluelet region.

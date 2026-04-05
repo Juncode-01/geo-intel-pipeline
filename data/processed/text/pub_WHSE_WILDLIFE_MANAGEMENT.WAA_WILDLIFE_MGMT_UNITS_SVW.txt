@@ -1,0 +1,33 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_WILDLIFE_MANAGEMENT.WAA_WILDLIFE_MGMT_UNITS_SVW
+Dataset ID:     pub:WHSE_WILDLIFE_MANAGEMENT.WAA_WILDLIFE_MGMT_UNITS_SVW
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  1
+Geometry Types: Polygon
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.74431 S=48.801036 E=-125.4 N=49.0
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  wildlife mgmt unit id: categorical | values: 1-8
+  feature code: categorical | values: WI02800110
+  region responsible: numeric | range 1.00 to 1.00 | mean 1.00
+  region responsible id: categorical | values: 1
+  region responsible name: categorical | values: Vancouver Island
+  game management zone id: categorical | values: 1a
+  game management zone name: categorical | values: Southern Vancouver Island
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 1
+  Polygon: 1 features
+Area distribution (hectares): min=28728.7 median=28728.7 max=28728.7
+Approximate centre: 48.9382°N, -125.5285°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 1 features:
+
+Feature 0 from 'pub:WHSE_WILDLIFE_MANAGEMENT.WAA_WILDLIFE_MGMT_UNITS_SVW', located at approximately 48.9382°N, -125.5285°W. wildlife mgmt unit id: 1-8 | feature code: WI02800110 | region responsible: 1 | region responsible id: 1 | region responsible name: Vancouver Island | game management zone id: 1a | game management zone name: Southern Vancouver Island
+
+=== ECOLOGICAL RELEVANCE ===
+This dataset may provide supporting spatial context for habitat analysis in the Ucluelet region.

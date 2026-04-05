@@ -1,0 +1,45 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_FOREST_TENURE.FTEN_RECREATION_POLY_SVW
+Dataset ID:     pub:WHSE_FOREST_TENURE.FTEN_RECREATION_POLY_SVW
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  1
+Geometry Types: Polygon
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.474013 S=48.954535 E=-125.47337 N=48.955025
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  rmf skey: numeric | range 270948.00 to 270948.00 | mean 270948.00
+  forest file id: categorical | values: REC270947
+  recreation map feature code: categorical | values: SIT
+  project type: categorical | values: Recreation Site
+  amendment id: numeric | range 0.00 to 0.00 | mean 0.00
+  map label: categorical | values: REC270947 
+  project name: categorical | values: Barkley Parking
+  resource feature ind: categorical | values: Y
+  site location: categorical | values: UCLUELET
+  recreation view ind: categorical | values: N
+  recreation district code: categorical | values: RDSI
+  defined campsites: numeric | range 0.00 to 0.00 | mean 0.00
+  life cycle status code: categorical | values: ACTIVE
+  file status code: categorical | values: HI
+  geographic district code: categorical | values: DSI
+  geographic district name: categorical | values: South Island Natural Resource District
+  feature class skey: numeric | range 727.00 to 727.00 | mean 727.00
+  feature area: numeric | range 0.10 to 0.10 | mean 0.10
+  feature perimeter: numeric | range 0.14 to 0.14 | mean 0.14
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 1
+  Polygon: 1 features
+Area distribution (hectares): min=0.1 median=0.1 max=0.1
+Approximate centre: 48.9548°N, -125.4737°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 1 features:
+
+Feature 0 from 'pub:WHSE_FOREST_TENURE.FTEN_RECREATION_POLY_SVW', located at approximately 48.9548°N, -125.4737°W. rmf skey: 270948 | forest file id: REC270947 | recreation map feature code: SIT | project type: Recreation Site | amendment id: 0 | map label: REC270947  | project name: Barkley Parking | resource feature ind: Y | site location: UCLUELET | recreation view ind: N | recreation district code: RDSI | defined campsites: 0 | life cycle status code: ACTIVE | file status code: HI | geographic district code: DSI | geographic district name: South Island Natural Resource District | feature class skey: 727 | feature area: 0.0996 | feature perimeter: 0.1445
+
+=== ECOLOGICAL RELEVANCE ===
+Vegetation and forest cover data indicates tree species composition. Chanterelles form mycorrhizal associations primarily with conifers — especially Douglas-fir, Sitka spruce, western hemlock, and western red cedar, all common in the Ucluelet region.

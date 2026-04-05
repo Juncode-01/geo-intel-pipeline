@@ -1,0 +1,31 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_FOREST_VEGETATION.BEC_BIOGEOCLIMATIC_ZONE_2M_SPG
+Dataset ID:     pub:WHSE_FOREST_VEGETATION.BEC_BIOGEOCLIMATIC_ZONE_2M_SPG
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  1
+Geometry Types: Polygon
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.742659 S=48.8022 E=-125.4 N=49.0
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  feature class skey: numeric | range 435.00 to 435.00 | mean 435.00
+  zone: categorical | values: CWH
+  zone name: categorical | values: Coastal Western Hemlock
+  feature area: numeric | range 190590463516.00 to 190590463516.00 | mean 190590463516.00
+  feature length: numeric | range 132811443.00 to 132811443.00 | mean 132811443.00
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 1
+  Polygon: 1 features
+Area distribution (hectares): min=28641.9 median=28641.9 max=28641.9
+Approximate centre: 48.9383°N, -125.5283°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 1 features:
+
+Feature 0 from 'pub:WHSE_FOREST_VEGETATION.BEC_BIOGEOCLIMATIC_ZONE_2M_SPG', located at approximately 48.9383°N, -125.5283°W. feature class skey: 435 | zone: CWH | zone name: Coastal Western Hemlock | feature area: 190590463516 | feature length: 132811443
+
+=== ECOLOGICAL RELEVANCE ===
+Vegetation and forest cover data indicates tree species composition. Chanterelles form mycorrhizal associations primarily with conifers — especially Douglas-fir, Sitka spruce, western hemlock, and western red cedar, all common in the Ucluelet region.

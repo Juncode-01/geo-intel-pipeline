@@ -1,0 +1,35 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_COMMERCIAL_SQUIDS
+Dataset ID:     pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_COMMERCIAL_SQUIDS
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  2
+Geometry Types: Polygon
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.654563 S=48.921345 E=-125.513062 N=48.999623
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  csquid id: numeric | range 3.00 to 11.00 | mean 7.00
+  ri: numeric | range 3.00 to 3.00 | mean 3.00
+  location: categorical | values: Florencia Bay, Ucluelet Inlet
+  start season: categorical | values: MAR
+  close season: categorical | values: NOV, SEP
+  gear type: categorical | values: Seine
+  compiler: categorical | values: B. Spence
+  project: categorical | values: WCVI
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 2
+  Polygon: 2 features
+Area distribution (hectares): min=73.2 median=281.2 max=489.3
+Approximate centre: 48.9797°N, -125.6228°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 2 features:
+
+Feature 0 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_COMMERCIAL_SQUIDS', located at approximately 48.9313°N, -125.5258°W. csquid id: 11 | ri: 3 | location: Ucluelet Inlet | start season: MAR | close season: NOV | gear type: Seine | project: WCVI
+Feature 1 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_COMMERCIAL_SQUIDS', located at approximately 48.9869°N, -125.6373°W. csquid id: 3 | ri: 3 | location: Florencia Bay | start season: MAR | close season: SEP | gear type: Seine | compiler: B. Spence | project: WCVI
+
+=== ECOLOGICAL RELEVANCE ===
+This dataset may provide supporting spatial context for habitat analysis in the Ucluelet region.

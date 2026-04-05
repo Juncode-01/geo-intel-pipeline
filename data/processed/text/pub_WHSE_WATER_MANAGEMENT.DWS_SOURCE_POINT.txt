@@ -1,0 +1,44 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_WATER_MANAGEMENT.DWS_SOURCE_POINT
+Dataset ID:     pub:WHSE_WATER_MANAGEMENT.DWS_SOURCE_POINT
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  1
+Geometry Types: Point
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.58979 S=48.99026 E=-125.58979 N=48.99026
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  source type: categorical | values: Groundwater
+  system name: categorical | values: Ucluelet
+  system category: categorical | values: Unknown
+  system type: categorical | values: Unknown
+  system size category: categorical | values: Unknown
+  well tag number: numeric | range 81674.00 to 81674.00 | mean 81674.00
+  wtn url: categorical | values: https://apps.nrs.gov.bc.ca/gwells/well/81674
+  finished well depth: numeric | range 20.63 to 20.63 | mean 20.63
+  source area id: categorical | values: AQ_0159
+  protection zone id list: categorical | values: RDAC_PZ_0001, RDAC_PZ_0002, RDAC_PZ_0003
+  health authority: categorical | values: Vancouver Island
+  regional district: categorical | values: Alberni-Clayoquot
+  protection plan indicator: categorical | values: Y
+  report name: categorical | values: Well Protection Plan
+  report url: categorical | values: http://a100.gov.bc.ca/pub/acat/public/viewReport.do?reportId=16572
+  protection zone indicator: categorical | values: Y
+  system indicator: categorical | values: Y
+  location source: categorical | values: GWELLS
+  data source: categorical | values: BCGW - Capture Zones
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 1
+  Point: 1 features
+Approximate centre: 48.9903°N, -125.5898°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 1 features:
+
+Feature 0 from 'pub:WHSE_WATER_MANAGEMENT.DWS_SOURCE_POINT', located at approximately 48.9903°N, -125.5898°W. source type: Groundwater | system name: Ucluelet | system category: Unknown | system type: Unknown | system size category: Unknown | well tag number: 81674 | wtn url: https://apps.nrs.gov.bc.ca/gwells/well/81674 | finished well depth: 20.63 | source area id: AQ_0159 | protection zone id list: RDAC_PZ_0001, RDAC_PZ_0002, RDAC_PZ_0003 | health authority: Vancouver Island | regional district: Alberni-Clayoquot | protection plan indicator: Y | report name: Well Protection Plan | report url: http://a100.gov.bc.ca/pub/acat/public/viewReport.do?reportId=16572 | protection zone indicator: Y | system indicator: Y | location source: GWELLS | data source: BCGW - Capture Zones
+
+=== ECOLOGICAL RELEVANCE ===
+Hydrological data indicates soil moisture patterns and drainage regimes. Chanterelles favour areas with consistent subsurface moisture but not waterlogged conditions — typically mid-slope positions near but not in riparian zones.

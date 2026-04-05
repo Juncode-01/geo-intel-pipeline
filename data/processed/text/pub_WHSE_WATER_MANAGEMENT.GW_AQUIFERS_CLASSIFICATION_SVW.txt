@@ -1,0 +1,41 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_WATER_MANAGEMENT.GW_AQUIFERS_CLASSIFICATION_SVW
+Dataset ID:     pub:WHSE_WATER_MANAGEMENT.GW_AQUIFERS_CLASSIFICATION_SVW
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  4
+Geometry Types: Polygon
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.633941 S=48.920231 E=-125.4 N=49.0
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  gw a sysid: numeric | range 148.00 to 1067.00 | mean 835.25
+  aquifer id: numeric | range 159.00 to 1187.00 | mean 927.50
+  name: categorical | values: Mount Ozzard, Bedrock Southeast, Mount Ozzard, Unconsolidated, Ucluelet Peninsula, Ucluelet, Lost Shoe
+  mapping year: numeric | range 2018.00 to 2018.00 | mean 2018.00
+  location: categorical | values: Southeastern slope Mount Ozzard, Ucluelet, Ucluelet peninsula, Western slope of Mount Ozzard
+  material: categorical | values: Bedrock, Sand and Gravel
+  subtype: categorical | values: Fractured crystalline bedrock, Unconfined sand and gravel - late glacial outwash
+  aquifer details url: categorical | values: https://apps.nrs.gov.bc.ca/gwells/aquifers/1179, https://apps.nrs.gov.bc.ca/gwells/aquifers/1185, https://apps.nrs.gov.bc.ca/gwells/aquifers/1187, https://apps.nrs.gov.bc.ca/gwells/aquifers/159
+  vulnerability: categorical | values: High, Moderate
+  productivity: categorical | values: Moderate
+  demand: categorical | values: Moderate
+  water use: categorical | values: Multiple
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 4
+  Polygon: 4 features
+Area distribution (hectares): min=785.7 median=1655.5 max=4289.5
+Approximate centre: 48.9637°N, -125.5217°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 4 features:
+
+Feature 0 from 'pub:WHSE_WATER_MANAGEMENT.GW_AQUIFERS_CLASSIFICATION_SVW', located at approximately 48.9535°N, -125.5748°W. gw a sysid: 1067 | aquifer id: 1187 | name: Ucluelet Peninsula | mapping year: 2018 | location: Ucluelet peninsula | material: Bedrock | subtype: Fractured crystalline bedrock | aquifer details url: https://apps.nrs.gov.bc.ca/gwells/aquifers/1187 | vulnerability: Moderate | productivity: Moderate | demand: Moderate
+Feature 1 from 'pub:WHSE_WATER_MANAGEMENT.GW_AQUIFERS_CLASSIFICATION_SVW', located at approximately 48.9607°N, -125.4961°W. gw a sysid: 1066 | aquifer id: 1185 | name: Mount Ozzard, Bedrock Southeast | mapping year: 2018 | location: Southeastern slope Mount Ozzard | material: Bedrock | subtype: Fractured crystalline bedrock | aquifer details url: https://apps.nrs.gov.bc.ca/gwells/aquifers/1185 | vulnerability: Moderate | productivity: Moderate | demand: Moderate
+Feature 2 from 'pub:WHSE_WATER_MANAGEMENT.GW_AQUIFERS_CLASSIFICATION_SVW', located at approximately 48.9643°N, -125.5422°W. gw a sysid: 1060 | aquifer id: 1179 | name: Mount Ozzard, Unconsolidated | mapping year: 2018 | location: Western slope of Mount Ozzard | material: Sand and Gravel | subtype: Unconfined sand and gravel - late glacial outwash | aquifer details url: https://apps.nrs.gov.bc.ca/gwells/aquifers/1179 | vulnerability: Moderate | productivity: Moderate | demand: Moderate
+Feature 3 from 'pub:WHSE_WATER_MANAGEMENT.GW_AQUIFERS_CLASSIFICATION_SVW', located at approximately 48.9926°N, -125.5940°W. gw a sysid: 148 | aquifer id: 159 | name: Ucluelet, Lost Shoe | mapping year: 2018 | location: Ucluelet | material: Sand and Gravel | subtype: Unconfined sand and gravel - late glacial outwash | aquifer details url: https://apps.nrs.gov.bc.ca/gwells/aquifers/159 | vulnerability: High | water use: Multiple
+
+=== ECOLOGICAL RELEVANCE ===
+Hydrological data indicates soil moisture patterns and drainage regimes. Chanterelles favour areas with consistent subsurface moisture but not waterlogged conditions — typically mid-slope positions near but not in riparian zones.

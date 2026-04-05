@@ -1,0 +1,38 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_FOREST_VEGETATION.BEC_BIOGEOCLIMATIC_LABEL_POINT
+Dataset ID:     pub:WHSE_FOREST_VEGETATION.BEC_BIOGEOCLIMATIC_LABEL_POINT
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  2
+Geometry Types: Point
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.504907 S=48.972436 E=-125.471831 N=48.987937
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  feature class skey: numeric | range 435.00 to 435.00 | mean 435.00
+  zone: categorical | values: CWH
+  subzone: categorical | values: vm
+  variant: categorical | values: 2
+  natural disturbance: categorical | values: NDT1
+  bgc label: categorical | values: CWH vm 2
+  map label: categorical | values: CWHvm2
+  zone name: categorical | values: Coastal Western Hemlock
+  subzone name: categorical | values: Very Wet Maritime
+  variant name: categorical | values: Montane
+  phase name: categorical | values:  
+  natural disturbance name: categorical | values: Ecosystems with rare stand-initiating events
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 2
+  Point: 2 features
+Approximate centre: 48.9802°N, -125.4884°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 2 features:
+
+Feature 0 from 'pub:WHSE_FOREST_VEGETATION.BEC_BIOGEOCLIMATIC_LABEL_POINT', located at approximately 48.9724°N, -125.4718°W. feature class skey: 435 | zone: CWH | subzone: vm | variant: 2 | natural disturbance: NDT1 | bgc label: CWH vm 2 | map label: CWHvm2 | zone name: Coastal Western Hemlock | subzone name: Very Wet Maritime | variant name: Montane | natural disturbance name: Ecosystems with rare stand-initiating events
+Feature 1 from 'pub:WHSE_FOREST_VEGETATION.BEC_BIOGEOCLIMATIC_LABEL_POINT', located at approximately 48.9879°N, -125.5049°W. feature class skey: 435 | zone: CWH | subzone: vm | variant: 2 | natural disturbance: NDT1 | bgc label: CWH vm 2 | map label: CWHvm2 | zone name: Coastal Western Hemlock | subzone name: Very Wet Maritime | variant name: Montane | natural disturbance name: Ecosystems with rare stand-initiating events
+
+=== ECOLOGICAL RELEVANCE ===
+Vegetation and forest cover data indicates tree species composition. Chanterelles form mycorrhizal associations primarily with conifers — especially Douglas-fir, Sitka spruce, western hemlock, and western red cedar, all common in the Ucluelet region.

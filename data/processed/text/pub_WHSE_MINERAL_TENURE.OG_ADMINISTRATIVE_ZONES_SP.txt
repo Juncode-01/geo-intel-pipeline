@@ -1,0 +1,28 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_MINERAL_TENURE.OG_ADMINISTRATIVE_ZONES_SP
+Dataset ID:     pub:WHSE_MINERAL_TENURE.OG_ADMINISTRATIVE_ZONES_SP
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  1
+Geometry Types: Polygon
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.74431 S=48.801036 E=-125.4 N=49.0
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  og administrative zone id: numeric | range 41146.00 to 41146.00 | mean 41146.00
+  administrative zone name: categorical | values: South West
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 1
+  Polygon: 1 features
+Area distribution (hectares): min=28728.7 median=28728.7 max=28728.7
+Approximate centre: 48.9382°N, -125.5285°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 1 features:
+
+Feature 0 from 'pub:WHSE_MINERAL_TENURE.OG_ADMINISTRATIVE_ZONES_SP', located at approximately 48.9382°N, -125.5285°W. og administrative zone id: 41146 | administrative zone name: South West
+
+=== ECOLOGICAL RELEVANCE ===
+This dataset may provide supporting spatial context for habitat analysis in the Ucluelet region.

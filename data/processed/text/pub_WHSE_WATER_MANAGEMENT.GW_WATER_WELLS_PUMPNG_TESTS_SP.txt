@@ -1,0 +1,42 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_WATER_MANAGEMENT.GW_WATER_WELLS_PUMPNG_TESTS_SP
+Dataset ID:     pub:WHSE_WATER_MANAGEMENT.GW_WATER_WELLS_PUMPNG_TESTS_SP
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  1
+Geometry Types: Point
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.590662 S=48.967069 E=-125.590662 N=48.967069
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  gw wwpt sysid: numeric | range 360.00 to 360.00 | mean 360.00
+  well tag number: numeric | range 72844.00 to 72844.00 | mean 72844.00
+  well status: categorical | values: New
+  licence status: categorical | values: Unlicensed
+  well details url: categorical | values: https://apps.nrs.gov.bc.ca/gwells/well/72844
+  finished well depth: numeric | range 11.00 to 11.00 | mean 11.00
+  aquifer material: categorical | values: Sand and Gravel
+  aquifer id: numeric | range 1179.00 to 1179.00 | mean 1179.00
+  aquifer subtype: categorical | values: Unconfined sand and gravel - late glacial outwash
+  pumping test start date: categorical | values: 1975-07-15
+  pumping test description: categorical | values: Pumping test - pumping well
+  pumping test duration: numeric | range 1400.00 to 1400.00 | mean 1400.00
+  boundary effect: categorical | values: Constant head
+  transmissivity: numeric | range 10.00 to 10.00 | mean 10.00
+  hydraulic conductivity: numeric | range 11.00 to 11.00 | mean 11.00
+  specific capacity: numeric | range 1.65 to 1.65 | mean 1.65
+  analysis method: categorical | values: Cooper-Jacob
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 1
+  Point: 1 features
+Approximate centre: 48.9671°N, -125.5907°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 1 features:
+
+Feature 0 from 'pub:WHSE_WATER_MANAGEMENT.GW_WATER_WELLS_PUMPNG_TESTS_SP', located at approximately 48.9671°N, -125.5907°W. gw wwpt sysid: 360 | well tag number: 72844 | well status: New | licence status: Unlicensed | well details url: https://apps.nrs.gov.bc.ca/gwells/well/72844 | finished well depth: 11 | aquifer material: Sand and Gravel | aquifer id: 1179 | aquifer subtype: Unconfined sand and gravel - late glacial outwash | pumping test start date: 1975-07-15 00:00:00 | pumping test description: Pumping test - pumping well | pumping test duration: 1400 | boundary effect: Constant head | transmissivity: 10 | hydraulic conductivity: 11 | specific capacity: 1.65 | analysis method: Cooper-Jacob
+
+=== ECOLOGICAL RELEVANCE ===
+Hydrological data indicates soil moisture patterns and drainage regimes. Chanterelles favour areas with consistent subsurface moisture but not waterlogged conditions — typically mid-slope positions near but not in riparian zones.

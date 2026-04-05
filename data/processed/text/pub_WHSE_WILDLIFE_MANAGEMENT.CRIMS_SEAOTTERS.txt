@@ -1,0 +1,30 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_SEAOTTERS
+Dataset ID:     pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_SEAOTTERS
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  1
+Geometry Types: MultiPolygon
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.9 S=48.840704 E=-125.4 N=49.0
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  seaotter id: numeric | range 30.00 to 30.00 | mean 30.00
+  ri: numeric | range 1.00 to 1.00 | mean 1.00
+  seaotter comment: categorical | values: Year round use - Annual
+  project: categorical | values: WCVI
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 1
+  MultiPolygon: 1 features
+Area distribution (hectares): min=19829.0 median=19829.0 max=19829.0
+Approximate centre: 48.9469°N, -125.6417°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 1 features:
+
+Feature 0 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_SEAOTTERS', located at approximately 48.9469°N, -125.6417°W. seaotter id: 30 | ri: 1 | seaotter comment: Year round use - Annual | project: WCVI
+
+=== ECOLOGICAL RELEVANCE ===
+This dataset may provide supporting spatial context for habitat analysis in the Ucluelet region.

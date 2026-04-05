@@ -1,0 +1,40 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_SHOREBIRDS_UNSPCFD
+Dataset ID:     pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_SHOREBIRDS_UNSPCFD
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  6
+Geometry Types: Polygon
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.9 S=48.8 E=-125.4 N=49.0
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  shrbird id: numeric | range 7162.00 to 11109.00 | mean 9682.83
+  ri: numeric | range 2.00 to 4.00 | mean 3.33
+  ra: numeric | range 0.00 to 0.00 | mean 0.00
+  ra spr: numeric | range 0.00 to 0.00 | mean 0.00
+  ra sum: numeric | range 0.00 to 0.00 | mean 0.00
+  ra win: numeric | range 0.00 to 0.00 | mean 0.00
+  ra fal: numeric | range 0.00 to 0.00 | mean 0.00
+  np shbd: numeric | range 0.00 to 0.00 | mean 0.00
+  project: categorical | values: WCVI
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 6
+  Polygon: 6 features
+Area distribution (hectares): min=1274.7 median=2874.3 max=37276.5
+Approximate centre: 48.8844°N, -125.6785°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 6 features:
+
+Feature 0 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_SHOREBIRDS_UNSPCFD', located at approximately 48.8454°N, -125.6855°W. shrbird id: 11109 | ri: 3 | ra: 0 | ra spr: 0 | ra sum: 0 | ra win: 0 | ra fal: 0 | np shbd: 0 | project: WCVI
+Feature 1 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_SHOREBIRDS_UNSPCFD', located at approximately 48.8924°N, -125.7176°W. shrbird id: 7162 | ri: 2 | ra: 0 | ra spr: 0 | ra sum: 0 | ra win: 0 | ra fal: 0 | np shbd: 0 | project: WCVI
+Feature 2 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_SHOREBIRDS_UNSPCFD', located at approximately 48.9001°N, -125.4358°W. shrbird id: 10358 | ri: 3 | ra: 0 | ra spr: 0 | ra sum: 0 | ra win: 0 | ra fal: 0 | np shbd: 0 | project: WCVI
+Feature 3 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_SHOREBIRDS_UNSPCFD', located at approximately 48.9329°N, -125.5351°W. shrbird id: 10027 | ri: 4 | ra: 0 | ra spr: 0 | ra sum: 0 | ra win: 0 | ra fal: 0 | np shbd: 0 | project: WCVI
+Feature 4 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_SHOREBIRDS_UNSPCFD', located at approximately 48.9442°N, -125.4165°W. shrbird id: 9768 | ri: 4 | ra: 0 | ra spr: 0 | ra sum: 0 | ra win: 0 | ra fal: 0 | np shbd: 0 | project: WCVI
+Feature 5 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_SHOREBIRDS_UNSPCFD', located at approximately 48.9688°N, -125.6171°W. shrbird id: 9673 | ri: 4 | ra: 0 | ra spr: 0 | ra sum: 0 | ra win: 0 | ra fal: 0 | np shbd: 0 | project: WCVI
+
+=== ECOLOGICAL RELEVANCE ===
+This dataset may provide supporting spatial context for habitat analysis in the Ucluelet region.

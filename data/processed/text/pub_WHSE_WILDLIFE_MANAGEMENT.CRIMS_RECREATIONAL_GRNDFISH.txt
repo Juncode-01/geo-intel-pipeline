@@ -1,0 +1,47 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_RECREATIONAL_GRNDFISH
+Dataset ID:     pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_RECREATIONAL_GRNDFISH
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  2
+Geometry Types: Polygon
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.601703 S=48.815846 E=-125.419734 N=48.953861
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  rgrndf id: numeric | range 14885.00 to 14999.00 | mean 14942.00
+  ri: numeric | range 2.00 to 2.00 | mean 2.00
+  location: categorical | values: Lighthouse Bank, South Bank, Newcombe Channel
+  species: categorical | values: Groundfish
+  other species: categorical | values:  
+  start season: categorical | values: MAY
+  close season: categorical | values: SEP
+  rgrndf start: numeric | range 0.00 to 0.00 | mean 0.00
+  rgrndf close: numeric | range 0.00 to 0.00 | mean 0.00
+  timing: categorical | values:  
+  gear type: categorical | values: Hook & Line
+  use level: categorical | values:  
+  rgrndf comment: categorical | values:  
+  source1: categorical | values:  
+  source2: categorical | values:  
+  compiler: categorical | values: R. Stennes
+  compile date: categorical | values: 1993-06-12, 1993-09-15
+  accuracy: numeric | range 0.00 to 0.00 | mean 0.00
+  data date: categorical | values:  
+  project: categorical | values: WCVI
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 2
+  Polygon: 2 features
+Area distribution (hectares): min=507.2 median=1532.7 max=2558.1
+Approximate centre: 48.8626°N, -125.5513°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 2 features:
+
+Feature 0 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_RECREATIONAL_GRNDFISH', located at approximately 48.8483°N, -125.5715°W. rgrndf id: 14999 | ri: 2 | location: Lighthouse Bank, South Bank | species: Groundfish | start season: MAY | close season: SEP | rgrndf start: 0 | rgrndf close: 0 | gear type: Hook & Line | compiler: R. Stennes | compile date: 1993-09-15 00:00:00 | accuracy: 0 | project: WCVI
+Feature 1 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_RECREATIONAL_GRNDFISH', located at approximately 48.9348°N, -125.4496°W. rgrndf id: 14885 | ri: 2 | location: Newcombe Channel | species: Groundfish | start season: MAY | close season: SEP | rgrndf start: 0 | rgrndf close: 0 | gear type: Hook & Line | compiler: R. Stennes | compile date: 1993-06-12 00:00:00 | accuracy: 0 | project: WCVI
+
+=== ECOLOGICAL RELEVANCE ===
+This dataset may provide supporting spatial context for habitat analysis in the Ucluelet region.

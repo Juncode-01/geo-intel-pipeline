@@ -1,0 +1,43 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_BASEMAPPING.FWA_NAMED_WATERSHEDS_POLY
+Dataset ID:     pub:WHSE_BASEMAPPING.FWA_NAMED_WATERSHEDS_POLY
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  8
+Geometry Types: Polygon
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.631672 S=48.924228 E=-125.4 N=49.0
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  named watershed id: numeric | range 4031.00 to 10736.00 | mean 6486.62
+  gnis id: numeric | range 2263.00 to 28058.00 | mean 16347.62
+  gnis name: categorical | values: East Smith Creek, Itatsoo Creek, Kennedy River, Lost Shoe Creek, Maggie River, Mercantile Creek, Smith Creek, Thornton Creek
+  blue line key: numeric | range 354101133.00 to 354154544.00 | mean 354142955.00
+  watershed key: numeric | range 354101133.00 to 354154544.00 | mean 354142955.00
+  fwa watershed code: categorical | values: 930-227126-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000, 930-232561-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000, 930-236502-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000, 930-236814-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000, 930-237609-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000, 930-237609-021592-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000, 930-253054-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000, 930-302211-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000
+  stream order: numeric | range 1.00 to 5.00 | mean 3.00
+  stream magnitude: numeric | range 1.00 to 1038.00 | mean 146.50
+  area ha: numeric | range 87.07 to 55254.74 | mean 8308.45
+  feature code: categorical | values: WA25100000
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 8
+  Polygon: 8 features
+Area distribution (hectares): min=0.0 median=615.9 max=1257.7
+Approximate centre: 48.9797°N, -125.5141°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 8 features:
+
+Feature 0 from 'pub:WHSE_BASEMAPPING.FWA_NAMED_WATERSHEDS_POLY', located at approximately 48.9440°N, -125.5119°W. named watershed id: 5923 | gnis id: 10796 | gnis name: Itatsoo Creek | blue line key: 354150650 | watershed key: 354150650 | fwa watershed code: 930-232561-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000 | stream order: 2 | stream magnitude: 3 | area ha: 581.567078263323 | feature code: WA25100000
+Feature 1 from 'pub:WHSE_BASEMAPPING.FWA_NAMED_WATERSHEDS_POLY', located at approximately 48.9752°N, -125.5352°W. named watershed id: 10736 | gnis id: 22424 | gnis name: Thornton Creek | blue line key: 354136416 | watershed key: 354136416 | fwa watershed code: 930-236814-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000 | stream order: 3 | stream magnitude: 6 | area ha: 650.195257634899 | feature code: WA25100000
+Feature 2 from 'pub:WHSE_BASEMAPPING.FWA_NAMED_WATERSHEDS_POLY', located at approximately 48.9736°N, -125.5026°W. named watershed id: 4562 | gnis id: 28058 | gnis name: Mercantile Creek | blue line key: 354152569 | watershed key: 354152569 | fwa watershed code: 930-236502-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000 | stream order: 4 | stream magnitude: 17 | area ha: 1257.67002913755 | feature code: WA25100000
+Feature 3 from 'pub:WHSE_BASEMAPPING.FWA_NAMED_WATERSHEDS_POLY', located at approximately 48.9809°N, -125.5619°W. named watershed id: 7324 | gnis id: 9783 | gnis name: East Smith Creek | blue line key: 354101133 | watershed key: 354101133 | fwa watershed code: 930-237609-021592-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000 | stream order: 1 | stream magnitude: 1 | area ha: 87.069748517537 | feature code: WA25100000
+Feature 4 from 'pub:WHSE_BASEMAPPING.FWA_NAMED_WATERSHEDS_POLY', located at approximately 48.9872°N, -125.5489°W. named watershed id: 5635 | gnis id: 27342 | gnis name: Smith Creek | blue line key: 354151590 | watershed key: 354151590 | fwa watershed code: 930-237609-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000 | stream order: 2 | stream magnitude: 2 | area ha: 570.509929230821 | feature code: WA25100000
+Feature 5 from 'pub:WHSE_BASEMAPPING.FWA_NAMED_WATERSHEDS_POLY', located at approximately 48.9940°N, -125.5653°W. named watershed id: 7270 | gnis id: 18015 | gnis name: Lost Shoe Creek | blue line key: 354149311 | watershed key: 354149311 | fwa watershed code: 930-253054-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000 | stream order: 3 | stream magnitude: 20 | area ha: 2071.81988255651 | feature code: WA25100000
+Feature 6 from 'pub:WHSE_BASEMAPPING.FWA_NAMED_WATERSHEDS_POLY', located at approximately 48.9930°N, -125.4472°W. named watershed id: 4031 | gnis id: 12100 | gnis name: Maggie River | blue line key: 354147427 | watershed key: 354147427 | fwa watershed code: 930-227126-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000 | stream order: 4 | stream magnitude: 85 | area ha: 5994.02317145386 | feature code: WA25100000
+Feature 7 from 'pub:WHSE_BASEMAPPING.FWA_NAMED_WATERSHEDS_POLY', located at approximately 49.0000°N, -125.5004°W. named watershed id: 6412 | gnis id: 2263 | gnis name: Kennedy River | blue line key: 354154544 | watershed key: 354154544 | fwa watershed code: 930-302211-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000-000000 | stream order: 5 | stream magnitude: 1038 | area ha: 55254.7408216914 | feature code: WA25100000
+
+=== ECOLOGICAL RELEVANCE ===
+Hydrological data indicates soil moisture patterns and drainage regimes. Chanterelles favour areas with consistent subsurface moisture but not waterlogged conditions — typically mid-slope positions near but not in riparian zones.

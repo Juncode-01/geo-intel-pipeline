@@ -1,0 +1,44 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_FOREST_TENURE.FTEN_SPEC_USE_PERMIT_POLY_SVW
+Dataset ID:     pub:WHSE_FOREST_TENURE.FTEN_SPEC_USE_PERMIT_POLY_SVW
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  4
+Geometry Types: MultiPolygon, Polygon
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.597897 S=48.985848 E=-125.481298 N=48.998428
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  forest file id: categorical | values: S08326, S23621, S26073, S26313
+  special use code: categorical | values: 15, 16, 27
+  special use description: categorical | values: Miscellaneous Forest Use, Short Term Logging Camp, associated facilities, Waste Disposal
+  permit block area: numeric | range 0.50 to 3.54 | mean 1.73
+  retirement date: categorical | values: 2012-03-10, 2019-12-24
+  amendment id: numeric | range 0.00 to 1.00 | mean 0.25
+  map label: categorical | values: S08326, S23621, S26073, S26313
+  feature area: numeric | range 5004.00 to 35381.00 | mean 19056.00
+  feature perimeter: numeric | range 300.40 to 1142.40 | mean 722.08
+  feature class skey: numeric | range 782.00 to 782.00 | mean 782.00
+  file status code: categorical | values: HC, HI
+  admin district code: categorical | values: DSI
+  admin district name: categorical | values: South Island Natural Resource District
+  life cycle status code: categorical | values: ACTIVE, RETIRED
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 4
+  Polygon: 3 features
+  MultiPolygon: 1 features
+Area distribution (hectares): min=0.5 median=1.8 max=3.5
+Approximate centre: 48.9928°N, -125.5833°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 4 features:
+
+Feature 0 from 'pub:WHSE_FOREST_TENURE.FTEN_SPEC_USE_PERMIT_POLY_SVW', located at approximately 48.9870°N, -125.5954°W. forest file id: S08326 | special use code: 27 | special use description: Miscellaneous Forest Use | retirement date: 2012-03-10 00:00:00 | amendment id: 0 | map label: S08326 | feature area: 24400 | feature perimeter: 976.8 | feature class skey: 782 | file status code: HC | admin district code: DSI | admin district name: South Island Natural Resource District | life cycle status code: RETIRED
+Feature 1 from 'pub:WHSE_FOREST_TENURE.FTEN_SPEC_USE_PERMIT_POLY_SVW', located at approximately 48.9924°N, -125.5717°W. forest file id: S26073 | special use code: 16 | special use description: Waste Disposal | permit block area: 1.1439 | retirement date: NaT | amendment id: 0 | map label: S26073 | feature area: 11439 | feature perimeter: 468.7 | feature class skey: 782 | file status code: HC | admin district code: DSI | admin district name: South Island Natural Resource District | life cycle status code: ACTIVE
+Feature 2 from 'pub:WHSE_FOREST_TENURE.FTEN_SPEC_USE_PERMIT_POLY_SVW', located at approximately 48.9928°N, -125.4817°W. forest file id: S26313 | special use code: 27 | special use description: Miscellaneous Forest Use | permit block area: 0.5004 | retirement date: 2019-12-24 00:00:00 | amendment id: 0 | map label: S26313 | feature area: 5004 | feature perimeter: 300.4 | feature class skey: 782 | file status code: HC | admin district code: DSI | admin district name: South Island Natural Resource District | life cycle status code: RETIRED
+Feature 3 from 'pub:WHSE_FOREST_TENURE.FTEN_SPEC_USE_PERMIT_POLY_SVW', located at approximately 48.9968°N, -125.5930°W. forest file id: S23621 | special use code: 15 | special use description: Short Term Logging Camp, associated facilities | permit block area: 3.5381 | retirement date: NaT | amendment id: 1 | map label: S23621 | feature area: 35381 | feature perimeter: 1142.4 | feature class skey: 782 | file status code: HI | admin district code: DSI | admin district name: South Island Natural Resource District | life cycle status code: ACTIVE
+
+=== ECOLOGICAL RELEVANCE ===
+Vegetation and forest cover data indicates tree species composition. Chanterelles form mycorrhizal associations primarily with conifers — especially Douglas-fir, Sitka spruce, western hemlock, and western red cedar, all common in the Ucluelet region.

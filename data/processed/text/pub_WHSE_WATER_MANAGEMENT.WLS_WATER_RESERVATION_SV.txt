@@ -1,0 +1,32 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_WATER_MANAGEMENT.WLS_WATER_RESERVATION_SV
+Dataset ID:     pub:WHSE_WATER_MANAGEMENT.WLS_WATER_RESERVATION_SV
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  5
+Geometry Types: Point
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.574372 S=48.927253 E=-125.504146 N=48.978075
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  wls wr sysid: numeric | range 82.00 to 104.00 | mean 92.40
+  reservation id: categorical | values: RV184192, RV184200, RV184202, RV184203, RV184204
+  reservation description: categorical | values: OIC 0094/2011 - ITATSOO RIVER AND TRIBUTARIES - 2011/03/24, OIC 0096/2011 - ITATSOO CREEK AN TRIBUTARIES - 2011/03/24, OIC 0096/2011 - MERCANTILE CREEK AND TIBUTARIES - 2011/03/24, OIC 0096/2011 - SMITH CREEK AND TRIBUTARIES - 2011/03/24, OIC 0096/2011 - THORNTON CREEK AND TRIBUTARIES - 2011/03/24
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 5
+  Point: 5 features
+Approximate centre: 48.9525°N, -125.5408°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 5 features:
+
+Feature 0 from 'pub:WHSE_WATER_MANAGEMENT.WLS_WATER_RESERVATION_SV', located at approximately 48.9273°N, -125.5041°W. wls wr sysid: 83 | reservation id: RV184192 | reservation description: OIC 0094/2011 - ITATSOO RIVER AND TRIBUTARIES - 2011/03/24
+Feature 1 from 'pub:WHSE_WATER_MANAGEMENT.WLS_WATER_RESERVATION_SV', located at approximately 48.9273°N, -125.5041°W. wls wr sysid: 82 | reservation id: RV184200 | reservation description: OIC 0096/2011 - ITATSOO CREEK AN TRIBUTARIES - 2011/03/24
+Feature 2 from 'pub:WHSE_WATER_MANAGEMENT.WLS_WATER_RESERVATION_SV', located at approximately 48.9630°N, -125.5584°W. wls wr sysid: 92 | reservation id: RV184204 | reservation description: OIC 0096/2011 - MERCANTILE CREEK AND TIBUTARIES - 2011/03/24
+Feature 3 from 'pub:WHSE_WATER_MANAGEMENT.WLS_WATER_RESERVATION_SV', located at approximately 48.9667°N, -125.5629°W. wls wr sysid: 104 | reservation id: RV184202 | reservation description: OIC 0096/2011 - THORNTON CREEK AND TRIBUTARIES - 2011/03/24
+Feature 4 from 'pub:WHSE_WATER_MANAGEMENT.WLS_WATER_RESERVATION_SV', located at approximately 48.9781°N, -125.5744°W. wls wr sysid: 101 | reservation id: RV184203 | reservation description: OIC 0096/2011 - SMITH CREEK AND TRIBUTARIES - 2011/03/24
+
+=== ECOLOGICAL RELEVANCE ===
+Hydrological data indicates soil moisture patterns and drainage regimes. Chanterelles favour areas with consistent subsurface moisture but not waterlogged conditions — typically mid-slope positions near but not in riparian zones.

@@ -1,0 +1,153 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW
+Dataset ID:     pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  118
+Geometry Types: Polygon, MultiPolygon
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.673408 S=48.874806 E=-125.4 N=49.0
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  watershed poly id: numeric | range 36139.00 to 36821.00 | mean 36478.74
+  wsd id: text | 118 unique values | sample: ALBNWSD000181, ALBNWSD000187, ALBNWSD000190, ALBNWSD000222, ALBNWSD000223...
+  watershed id: numeric | range 258983.00 to 259035.00 | mean 259004.75
+  stream order: numeric | range 2.00 to 4.00 | mean 3.00
+  stream magnitude: numeric | range 5.00 to 24.00 | mean 11.50
+  new watershed code: categorical | values: 930-233800-00000-00000-0000-0000-000-000-000-000-000-000, 930-233800-78100-00000-0000-0000-000-000-000-000-000-000, 930-236300-00000-00000-0000-0000-000-000-000-000-000-000, 930-260600-00000-00000-0000-0000-000-000-000-000-000-000
+  gazetted name: categorical | values: LOST SHOE CREEK, MAGGIE RIVER
+  watershed area: numeric | range 238.80 to 90385947.30 | mean 1133497.68
+  watershed perimeter: numeric | range 56.70 to 129443.20 | mean 1864.22
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 118
+  Polygon: 117 features
+  MultiPolygon: 1 features
+Area distribution (hectares): min=0.0 median=0.2 max=7552.7
+Approximate centre: 48.9696°N, -125.5083°W
+
+=== FEATURE DESCRIPTIONS ===
+Dataset has 118 features. Describing a representative sample of 118:
+
+Feature 56 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9957°N, -125.6574°W. watershed poly id: 36228 | wsd id: ALBNWSD000227 | watershed area: 7396.7 | watershed perimeter: 372.7
+Feature 89 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9128°N, -125.5164°W. watershed poly id: 36637 | wsd id: ALBNWSD000555 | watershed area: 747.8 | watershed perimeter: 117.4
+Feature 4 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9240°N, -125.5444°W. watershed poly id: 36556 | wsd id: ALBNWSD000479 | watershed area: 1282.5 | watershed perimeter: 153.8
+Feature 45 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9815°N, -125.6487°W. watershed poly id: 36277 | wsd id: ALBNWSD000261 | watershed area: 2102.4 | watershed perimeter: 169.8
+Feature 26 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9650°N, -125.5770°W. watershed poly id: 36320 | wsd id: ALBNWSD000299 | watershed area: 314397.6 | watershed perimeter: 2958.7
+Feature 116 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9927°N, -125.4298°W. watershed poly id: 36149 | wsd id: ALBNWSD000190 | watershed id: 258983.0 | stream order: 4.0 | stream magnitude: 24.0 | new watershed code: 930-233800-00000-00000-0000-0000-000-000-000-000-000-000 | gazetted name: MAGGIE RIVER | watershed area: 17633741.4 | watershed perimeter: 23509.6
+Feature 69 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9006°N, -125.5028°W. watershed poly id: 36714 | wsd id: ALBNWSD000625 | watershed area: 571.9 | watershed perimeter: 98.0
+Feature 10 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9325°N, -125.5522°W. watershed poly id: 36490 | wsd id: ALBNWSD000443 | watershed area: 1973.6 | watershed perimeter: 183.9
+Feature 90 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9131°N, -125.5167°W. watershed poly id: 36635 | wsd id: ALBNWSD000553 | watershed area: 479.3 | watershed perimeter: 84.0
+Feature 73 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9017°N, -125.5214°W. watershed poly id: 36710 | wsd id: ALBNWSD000620 | watershed area: 1462.6 | watershed perimeter: 144.4
+Feature 18 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9554°N, -125.5934°W. watershed poly id: 36392 | wsd id: ALBNWSD000352 | watershed area: 1654.5 | watershed perimeter: 211.2
+Feature 111 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9697°N, -125.5202°W. watershed poly id: 36141 | wsd id: ALBNWSD000181 | watershed id: 259035.0 | stream order: 2.0 | stream magnitude: 11.0 | new watershed code: 930-260600-00000-00000-0000-0000-000-000-000-000-000-000 | gazetted name: LOST SHOE CREEK | watershed area: 90385947.3 | watershed perimeter: 129443.2
+Feature 11 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9342°N, -125.5525°W. watershed poly id: 36477 | wsd id: ALBNWSD000439 | watershed area: 1029.0 | watershed perimeter: 120.8
+Feature 96 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9162°N, -125.5033°W. watershed poly id: 36609 | wsd id: ALBNWSD000534 | watershed area: 5096.7 | watershed perimeter: 268.0
+Feature 42 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9796°N, -125.6169°W. watershed poly id: 36281 | wsd id: ALBNWSD000269 | watershed area: 948.7 | watershed perimeter: 116.6
+Feature 31 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9656°N, -125.6139°W. watershed poly id: 36336 | wsd id: ALBNWSD000303 | watershed area: 8484.1 | watershed perimeter: 404.3
+Feature 88 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9125°N, -125.5156°W. watershed poly id: 36639 | wsd id: ALBNWSD000556 | watershed area: 2690.8 | watershed perimeter: 268.2
+Feature 0 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9222°N, -125.5448°W. watershed poly id: 36571 | wsd id: ALBNWSD000493 | watershed area: 400.6 | watershed perimeter: 79.1
+Feature 97 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9180°N, -125.5010°W. watershed poly id: 36591 | wsd id: ALBNWSD000522 | watershed area: 22165.1 | watershed perimeter: 734.1
+Feature 109 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9453°N, -125.5394°W. watershed poly id: 36437 | wsd id: ALBNWSD000405 | watershed area: 447.7 | watershed perimeter: 92.9
+Feature 64 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.8915°N, -125.4545°W. watershed poly id: 36755 | wsd id: ALBNWSD000671 | watershed area: 4465.2 | watershed perimeter: 255.2
+Feature 40 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9740°N, -125.5840°W. watershed poly id: 36303 | wsd id: ALBNWSD000284 | watershed area: 2893.6 | watershed perimeter: 229.8
+Feature 95 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9089°N, -125.4710°W. watershed poly id: 36653 | wsd id: ALBNWSD000581 | watershed area: 10449.3 | watershed perimeter: 536.9
+Feature 53 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9941°N, -125.6730°W. watershed poly id: 36240 | wsd id: ALBNWSD000233 | watershed area: 313.0 | watershed perimeter: 82.8
+Feature 44 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9808°N, -125.6449°W. watershed poly id: 36278 | wsd id: ALBNWSD000262 | watershed area: 8120.3 | watershed perimeter: 335.5
+Feature 12 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9379°N, -125.5688°W. watershed poly id: 36465 | wsd id: ALBNWSD000422 | watershed area: 1996.0 | watershed perimeter: 208.5
+Feature 15 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9474°N, -125.5539°W. watershed poly id: 36427 | wsd id: ALBNWSD000385 | watershed area: 22556.8 | watershed perimeter: 828.8
+Feature 70 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9010°N, -125.5107°W. watershed poly id: 36712 | wsd id: ALBNWSD000621 | watershed area: 12586.8 | watershed perimeter: 428.4
+Feature 107 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9282°N, -125.5199°W. watershed poly id: 36516 | wsd id: ALBNWSD000462 | watershed area: 1676.2 | watershed perimeter: 162.2
+Feature 24 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9618°N, -125.6060°W. watershed poly id: 36358 | wsd id: ALBNWSD000319 | watershed area: 1360.2 | watershed perimeter: 152.9
+Feature 66 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.8928°N, -125.4557°W. watershed poly id: 36747 | wsd id: ALBNWSD000665 | watershed area: 5772.5 | watershed perimeter: 288.7
+Feature 22 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9588°N, -125.6043°W. watershed poly id: 36374 | wsd id: ALBNWSD000328 | watershed area: 696.3 | watershed perimeter: 102.2
+Feature 36 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9773°N, -125.6161°W. watershed poly id: 36290 | wsd id: ALBNWSD000280 | watershed area: 392.6 | watershed perimeter: 74.7
+Feature 55 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9954°N, -125.6594°W. watershed poly id: 36232 | wsd id: ALBNWSD000228 | watershed area: 2812.4 | watershed perimeter: 202.8
+Feature 81 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9072°N, -125.5170°W. watershed poly id: 36677 | wsd id: ALBNWSD000592 | watershed area: 290.5 | watershed perimeter: 63.8
+Feature 30 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9636°N, -125.6081°W. watershed poly id: 36348 | wsd id: ALBNWSD000315 | watershed area: 2145.1 | watershed perimeter: 171.0
+Feature 62 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.8811°N, -125.4854°W. watershed poly id: 36785 | wsd id: ALBNWSD000703 | watershed area: 6952.2 | watershed perimeter: 353.3
+Feature 72 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.8985°N, -125.5159°W. watershed poly id: 36730 | wsd id: ALBNWSD000634 | watershed area: 941.7 | watershed perimeter: 116.3
+Feature 9 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9299°N, -125.5473°W. watershed poly id: 36505 | wsd id: ALBNWSD000450 | watershed area: 790.2 | watershed perimeter: 107.3
+Feature 33 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9680°N, -125.6108°W. watershed poly id: 36322 | wsd id: ALBNWSD000297 | watershed area: 851.4 | watershed perimeter: 109.3
+Feature 105 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9228°N, -125.5246°W. watershed poly id: 36557 | wsd id: ALBNWSD000482 | watershed area: 56943.6 | watershed perimeter: 1058.0
+Feature 68 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.8983°N, -125.4325°W. watershed poly id: 36728 | wsd id: ALBNWSD000644 | watershed area: 1019.6 | watershed perimeter: 122.5
+Feature 28 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9657°N, -125.6079°W. watershed poly id: 36337 | wsd id: ALBNWSD000305 | watershed area: 710.4 | watershed perimeter: 103.1
+Feature 47 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9899°N, -125.6410°W. watershed poly id: 36250 | wsd id: ALBNWSD000250 | watershed area: 1288.5 | watershed perimeter: 148.0
+Feature 84 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9083°N, -125.5111°W. watershed poly id: 36659 | wsd id: ALBNWSD000580 | watershed area: 18241.2 | watershed perimeter: 708.0
+Feature 5 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9249°N, -125.5488°W. watershed poly id: 36548 | wsd id: ALBNWSD000474 | watershed area: 2865.3 | watershed perimeter: 220.5
+Feature 77 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9038°N, -125.5164°W. watershed poly id: 36696 | wsd id: ALBNWSD000608 | watershed area: 1533.3 | watershed perimeter: 160.1
+Feature 67 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.8975°N, -125.4339°W. watershed poly id: 36733 | wsd id: ALBNWSD000648 | watershed area: 4645.9 | watershed perimeter: 377.3
+Feature 39 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9784°N, -125.6410°W. watershed poly id: 36284 | wsd id: ALBNWSD000274 | watershed area: 935.4 | watershed perimeter: 120.5
+Feature 49 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9921°N, -125.6669°W. watershed poly id: 36245 | wsd id: ALBNWSD000240 | watershed area: 4366.1 | watershed perimeter: 340.1
+Feature 35 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9727°N, -125.6179°W. watershed poly id: 36309 | wsd id: ALBNWSD000290 | watershed area: 238.8 | watershed perimeter: 56.7
+Feature 16 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9493°N, -125.5473°W. watershed poly id: 36423 | wsd id: ALBNWSD000378 | watershed area: 854.7 | watershed perimeter: 131.3
+Feature 65 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.8920°N, -125.4554°W. watershed poly id: 36754 | wsd id: ALBNWSD000669 | watershed area: 899.4 | watershed perimeter: 118.7
+Feature 34 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9727°N, -125.6171°W. watershed poly id: 36308 | wsd id: ALBNWSD000289 | watershed area: 1321.3 | watershed perimeter: 138.2
+Feature 85 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9091°N, -125.5130°W. watershed poly id: 36655 | wsd id: ALBNWSD000578 | watershed area: 3809.8 | watershed perimeter: 264.2
+Feature 7 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9266°N, -125.5484°W. watershed poly id: 36530 | wsd id: ALBNWSD000465 | watershed area: 8901.7 | watershed perimeter: 416.1
+Feature 43 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9807°N, -125.6141°W. watershed poly id: 36279 | wsd id: ALBNWSD000268 | watershed area: 379.2 | watershed perimeter: 79.0
+Feature 112 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9204°N, -125.5042°W. watershed poly id: 36579 | wsd id: ALBNWSD000510 | watershed area: 3741.4 | watershed perimeter: 231.3
+Feature 78 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9056°N, -125.5140°W. watershed poly id: 36672 | wsd id: ALBNWSD000587 | watershed area: 84608.5 | watershed perimeter: 1751.0
+Feature 27 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9653°N, -125.6064°W. watershed poly id: 36339 | wsd id: ALBNWSD000306 | watershed area: 3649.0 | watershed perimeter: 260.2
+Feature 19 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9555°N, -125.5903°W. watershed poly id: 36390 | wsd id: ALBNWSD000351 | watershed area: 2971.0 | watershed perimeter: 214.3
+Feature 94 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9079°N, -125.5099°W. watershed poly id: 36668 | wsd id: ALBNWSD000586 | watershed area: 748.4 | watershed perimeter: 118.0
+Feature 103 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9207°N, -125.5279°W. watershed poly id: 36577 | wsd id: ALBNWSD000503 | watershed area: 820.1 | watershed perimeter: 116.0
+Feature 25 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9626°N, -125.6072°W. watershed poly id: 36350 | wsd id: ALBNWSD000318 | watershed area: 15567.9 | watershed perimeter: 805.9
+Feature 8 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9274°N, -125.5453°W. watershed poly id: 36517 | wsd id: ALBNWSD000460 | watershed area: 17344.1 | watershed perimeter: 622.6
+Feature 13 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9439°N, -125.5783°W. watershed poly id: 36443 | wsd id: ALBNWSD000408 | watershed area: 773.3 | watershed perimeter: 107.4
+Feature 83 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9073°N, -125.5189°W. watershed poly id: 36673 | wsd id: ALBNWSD000588 | watershed area: 804.7 | watershed perimeter: 120.8
+Feature 3 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9239°N, -125.5453°W. watershed poly id: 36554 | wsd id: ALBNWSD000477 | watershed area: 2330.9 | watershed perimeter: 212.3
+Feature 17 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9536°N, -125.5910°W. watershed poly id: 36404 | wsd id: ALBNWSD000357 | watershed area: 6339.0 | watershed perimeter: 314.8
+Feature 38 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9779°N, -125.6416°W. watershed poly id: 36287 | wsd id: ALBNWSD000275 | watershed area: 2758.7 | watershed perimeter: 197.8
+Feature 91 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9031°N, -125.4740°W. watershed poly id: 36701 | wsd id: ALBNWSD000618 | watershed area: 926.5 | watershed perimeter: 126.8
+Feature 6 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9265°N, -125.5505°W. watershed poly id: 36526 | wsd id: ALBNWSD000464 | watershed area: 28215.8 | watershed perimeter: 778.6
+Feature 76 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9029°N, -125.5162°W. watershed poly id: 36703 | wsd id: ALBNWSD000613 | watershed area: 432.3 | watershed perimeter: 84.9
+Feature 101 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9136°N, -125.5153°W. watershed poly id: 36627 | wsd id: ALBNWSD000548 | watershed area: 280.1 | watershed perimeter: 68.8
+Feature 93 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9075°N, -125.5005°W. watershed poly id: 36671 | wsd id: ALBNWSD000591 | watershed area: 1081.5 | watershed perimeter: 126.6
+Feature 54 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9943°N, -125.6598°W. watershed poly id: 36235 | wsd id: ALBNWSD000232 | watershed area: 2773.5 | watershed perimeter: 248.5
+Feature 50 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9923°N, -125.6705°W. watershed poly id: 36246 | wsd id: ALBNWSD000239 | watershed area: 421.1 | watershed perimeter: 74.7
+Feature 108 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9292°N, -125.5165°W. watershed poly id: 36511 | wsd id: ALBNWSD000457 | watershed area: 1863.3 | watershed perimeter: 181.6
+Feature 46 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9823°N, -125.6439°W. watershed poly id: 36273 | wsd id: ALBNWSD000260 | watershed area: 1935.9 | watershed perimeter: 162.5
+Feature 80 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9066°N, -125.5170°W. watershed poly id: 36681 | wsd id: ALBNWSD000597 | watershed area: 464.2 | watershed perimeter: 80.2
+Feature 61 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.8750°N, -125.4789°W. watershed poly id: 36821 | wsd id: ALBNWSD000718 | watershed area: 2070.2 | watershed perimeter: 187.2
+Feature 114 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9520°N, -125.4097°W. watershed poly id: 36388 | wsd id: ALBNWSD000368 | watershed area: 277922.7 | watershed perimeter: 2417.2
+Feature 79 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9060°N, -125.5173°W. watershed poly id: 36684 | wsd id: ALBNWSD000600 | watershed area: 623.4 | watershed perimeter: 97.1
+Feature 115 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9713°N, -125.4039°W. watershed poly id: 36310 | wsd id: ALBNWSD000300 | watershed area: 2547.9 | watershed perimeter: 201.5
+Feature 41 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9791°N, -125.6435°W. watershed poly id: 36280 | wsd id: ALBNWSD000265 | watershed area: 46032.4 | watershed perimeter: 1040.0
+Feature 58 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9975°N, -125.6563°W. watershed poly id: 36224 | wsd id: ALBNWSD000224 | watershed area: 771.1 | watershed perimeter: 115.2
+Feature 48 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9914°N, -125.6364°W. watershed poly id: 36247 | wsd id: ALBNWSD000247 | watershed area: 3536.7 | watershed perimeter: 228.3
+Feature 100 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9200°N, -125.4855°W. watershed poly id: 36583 | wsd id: ALBNWSD000515 | watershed area: 918.5 | watershed perimeter: 143.1
+Feature 57 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9968°N, -125.6577°W. watershed poly id: 36226 | wsd id: ALBNWSD000225 | watershed area: 4886.2 | watershed perimeter: 267.6
+Feature 75 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9029°N, -125.5177°W. watershed poly id: 36704 | wsd id: ALBNWSD000612 | watershed area: 1199.9 | watershed perimeter: 136.0
+Feature 32 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9668°N, -125.6084°W. watershed poly id: 36327 | wsd id: ALBNWSD000301 | watershed area: 600.6 | watershed perimeter: 91.4
+Feature 110 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9458°N, -125.5392°W. watershed poly id: 36434 | wsd id: ALBNWSD000401 | watershed area: 328.0 | watershed perimeter: 76.5
+Feature 59 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9975°N, -125.6725°W. watershed poly id: 36223 | wsd id: ALBNWSD000223 | watershed area: 11989.6 | watershed perimeter: 409.0
+Feature 63 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.8823°N, -125.4848°W. watershed poly id: 36782 | wsd id: ALBNWSD000700 | watershed area: 3203.5 | watershed perimeter: 296.9
+Feature 98 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9183°N, -125.5041°W. watershed poly id: 36594 | wsd id: ALBNWSD000525 | watershed area: 1606.7 | watershed perimeter: 162.2
+Feature 37 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9778°N, -125.6428°W. watershed poly id: 36289 | wsd id: ALBNWSD000276 | watershed area: 1755.3 | watershed perimeter: 172.7
+Feature 29 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9681°N, -125.6075°W. watershed poly id: 36321 | wsd id: ALBNWSD000296 | watershed area: 951.0 | watershed perimeter: 118.8
+Feature 104 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9225°N, -125.5333°W. watershed poly id: 36560 | wsd id: ALBNWSD000486 | watershed area: 23798.1 | watershed perimeter: 624.4
+Feature 1 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9227°N, -125.5455°W. watershed poly id: 36565 | wsd id: ALBNWSD000484 | watershed area: 7316.5 | watershed perimeter: 361.5
+Feature 52 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9928°N, -125.6670°W. watershed poly id: 36243 | wsd id: ALBNWSD000237 | watershed area: 1199.4 | watershed perimeter: 147.6
+Feature 21 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9582°N, -125.6044°W. watershed poly id: 36376 | wsd id: ALBNWSD000332 | watershed area: 2229.1 | watershed perimeter: 173.9
+Feature 2 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9229°N, -125.5438°W. watershed poly id: 36564 | wsd id: ALBNWSD000485 | watershed area: 5259.8 | watershed perimeter: 269.5
+Feature 23 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9617°N, -125.6066°W. watershed poly id: 36361 | wsd id: ALBNWSD000321 | watershed area: 471.6 | watershed perimeter: 90.2
+Feature 99 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9190°N, -125.4849°W. watershed poly id: 36586 | wsd id: ALBNWSD000519 | watershed area: 13165.3 | watershed perimeter: 534.0
+Feature 87 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9118°N, -125.5129°W. watershed poly id: 36645 | wsd id: ALBNWSD000569 | watershed area: 1782.1 | watershed perimeter: 161.1
+Feature 113 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9493°N, -125.4805°W. watershed poly id: 36319 | wsd id: ALBNWSD000304 | watershed id: 259012.0 | stream order: 3.0 | stream magnitude: 5.0 | new watershed code: 930-236300-00000-00000-0000-0000-000-000-000-000-000-000 | watershed area: 10328730.8 | watershed perimeter: 14092.6
+Feature 74 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9025°N, -125.5169°W. watershed poly id: 36706 | wsd id: ALBNWSD000615 | watershed area: 2246.3 | watershed perimeter: 189.1
+Feature 86 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9095°N, -125.5144°W. watershed poly id: 36654 | wsd id: ALBNWSD000577 | watershed area: 3671.6 | watershed perimeter: 223.6
+Feature 82 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9072°N, -125.5112°W. watershed poly id: 36675 | wsd id: ALBNWSD000593 | watershed area: 617.9 | watershed perimeter: 97.4
+Feature 117 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9929°N, -125.4731°W. watershed poly id: 36139 | wsd id: ALBNWSD000187 | watershed id: 258989.0 | stream order: 3.0 | stream magnitude: 6.0 | new watershed code: 930-233800-78100-00000-0000-0000-000-000-000-000-000-000 | watershed area: 14167004.8 | watershed perimeter: 18159.9
+Feature 20 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9569°N, -125.6021°W. watershed poly id: 36381 | wsd id: ALBNWSD000342 | watershed area: 808.4 | watershed perimeter: 105.7
+Feature 60 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9989°N, -125.6724°W. watershed poly id: 36219 | wsd id: ALBNWSD000222 | watershed area: 7177.9 | watershed perimeter: 382.4
+Feature 71 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.8983°N, -125.5123°W. watershed poly id: 36732 | wsd id: ALBNWSD000637 | watershed area: 1100.1 | watershed perimeter: 126.1
+Feature 106 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9256°N, -125.5161°W. watershed poly id: 36540 | wsd id: ALBNWSD000475 | watershed area: 1402.3 | watershed perimeter: 188.2
+Feature 14 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9457°N, -125.5444°W. watershed poly id: 36431 | wsd id: ALBNWSD000395 | watershed area: 16296.1 | watershed perimeter: 601.1
+Feature 92 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9069°N, -125.4706°W. watershed poly id: 36667 | wsd id: ALBNWSD000595 | watershed area: 33880.1 | watershed perimeter: 1054.0
+Feature 51 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9924°N, -125.6698°W. watershed poly id: 36244 | wsd id: ALBNWSD000238 | watershed area: 740.4 | watershed perimeter: 99.4
+Feature 102 from 'pub:WHSE_FISH.WDIC_WATERSHED_POLY_SVW', located at approximately 48.9147°N, -125.5168°W. watershed poly id: 36618 | wsd id: ALBNWSD000541 | watershed area: 1995.6 | watershed perimeter: 226.9
+
+=== ECOLOGICAL RELEVANCE ===
+Hydrological data indicates soil moisture patterns and drainage regimes. Chanterelles favour areas with consistent subsurface moisture but not waterlogged conditions — typically mid-slope positions near but not in riparian zones.

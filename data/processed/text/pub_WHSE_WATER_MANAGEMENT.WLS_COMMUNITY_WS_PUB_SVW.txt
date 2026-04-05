@@ -1,0 +1,57 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_WATER_MANAGEMENT.WLS_COMMUNITY_WS_PUB_SVW
+Dataset ID:     pub:WHSE_WATER_MANAGEMENT.WLS_COMMUNITY_WS_PUB_SVW
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  2
+Geometry Types: Polygon
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.541616 S=48.926663 E=-125.466122 N=48.995332
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  wls cw sysid: numeric | range 103.00 to 148.00 | mean 125.50
+  cw code: categorical | values: 930.010, 930.016
+  cw name: categorical | values: Itatsoo Community Watershed, Mercantile Community Watershed
+  cw source name: categorical | values: Itatsoo Creek, Mercantile Creek
+  cw source type: categorical | values: CR, OTH
+  pod number: categorical | values: PD29529, PD29544
+  cw legislation: categorical | values: Forest Practices Code
+  cw date created: categorical | values: 1995-06-15
+  cw status: categorical | values: DESIGNATED
+  organization: categorical | values: District  Of Ucluelet, Toquaht Indian Band, Ucluelet First Nations
+  organization count: numeric | range 1.00 to 1.00 | mean 1.00
+  organization type: categorical | values: Waterworks
+  water system name: categorical | values: ?, Mercantile Creek Water Supply
+  cw use: categorical | values: FUTURE SOURCE, PRIMARY
+  source category: categorical | values: SW & GW, SW (other)
+  source comments: categorical | values: SW (other) - Ucluelet community gets water from Ucluelet (source: Lynne Magee, Drinking Water Coordinator for Island Health Regional Health Authority), SW and GW
+  water treatment type: categorical | values: Disinfection x2, NONE
+  water treatment location: categorical | values: NO TREATMENT, TREATMENT FACILITY
+  connections count: numeric | range 0.00 to 988.00 | mean 494.00
+  natural resource district: categorical | values: South Island Natural Resource District
+  health authority: categorical | values: Vancouver Island
+  cw assessment ind: categorical | values: No
+  water qlty obj status: categorical | values: Complete, Not completed by 2019
+  water qlty obj overvw rpt url: categorical | values: https://www2.gov.bc.ca/assets/gov/environment/air-land-water/water/waterquality/water-quality-objectives/wqo_report_mercantile_2012.pdf
+  water qlty obj tech rpt url: categorical | values: https://www2.gov.bc.ca/assets/gov/environment/air-land-water/water/waterquality/water-quality-objectives/wqo_tech_mercantile_creek_2012.pdf
+  water qlty obj rpt year: numeric | range 2012.00 to 2012.00 | mean 2012.00
+  water qlty obj type: categorical | values: MOE Report
+  organization concerns: categorical | values: Forestry, water quantity, debris/slides
+  waterworks damage: categorical | values: Yes
+  general comments: categorical | values: Current waterworks license is in the name of the TOQUAHT INDIAN BAND. They have several reserves including one by the mouth of the Itatsoo River., Treatment facility was upgraded in 2014
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 2
+  Polygon: 2 features
+Area distribution (hectares): min=552.1 median=847.3 max=1142.5
+Approximate centre: 48.9650°N, -125.5028°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 2 features:
+
+Feature 0 from 'pub:WHSE_WATER_MANAGEMENT.WLS_COMMUNITY_WS_PUB_SVW', located at approximately 48.9453°N, -125.5128°W. wls cw sysid: 148 | cw code: 930.010 | cw name: Itatsoo Community Watershed | cw source name: Itatsoo Creek | cw source type: OTH | pod number: PD29544 | cw legislation: Forest Practices Code | cw date created: 1995-06-15 00:00:00 | cw status: DESIGNATED | organization: Toquaht Indian Band, Ucluelet First Nations | organization count: 1 | organization type: Waterworks | water system name: ? | cw use: FUTURE SOURCE | source category: SW (other) | source comments: SW (other) - Ucluelet community gets water from Ucluelet (source: Lynne Magee, Drinking Water Coordinator for Island Health Regional Health Authority) | water treatment type: NONE | water treatment location: NO TREATMENT | connections count: 0 | natural resource district: South Island Natural Resource District | health authority: Vancouver Island | cw assessment ind: No | water qlty obj status: Not completed by 2019 | general comments: Current waterworks license is in the name of the TOQUAHT INDIAN BAND. They have several reserves including one by the mouth of the Itatsoo River.
+Feature 1 from 'pub:WHSE_WATER_MANAGEMENT.WLS_COMMUNITY_WS_PUB_SVW', located at approximately 48.9745°N, -125.4980°W. wls cw sysid: 103 | cw code: 930.016 | cw name: Mercantile Community Watershed | cw source name: Mercantile Creek | cw source type: CR | pod number: PD29529 | cw legislation: Forest Practices Code | cw date created: 1995-06-15 00:00:00 | cw status: DESIGNATED | organization: District  Of Ucluelet | organization count: 1 | organization type: Waterworks | water system name: Mercantile Creek Water Supply | cw use: PRIMARY | source category: SW & GW | source comments: SW and GW | water treatment type: Disinfection x2 | water treatment location: TREATMENT FACILITY | connections count: 988 | natural resource district: South Island Natural Resource District | health authority: Vancouver Island | cw assessment ind: No | water qlty obj status: Complete | water qlty obj overvw rpt url: https://www2.gov.bc.ca/assets/gov/environment/air-land-water/water/waterquality/water-quality-objectives/wqo_report_mercantile_2012.pdf | water qlty obj tech rpt url: https://www2.gov.bc.ca/assets/gov/environment/air-land-water/water/waterquality/water-quality-objectives/wqo_tech_mercantile_creek_2012.pdf | water qlty obj rpt year: 2012.0 | water qlty obj type: MOE Report | organization concerns: Forestry, water quantity, debris/slides | waterworks damage: Yes | general comments: Treatment facility was upgraded in 2014
+
+=== ECOLOGICAL RELEVANCE ===
+Hydrological data indicates soil moisture patterns and drainage regimes. Chanterelles favour areas with consistent subsurface moisture but not waterlogged conditions — typically mid-slope positions near but not in riparian zones.

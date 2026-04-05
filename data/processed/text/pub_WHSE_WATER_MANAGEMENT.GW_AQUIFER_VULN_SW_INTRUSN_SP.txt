@@ -1,0 +1,101 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_WATER_MANAGEMENT.GW_AQUIFER_VULN_SW_INTRUSN_SP
+Dataset ID:     pub:WHSE_WATER_MANAGEMENT.GW_AQUIFER_VULN_SW_INTRUSN_SP
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  69
+Geometry Types: Polygon, MultiPolygon
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.671385 S=48.880757 E=-125.4 N=49.0
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  gw avsi sysid: numeric | range 21906.00 to 32863.00 | mean 27934.97
+  risk rating: numeric | range 1.00 to 3.00 | mean 1.81
+  risk class: categorical | values: Low, Moderate, Moderately Low
+  aquifer material: categorical | values: Bedrock, Unconsolidated
+  hazard criteria: categorical | values: Pumping
+  assessment year: numeric | range 2021.00 to 2021.00 | mean 2021.00
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 69
+  Polygon: 68 features
+  MultiPolygon: 1 features
+Area distribution (hectares): min=0.1 median=2.3 max=6714.4
+Approximate centre: 48.9653°N, -125.5132°W
+
+=== FEATURE DESCRIPTIONS ===
+Dataset has 69 features. Describing a representative sample of 69:
+
+Feature 22 from 'pub:WHSE_WATER_MANAGEMENT.GW_AQUIFER_VULN_SW_INTRUSN_SP', located at approximately 48.9373°N, -125.5453°W. gw avsi sysid: 29716 | risk rating: 2 | risk class: Moderately Low | aquifer material: Bedrock | hazard criteria: Pumping | assessment year: 2021
+Feature 0 from 'pub:WHSE_WATER_MANAGEMENT.GW_AQUIFER_VULN_SW_INTRUSN_SP', located at approximately 48.8816°N, -125.4849°W. gw avsi sysid: 30095 | risk rating: 1 | risk class: Low | aquifer material: Bedrock | hazard criteria: Pumping | assessment year: 2021
+Feature 47 from 'pub:WHSE_WATER_MANAGEMENT.GW_AQUIFER_VULN_SW_INTRUSN_SP', located at approximately 48.9373°N, -125.5520°W. gw avsi sysid: 29705 | risk rating: 2 | risk class: Moderately Low | aquifer material: Bedrock | hazard criteria: Pumping | assessment year: 2021
+Feature 4 from 'pub:WHSE_WATER_MANAGEMENT.GW_AQUIFER_VULN_SW_INTRUSN_SP', located at approximately 48.9215°N, -125.5021°W. gw avsi sysid: 29788 | risk rating: 1 | risk class: Low | aquifer material: Bedrock | hazard criteria: Pumping | assessment year: 2021
+Feature 53 from 'pub:WHSE_WATER_MANAGEMENT.GW_AQUIFER_VULN_SW_INTRUSN_SP', located at approximately 48.9697°N, -125.5521°W. gw avsi sysid: 21973 | risk rating: 2 | risk class: Moderately Low | aquifer material: Unconsolidated | hazard criteria: Pumping | assessment year: 2021
+Feature 18 from 'pub:WHSE_WATER_MANAGEMENT.GW_AQUIFER_VULN_SW_INTRUSN_SP', located at approximately 48.9347°N, -125.5516°W. gw avsi sysid: 29706 | risk rating: 1 | risk class: Low | aquifer material: Bedrock | hazard criteria: Pumping | assessment year: 2021
+Feature 10 from 'pub:WHSE_WATER_MANAGEMENT.GW_AQUIFER_VULN_SW_INTRUSN_SP', located at approximately 48.9247°N, -125.5365°W. gw avsi sysid: 29787 | risk rating: 1 | risk class: Low | aquifer material: Bedrock | hazard criteria: Pumping | assessment year: 2021
+Feature 33 from 'pub:WHSE_WATER_MANAGEMENT.GW_AQUIFER_VULN_SW_INTRUSN_SP', located at approximately 48.9503°N, -125.5290°W. gw avsi sysid: 29646 | risk rating: 2 | risk class: Moderately Low | aquifer material: Bedrock | hazard criteria: Pumping | assessment year: 2021
+Feature 44 from 'pub:WHSE_WATER_MANAGEMENT.GW_AQUIFER_VULN_SW_INTRUSN_SP', located at approximately 48.9693°N, -125.4449°W. gw avsi sysid: 29566 | risk rating: 2 | risk class: Moderately Low | aquifer material: Bedrock | hazard criteria: Pumping | assessment year: 2021
+Feature 12 from 'pub:WHSE_WATER_MANAGEMENT.GW_AQUIFER_VULN_SW_INTRUSN_SP', located at approximately 48.9319°N, -125.5351°W. gw avsi sysid: 29720 | risk rating: 2 | risk class: Moderately Low | aquifer material: Bedrock | hazard criteria: Pumping | assessment year: 2021
+Feature 31 from 'pub:WHSE_WATER_MANAGEMENT.GW_AQUIFER_VULN_SW_INTRUSN_SP', located at approximately 48.9471°N, -125.5319°W. gw avsi sysid: 29678 | risk rating: 2 | risk class: Moderately Low | aquifer material: Bedrock | hazard criteria: Pumping | assessment year: 2021
+Feature 9 from 'pub:WHSE_WATER_MANAGEMENT.GW_AQUIFER_VULN_SW_INTRUSN_SP', located at approximately 48.9306°N, -125.5333°W. gw avsi sysid: 29723 | risk rating: 2 | risk class: Moderately Low | aquifer material: Bedrock | hazard criteria: Pumping | assessment year: 2021
+Feature 59 from 'pub:WHSE_WATER_MANAGEMENT.GW_AQUIFER_VULN_SW_INTRUSN_SP', located at approximately 48.9748°N, -125.5871°W. gw avsi sysid: 29544 | risk rating: 1 | risk class: Low | aquifer material: Bedrock | hazard criteria: Pumping | assessment year: 2021
+Feature 5 from 'pub:WHSE_WATER_MANAGEMENT.GW_AQUIFER_VULN_SW_INTRUSN_SP', located at approximately 48.9231°N, -125.5243°W. gw avsi sysid: 29771 | risk rating: 1 | risk class: Low | aquifer material: Bedrock | hazard criteria: Pumping | assessment year: 2021
+Feature 68 from 'pub:WHSE_WATER_MANAGEMENT.GW_AQUIFER_VULN_SW_INTRUSN_SP', located at approximately 48.9663°N, -125.5103°W. gw avsi sysid: 32863 | risk rating: 1 | risk class: Low | aquifer material: Bedrock | hazard criteria: Pumping | assessment year: 2021
+Feature 30 from 'pub:WHSE_WATER_MANAGEMENT.GW_AQUIFER_VULN_SW_INTRUSN_SP', located at approximately 48.9315°N, -125.5315°W. gw avsi sysid: 29729 | risk rating: 1 | risk class: Low | aquifer material: Bedrock | hazard criteria: Pumping | assessment year: 2021
+Feature 57 from 'pub:WHSE_WATER_MANAGEMENT.GW_AQUIFER_VULN_SW_INTRUSN_SP', located at approximately 48.9744°N, -125.5816°W. gw avsi sysid: 29545 | risk rating: 1 | risk class: Low | aquifer material: Bedrock | hazard criteria: Pumping | assessment year: 2021
+Feature 35 from 'pub:WHSE_WATER_MANAGEMENT.GW_AQUIFER_VULN_SW_INTRUSN_SP', located at approximately 48.9520°N, -125.5328°W. gw avsi sysid: 29638 | risk rating: 2 | risk class: Moderately Low | aquifer material: Bedrock | hazard criteria: Pumping | assessment year: 2021
+Feature 56 from 'pub:WHSE_WATER_MANAGEMENT.GW_AQUIFER_VULN_SW_INTRUSN_SP', located at approximately 48.9728°N, -125.5900°W. gw avsi sysid: 29593 | risk rating: 2 | risk class: Moderately Low | aquifer material: Bedrock | hazard criteria: Pumping | assessment year: 2021
+Feature 46 from 'pub:WHSE_WATER_MANAGEMENT.GW_AQUIFER_VULN_SW_INTRUSN_SP', located at approximately 48.9341°N, -125.5527°W. gw avsi sysid: 29709 | risk rating: 1 | risk class: Low | aquifer material: Bedrock | hazard criteria: Pumping | assessment year: 2021
+Feature 16 from 'pub:WHSE_WATER_MANAGEMENT.GW_AQUIFER_VULN_SW_INTRUSN_SP', located at approximately 48.9337°N, -125.5455°W. gw avsi sysid: 29712 | risk rating: 3 | risk class: Moderate | aquifer material: Bedrock | hazard criteria: Pumping | assessment year: 2021
+Feature 34 from 'pub:WHSE_WATER_MANAGEMENT.GW_AQUIFER_VULN_SW_INTRUSN_SP', located at approximately 48.9519°N, -125.4099°W. gw avsi sysid: 29651 | risk rating: 1 | risk class: Low | aquifer material: Bedrock | hazard criteria: Pumping | assessment year: 2021
+Feature 42 from 'pub:WHSE_WATER_MANAGEMENT.GW_AQUIFER_VULN_SW_INTRUSN_SP', located at approximately 48.9685°N, -125.5347°W. gw avsi sysid: 21934 | risk rating: 1 | risk class: Low | aquifer material: Unconsolidated | hazard criteria: Pumping | assessment year: 2021
+Feature 28 from 'pub:WHSE_WATER_MANAGEMENT.GW_AQUIFER_VULN_SW_INTRUSN_SP', located at approximately 48.9468°N, -125.5405°W. gw avsi sysid: 29665 | risk rating: 3 | risk class: Moderate | aquifer material: Bedrock | hazard criteria: Pumping | assessment year: 2021
+Feature 7 from 'pub:WHSE_WATER_MANAGEMENT.GW_AQUIFER_VULN_SW_INTRUSN_SP', located at approximately 48.9259°N, -125.5157°W. gw avsi sysid: 21966 | risk rating: 2 | risk class: Moderately Low | aquifer material: Unconsolidated | hazard criteria: Pumping | assessment year: 2021
+Feature 61 from 'pub:WHSE_WATER_MANAGEMENT.GW_AQUIFER_VULN_SW_INTRUSN_SP', located at approximately 48.9835°N, -125.5832°W. gw avsi sysid: 21921 | risk rating: 3 | risk class: Moderate | aquifer material: Unconsolidated | hazard criteria: Pumping | assessment year: 2021
+Feature 40 from 'pub:WHSE_WATER_MANAGEMENT.GW_AQUIFER_VULN_SW_INTRUSN_SP', located at approximately 48.9469°N, -125.5344°W. gw avsi sysid: 21951 | risk rating: 3 | risk class: Moderate | aquifer material: Unconsolidated | hazard criteria: Pumping | assessment year: 2021
+Feature 50 from 'pub:WHSE_WATER_MANAGEMENT.GW_AQUIFER_VULN_SW_INTRUSN_SP', located at approximately 48.9640°N, -125.5920°W. gw avsi sysid: 21938 | risk rating: 2 | risk class: Moderately Low | aquifer material: Unconsolidated | hazard criteria: Pumping | assessment year: 2021
+Feature 45 from 'pub:WHSE_WATER_MANAGEMENT.GW_AQUIFER_VULN_SW_INTRUSN_SP', located at approximately 48.9713°N, -125.4428°W. gw avsi sysid: 29553 | risk rating: 2 | risk class: Moderately Low | aquifer material: Bedrock | hazard criteria: Pumping | assessment year: 2021
+Feature 19 from 'pub:WHSE_WATER_MANAGEMENT.GW_AQUIFER_VULN_SW_INTRUSN_SP', located at approximately 48.9355°N, -125.5463°W. gw avsi sysid: 21958 | risk rating: 2 | risk class: Moderately Low | aquifer material: Unconsolidated | hazard criteria: Pumping | assessment year: 2021
+Feature 55 from 'pub:WHSE_WATER_MANAGEMENT.GW_AQUIFER_VULN_SW_INTRUSN_SP', located at approximately 48.9709°N, -125.5917°W. gw avsi sysid: 21937 | risk rating: 3 | risk class: Moderate | aquifer material: Unconsolidated | hazard criteria: Pumping | assessment year: 2021
+Feature 39 from 'pub:WHSE_WATER_MANAGEMENT.GW_AQUIFER_VULN_SW_INTRUSN_SP', located at approximately 48.9595°N, -125.4362°W. gw avsi sysid: 29621 | risk rating: 2 | risk class: Moderately Low | aquifer material: Bedrock | hazard criteria: Pumping | assessment year: 2021
+Feature 25 from 'pub:WHSE_WATER_MANAGEMENT.GW_AQUIFER_VULN_SW_INTRUSN_SP', located at approximately 48.9449°N, -125.5360°W. gw avsi sysid: 21950 | risk rating: 2 | risk class: Moderately Low | aquifer material: Unconsolidated | hazard criteria: Pumping | assessment year: 2021
+Feature 38 from 'pub:WHSE_WATER_MANAGEMENT.GW_AQUIFER_VULN_SW_INTRUSN_SP', located at approximately 48.9584°N, -125.4315°W. gw avsi sysid: 29603 | risk rating: 3 | risk class: Moderate | aquifer material: Bedrock | hazard criteria: Pumping | assessment year: 2021
+Feature 13 from 'pub:WHSE_WATER_MANAGEMENT.GW_AQUIFER_VULN_SW_INTRUSN_SP', located at approximately 48.9316°N, -125.5501°W. gw avsi sysid: 29721 | risk rating: 1 | risk class: Low | aquifer material: Bedrock | hazard criteria: Pumping | assessment year: 2021
+Feature 49 from 'pub:WHSE_WATER_MANAGEMENT.GW_AQUIFER_VULN_SW_INTRUSN_SP', located at approximately 48.9633°N, -125.6074°W. gw avsi sysid: 29587 | risk rating: 1 | risk class: Low | aquifer material: Bedrock | hazard criteria: Pumping | assessment year: 2021
+Feature 3 from 'pub:WHSE_WATER_MANAGEMENT.GW_AQUIFER_VULN_SW_INTRUSN_SP', located at approximately 48.9074°N, -125.4716°W. gw avsi sysid: 29892 | risk rating: 1 | risk class: Low | aquifer material: Bedrock | hazard criteria: Pumping | assessment year: 2021
+Feature 17 from 'pub:WHSE_WATER_MANAGEMENT.GW_AQUIFER_VULN_SW_INTRUSN_SP', located at approximately 48.9344°N, -125.5498°W. gw avsi sysid: 29710 | risk rating: 2 | risk class: Moderately Low | aquifer material: Bedrock | hazard criteria: Pumping | assessment year: 2021
+Feature 8 from 'pub:WHSE_WATER_MANAGEMENT.GW_AQUIFER_VULN_SW_INTRUSN_SP', located at approximately 48.9281°N, -125.5186°W. gw avsi sysid: 29734 | risk rating: 1 | risk class: Low | aquifer material: Bedrock | hazard criteria: Pumping | assessment year: 2021
+Feature 54 from 'pub:WHSE_WATER_MANAGEMENT.GW_AQUIFER_VULN_SW_INTRUSN_SP', located at approximately 48.9712°N, -125.6063°W. gw avsi sysid: 29584 | risk rating: 2 | risk class: Moderately Low | aquifer material: Bedrock | hazard criteria: Pumping | assessment year: 2021
+Feature 6 from 'pub:WHSE_WATER_MANAGEMENT.GW_AQUIFER_VULN_SW_INTRUSN_SP', located at approximately 48.9257°N, -125.5269°W. gw avsi sysid: 29752 | risk rating: 1 | risk class: Low | aquifer material: Bedrock | hazard criteria: Pumping | assessment year: 2021
+Feature 36 from 'pub:WHSE_WATER_MANAGEMENT.GW_AQUIFER_VULN_SW_INTRUSN_SP', located at approximately 48.9559°N, -125.4362°W. gw avsi sysid: 29614 | risk rating: 2 | risk class: Moderately Low | aquifer material: Bedrock | hazard criteria: Pumping | assessment year: 2021
+Feature 63 from 'pub:WHSE_WATER_MANAGEMENT.GW_AQUIFER_VULN_SW_INTRUSN_SP', located at approximately 48.9914°N, -125.5805°W. gw avsi sysid: 21913 | risk rating: 1 | risk class: Low | aquifer material: Unconsolidated | hazard criteria: Pumping | assessment year: 2021
+Feature 67 from 'pub:WHSE_WATER_MANAGEMENT.GW_AQUIFER_VULN_SW_INTRUSN_SP', located at approximately 48.9971°N, -125.5900°W. gw avsi sysid: 21909 | risk rating: 1 | risk class: Low | aquifer material: Unconsolidated | hazard criteria: Pumping | assessment year: 2021
+Feature 15 from 'pub:WHSE_WATER_MANAGEMENT.GW_AQUIFER_VULN_SW_INTRUSN_SP', located at approximately 48.9333°N, -125.5496°W. gw avsi sysid: 29715 | risk rating: 1 | risk class: Low | aquifer material: Bedrock | hazard criteria: Pumping | assessment year: 2021
+Feature 27 from 'pub:WHSE_WATER_MANAGEMENT.GW_AQUIFER_VULN_SW_INTRUSN_SP', located at approximately 48.9466°N, -125.5354°W. gw avsi sysid: 29674 | risk rating: 3 | risk class: Moderate | aquifer material: Bedrock | hazard criteria: Pumping | assessment year: 2021
+Feature 41 from 'pub:WHSE_WATER_MANAGEMENT.GW_AQUIFER_VULN_SW_INTRUSN_SP', located at approximately 48.9480°N, -125.5399°W. gw avsi sysid: 29666 | risk rating: 2 | risk class: Moderately Low | aquifer material: Bedrock | hazard criteria: Pumping | assessment year: 2021
+Feature 26 from 'pub:WHSE_WATER_MANAGEMENT.GW_AQUIFER_VULN_SW_INTRUSN_SP', located at approximately 48.9455°N, -125.5341°W. gw avsi sysid: 29668 | risk rating: 2 | risk class: Moderately Low | aquifer material: Bedrock | hazard criteria: Pumping | assessment year: 2021
+Feature 48 from 'pub:WHSE_WATER_MANAGEMENT.GW_AQUIFER_VULN_SW_INTRUSN_SP', located at approximately 48.9475°N, -125.5541°W. gw avsi sysid: 29662 | risk rating: 1 | risk class: Low | aquifer material: Bedrock | hazard criteria: Pumping | assessment year: 2021
+Feature 24 from 'pub:WHSE_WATER_MANAGEMENT.GW_AQUIFER_VULN_SW_INTRUSN_SP', located at approximately 48.9396°N, -125.5462°W. gw avsi sysid: 29687 | risk rating: 3 | risk class: Moderate | aquifer material: Bedrock | hazard criteria: Pumping | assessment year: 2021
+Feature 58 from 'pub:WHSE_WATER_MANAGEMENT.GW_AQUIFER_VULN_SW_INTRUSN_SP', located at approximately 48.9747°N, -125.5701°W. gw avsi sysid: 29552 | risk rating: 2 | risk class: Moderately Low | aquifer material: Bedrock | hazard criteria: Pumping | assessment year: 2021
+Feature 62 from 'pub:WHSE_WATER_MANAGEMENT.GW_AQUIFER_VULN_SW_INTRUSN_SP', located at approximately 48.9888°N, -125.5909°W. gw avsi sysid: 21916 | risk rating: 3 | risk class: Moderate | aquifer material: Unconsolidated | hazard criteria: Pumping | assessment year: 2021
+Feature 11 from 'pub:WHSE_WATER_MANAGEMENT.GW_AQUIFER_VULN_SW_INTRUSN_SP', located at approximately 48.9299°N, -125.5388°W. gw avsi sysid: 29741 | risk rating: 2 | risk class: Moderately Low | aquifer material: Bedrock | hazard criteria: Pumping | assessment year: 2021
+Feature 32 from 'pub:WHSE_WATER_MANAGEMENT.GW_AQUIFER_VULN_SW_INTRUSN_SP', located at approximately 48.9477°N, -125.5323°W. gw avsi sysid: 29660 | risk rating: 3 | risk class: Moderate | aquifer material: Bedrock | hazard criteria: Pumping | assessment year: 2021
+Feature 65 from 'pub:WHSE_WATER_MANAGEMENT.GW_AQUIFER_VULN_SW_INTRUSN_SP', located at approximately 48.9951°N, -125.5852°W. gw avsi sysid: 21912 | risk rating: 2 | risk class: Moderately Low | aquifer material: Unconsolidated | hazard criteria: Pumping | assessment year: 2021
+Feature 66 from 'pub:WHSE_WATER_MANAGEMENT.GW_AQUIFER_VULN_SW_INTRUSN_SP', located at approximately 48.9951°N, -125.5866°W. gw avsi sysid: 21906 | risk rating: 1 | risk class: Low | aquifer material: Unconsolidated | hazard criteria: Pumping | assessment year: 2021
+Feature 37 from 'pub:WHSE_WATER_MANAGEMENT.GW_AQUIFER_VULN_SW_INTRUSN_SP', located at approximately 48.9567°N, -125.4358°W. gw avsi sysid: 29620 | risk rating: 3 | risk class: Moderate | aquifer material: Bedrock | hazard criteria: Pumping | assessment year: 2021
+Feature 29 from 'pub:WHSE_WATER_MANAGEMENT.GW_AQUIFER_VULN_SW_INTRUSN_SP', located at approximately 48.9468°N, -125.5521°W. gw avsi sysid: 29664 | risk rating: 1 | risk class: Low | aquifer material: Bedrock | hazard criteria: Pumping | assessment year: 2021
+Feature 43 from 'pub:WHSE_WATER_MANAGEMENT.GW_AQUIFER_VULN_SW_INTRUSN_SP', located at approximately 48.9592°N, -125.4329°W. gw avsi sysid: 29602 | risk rating: 3 | risk class: Moderate | aquifer material: Bedrock | hazard criteria: Pumping | assessment year: 2021
+Feature 64 from 'pub:WHSE_WATER_MANAGEMENT.GW_AQUIFER_VULN_SW_INTRUSN_SP', located at approximately 48.9938°N, -125.5948°W. gw avsi sysid: 21908 | risk rating: 2 | risk class: Moderately Low | aquifer material: Unconsolidated | hazard criteria: Pumping | assessment year: 2021
+Feature 1 from 'pub:WHSE_WATER_MANAGEMENT.GW_AQUIFER_VULN_SW_INTRUSN_SP', located at approximately 48.9062°N, -125.5138°W. gw avsi sysid: 29904 | risk rating: 1 | risk class: Low | aquifer material: Bedrock | hazard criteria: Pumping | assessment year: 2021
+Feature 52 from 'pub:WHSE_WATER_MANAGEMENT.GW_AQUIFER_VULN_SW_INTRUSN_SP', located at approximately 48.9654°N, -125.5951°W. gw avsi sysid: 21936 | risk rating: 2 | risk class: Moderately Low | aquifer material: Unconsolidated | hazard criteria: Pumping | assessment year: 2021
+Feature 21 from 'pub:WHSE_WATER_MANAGEMENT.GW_AQUIFER_VULN_SW_INTRUSN_SP', located at approximately 48.9361°N, -125.5491°W. gw avsi sysid: 29711 | risk rating: 3 | risk class: Moderate | aquifer material: Bedrock | hazard criteria: Pumping | assessment year: 2021
+Feature 2 from 'pub:WHSE_WATER_MANAGEMENT.GW_AQUIFER_VULN_SW_INTRUSN_SP', located at approximately 48.9064°N, -125.4697°W. gw avsi sysid: 29896 | risk rating: 1 | risk class: Low | aquifer material: Bedrock | hazard criteria: Pumping | assessment year: 2021
+Feature 23 from 'pub:WHSE_WATER_MANAGEMENT.GW_AQUIFER_VULN_SW_INTRUSN_SP', located at approximately 48.9387°N, -125.5434°W. gw avsi sysid: 29689 | risk rating: 3 | risk class: Moderate | aquifer material: Bedrock | hazard criteria: Pumping | assessment year: 2021
+Feature 20 from 'pub:WHSE_WATER_MANAGEMENT.GW_AQUIFER_VULN_SW_INTRUSN_SP', located at approximately 48.9359°N, -125.5444°W. gw avsi sysid: 29707 | risk rating: 3 | risk class: Moderate | aquifer material: Bedrock | hazard criteria: Pumping | assessment year: 2021
+Feature 60 from 'pub:WHSE_WATER_MANAGEMENT.GW_AQUIFER_VULN_SW_INTRUSN_SP', located at approximately 48.9792°N, -125.6436°W. gw avsi sysid: 29532 | risk rating: 1 | risk class: Low | aquifer material: Bedrock | hazard criteria: Pumping | assessment year: 2021
+Feature 14 from 'pub:WHSE_WATER_MANAGEMENT.GW_AQUIFER_VULN_SW_INTRUSN_SP', located at approximately 48.9326°N, -125.5414°W. gw avsi sysid: 29719 | risk rating: 1 | risk class: Low | aquifer material: Bedrock | hazard criteria: Pumping | assessment year: 2021
+Feature 51 from 'pub:WHSE_WATER_MANAGEMENT.GW_AQUIFER_VULN_SW_INTRUSN_SP', located at approximately 48.9651°N, -125.5767°W. gw avsi sysid: 29595 | risk rating: 1 | risk class: Low | aquifer material: Bedrock | hazard criteria: Pumping | assessment year: 2021
+
+=== ECOLOGICAL RELEVANCE ===
+Hydrological data indicates soil moisture patterns and drainage regimes. Chanterelles favour areas with consistent subsurface moisture but not waterlogged conditions — typically mid-slope positions near but not in riparian zones.

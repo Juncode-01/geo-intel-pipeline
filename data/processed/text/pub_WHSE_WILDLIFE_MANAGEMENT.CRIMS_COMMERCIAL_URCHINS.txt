@@ -1,0 +1,41 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_COMMERCIAL_URCHINS
+Dataset ID:     pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_COMMERCIAL_URCHINS
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  2
+Geometry Types: Polygon
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.544081 S=48.880338 E=-125.4 N=48.961117
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  curchin id: numeric | range 6749.00 to 6768.00 | mean 6758.50
+  ri: numeric | range 3.00 to 4.00 | mean 3.50
+  ri first nations: numeric | range 0.00 to 0.00 | mean 0.00
+  ri biological: numeric | range 0.00 to 0.00 | mean 0.00
+  ri commercial: numeric | range 0.00 to 0.00 | mean 0.00
+  ri recreational: numeric | range 0.00 to 0.00 | mean 0.00
+  ri red: numeric | range 0.00 to 0.00 | mean 0.00
+  ri green: numeric | range 0.00 to 0.00 | mean 0.00
+  location: categorical | values: Chrow Is., George Fraser Is. area, Forbes Is.
+  start season: categorical | values: JAN
+  close season: categorical | values: DEC
+  gear type: categorical | values: Dive
+  compile date: categorical | values: 1993-09-09
+  project: categorical | values: WCVI
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 2
+  Polygon: 2 features
+Area distribution (hectares): min=161.4 median=971.7 max=1781.9
+Approximate centre: 48.9068°N, -125.4935°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 2 features:
+
+Feature 0 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_COMMERCIAL_URCHINS', located at approximately 48.9027°N, -125.5012°W. curchin id: 6768 | ri: 4 | ri first nations: 0 | ri biological: 0 | ri commercial: 0 | ri recreational: 0 | ri red: 0 | ri green: 0 | location: Chrow Is., George Fraser Is. area | start season: JAN | close season: DEC | gear type: Dive | compile date: 1993-09-09 00:00:00 | project: WCVI
+Feature 1 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_COMMERCIAL_URCHINS', located at approximately 48.9527°N, -125.4085°W. curchin id: 6749 | ri: 3 | ri first nations: 0 | ri biological: 0 | ri commercial: 0 | ri recreational: 0 | ri red: 0 | ri green: 0 | location: Forbes Is. | start season: JAN | close season: DEC | gear type: Dive | compile date: 1993-09-09 00:00:00 | project: WCVI
+
+=== ECOLOGICAL RELEVANCE ===
+This dataset may provide supporting spatial context for habitat analysis in the Ucluelet region.

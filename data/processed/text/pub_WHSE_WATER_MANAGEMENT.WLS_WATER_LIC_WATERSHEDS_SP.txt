@@ -1,0 +1,36 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_WATER_MANAGEMENT.WLS_WATER_LIC_WATERSHEDS_SP
+Dataset ID:     pub:WHSE_WATER_MANAGEMENT.WLS_WATER_LIC_WATERSHEDS_SP
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  4
+Geometry Types: MultiPolygon, Polygon
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.673327 S=48.874486 E=-125.4 N=49.0
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  wls wlws sysid: numeric | range 828.00 to 942.00 | mean 911.25
+  water licensing watershed id: categorical | values: 930-005, 930-006, 930-007, 930-011
+  water licensing watershed name: categorical | values: ALBN - Tofino, ALBN - Toquaht/Maggie, ALBN - Ucluelet, CLAY - Kennedy
+  fwa watershed group code: categorical | values: ALBN, CLAY
+  fwa watershed group id: numeric | range 2.00 to 29.00 | mean 8.75
+  fwa common watershed code: categorical | values: 930-000000-000000-000000
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 4
+  MultiPolygon: 2 features
+  Polygon: 2 features
+Area distribution (hectares): min=0.0 median=520.8 max=8679.4
+Approximate centre: 48.9696°N, -125.5080°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 4 features:
+
+Feature 0 from 'pub:WHSE_WATER_MANAGEMENT.WLS_WATER_LIC_WATERSHEDS_SP', located at approximately 48.9668°N, -125.5143°W. wls wlws sysid: 942 | water licensing watershed id: 930-007 | water licensing watershed name: ALBN - Ucluelet | fwa watershed group code: ALBN | fwa watershed group id: 2 | fwa common watershed code: 930-000000-000000-000000
+Feature 1 from 'pub:WHSE_WATER_MANAGEMENT.WLS_WATER_LIC_WATERSHEDS_SP', located at approximately 48.9930°N, -125.4472°W. wls wlws sysid: 938 | water licensing watershed id: 930-006 | water licensing watershed name: ALBN - Toquaht/Maggie | fwa watershed group code: ALBN | fwa watershed group id: 2 | fwa common watershed code: 930-000000-000000-000000
+Feature 2 from 'pub:WHSE_WATER_MANAGEMENT.WLS_WATER_LIC_WATERSHEDS_SP', located at approximately 48.9980°N, -125.6655°W. wls wlws sysid: 937 | water licensing watershed id: 930-005 | water licensing watershed name: ALBN - Tofino | fwa watershed group code: ALBN | fwa watershed group id: 2 | fwa common watershed code: 930-000000-000000-000000
+Feature 3 from 'pub:WHSE_WATER_MANAGEMENT.WLS_WATER_LIC_WATERSHEDS_SP', located at approximately 49.0000°N, -125.5004°W. wls wlws sysid: 828 | water licensing watershed id: 930-011 | water licensing watershed name: CLAY - Kennedy | fwa watershed group code: CLAY | fwa watershed group id: 29 | fwa common watershed code: 930-000000-000000-000000
+
+=== ECOLOGICAL RELEVANCE ===
+Hydrological data indicates soil moisture patterns and drainage regimes. Chanterelles favour areas with consistent subsurface moisture but not waterlogged conditions — typically mid-slope positions near but not in riparian zones.

@@ -1,0 +1,47 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_CLAM_BEDS
+Dataset ID:     pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_CLAM_BEDS
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  3
+Geometry Types: Polygon
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.586271 S=48.93844 E=-125.53016 N=48.966687
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  clam id: numeric | range 1200.00 to 1242.00 | mean 1227.00
+  feature code: categorical | values:  
+  species: categorical | values:  
+  ri: numeric | range 3.00 to 3.00 | mean 3.00
+  ri aboriginal: numeric | range 3.00 to 3.00 | mean 3.00
+  ri biological: numeric | range 3.00 to 3.00 | mean 3.00
+  ri commercial: numeric | range 3.00 to 3.00 | mean 3.00
+  ri recreational: numeric | range 0.00 to 0.00 | mean 0.00
+  location: categorical | values: UCLEULET
+  closed: categorical | values:  
+  start season: categorical | values:  
+  close season: categorical | values:  
+  clambd comment: categorical | values: CLOSED
+  source1: categorical | values:  
+  source2: categorical | values:  
+  compiler: categorical | values:  
+  survey type: categorical | values:  
+  contact: categorical | values:  
+  project: categorical | values: CLAMAT
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 3
+  Polygon: 3 features
+Area distribution (hectares): min=2.0 median=6.2 max=21.8
+Approximate centre: 48.9580°N, -125.5677°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 3 features:
+
+Feature 0 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_CLAM_BEDS', located at approximately 48.9415°N, -125.5333°W. clam id: 1242 | ri: 3 | ri aboriginal: 3 | ri biological: 3 | ri commercial: 3 | ri recreational: 0 | location: UCLEULET | clambd comment: CLOSED | project: CLAMAT
+Feature 1 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_CLAM_BEDS', located at approximately 48.9488°N, -125.5421°W. clam id: 1239 | ri: 3 | ri aboriginal: 3 | ri biological: 3 | ri commercial: 3 | ri recreational: 0 | location: UCLEULET | clambd comment: CLOSED | project: CLAMAT
+Feature 2 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_CLAM_BEDS', located at approximately 48.9636°N, -125.5799°W. clam id: 1200 | ri: 3 | ri aboriginal: 3 | ri biological: 3 | ri commercial: 3 | ri recreational: 0 | location: UCLEULET | clambd comment: CLOSED | project: CLAMAT
+
+=== ECOLOGICAL RELEVANCE ===
+This dataset may provide supporting spatial context for habitat analysis in the Ucluelet region.

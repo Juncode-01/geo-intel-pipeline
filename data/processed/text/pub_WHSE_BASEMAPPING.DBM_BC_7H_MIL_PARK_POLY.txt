@@ -1,0 +1,31 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_BASEMAPPING.DBM_BC_7H_MIL_PARK_POLY
+Dataset ID:     pub:WHSE_BASEMAPPING.DBM_BC_7H_MIL_PARK_POLY
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  1
+Geometry Types: Polygon
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.67842 S=48.932111 E=-125.453893 N=49.0
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  english name: categorical | values: Pacific Rim National Park Reserve
+  french name: categorical | values: R?serve de parc national Pacific Rim
+  year established: numeric | range 1970.00 to 1970.00 | mean 1970.00
+  region code: numeric | range 59.00 to 59.00 | mean 59.00
+  area kilometers squared: numeric | range 388.50 to 388.50 | mean 388.50
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 1
+  Polygon: 1 features
+Area distribution (hectares): min=7257.2 median=7257.2 max=7257.2
+Approximate centre: 48.9757°N, -125.5491°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 1 features:
+
+Feature 0 from 'pub:WHSE_BASEMAPPING.DBM_BC_7H_MIL_PARK_POLY', located at approximately 48.9757°N, -125.5491°W. english name: Pacific Rim National Park Reserve | french name: R?serve de parc national Pacific Rim | year established: 1970 | region code: 59 | area kilometers squared: 388.5
+
+=== ECOLOGICAL RELEVANCE ===
+Protected area data indicates zones with reduced human disturbance and intact old-growth forest — conditions highly associated with productive chanterelle habitat.

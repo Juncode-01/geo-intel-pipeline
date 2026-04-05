@@ -1,0 +1,31 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_BASEMAPPING.TRIM_EBM_WATERCOURSES
+Dataset ID:     pub:WHSE_BASEMAPPING.TRIM_EBM_WATERCOURSES
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  1
+Geometry Types: Polygon
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.412215 S=48.986431 E=-125.4 N=48.99409
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  fcode: categorical | values: GA24850000
+  feature type: categorical | values: river
+  area: numeric | range 7.33 to 7.33 | mean 7.33
+  twa fid: numeric | range 92.00 to 92.00 | mean 92.00
+  twa feature type no: numeric | range 5304.00 to 5304.00 | mean 5304.00
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 1
+  Polygon: 1 features
+Area distribution (hectares): min=3.3 median=3.3 max=3.3
+Approximate centre: 48.9893°N, -125.4072°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 1 features:
+
+Feature 0 from 'pub:WHSE_BASEMAPPING.TRIM_EBM_WATERCOURSES', located at approximately 48.9893°N, -125.4072°W. fcode: GA24850000 | feature type: river | area: 7.327 | twa fid: 92 | twa feature type no: 5304
+
+=== ECOLOGICAL RELEVANCE ===
+Hydrological data indicates soil moisture patterns and drainage regimes. Chanterelles favour areas with consistent subsurface moisture but not waterlogged conditions — typically mid-slope positions near but not in riparian zones.

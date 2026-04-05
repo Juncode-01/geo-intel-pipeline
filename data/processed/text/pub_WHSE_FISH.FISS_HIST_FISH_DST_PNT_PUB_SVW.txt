@@ -1,0 +1,56 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_FISH.FISS_HIST_FISH_DST_PNT_PUB_SVW
+Dataset ID:     pub:WHSE_FISH.FISS_HIST_FISH_DST_PNT_PUB_SVW
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  14
+Geometry Types: Point
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.574419 S=48.944308 E=-125.446638 N=48.995072
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  loc type: categorical | values: P, S
+  new watershed code: categorical | values: 930236300000000000000000000000000000000000000, 930236300240000000000000000000000000000000000, 930236300240000490000000000000000000000000000, 930239300699000000000000000000000000000000000, 930243300000000000000000000000000000000000000, 930243300434000000000000000000000000000000000, 930243600000000000000000000000000000000000000, 930244500000000000000000000000000000000000000, 930260600000000000000000000000000000000000000
+  gazetted name: categorical | values:  , LOST SHOE CREEK, MERCANTILE CREEK, SMITH CREEK, THORNTON CREEK
+  mapsheet: categorical | values: 092C13
+  point id: numeric | range 5.00 to 14.00 | mean 9.00
+  species code: categorical | values: CH, CM, CO, CT, DV, PK
+  species name: categorical | values: Chinook Salmon, Chum Salmon, Coho Salmon, Cutthroat Trout, Dolly Varden, Pink Salmon
+  stock name: categorical | values:  
+  stock char: categorical | values: AN, NS, RS
+  stock type: categorical | values: NS
+  stock management class: categorical | values: NS, WI
+  activity code: categorical | values: OBL
+  activity: categorical | values: Fish observed at this point or zone
+  comments: categorical | values:  , (HISTORICAL PRESENCE REF#=28A-18) <br>, (LOWER SECTIONS REF#=23-1) <br>, (OBSERVED AT 8.8 KM, AND IN TRIBUTARY REF#=24-5) <br>, (OBSERVED AT 8.8 KM, IN TRIBUTARY REF#=24-1) <br>, (PRESENT REF#=23-8) <br>
+  refs and dates: categorical | values: (23-1, no date)<br>, (23-23, 01-JAN-1995)<br>, (23-8, 01-JAN-1989)<br>, (24-1, 01-JAN-1979)<br>, (24-27, 01-JAN-1995)<br>, (24-5, 01-JAN-1986)<br>, (28A-18, no date)<br>
+  route id: numeric | range 157244.00 to 318079.00 | mean 214689.93
+  route measure: numeric | range 0.00 to 10584.00 | mean 1845.50
+  theme name: categorical | values: Salmon, Sport
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 14
+  Point: 14 features
+Approximate centre: 48.9605°N, -125.5139°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 14 features:
+
+Feature 0 from 'pub:WHSE_FISH.FISS_HIST_FISH_DST_PNT_PUB_SVW', located at approximately 48.9443°N, -125.4617°W. loc type: S | new watershed code: 930236300240000490000000000000000000000000000 | species code: CO | species name: Coho Salmon | stock char: AN | stock type: NS | stock management class: NS | activity code: OBL | activity: Fish observed at this point or zone | refs and dates: (23-1, no date)<br> | route id: 318079 | route measure: 0 | theme name: Salmon
+Feature 1 from 'pub:WHSE_FISH.FISS_HIST_FISH_DST_PNT_PUB_SVW', located at approximately 48.9443°N, -125.4617°W. loc type: S | new watershed code: 930236300240000490000000000000000000000000000 | species code: CM | species name: Chum Salmon | stock char: AN | stock type: NS | stock management class: NS | activity code: OBL | activity: Fish observed at this point or zone | refs and dates: (23-1, no date)<br> | route id: 318079 | route measure: 0 | theme name: Salmon
+Feature 2 from 'pub:WHSE_FISH.FISS_HIST_FISH_DST_PNT_PUB_SVW', located at approximately 48.9446°N, -125.4600°W. loc type: S | new watershed code: 930236300240000000000000000000000000000000000 | species code: CO | species name: Coho Salmon | stock char: AN | stock type: NS | stock management class: NS | activity code: OBL | activity: Fish observed at this point or zone | refs and dates: (23-1, no date)<br> | route id: 318078 | route measure: 0 | theme name: Salmon
+Feature 3 from 'pub:WHSE_FISH.FISS_HIST_FISH_DST_PNT_PUB_SVW', located at approximately 48.9446°N, -125.4600°W. loc type: S | new watershed code: 930236300240000000000000000000000000000000000 | species code: CM | species name: Chum Salmon | stock char: AN | stock type: NS | stock management class: NS | activity code: OBL | activity: Fish observed at this point or zone | refs and dates: (23-1, no date)<br> | route id: 318078 | route measure: 0 | theme name: Salmon
+Feature 4 from 'pub:WHSE_FISH.FISS_HIST_FISH_DST_PNT_PUB_SVW', located at approximately 48.9451°N, -125.5160°W. loc type: P | new watershed code: 930239300699000000000000000000000000000000000 | mapsheet: 092C13 | point id: 11.0 | species code: CO | species name: Coho Salmon | stock char: AN | stock type: NS | stock management class: NS | activity code: OBL | activity: Fish observed at this point or zone | refs and dates: (24-27, 01-JAN-1995)<br> | route id: 157244 | route measure: 514 | theme name: Salmon
+Feature 5 from 'pub:WHSE_FISH.FISS_HIST_FISH_DST_PNT_PUB_SVW', located at approximately 48.9482°N, -125.4466°W. loc type: S | new watershed code: 930236300000000000000000000000000000000000000 | species code: CM | species name: Chum Salmon | stock char: AN | stock type: NS | stock management class: NS | activity code: OBL | activity: Fish observed at this point or zone | comments: (LOWER SECTIONS REF#=23-1) <br> | refs and dates: (23-1, no date)<br> | route id: 318077 | route measure: 0 | theme name: Salmon
+Feature 6 from 'pub:WHSE_FISH.FISS_HIST_FISH_DST_PNT_PUB_SVW', located at approximately 48.9525°N, -125.5138°W. loc type: P | new watershed code: 930239300699000000000000000000000000000000000 | mapsheet: 092C13 | point id: 14.0 | species code: CT | species name: Cutthroat Trout | stock char: RS | stock type: NS | stock management class: WI | activity code: OBL | activity: Fish observed at this point or zone | refs and dates: (24-27, 01-JAN-1995)<br> | route id: 157244 | route measure: 1486 | theme name: Sport
+Feature 7 from 'pub:WHSE_FISH.FISS_HIST_FISH_DST_PNT_PUB_SVW', located at approximately 48.9605°N, -125.5134°W. loc type: P | new watershed code: 930243300434000000000000000000000000000000000 | mapsheet: 092C13 | point id: 10.0 | species code: DV | species name: Dolly Varden | stock char: RS | stock type: NS | stock management class: WI | activity code: OBL | activity: Fish observed at this point or zone | refs and dates: (23-23, 01-JAN-1995)<br> | route id: 157248 | route measure: 233 | theme name: Sport
+Feature 8 from 'pub:WHSE_FISH.FISS_HIST_FISH_DST_PNT_PUB_SVW', located at approximately 48.9630°N, -125.5585°W. loc type: S | new watershed code: 930243300000000000000000000000000000000000000 | gazetted name: MERCANTILE CREEK | species code: CM | species name: Chum Salmon | stock char: AN | stock type: NS | stock management class: NS | activity code: OBL | activity: Fish observed at this point or zone | comments: (PRESENT REF#=23-8) <br> | refs and dates: (23-8, 01-JAN-1989)<br> | route id: 157247 | route measure: 0 | theme name: Salmon
+Feature 9 from 'pub:WHSE_FISH.FISS_HIST_FISH_DST_PNT_PUB_SVW', located at approximately 48.9740°N, -125.5549°W. loc type: P | new watershed code: 930243600000000000000000000000000000000000000 | gazetted name: THORNTON CREEK | mapsheet: 092C13 | point id: 5.0 | species code: CO | species name: Coho Salmon | stock char: AN | stock type: NS | stock management class: NS | activity code: OBL | activity: Fish observed at this point or zone | refs and dates: (23-8, 01-JAN-1989)<br> | route id: 157254 | route measure: 1218 | theme name: Salmon
+Feature 10 from 'pub:WHSE_FISH.FISS_HIST_FISH_DST_PNT_PUB_SVW', located at approximately 48.9740°N, -125.5549°W. loc type: P | new watershed code: 930243600000000000000000000000000000000000000 | gazetted name: THORNTON CREEK | mapsheet: 092C13 | point id: 5.0 | species code: CH | species name: Chinook Salmon | stock char: AN | stock type: NS | stock management class: NS | activity code: OBL | activity: Fish observed at this point or zone | refs and dates: (23-8, 01-JAN-1989)<br> | route id: 157254 | route measure: 1218 | theme name: Salmon
+Feature 11 from 'pub:WHSE_FISH.FISS_HIST_FISH_DST_PNT_PUB_SVW', located at approximately 48.9779°N, -125.5744°W. loc type: S | new watershed code: 930244500000000000000000000000000000000000000 | gazetted name: SMITH CREEK | species code: PK | species name: Pink Salmon | stock char: AN | stock type: NS | stock management class: NS | activity code: OBL | activity: Fish observed at this point or zone | comments: (HISTORICAL PRESENCE REF#=28A-18) <br> | refs and dates: (28A-18, no date)<br> | route id: 157257 | route measure: 0 | theme name: Salmon
+Feature 12 from 'pub:WHSE_FISH.FISS_HIST_FISH_DST_PNT_PUB_SVW', located at approximately 48.9951°N, -125.5397°W. loc type: P | new watershed code: 930260600000000000000000000000000000000000000 | gazetted name: LOST SHOE CREEK | mapsheet: 092C13 | point id: 9.0 | species code: CT | species name: Cutthroat Trout | stock char: NS | stock type: NS | stock management class: NS | activity code: OBL | activity: Fish observed at this point or zone | comments: (OBSERVED AT 8.8 KM, AND IN TRIBUTARY REF#=24-5) <br> | refs and dates: (24-5, 01-JAN-1986)<br> | route id: 157260 | route measure: 10584 | theme name: Sport
+Feature 13 from 'pub:WHSE_FISH.FISS_HIST_FISH_DST_PNT_PUB_SVW', located at approximately 48.9951°N, -125.5397°W. loc type: P | new watershed code: 930260600000000000000000000000000000000000000 | gazetted name: LOST SHOE CREEK | mapsheet: 092C13 | point id: 9.0 | species code: CO | species name: Coho Salmon | stock char: AN | stock type: NS | stock management class: NS | activity code: OBL | activity: Fish observed at this point or zone | comments: (OBSERVED AT 8.8 KM, IN TRIBUTARY REF#=24-1) <br> | refs and dates: (24-1, 01-JAN-1979)<br> | route id: 157260 | route measure: 10584 | theme name: Salmon
+
+=== ECOLOGICAL RELEVANCE ===
+This dataset may provide supporting spatial context for habitat analysis in the Ucluelet region.

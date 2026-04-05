@@ -1,0 +1,54 @@
+=== DATASET RECORD ===
+Title:          Bedrock Geology
+Dataset ID:     bedrock-geology
+Source:         DOWNLOAD
+Fetched:        2026-03-22
+Feature Count:  7
+Geometry Types: Polygon
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.771346 S=48.86367 E=-125.4 N=49.0
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  upid: categorical | values: 0c14cb3a, 10d8cd9b, 29bace39, 920a6048, bc9cccf7, d97866bb, db35f197
+  area m2: numeric | range 1733944.00 to 1020503546.00 | mean 234629951.71
+  strat unit: categorical | values: EMJIgd, PeEF, PzJWg, TrKP
+  era: categorical | values: Cenozoic, Mesozoic, Paleozoic to Mesozoic
+  period: categorical | values: Cambrian to Jurassic, Jurassic, Paleogene, Triassic to Cretaceous
+  strat age: categorical | values: Early Jurassic to Middle Jurassic, Paleocene to Eocene, Paleozoic to Jurassic, Triassic to Cretaceous
+  strat name: categorical | values: Flores volcanics, Island Plutonic Suite, Pacific Rim Complex, Westcoast Crystalline Complex
+  gp suite: categorical | values: Island Plutonic Suite, Pacific Rim Complex, Westcoast Crystalline Complex
+  fm lithodm: categorical | values: Flores volcanics
+  rock class: categorical | values: intrusive rocks, volcanic rocks
+  rock type: categorical | values: calc-alkaline volcanic rocks, granodioritic intrusive rocks, intrusive rocks, undivided, undivided volcanic rocks
+  unit desc: categorical | values: Granodiorite, quartz diorite, quartz monzonite, diorite, agmatite, feldspar porphyry, minor gabbro and aplite (170 - 185 Ma)., Green, aphanitic volcanic breccia and massive flows, small diorite intrusions, minor pillowed flows and chert, grey limestone lenses (Ucluth Volcanics), Carnian to middle Norian); pillow lava, tuff and chert (Lower Jurassic); mudstone-rich melange, Quartz diorite, tonalite, hornblende-plagioclase gneiss, quartz-feldspar gneiss, amphibolite, diorite, agmatite, gabbro, marble and metasediments.  Includes the WARK-COLQUITZ COMPLEX (92B, C, F, E, L):, Subaerial andesite to rhyolite welded tuff, ash-flow tuff, tuff breccia, dacite to rhyolite sills, minor basalt dykes (50 - 55 Ma) (92F, E):
+  age max: categorical | values: Early Jurassic, Paleocene, Paleozoic, Triassic
+  age min: categorical | values: Cretaceous, Eocene, Jurassic, Middle Jurassic
+  belt: categorical | values: Insular
+  terrane: categorical | values: Overlap, Pacific Rim, Wrangellia
+  project: categorical | values: Vancouver Island
+  src url: categorical | values: http://www.em.gov.bc.ca/Mining/Geoscience/PublicationsCatalogue/OpenFiles/1994/Pages/1994-6.aspx
+  src ref s: categorical | values: Massey et al., 1994, Vancouver Island, BCGS, Open File 1994-6
+  map comp: categorical | values: Massey et al., 2005, BC
+  edit date: categorical | values: 2018-04-05
+  pub org: categorical | values: British Columbia Geological Survey
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 7
+  Polygon: 7 features
+Area distribution (hectares): min=30.7 median=977.1 max=16106.3
+Approximate centre: 48.9454°N, -125.5340°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 7 features:
+
+Feature 0 from 'Bedrock Geology', located at approximately 48.9450°N, -125.4777°W. upid: 0c14cb3a | area m2: 1020503546.0 | strat unit: PzJWg | era: Paleozoic to Mesozoic | period: Cambrian to Jurassic | strat age: Paleozoic to Jurassic | strat name: Westcoast Crystalline Complex | gp suite: Westcoast Crystalline Complex | rock class: intrusive rocks | rock type: intrusive rocks, undivided | unit desc: Quartz diorite, tonalite, hornblende-plagioclase gneiss, quartz-feldspar gneiss, amphibolite, diorite, agmatite, gabbro, marble and metasediments.  Includes the WARK-COLQUITZ COMPLEX (92B, C, F, E, L): | age max: Paleozoic | age min: Jurassic | belt: Insular | terrane: Wrangellia | project: Vancouver Island | src url: http://www.em.gov.bc.ca/Mining/Geoscience/PublicationsCatalogue/OpenFiles/1994/Pages/1994-6.aspx | src ref s: Massey et al., 1994, Vancouver Island, BCGS, Open File 1994-6 | map comp: Massey et al., 2005, BC | edit date: 2018-04-05 00:00:00 | pub org: British Columbia Geological Survey
+Feature 1 from 'Bedrock Geology', located at approximately 48.9757°N, -125.4429°W. upid: bc9cccf7 | area m2: 78597081.0 | strat unit: EMJIgd | era: Mesozoic | period: Jurassic | strat age: Early Jurassic to Middle Jurassic | strat name: Island Plutonic Suite | gp suite: Island Plutonic Suite | rock class: intrusive rocks | rock type: granodioritic intrusive rocks | unit desc: Granodiorite, quartz diorite, quartz monzonite, diorite, agmatite, feldspar porphyry, minor gabbro and aplite (170 - 185 Ma). | age max: Early Jurassic | age min: Middle Jurassic | belt: Insular | terrane: Wrangellia | project: Vancouver Island | src url: http://www.em.gov.bc.ca/Mining/Geoscience/PublicationsCatalogue/OpenFiles/1994/Pages/1994-6.aspx | src ref s: Massey et al., 1994, Vancouver Island, BCGS, Open File 1994-6 | map comp: Massey et al., 2005, BC | edit date: 2018-04-05 00:00:00 | pub org: British Columbia Geological Survey
+Feature 2 from 'Bedrock Geology', located at approximately 48.9672°N, -125.4806°W. upid: d97866bb | area m2: 9770546.0 | strat unit: PeEF | era: Cenozoic | period: Paleogene | strat age: Paleocene to Eocene | strat name: Flores volcanics | fm lithodm: Flores volcanics | rock class: volcanic rocks | rock type: calc-alkaline volcanic rocks | unit desc: Subaerial andesite to rhyolite welded tuff, ash-flow tuff, tuff breccia, dacite to rhyolite sills, minor basalt dykes (50 - 55 Ma) (92F, E): | age max: Paleocene | age min: Eocene | belt: Insular | terrane: Overlap | project: Vancouver Island | src url: http://www.em.gov.bc.ca/Mining/Geoscience/PublicationsCatalogue/OpenFiles/1994/Pages/1994-6.aspx | src ref s: Massey et al., 1994, Vancouver Island, BCGS, Open File 1994-6 | map comp: Massey et al., 2005, BC | edit date: 2018-04-05 00:00:00 | pub org: British Columbia Geological Survey
+Feature 3 from 'Bedrock Geology', located at approximately 48.9928°N, -125.5284°W. upid: 920a6048 | area m2: 3595870.0 | strat unit: EMJIgd | era: Mesozoic | period: Jurassic | strat age: Early Jurassic to Middle Jurassic | strat name: Island Plutonic Suite | gp suite: Island Plutonic Suite | rock class: intrusive rocks | rock type: granodioritic intrusive rocks | unit desc: Granodiorite, quartz diorite, quartz monzonite, diorite, agmatite, feldspar porphyry, minor gabbro and aplite (170 - 185 Ma). | age max: Early Jurassic | age min: Middle Jurassic | belt: Insular | terrane: Wrangellia | project: Vancouver Island | src url: http://www.em.gov.bc.ca/Mining/Geoscience/PublicationsCatalogue/OpenFiles/1994/Pages/1994-6.aspx | src ref s: Massey et al., 1994, Vancouver Island, BCGS, Open File 1994-6 | map comp: Massey et al., 2005, BC | edit date: 2018-04-05 00:00:00 | pub org: British Columbia Geological Survey
+Feature 4 from 'Bedrock Geology', located at approximately 48.9907°N, -125.5054°W. upid: 29bace39 | area m2: 7018942.0 | strat unit: PeEF | era: Cenozoic | period: Paleogene | strat age: Paleocene to Eocene | strat name: Flores volcanics | fm lithodm: Flores volcanics | rock class: volcanic rocks | rock type: calc-alkaline volcanic rocks | unit desc: Subaerial andesite to rhyolite welded tuff, ash-flow tuff, tuff breccia, dacite to rhyolite sills, minor basalt dykes (50 - 55 Ma) (92F, E): | age max: Paleocene | age min: Eocene | belt: Insular | terrane: Overlap | project: Vancouver Island | src url: http://www.em.gov.bc.ca/Mining/Geoscience/PublicationsCatalogue/OpenFiles/1994/Pages/1994-6.aspx | src ref s: Massey et al., 1994, Vancouver Island, BCGS, Open File 1994-6 | map comp: Massey et al., 2005, BC | edit date: 2018-04-05 00:00:00 | pub org: British Columbia Geological Survey
+Feature 5 from 'Bedrock Geology', located at approximately 48.9976°N, -125.5421°W. upid: db35f197 | area m2: 1733944.0 | strat unit: PzJWg | era: Paleozoic to Mesozoic | period: Cambrian to Jurassic | strat age: Paleozoic to Jurassic | strat name: Westcoast Crystalline Complex | gp suite: Westcoast Crystalline Complex | rock class: intrusive rocks | rock type: intrusive rocks, undivided | unit desc: Quartz diorite, tonalite, hornblende-plagioclase gneiss, quartz-feldspar gneiss, amphibolite, diorite, agmatite, gabbro, marble and metasediments.  Includes the WARK-COLQUITZ COMPLEX (92B, C, F, E, L): | age max: Paleozoic | age min: Jurassic | belt: Insular | terrane: Wrangellia | project: Vancouver Island | src url: http://www.em.gov.bc.ca/Mining/Geoscience/PublicationsCatalogue/OpenFiles/1994/Pages/1994-6.aspx | src ref s: Massey et al., 1994, Vancouver Island, BCGS, Open File 1994-6 | map comp: Massey et al., 2005, BC | edit date: 2018-04-05 00:00:00 | pub org: British Columbia Geological Survey
+Feature 6 from 'Bedrock Geology', located at approximately 48.9362°N, -125.5754°W. upid: 10d8cd9b | area m2: 521189733.0 | strat unit: TrKP | era: Mesozoic | period: Triassic to Cretaceous | strat age: Triassic to Cretaceous | strat name: Pacific Rim Complex | gp suite: Pacific Rim Complex | rock class: volcanic rocks | rock type: undivided volcanic rocks | unit desc: Green, aphanitic volcanic breccia and massive flows, small diorite intrusions, minor pillowed flows and chert, grey limestone lenses (Ucluth Volcanics), Carnian to middle Norian); pillow lava, tuff and chert (Lower Jurassic); mudstone-rich melange | age max: Triassic | age min: Cretaceous | belt: Insular | terrane: Pacific Rim | project: Vancouver Island | src url: http://www.em.gov.bc.ca/Mining/Geoscience/PublicationsCatalogue/OpenFiles/1994/Pages/1994-6.aspx | src ref s: Massey et al., 1994, Vancouver Island, BCGS, Open File 1994-6 | map comp: Massey et al., 2005, BC | edit date: 2018-04-05 00:00:00 | pub org: British Columbia Geological Survey
+
+=== ECOLOGICAL RELEVANCE ===
+This dataset may provide supporting spatial context for habitat analysis in the Ucluelet region.

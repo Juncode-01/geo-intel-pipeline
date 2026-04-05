@@ -1,0 +1,51 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_FOREST_VEGETATION.ISMC_PSP_ACTIVE_SITES_SP
+Dataset ID:     pub:WHSE_FOREST_VEGETATION.ISMC_PSP_ACTIVE_SITES_SP
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  1
+Geometry Types: Polygon
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.46481 S=48.939459 E=-125.456631 N=48.944861
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  site identifier: numeric | range 4002278.00 to 4002278.00 | mean 4002278.00
+  psp site identifier: categorical | values: 05-009C-504R
+  psp sample site type code: categorical | values: R
+  establishment year: numeric | range 1967.00 to 1967.00 | mean 1967.00
+  last measurement year: numeric | range 2007.00 to 2007.00 | mean 2007.00
+  dbh tagging limit: numeric | range 4.00 to 4.00 | mean 4.00
+  species 1: categorical | values: SS
+  species 1 age: numeric | range 79.00 to 79.00 | mean 79.00
+  species 1 height: numeric | range 33.70 to 33.70 | mean 33.70
+  species 2: categorical | values: HW
+  species 2 age: numeric | range 77.00 to 77.00 | mean 77.00
+  species 2 height: numeric | range 32.40 to 32.40 | mean 32.40
+  total basal area: numeric | range 59.20 to 59.20 | mean 59.20
+  number of visits: numeric | range 1.00 to 1.00 | mean 1.00
+  bec zone: categorical | values: CWH
+  bgc subzone: categorical | values: vh
+  bgc variant: categorical | values: 1
+  coordinate source code: categorical | values: UNKNOWN
+  coordinate source description: categorical | values: Unknown
+  buffer size meters: numeric | range 300.00 to 300.00 | mean 300.00
+  utm zone: numeric | range 10.00 to 10.00 | mean 10.00
+  utm easting: numeric | range 319816.00 to 319816.00 | mean 319816.00
+  utm northing: numeric | range 5423944.00 to 5423944.00 | mean 5423944.00
+  latitude: numeric | range 48.94 to 48.94 | mean 48.94
+  longitude: numeric | range -125.46 to -125.46 | mean -125.46
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 1
+  Polygon: 1 features
+Area distribution (hectares): min=27.6 median=27.6 max=27.6
+Approximate centre: 48.9422°N, -125.4607°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 1 features:
+
+Feature 0 from 'pub:WHSE_FOREST_VEGETATION.ISMC_PSP_ACTIVE_SITES_SP', located at approximately 48.9422°N, -125.4607°W. site identifier: 4002278 | psp site identifier: 05-009C-504R | psp sample site type code: R | establishment year: 1967 | last measurement year: 2007 | dbh tagging limit: 4 | species 1: SS | species 1 age: 79 | species 1 height: 33.7 | species 2: HW | species 2 age: 77 | species 2 height: 32.4 | total basal area: 59.2 | number of visits: 1 | bec zone: CWH | bgc subzone: vh | bgc variant: 1 | coordinate source code: UNKNOWN | coordinate source description: Unknown | buffer size meters: 300 | utm zone: 10 | utm easting: 319816 | utm northing: 5423944 | latitude: 48.94216 | longitude: -125.46072
+
+=== ECOLOGICAL RELEVANCE ===
+Vegetation and forest cover data indicates tree species composition. Chanterelles form mycorrhizal associations primarily with conifers — especially Douglas-fir, Sitka spruce, western hemlock, and western red cedar, all common in the Ucluelet region.

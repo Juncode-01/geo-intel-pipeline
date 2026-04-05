@@ -1,0 +1,54 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_EELGRASSES
+Dataset ID:     pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_EELGRASSES
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  21
+Geometry Types: Polygon
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.564589 S=48.92077 E=-125.4 N=48.972947
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  eelgrass id: numeric | range 945.00 to 992.00 | mean 977.52
+  ra: numeric | range 0.00 to 0.00 | mean 0.00
+  ri: numeric | range 3.00 to 3.00 | mean 3.00
+  feature: categorical | values: EEL GRASS
+  species: categorical | values: Unknown
+  source1: categorical | values: CH3671, Haegele and Hamey 1980
+  map date: categorical | values: 1998-01-01
+  project: categorical | values: UPDTS, WCVI
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 21
+  Polygon: 21 features
+Area distribution (hectares): min=0.2 median=0.7 max=22.8
+Approximate centre: 48.9552°N, -125.4589°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 21 features:
+
+Feature 0 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_EELGRASSES', located at approximately 48.9212°N, -125.4834°W. eelgrass id: 992 | ra: 0 | ri: 3 | species: Unknown | source1: Haegele and Hamey 1980 | map date: 1998-01-01 00:00:00 | project: UPDTS
+Feature 1 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_EELGRASSES', located at approximately 48.9255°N, -125.4748°W. eelgrass id: 990 | ra: 0 | ri: 3 | species: Unknown | source1: Haegele and Hamey 1980 | map date: 1998-01-01 00:00:00 | project: UPDTS
+Feature 2 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_EELGRASSES', located at approximately 48.9282°N, -125.4684°W. eelgrass id: 989 | ra: 0 | ri: 3 | species: Unknown | source1: Haegele and Hamey 1980 | map date: 1998-01-01 00:00:00 | project: UPDTS
+Feature 3 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_EELGRASSES', located at approximately 48.9370°N, -125.4611°W. eelgrass id: 988 | ra: 0 | ri: 3 | species: Unknown | source1: Haegele and Hamey 1980 | map date: 1998-01-01 00:00:00 | project: UPDTS
+Feature 4 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_EELGRASSES', located at approximately 48.9387°N, -125.4604°W. eelgrass id: 987 | ra: 0 | ri: 3 | species: Unknown | source1: Haegele and Hamey 1980 | map date: 1998-01-01 00:00:00 | project: UPDTS
+Feature 5 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_EELGRASSES', located at approximately 48.9410°N, -125.4540°W. eelgrass id: 986 | ra: 0 | ri: 3 | species: Unknown | source1: Haegele and Hamey 1980 | map date: 1998-01-01 00:00:00 | project: UPDTS
+Feature 6 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_EELGRASSES', located at approximately 48.9419°N, -125.4546°W. eelgrass id: 985 | ra: 0 | ri: 3 | species: Unknown | source1: Haegele and Hamey 1980 | map date: 1998-01-01 00:00:00 | project: UPDTS
+Feature 7 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_EELGRASSES', located at approximately 48.9420°N, -125.4523°W. eelgrass id: 984 | ra: 0 | ri: 3 | species: Unknown | source1: Haegele and Hamey 1980 | map date: 1998-01-01 00:00:00 | project: UPDTS
+Feature 8 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_EELGRASSES', located at approximately 48.9424°N, -125.4566°W. eelgrass id: 983 | ra: 0 | ri: 3 | species: Unknown | source1: Haegele and Hamey 1980 | map date: 1998-01-01 00:00:00 | project: UPDTS
+Feature 9 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_EELGRASSES', located at approximately 48.9473°N, -125.4436°W. eelgrass id: 981 | ra: 0 | ri: 3 | species: Unknown | source1: Haegele and Hamey 1980 | map date: 1998-01-01 00:00:00 | project: UPDTS
+Feature 10 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_EELGRASSES', located at approximately 48.9486°N, -125.4425°W. eelgrass id: 980 | ra: 0 | ri: 3 | species: Unknown | source1: Haegele and Hamey 1980 | map date: 1998-01-01 00:00:00 | project: UPDTS
+Feature 11 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_EELGRASSES', located at approximately 48.9520°N, -125.4362°W. eelgrass id: 978 | ra: 0 | ri: 3 | species: Unknown | source1: Haegele and Hamey 1980 | map date: 1998-01-01 00:00:00 | project: UPDTS
+Feature 12 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_EELGRASSES', located at approximately 48.9537°N, -125.4133°W. eelgrass id: 979 | ra: 0 | ri: 3 | species: Unknown | source1: Haegele and Hamey 1980 | map date: 1998-01-01 00:00:00 | project: UPDTS
+Feature 13 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_EELGRASSES', located at approximately 48.9553°N, -125.4092°W. eelgrass id: 977 | ra: 0 | ri: 3 | species: Unknown | source1: Haegele and Hamey 1980 | map date: 1998-01-01 00:00:00 | project: UPDTS
+Feature 14 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_EELGRASSES', located at approximately 48.9590°N, -125.4263°W. eelgrass id: 971 | ra: 0 | ri: 3 | species: Unknown | source1: Haegele and Hamey 1980 | map date: 1998-01-01 00:00:00 | project: UPDTS
+Feature 15 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_EELGRASSES', located at approximately 48.9613°N, -125.4209°W. eelgrass id: 972 | ra: 0 | ri: 3 | species: Unknown | source1: Haegele and Hamey 1980 | map date: 1998-01-01 00:00:00 | project: UPDTS
+Feature 16 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_EELGRASSES', located at approximately 48.9629°N, -125.4185°W. eelgrass id: 970 | ra: 0 | ri: 3 | species: Unknown | source1: Haegele and Hamey 1980 | map date: 1998-01-01 00:00:00 | project: UPDTS
+Feature 17 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_EELGRASSES', located at approximately 48.9641°N, -125.4165°W. eelgrass id: 969 | ra: 0 | ri: 3 | species: Unknown | source1: Haegele and Hamey 1980 | map date: 1998-01-01 00:00:00 | project: UPDTS
+Feature 18 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_EELGRASSES', located at approximately 48.9683°N, -125.4075°W. eelgrass id: 949 | ra: 0 | ri: 3 | species: Unknown | source1: Haegele and Hamey 1980 | map date: 1998-01-01 00:00:00 | project: UPDTS
+Feature 19 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_EELGRASSES', located at approximately 48.9723°N, -125.4012°W. eelgrass id: 945 | ra: 0 | ri: 3 | species: Unknown | source1: Haegele and Hamey 1980 | map date: 1998-01-01 00:00:00 | project: UPDTS
+Feature 20 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_EELGRASSES', located at approximately 48.9602°N, -125.5614°W. eelgrass id: 973 | ra: 0 | ri: 3 | feature: EEL GRASS | source1: CH3671 | map date: 1998-01-01 00:00:00 | project: WCVI
+
+=== ECOLOGICAL RELEVANCE ===
+This dataset may provide supporting spatial context for habitat analysis in the Ucluelet region.

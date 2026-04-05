@@ -1,0 +1,70 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_WATER_MANAGEMENT.WLS_LICENCE_WITH_PARCELS_ISP
+Dataset ID:     pub:WHSE_WATER_MANAGEMENT.WLS_LICENCE_WITH_PARCELS_ISP
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  40
+Geometry Types: Polygon, MultiPolygon
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.591952 S=48.947403 E=-125.534639 N=48.981071
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  licence with parcel id: numeric | range 202481129.00 to 202546931.00 | mean 202513961.15
+  licence no: categorical | values: C045286, C045287, C045720, C123042, C126166, C130782, C130909, Z123135
+  pid: text | 38 unique values | sample: 000077429, 002348489, 004962320, 005566924, 026508486...
+  ownership class: categorical | values: Private
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 40
+  Polygon: 36 features
+  MultiPolygon: 4 features
+Area distribution (hectares): min=0.2 median=0.3 max=29.7
+Approximate centre: 48.9535°N, -125.5828°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 40 features:
+
+Feature 0 from 'pub:WHSE_WATER_MANAGEMENT.WLS_LICENCE_WITH_PARCELS_ISP', located at approximately 48.9481°N, -125.5349°W. licence with parcel id: 202501513 | licence no: Z123135 | pid: 005566924 | ownership class: Private
+Feature 1 from 'pub:WHSE_WATER_MANAGEMENT.WLS_LICENCE_WITH_PARCELS_ISP', located at approximately 48.9505°N, -125.5844°W. licence with parcel id: 202528412 | licence no: C130909 | pid: 027416054 | ownership class: Private
+Feature 2 from 'pub:WHSE_WATER_MANAGEMENT.WLS_LICENCE_WITH_PARCELS_ISP', located at approximately 48.9509°N, -125.5786°W. licence with parcel id: 202528648 | licence no: C130909 | pid: 027416046 | ownership class: Private
+Feature 3 from 'pub:WHSE_WATER_MANAGEMENT.WLS_LICENCE_WITH_PARCELS_ISP', located at approximately 48.9527°N, -125.5823°W. licence with parcel id: 202546307 | licence no: C130909 | pid: 026508486 | ownership class: Private
+Feature 4 from 'pub:WHSE_WATER_MANAGEMENT.WLS_LICENCE_WITH_PARCELS_ISP', located at approximately 48.9527°N, -125.5823°W. licence with parcel id: 202546306 | licence no: C123042 | pid: 026508486 | ownership class: Private
+Feature 5 from 'pub:WHSE_WATER_MANAGEMENT.WLS_LICENCE_WITH_PARCELS_ISP', located at approximately 48.9527°N, -125.5823°W. licence with parcel id: 202546308 | licence no: C126166 | pid: 026508486 | ownership class: Private
+Feature 6 from 'pub:WHSE_WATER_MANAGEMENT.WLS_LICENCE_WITH_PARCELS_ISP', located at approximately 48.9530°N, -125.5854°W. licence with parcel id: 202522528 | licence no: C130782 | pid: 027416623 | ownership class: Private
+Feature 7 from 'pub:WHSE_WATER_MANAGEMENT.WLS_LICENCE_WITH_PARCELS_ISP', located at approximately 48.9532°N, -125.5848°W. licence with parcel id: 202517734 | licence no: C130782 | pid: 027416631 | ownership class: Private
+Feature 8 from 'pub:WHSE_WATER_MANAGEMENT.WLS_LICENCE_WITH_PARCELS_ISP', located at approximately 48.9534°N, -125.5845°W. licence with parcel id: 202528322 | licence no: C130782 | pid: 027416640 | ownership class: Private
+Feature 9 from 'pub:WHSE_WATER_MANAGEMENT.WLS_LICENCE_WITH_PARCELS_ISP', located at approximately 48.9534°N, -125.5836°W. licence with parcel id: 202507232 | licence no: C130909 | pid: 027416062 | ownership class: Private
+Feature 10 from 'pub:WHSE_WATER_MANAGEMENT.WLS_LICENCE_WITH_PARCELS_ISP', located at approximately 48.9530°N, -125.5859°W. licence with parcel id: 202544311 | licence no: C130782 | pid: 027416615 | ownership class: Private
+Feature 11 from 'pub:WHSE_WATER_MANAGEMENT.WLS_LICENCE_WITH_PARCELS_ISP', located at approximately 48.9531°N, -125.5862°W. licence with parcel id: 202487321 | licence no: C130782 | pid: 027416607 | ownership class: Private
+Feature 12 from 'pub:WHSE_WATER_MANAGEMENT.WLS_LICENCE_WITH_PARCELS_ISP', located at approximately 48.9533°N, -125.5865°W. licence with parcel id: 202497832 | licence no: C130782 | pid: 027416593 | ownership class: Private
+Feature 13 from 'pub:WHSE_WATER_MANAGEMENT.WLS_LICENCE_WITH_PARCELS_ISP', located at approximately 48.9534°N, -125.5868°W. licence with parcel id: 202523808 | licence no: C130782 | pid: 027416585 | ownership class: Private
+Feature 14 from 'pub:WHSE_WATER_MANAGEMENT.WLS_LICENCE_WITH_PARCELS_ISP', located at approximately 48.9534°N, -125.5874°W. licence with parcel id: 202517350 | licence no: C130782 | pid: 027416542 | ownership class: Private
+Feature 15 from 'pub:WHSE_WATER_MANAGEMENT.WLS_LICENCE_WITH_PARCELS_ISP', located at approximately 48.9536°N, -125.5876°W. licence with parcel id: 202491654 | licence no: C130782 | pid: 027416534 | ownership class: Private
+Feature 16 from 'pub:WHSE_WATER_MANAGEMENT.WLS_LICENCE_WITH_PARCELS_ISP', located at approximately 48.9538°N, -125.5878°W. licence with parcel id: 202489157 | licence no: C130782 | pid: 027416526 | ownership class: Private
+Feature 17 from 'pub:WHSE_WATER_MANAGEMENT.WLS_LICENCE_WITH_PARCELS_ISP', located at approximately 48.9540°N, -125.5879°W. licence with parcel id: 202496695 | licence no: C130782 | pid: 027416518 | ownership class: Private
+Feature 18 from 'pub:WHSE_WATER_MANAGEMENT.WLS_LICENCE_WITH_PARCELS_ISP', located at approximately 48.9543°N, -125.5879°W. licence with parcel id: 202518949 | licence no: C130782 | pid: 027416500 | ownership class: Private
+Feature 19 from 'pub:WHSE_WATER_MANAGEMENT.WLS_LICENCE_WITH_PARCELS_ISP', located at approximately 48.9545°N, -125.5880°W. licence with parcel id: 202503598 | licence no: C130782 | pid: 027416577 | ownership class: Private
+Feature 20 from 'pub:WHSE_WATER_MANAGEMENT.WLS_LICENCE_WITH_PARCELS_ISP', located at approximately 48.9548°N, -125.5881°W. licence with parcel id: 202508952 | licence no: C130782 | pid: 027416569 | ownership class: Private
+Feature 21 from 'pub:WHSE_WATER_MANAGEMENT.WLS_LICENCE_WITH_PARCELS_ISP', located at approximately 48.9551°N, -125.5881°W. licence with parcel id: 202513612 | licence no: C130782 | pid: 027416551 | ownership class: Private
+Feature 22 from 'pub:WHSE_WATER_MANAGEMENT.WLS_LICENCE_WITH_PARCELS_ISP', located at approximately 48.9556°N, -125.5880°W. licence with parcel id: 202499934 | licence no: C130782 | pid: 027416496 | ownership class: Private
+Feature 23 from 'pub:WHSE_WATER_MANAGEMENT.WLS_LICENCE_WITH_PARCELS_ISP', located at approximately 48.9557°N, -125.5874°W. licence with parcel id: 202535341 | licence no: C130782 | pid: 027416780 | ownership class: Private
+Feature 24 from 'pub:WHSE_WATER_MANAGEMENT.WLS_LICENCE_WITH_PARCELS_ISP', located at approximately 48.9557°N, -125.5870°W. licence with parcel id: 202517726 | licence no: C130782 | pid: 027416771 | ownership class: Private
+Feature 25 from 'pub:WHSE_WATER_MANAGEMENT.WLS_LICENCE_WITH_PARCELS_ISP', located at approximately 48.9558°N, -125.5866°W. licence with parcel id: 202521235 | licence no: C130782 | pid: 027416763 | ownership class: Private
+Feature 26 from 'pub:WHSE_WATER_MANAGEMENT.WLS_LICENCE_WITH_PARCELS_ISP', located at approximately 48.9559°N, -125.5862°W. licence with parcel id: 202546931 | licence no: C130782 | pid: 027416755 | ownership class: Private
+Feature 27 from 'pub:WHSE_WATER_MANAGEMENT.WLS_LICENCE_WITH_PARCELS_ISP', located at approximately 48.9559°N, -125.5857°W. licence with parcel id: 202517364 | licence no: C130782 | pid: 027416747 | ownership class: Private
+Feature 28 from 'pub:WHSE_WATER_MANAGEMENT.WLS_LICENCE_WITH_PARCELS_ISP', located at approximately 48.9632°N, -125.5910°W. licence with parcel id: 202527259 | licence no: C045287 | pid: 000077429 | ownership class: Private
+Feature 29 from 'pub:WHSE_WATER_MANAGEMENT.WLS_LICENCE_WITH_PARCELS_ISP', located at approximately 48.9638°N, -125.5914°W. licence with parcel id: 202516977 | licence no: C045286 | pid: 002348489 | ownership class: Private
+Feature 30 from 'pub:WHSE_WATER_MANAGEMENT.WLS_LICENCE_WITH_PARCELS_ISP', located at approximately 48.9537°N, -125.5843°W. licence with parcel id: 202506226 | licence no: C130782 | pid: 027416658 | ownership class: Private
+Feature 31 from 'pub:WHSE_WATER_MANAGEMENT.WLS_LICENCE_WITH_PARCELS_ISP', located at approximately 48.9540°N, -125.5843°W. licence with parcel id: 202499438 | licence no: C130782 | pid: 027416666 | ownership class: Private
+Feature 32 from 'pub:WHSE_WATER_MANAGEMENT.WLS_LICENCE_WITH_PARCELS_ISP', located at approximately 48.9542°N, -125.5844°W. licence with parcel id: 202504916 | licence no: C130782 | pid: 027416674 | ownership class: Private
+Feature 33 from 'pub:WHSE_WATER_MANAGEMENT.WLS_LICENCE_WITH_PARCELS_ISP', located at approximately 48.9545°N, -125.5846°W. licence with parcel id: 202501136 | licence no: C130782 | pid: 027416682 | ownership class: Private
+Feature 34 from 'pub:WHSE_WATER_MANAGEMENT.WLS_LICENCE_WITH_PARCELS_ISP', located at approximately 48.9546°N, -125.5848°W. licence with parcel id: 202518330 | licence no: C130782 | pid: 027416691 | ownership class: Private
+Feature 35 from 'pub:WHSE_WATER_MANAGEMENT.WLS_LICENCE_WITH_PARCELS_ISP', located at approximately 48.9549°N, -125.5850°W. licence with parcel id: 202482125 | licence no: C130782 | pid: 027416704 | ownership class: Private
+Feature 36 from 'pub:WHSE_WATER_MANAGEMENT.WLS_LICENCE_WITH_PARCELS_ISP', located at approximately 48.9551°N, -125.5852°W. licence with parcel id: 202481129 | licence no: C130782 | pid: 027416712 | ownership class: Private
+Feature 37 from 'pub:WHSE_WATER_MANAGEMENT.WLS_LICENCE_WITH_PARCELS_ISP', located at approximately 48.9553°N, -125.5853°W. licence with parcel id: 202491011 | licence no: C130782 | pid: 027416721 | ownership class: Private
+Feature 38 from 'pub:WHSE_WATER_MANAGEMENT.WLS_LICENCE_WITH_PARCELS_ISP', located at approximately 48.9556°N, -125.5855°W. licence with parcel id: 202489890 | licence no: C130782 | pid: 027416739 | ownership class: Private
+Feature 39 from 'pub:WHSE_WATER_MANAGEMENT.WLS_LICENCE_WITH_PARCELS_ISP', located at approximately 48.9802°N, -125.5795°W. licence with parcel id: 202534929 | licence no: C045720 | pid: 004962320 | ownership class: Private
+
+=== ECOLOGICAL RELEVANCE ===
+Hydrological data indicates soil moisture patterns and drainage regimes. Chanterelles favour areas with consistent subsurface moisture but not waterlogged conditions — typically mid-slope positions near but not in riparian zones.

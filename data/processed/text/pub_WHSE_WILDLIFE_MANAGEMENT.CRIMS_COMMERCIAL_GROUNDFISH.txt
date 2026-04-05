@@ -1,0 +1,57 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_COMMERCIAL_GROUNDFISH
+Dataset ID:     pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_COMMERCIAL_GROUNDFISH
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  20
+Geometry Types: Polygon
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.9 S=48.8 E=-125.4 N=49.0
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  cgrndf id: numeric | range 4132.00 to 4982.00 | mean 4685.85
+  ri: numeric | range 1.00 to 4.00 | mean 2.00
+  ri first nations: numeric | range 0.00 to 0.00 | mean 0.00
+  ri commercial: numeric | range 0.00 to 0.00 | mean 0.00
+  ri recreational: numeric | range 0.00 to 0.00 | mean 0.00
+  location: categorical | values: Amphitrite Point to Broken Islands, Big Bank, Big Bank and off Barkley Sound, Cabbage Patch, Firing Range, La Perouse Bank, offmouth of Barkley Sound
+  species: categorical | values: Commercial Groundfish, Other, Commercial Groundfish, Trawl
+  start season: categorical | values: FEB, JAN, MAR, MAY
+  close season: categorical | values: DEC, JUN, SEP
+  gear type: categorical | values: Hook & Lin, Longline, Longline &, Trawl
+  compiler: categorical | values: G. Buechler, M. Saunders, R. Stennes
+  project: categorical | values: WCVIH, WCVIT
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 20
+  Polygon: 20 features
+Area distribution (hectares): min=0.3 median=331.0 max=20147.5
+Approximate centre: 48.8859°N, -125.6837°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 20 features:
+
+Feature 0 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_COMMERCIAL_GROUNDFISH', located at approximately 48.8121°N, -125.8761°W. cgrndf id: 4765 | ri: 4 | ri first nations: 0 | ri commercial: 0 | ri recreational: 0 | location: Big Bank | species: Commercial Groundfish, Trawl | start season: JAN | close season: DEC | gear type: Trawl | project: WCVIT
+Feature 1 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_COMMERCIAL_GROUNDFISH', located at approximately 48.8571°N, -125.7867°W. cgrndf id: 4132 | ri: 2 | ri first nations: 0 | ri commercial: 0 | ri recreational: 0 | location: La Perouse Bank | species: Commercial Groundfish, Trawl | start season: JAN | close season: DEC | gear type: Trawl | project: WCVIT
+Feature 2 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_COMMERCIAL_GROUNDFISH', located at approximately 48.8023°N, -125.5600°W. cgrndf id: 4982 | ri: 2 | ri first nations: 0 | ri commercial: 0 | ri recreational: 0 | location: La Perouse Bank | species: Commercial Groundfish, Trawl | start season: JAN | close season: DEC | gear type: Trawl | project: WCVIT
+Feature 3 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_COMMERCIAL_GROUNDFISH', located at approximately 48.8132°N, -125.8504°W. cgrndf id: 4959 | ri: 4 | ri first nations: 0 | ri commercial: 0 | ri recreational: 0 | location: Big Bank | species: Commercial Groundfish, Trawl | start season: JAN | close season: DEC | gear type: Trawl | project: WCVIT
+Feature 4 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_COMMERCIAL_GROUNDFISH', located at approximately 48.8163°N, -125.5914°W. cgrndf id: 4981 | ri: 2 | ri first nations: 0 | ri commercial: 0 | ri recreational: 0 | location: La Perouse Bank | species: Commercial Groundfish, Trawl | start season: JAN | close season: DEC | gear type: Trawl | project: WCVIT
+Feature 5 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_COMMERCIAL_GROUNDFISH', located at approximately 48.8256°N, -125.5910°W. cgrndf id: 4957 | ri: 1 | ri first nations: 0 | ri commercial: 0 | ri recreational: 0 | location: offmouth of Barkley Sound | species: Commercial Groundfish, Trawl | start season: JAN | close season: DEC | gear type: Trawl | project: WCVIT
+Feature 6 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_COMMERCIAL_GROUNDFISH', located at approximately 48.8509°N, -125.5766°W. cgrndf id: 4733 | ri: 2 | ri first nations: 0 | ri commercial: 0 | ri recreational: 0 | location: Cabbage Patch | species: Commercial Groundfish, Trawl | start season: JAN | close season: DEC | gear type: Trawl | project: WCVIT
+Feature 7 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_COMMERCIAL_GROUNDFISH', located at approximately 48.8388°N, -125.8982°W. cgrndf id: 4799 | ri: 2 | ri first nations: 0 | ri commercial: 0 | ri recreational: 0 | location: La Perouse Bank | species: Commercial Groundfish, Trawl | start season: JAN | close season: DEC | gear type: Trawl | project: WCVIT
+Feature 8 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_COMMERCIAL_GROUNDFISH', located at approximately 48.8855°N, -125.6173°W. cgrndf id: 4404 | ri: 2 | ri first nations: 0 | ri commercial: 0 | ri recreational: 0 | location: Cabbage Patch | species: Commercial Groundfish, Trawl | start season: JAN | close season: DEC | gear type: Trawl | project: WCVIT
+Feature 9 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_COMMERCIAL_GROUNDFISH', located at approximately 48.9004°N, -125.6413°W. cgrndf id: 4137 | ri: 1 | ri first nations: 0 | ri commercial: 0 | ri recreational: 0 | location: offmouth of Barkley Sound | species: Commercial Groundfish, Trawl | start season: JAN | close season: DEC | gear type: Trawl | project: WCVIT
+Feature 10 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_COMMERCIAL_GROUNDFISH', located at approximately 48.8240°N, -125.4854°W. cgrndf id: 4825 | ri: 1 | ri first nations: 0 | ri commercial: 0 | ri recreational: 0 | location: offmouth of Barkley Sound | species: Commercial Groundfish, Trawl | start season: JAN | close season: DEC | gear type: Trawl | project: WCVIT
+Feature 11 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_COMMERCIAL_GROUNDFISH', located at approximately 48.8093°N, -125.4171°W. cgrndf id: 4980 | ri: 1 | ri first nations: 0 | ri commercial: 0 | ri recreational: 0 | location: offmouth of Barkley Sound | species: Commercial Groundfish, Trawl | start season: JAN | close season: DEC | gear type: Trawl | project: WCVIT
+Feature 12 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_COMMERCIAL_GROUNDFISH', located at approximately 48.8249°N, -125.5632°W. cgrndf id: 4977 | ri: 2 | ri first nations: 0 | ri commercial: 0 | ri recreational: 0 | location: Cabbage Patch | species: Commercial Groundfish, Trawl | start season: JAN | close season: DEC | gear type: Trawl | project: WCVIT
+Feature 13 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_COMMERCIAL_GROUNDFISH', located at approximately 48.8288°N, -125.4254°W. cgrndf id: 4970 | ri: 3 | ri first nations: 0 | ri commercial: 0 | ri recreational: 0 | location: Big Bank and off Barkley Sound | species: Commercial Groundfish, Other | start season: MAR | close season: SEP | gear type: Longline & | compiler: G. Buechler | project: WCVIH
+Feature 14 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_COMMERCIAL_GROUNDFISH', located at approximately 48.8411°N, -125.4547°W. cgrndf id: 4912 | ri: 1 | ri first nations: 0 | ri commercial: 0 | ri recreational: 0 | location: offmouth of Barkley Sound | species: Commercial Groundfish, Trawl | start season: JAN | close season: DEC | gear type: Trawl | project: WCVIT
+Feature 15 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_COMMERCIAL_GROUNDFISH', located at approximately 48.8495°N, -125.5396°W. cgrndf id: 4834 | ri: 1 | ri first nations: 0 | ri commercial: 0 | ri recreational: 0 | location: offmouth of Barkley Sound | species: Commercial Groundfish, Trawl | start season: JAN | close season: DEC | gear type: Trawl | project: WCVIT
+Feature 16 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_COMMERCIAL_GROUNDFISH', located at approximately 48.8635°N, -125.4919°W. cgrndf id: 4831 | ri: 3 | ri first nations: 0 | ri commercial: 0 | ri recreational: 0 | location: Big Bank and off Barkley Sound | species: Commercial Groundfish, Other | start season: MAR | close season: SEP | gear type: Longline & | compiler: G. Buechler | project: WCVIH
+Feature 17 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_COMMERCIAL_GROUNDFISH', located at approximately 48.8817°N, -125.4245°W. cgrndf id: 4146 | ri: 3 | ri first nations: 0 | ri commercial: 0 | ri recreational: 0 | species: Commercial Groundfish, Other | start season: FEB | close season: JUN | gear type: Longline | compiler: M. Saunders | project: WCVIH
+Feature 18 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_COMMERCIAL_GROUNDFISH', located at approximately 48.8980°N, -125.4834°W. cgrndf id: 4257 | ri: 2 | ri first nations: 0 | ri commercial: 0 | ri recreational: 0 | location: Amphitrite Point to Broken Islands | species: Commercial Groundfish, Other | start season: MAY | close season: SEP | gear type: Hook & Lin | compiler: R. Stennes | project: WCVIH
+Feature 19 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_COMMERCIAL_GROUNDFISH', located at approximately 48.9522°N, -125.7803°W. cgrndf id: 4136 | ri: 1 | ri first nations: 0 | ri commercial: 0 | ri recreational: 0 | location: Firing Range | species: Commercial Groundfish, Trawl | start season: JAN | close season: DEC | gear type: Trawl | project: WCVIT
+
+=== ECOLOGICAL RELEVANCE ===
+This dataset may provide supporting spatial context for habitat analysis in the Ucluelet region.

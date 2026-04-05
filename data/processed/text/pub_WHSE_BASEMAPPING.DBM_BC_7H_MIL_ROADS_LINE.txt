@@ -1,0 +1,26 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_BASEMAPPING.DBM_BC_7H_MIL_ROADS_LINE
+Dataset ID:     pub:WHSE_BASEMAPPING.DBM_BC_7H_MIL_ROADS_LINE
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  1
+Geometry Types: LineString
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.621216 S=48.940988 E=-125.453893 N=49.0
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  feature code: numeric | range 68.00 to 68.00 | mean 68.00
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 1
+  LineString: 1 features
+Approximate centre: 48.9696°N, -125.5289°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 1 features:
+
+Feature 0 from 'pub:WHSE_BASEMAPPING.DBM_BC_7H_MIL_ROADS_LINE', located at approximately 48.9696°N, -125.5289°W. feature code: 68
+
+=== ECOLOGICAL RELEVANCE ===
+This dataset may provide supporting spatial context for habitat analysis in the Ucluelet region.

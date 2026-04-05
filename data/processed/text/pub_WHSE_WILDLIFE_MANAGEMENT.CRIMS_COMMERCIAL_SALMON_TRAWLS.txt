@@ -1,0 +1,50 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_COMMERCIAL_SALMON_TRAWLS
+Dataset ID:     pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_COMMERCIAL_SALMON_TRAWLS
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  12
+Geometry Types: Polygon
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.9 S=48.8 E=-125.4 N=49.0
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  csalmtrl id: numeric | range 1547.00 to 1706.00 | mean 1605.75
+  ri: numeric | range 1.00 to 3.00 | mean 1.83
+  location: categorical | values: 7 km off Long Beach, Area 123, Wya Point, near shore
+  start season: categorical | values: AUG, JUL, JUN
+  close season: categorical | values: JUL, SEP
+  csalmtrl start: numeric | range 0.00 to 0.00 | mean 0.00
+  csalmtrl close: numeric | range 0.00 to 0.00 | mean 0.00
+  gear type: categorical | values: Troll
+  accuracy: numeric | range 0.00 to 0.00 | mean 0.00
+  obs method: numeric | range 0.00 to 0.00 | mean 0.00
+  compiler: categorical | values: C. McConnell, D. Palfrey, L. Gordon, R. Stennes
+  compile date: categorical | values: 1993-09-15, 1994-07-13, 1995-03-16
+  project: categorical | values: WCVI
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 12
+  Polygon: 12 features
+Area distribution (hectares): min=472.2 median=2010.3 max=16181.4
+Approximate centre: 48.8832°N, -125.6736°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 12 features:
+
+Feature 0 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_COMMERCIAL_SALMON_TRAWLS', located at approximately 48.8520°N, -125.5143°W. csalmtrl id: 1626 | ri: 3 | location: Area 123 | start season: JUN | close season: SEP | csalmtrl start: 0 | csalmtrl close: 0 | gear type: Troll | accuracy: 0 | obs method: 0 | compiler: L. Gordon, R. Stennes | compile date: 1993-09-15 00:00:00 | project: WCVI
+Feature 1 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_COMMERCIAL_SALMON_TRAWLS', located at approximately 48.8644°N, -125.6772°W. csalmtrl id: 1664 | ri: 2 | start season: JUL | close season: SEP | csalmtrl start: 0 | csalmtrl close: 0 | gear type: Troll | accuracy: 0 | obs method: 0 | compiler: C. McConnell | compile date: 1994-07-13 00:00:00 | project: WCVI
+Feature 2 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_COMMERCIAL_SALMON_TRAWLS', located at approximately 48.9076°N, -125.7414°W. csalmtrl id: 1628 | ri: 2 | start season: JUL | close season: SEP | csalmtrl start: 0 | csalmtrl close: 0 | gear type: Troll | accuracy: 0 | obs method: 0 | compiler: C. McConnell | compile date: 1994-07-13 00:00:00 | project: WCVI
+Feature 3 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_COMMERCIAL_SALMON_TRAWLS', located at approximately 48.9198°N, -125.6614°W. csalmtrl id: 1574 | ri: 2 | start season: JUL | close season: SEP | csalmtrl start: 0 | csalmtrl close: 0 | gear type: Troll | accuracy: 0 | obs method: 0 | compiler: C. McConnell | compile date: 1994-07-13 00:00:00 | project: WCVI
+Feature 4 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_COMMERCIAL_SALMON_TRAWLS', located at approximately 48.9521°N, -125.6111°W. csalmtrl id: 1567 | ri: 1 | location: Wya Point, near shore | start season: AUG | close season: SEP | csalmtrl start: 0 | csalmtrl close: 0 | gear type: Troll | accuracy: 0 | obs method: 0 | compiler: D. Palfrey | compile date: 1995-03-16 00:00:00 | project: WCVI
+Feature 5 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_COMMERCIAL_SALMON_TRAWLS', located at approximately 48.9773°N, -125.7062°W. csalmtrl id: 1553 | ri: 2 | start season: JUL | close season: SEP | csalmtrl start: 0 | csalmtrl close: 0 | gear type: Troll | accuracy: 0 | obs method: 0 | compiler: C. McConnell | compile date: 1994-07-13 00:00:00 | project: WCVI
+Feature 6 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_COMMERCIAL_SALMON_TRAWLS', located at approximately 48.8092°N, -125.7549°W. csalmtrl id: 1706 | ri: 2 | start season: JUL | close season: SEP | csalmtrl start: 0 | csalmtrl close: 0 | gear type: Troll | accuracy: 0 | obs method: 0 | compiler: C. McConnell | compile date: 1994-07-13 00:00:00 | project: WCVI
+Feature 7 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_COMMERCIAL_SALMON_TRAWLS', located at approximately 48.8425°N, -125.7665°W. csalmtrl id: 1678 | ri: 2 | start season: JUL | close season: SEP | csalmtrl start: 0 | csalmtrl close: 0 | gear type: Troll | accuracy: 0 | obs method: 0 | compiler: C. McConnell | compile date: 1994-07-13 00:00:00 | project: WCVI
+Feature 8 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_COMMERCIAL_SALMON_TRAWLS', located at approximately 48.8939°N, -125.8877°W. csalmtrl id: 1619 | ri: 1 | start season: JUL | close season: SEP | csalmtrl start: 0 | csalmtrl close: 0 | gear type: Troll | accuracy: 0 | obs method: 0 | compiler: C. McConnell | compile date: 1994-07-13 00:00:00 | project: WCVI
+Feature 9 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_COMMERCIAL_SALMON_TRAWLS', located at approximately 48.8981°N, -125.8267°W. csalmtrl id: 1557 | ri: 3 | location: 7 km off Long Beach | start season: JUL | close season: JUL | csalmtrl start: 0 | csalmtrl close: 0 | gear type: Troll | accuracy: 0 | obs method: 0 | compile date: NaT | project: WCVI
+Feature 10 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_COMMERCIAL_SALMON_TRAWLS', located at approximately 48.9907°N, -125.7940°W. csalmtrl id: 1550 | ri: 1 | start season: JUL | close season: SEP | csalmtrl start: 0 | csalmtrl close: 0 | gear type: Troll | accuracy: 0 | obs method: 0 | compiler: C. McConnell | compile date: 1994-07-13 00:00:00 | project: WCVI
+Feature 11 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_COMMERCIAL_SALMON_TRAWLS', located at approximately 48.9889°N, -125.8884°W. csalmtrl id: 1547 | ri: 1 | start season: JUL | close season: SEP | csalmtrl start: 0 | csalmtrl close: 0 | gear type: Troll | accuracy: 0 | obs method: 0 | compiler: C. McConnell | compile date: 1994-07-13 00:00:00 | project: WCVI
+
+=== ECOLOGICAL RELEVANCE ===
+This dataset may provide supporting spatial context for habitat analysis in the Ucluelet region.

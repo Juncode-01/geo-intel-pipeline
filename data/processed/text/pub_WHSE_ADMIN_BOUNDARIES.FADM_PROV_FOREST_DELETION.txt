@@ -1,0 +1,53 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_ADMIN_BOUNDARIES.FADM_PROV_FOREST_DELETION
+Dataset ID:     pub:WHSE_ADMIN_BOUNDARIES.FADM_PROV_FOREST_DELETION
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  13
+Geometry Types: Polygon, MultiPolygon
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.697465 S=48.920232 E=-125.4 N=49.0
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  feature id: text | 13 unique values | sample: 1101, 4161, 4941, 9356, 9357...
+  prov forest cd: categorical | values: 4
+  prov forest cd description: categorical | values: Clayoquot
+  document type: categorical | values: MO, OIC
+  deletion year: categorical | values: 1951, 1952, 1954, 1962, 1963, 1964, 1987, 2006, 2011, 2014
+  deletion number: text | 12 unique values | sample: 10, 11, 1339, 1993, 2141...
+  map block id: categorical | values: 0
+  effective date: text | 11 unique values | sample: 1951-06-08, 1952-12-02, 1954-08-20, 1962-11-02, 1962-12-06...
+  comments: categorical | values: Amend OIC 918 re DL 462, DL 2240, Clayoquot District, DL 805, Clayoquot District, DLs 2174, 2175 & 7176, Clayoquot District, Florenzia Islet, Lot 1, DL 445, Clayoquot District, Plan 15655, MaaNulth Treaty Lands Deleted via Section 5(7), Parcel A, Lot A, DL 340, Clayoquot District, Plan 3606, Part DL 462, Clayoquot District, That part of Section 54, Clayoquot District, consisting of a strip of land 1 chain in width from the high-water mark
+  feature code: categorical | values: FM90300100
+  who updated: categorical | values: INCOSADA, MSPENCER
+  when updated: categorical | values: 2002-02-26, 2010-04-19, 2014-09-25, 2017-03-09
+  feature class skey: numeric | range 144.00 to 144.00 | mean 144.00
+  object version skey: numeric | range 0.00 to 19848.00 | mean 2464.62
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 13
+  Polygon: 9 features
+  MultiPolygon: 4 features
+Area distribution (hectares): min=0.2 median=27.5 max=3016.5
+Approximate centre: 48.9762°N, -125.5441°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 13 features:
+
+Feature 0 from 'pub:WHSE_ADMIN_BOUNDARIES.FADM_PROV_FOREST_DELETION', located at approximately 48.9791°N, -125.6435°W. feature id: 9356 | prov forest cd: 4 | prov forest cd description: Clayoquot | document type: OIC | deletion year: 1952 | deletion number: 2877 | map block id: 0 | effective date: 1952-12-02 00:00:00 | comments: Florenzia Islet | feature code: FM90300100 | who updated: INCOSADA | when updated: 2002-02-26 00:00:00 | feature class skey: 144 | object version skey: 411
+Feature 1 from 'pub:WHSE_ADMIN_BOUNDARIES.FADM_PROV_FOREST_DELETION', located at approximately 48.9890°N, -125.6402°W. feature id: 9369 | prov forest cd: 4 | prov forest cd description: Clayoquot | document type: OIC | deletion year: 1987 | deletion number: 2141 | map block id: 0 | effective date: 1987-10-29 00:00:00 | feature code: FM90300100 | who updated: INCOSADA | when updated: 2002-02-26 00:00:00 | feature class skey: 144 | object version skey: 424
+Feature 2 from 'pub:WHSE_ADMIN_BOUNDARIES.FADM_PROV_FOREST_DELETION', located at approximately 48.9887°N, -125.5759°W. feature id: 9363 | prov forest cd: 4 | prov forest cd description: Clayoquot | document type: OIC | deletion year: 1954 | deletion number: 1993 | map block id: 0 | effective date: 1954-08-20 00:00:00 | feature code: FM90300100 | who updated: INCOSADA | when updated: 2002-02-26 00:00:00 | feature class skey: 144 | object version skey: 418
+Feature 3 from 'pub:WHSE_ADMIN_BOUNDARIES.FADM_PROV_FOREST_DELETION', located at approximately 48.9898°N, -125.5883°W. feature id: 9362 | prov forest cd: 4 | prov forest cd description: Clayoquot | document type: OIC | deletion year: 1963 | deletion number: 3308 | map block id: 0 | effective date: 1963-12-23 00:00:00 | comments: Part DL 462, Clayoquot District | feature code: FM90300100 | who updated: INCOSADA | when updated: 2002-02-26 00:00:00 | feature class skey: 144 | object version skey: 417
+Feature 4 from 'pub:WHSE_ADMIN_BOUNDARIES.FADM_PROV_FOREST_DELETION', located at approximately 48.9936°N, -125.5824°W. feature id: 9361 | prov forest cd: 4 | prov forest cd description: Clayoquot | document type: OIC | deletion year: 1962 | deletion number: 2985 | map block id: 0 | effective date: 1962-12-06 00:00:00 | comments: Amend OIC 918 re DL 462 | feature code: FM90300100 | who updated: INCOSADA | when updated: 2002-02-26 00:00:00 | feature class skey: 144 | object version skey: 416
+Feature 5 from 'pub:WHSE_ADMIN_BOUNDARIES.FADM_PROV_FOREST_DELETION', located at approximately 48.9956°N, -125.5899°W. feature id: 9360 | prov forest cd: 4 | prov forest cd description: Clayoquot | document type: OIC | deletion year: 1962 | deletion number: 2623 | map block id: 0 | effective date: 1962-11-02 00:00:00 | comments: Lot 1, DL 445, Clayoquot District, Plan 15655 | feature code: FM90300100 | who updated: INCOSADA | when updated: 2002-02-26 00:00:00 | feature class skey: 144 | object version skey: 415
+Feature 6 from 'pub:WHSE_ADMIN_BOUNDARIES.FADM_PROV_FOREST_DELETION', located at approximately 48.9947°N, -125.6334°W. feature id: 9388 | prov forest cd: 4 | prov forest cd description: Clayoquot | document type: OIC | deletion year: 1954 | deletion number: 1993 | map block id: 0 | effective date: 1954-08-20 00:00:00 | feature code: FM90300100 | who updated: INCOSADA | when updated: 2002-02-26 00:00:00 | feature class skey: 144 | object version skey: 443
+Feature 7 from 'pub:WHSE_ADMIN_BOUNDARIES.FADM_PROV_FOREST_DELETION', located at approximately 48.9265°N, -125.5098°W. feature id: 9358 | prov forest cd: 4 | prov forest cd description: Clayoquot | document type: OIC | deletion year: 1951 | deletion number: 1339 | map block id: 0 | effective date: 1951-06-08 00:00:00 | comments: DL 805, Clayoquot District | feature code: FM90300100 | who updated: INCOSADA | when updated: 2002-02-26 00:00:00 | feature class skey: 144 | object version skey: 413
+Feature 8 from 'pub:WHSE_ADMIN_BOUNDARIES.FADM_PROV_FOREST_DELETION', located at approximately 48.9332°N, -125.5190°W. feature id: 9357 | prov forest cd: 4 | prov forest cd description: Clayoquot | document type: OIC | deletion year: 1964 | deletion number: 741 | map block id: 0 | effective date: 1964-03-20 00:00:00 | comments: Parcel A, Lot A, DL 340, Clayoquot District, Plan 3606 | feature code: FM90300100 | who updated: INCOSADA | when updated: 2002-02-26 00:00:00 | feature class skey: 144 | object version skey: 412
+Feature 9 from 'pub:WHSE_ADMIN_BOUNDARIES.FADM_PROV_FOREST_DELETION', located at approximately 48.9432°N, -125.4512°W. feature id: 9359 | prov forest cd: 4 | prov forest cd description: Clayoquot | document type: OIC | deletion year: 1954 | deletion number: 3074 | map block id: 0 | effective date: NaT | comments: That part of Section 54, Clayoquot District, consisting of a strip of land 1 chain in width from the high-water mark | feature code: FM90300100 | who updated: INCOSADA | when updated: 2002-02-26 00:00:00 | feature class skey: 144 | object version skey: 414
+Feature 10 from 'pub:WHSE_ADMIN_BOUNDARIES.FADM_PROV_FOREST_DELETION', located at approximately 48.9527°N, -125.4532°W. feature id: 4161 | prov forest cd: 4 | prov forest cd description: Clayoquot | document type: MO | deletion year: 2014 | deletion number: 11 | map block id: 0 | effective date: 2014-01-31 00:00:00 | comments: DL 2240, Clayoquot District | feature code: FM90300100 | who updated: MSPENCER | when updated: 2014-09-25 00:00:00 | feature class skey: 144 | object version skey: 19848
+Feature 11 from 'pub:WHSE_ADMIN_BOUNDARIES.FADM_PROV_FOREST_DELETION', located at approximately 48.9606°N, -125.4974°W. feature id: 1101 | prov forest cd: 4 | prov forest cd description: Clayoquot | document type: MO | deletion year: 2006 | deletion number: 9 | map block id: 0 | effective date: 2006-02-13 00:00:00 | comments: DLs 2174, 2175 & 7176, Clayoquot District | feature code: FM90300100 | who updated: MSPENCER | when updated: 2010-04-19 00:00:00 | feature class skey: 144 | object version skey: 8009
+Feature 12 from 'pub:WHSE_ADMIN_BOUNDARIES.FADM_PROV_FOREST_DELETION', located at approximately 48.9703°N, -125.4999°W. feature id: 4941 | prov forest cd: 4 | prov forest cd description: Clayoquot | document type: MO | deletion year: 2011 | deletion number: 10 | map block id: 0 | effective date: 2014-01-01 00:00:00 | comments: MaaNulth Treaty Lands Deleted via Section 5(7) | feature code: FM90300100 | who updated: MSPENCER | when updated: 2017-03-09 00:00:00 | feature class skey: 144 | object version skey: 0
+
+=== ECOLOGICAL RELEVANCE ===
+Vegetation and forest cover data indicates tree species composition. Chanterelles form mycorrhizal associations primarily with conifers — especially Douglas-fir, Sitka spruce, western hemlock, and western red cedar, all common in the Ucluelet region.

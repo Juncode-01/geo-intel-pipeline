@@ -1,0 +1,54 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_IMAGERY_AND_BASE_MAPS.MOT_ROAD_FEATURES_INVNTRY_SP
+Dataset ID:     pub:WHSE_IMAGERY_AND_BASE_MAPS.MOT_ROAD_FEATURES_INVNTRY_SP
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  18
+Geometry Types: LineString
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.598387 S=48.941606 E=-125.527312 N=49.0
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  road feature invntry id: numeric | range 6694.00 to 7681.00 | mean 6894.61
+  chris rfi highway id: numeric | range 1400462.00 to 1401473.00 | mean 1400673.94
+  rfi highway name: text | 18 unique values | sample: 02-C-U-00004, 02-C-U-00018, 02-C-U-00126, 02-C-U-00263, 02-C-U-00610...
+  rfi highway description: text | 18 unique values | sample: Albion Crescent, Canadian Fish Road, Grant Avenue, Hilltop Road, Karn Avenue...
+  rfi highway direction: categorical | values: Eastbound, Northbound, Southbound, Westbound
+  rfi highway length: numeric | range 0.05 to 48.26 | mean 3.79
+  service area: categorical | values: 02
+  area manager area: categorical | values: C
+  sub area: categorical | values: U
+  rfi highway type: categorical | values: Road
+  rfi highway number: text | 18 unique values | sample: 0004, 0018, 0126, 0263, 0610...
+  highway number: categorical | values: H4
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 18
+  LineString: 18 features
+Approximate centre: 48.9680°N, -125.5698°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 18 features:
+
+Feature 0 from 'pub:WHSE_IMAGERY_AND_BASE_MAPS.MOT_ROAD_FEATURES_INVNTRY_SP', located at approximately 48.9465°N, -125.5407°W. road feature invntry id: 6908 | chris rfi highway id: 1400690 | rfi highway name: 02-C-U-02874 | rfi highway description: Lyche Island Road | rfi highway direction: Northbound | rfi highway length: 0.077 | service area: 02 | area manager area: C | sub area: U | rfi highway type: Road | rfi highway number: 2874
+Feature 1 from 'pub:WHSE_IMAGERY_AND_BASE_MAPS.MOT_ROAD_FEATURES_INVNTRY_SP', located at approximately 48.9462°N, -125.5290°W. road feature invntry id: 6864 | chris rfi highway id: 1400644 | rfi highway name: 02-C-U-00720 | rfi highway description: Smithdale Road | rfi highway direction: Northbound | rfi highway length: 0.42 | service area: 02 | area manager area: C | sub area: U | rfi highway type: Road | rfi highway number: 0720
+Feature 2 from 'pub:WHSE_IMAGERY_AND_BASE_MAPS.MOT_ROAD_FEATURES_INVNTRY_SP', located at approximately 48.9477°N, -125.5332°W. road feature invntry id: 6954 | chris rfi highway id: 1400736 | rfi highway name: 02-C-U-03493 | rfi highway description: Sutton Road | rfi highway direction: Eastbound | rfi highway length: 0.68 | service area: 02 | area manager area: C | sub area: U | rfi highway type: Road | rfi highway number: 3493
+Feature 3 from 'pub:WHSE_IMAGERY_AND_BASE_MAPS.MOT_ROAD_FEATURES_INVNTRY_SP', located at approximately 48.9506°N, -125.5430°W. road feature invntry id: 6865 | chris rfi highway id: 1400645 | rfi highway name: 02-C-U-00721 | rfi highway description: Canadian Fish Road | rfi highway direction: Eastbound | rfi highway length: 0.175 | service area: 02 | area manager area: C | sub area: U | rfi highway type: Road | rfi highway number: 0721
+Feature 4 from 'pub:WHSE_IMAGERY_AND_BASE_MAPS.MOT_ROAD_FEATURES_INVNTRY_SP', located at approximately 48.9679°N, -125.5549°W. road feature invntry id: 6877 | chris rfi highway id: 1400659 | rfi highway name: 02-C-U-01067 | rfi highway description: Port Albion Road | rfi highway direction: Southbound | rfi highway length: 7.024 | service area: 02 | area manager area: C | sub area: U | rfi highway type: Road | rfi highway number: 1067
+Feature 5 from 'pub:WHSE_IMAGERY_AND_BASE_MAPS.MOT_ROAD_FEATURES_INVNTRY_SP', located at approximately 48.9598°N, -125.5764°W. road feature invntry id: 6694 | chris rfi highway id: 1400462 | rfi highway name: 02-C-U-00018 | rfi highway description: Tofino-Ucluelet Highway | rfi highway direction: Northbound | rfi highway length: 8.043 | service area: 02 | area manager area: C | sub area: U | rfi highway type: Road | rfi highway number: 0018
+Feature 6 from 'pub:WHSE_IMAGERY_AND_BASE_MAPS.MOT_ROAD_FEATURES_INVNTRY_SP', located at approximately 48.9696°N, -125.5876°W. road feature invntry id: 6819 | chris rfi highway id: 1400596 | rfi highway name: 02-C-U-00610 | rfi highway description: Grant Avenue | rfi highway direction: Northbound | rfi highway length: 0.052 | service area: 02 | area manager area: C | sub area: U | rfi highway type: Road | rfi highway number: 0610
+Feature 7 from 'pub:WHSE_IMAGERY_AND_BASE_MAPS.MOT_ROAD_FEATURES_INVNTRY_SP', located at approximately 48.9781°N, -125.5861°W. road feature invntry id: 6881 | chris rfi highway id: 1400663 | rfi highway name: 02-C-U-01188 | rfi highway description: Wright Road | rfi highway direction: Southbound | rfi highway length: 0.3 | service area: 02 | area manager area: C | sub area: U | rfi highway type: Road | rfi highway number: 1188
+Feature 8 from 'pub:WHSE_IMAGERY_AND_BASE_MAPS.MOT_ROAD_FEATURES_INVNTRY_SP', located at approximately 48.9793°N, -125.5788°W. road feature invntry id: 6727 | chris rfi highway id: 1400497 | rfi highway name: 02-C-U-00126 | rfi highway description: Thornton Road | rfi highway direction: Eastbound | rfi highway length: 0.427 | service area: 02 | area manager area: C | sub area: U | rfi highway type: Road | rfi highway number: 0126
+Feature 9 from 'pub:WHSE_IMAGERY_AND_BASE_MAPS.MOT_ROAD_FEATURES_INVNTRY_SP', located at approximately 48.9674°N, -125.5910°W. road feature invntry id: 6838 | chris rfi highway id: 1400616 | rfi highway name: 02-C-U-00661 | rfi highway description: Karn Avenue | rfi highway direction: Northbound | rfi highway length: 0.098 | service area: 02 | area manager area: C | sub area: U | rfi highway type: Road | rfi highway number: 0661
+Feature 10 from 'pub:WHSE_IMAGERY_AND_BASE_MAPS.MOT_ROAD_FEATURES_INVNTRY_SP', located at approximately 48.9688°N, -125.5889°W. road feature invntry id: 6837 | chris rfi highway id: 1400615 | rfi highway name: 02-C-U-00660 | rfi highway description: Albion Crescent | rfi highway direction: Eastbound | rfi highway length: 0.588 | service area: 02 | area manager area: C | sub area: U | rfi highway type: Road | rfi highway number: 0660
+Feature 11 from 'pub:WHSE_IMAGERY_AND_BASE_MAPS.MOT_ROAD_FEATURES_INVNTRY_SP', located at approximately 48.9691°N, -125.5903°W. road feature invntry id: 6856 | chris rfi highway id: 1400635 | rfi highway name: 02-C-U-00704 | rfi highway description: Lee Street | rfi highway direction: Westbound | rfi highway length: 0.26 | service area: 02 | area manager area: C | sub area: U | rfi highway type: Road | rfi highway number: 0704
+Feature 12 from 'pub:WHSE_IMAGERY_AND_BASE_MAPS.MOT_ROAD_FEATURES_INVNTRY_SP', located at approximately 48.9701°N, -125.5895°W. road feature invntry id: 6840 | chris rfi highway id: 1400619 | rfi highway name: 02-C-U-00664 | rfi highway description: Mavis Avenue | rfi highway direction: Northbound | rfi highway length: 0.211 | service area: 02 | area manager area: C | sub area: U | rfi highway type: Road | rfi highway number: 0664
+Feature 13 from 'pub:WHSE_IMAGERY_AND_BASE_MAPS.MOT_ROAD_FEATURES_INVNTRY_SP', located at approximately 48.9703°N, -125.5900°W. road feature invntry id: 6884 | chris rfi highway id: 1400666 | rfi highway name: 02-C-U-02613 | rfi highway description: Hilltop Road | rfi highway direction: Eastbound | rfi highway length: 0.082 | service area: 02 | area manager area: C | sub area: U | rfi highway type: Road | rfi highway number: 2613
+Feature 14 from 'pub:WHSE_IMAGERY_AND_BASE_MAPS.MOT_ROAD_FEATURES_INVNTRY_SP', located at approximately 48.9730°N, -125.5878°W. road feature invntry id: 6765 | chris rfi highway id: 1400541 | rfi highway name: 02-C-U-00263 | rfi highway description: Willowbrae Road | rfi highway direction: Eastbound | rfi highway length: 0.917 | service area: 02 | area manager area: C | sub area: U | rfi highway type: Road | rfi highway number: 0263
+Feature 15 from 'pub:WHSE_IMAGERY_AND_BASE_MAPS.MOT_ROAD_FEATURES_INVNTRY_SP', located at approximately 48.9898°N, -125.5892°W. road feature invntry id: 6959 | chris rfi highway id: 1400741 | rfi highway name: 02-C-U-03513 | rfi highway description: Pit Road #1 | rfi highway direction: Eastbound | rfi highway length: 0.3 | service area: 02 | area manager area: C | sub area: U | rfi highway type: Road | rfi highway number: 3513
+Feature 16 from 'pub:WHSE_IMAGERY_AND_BASE_MAPS.MOT_ROAD_FEATURES_INVNTRY_SP', located at approximately 48.9943°N, -125.5955°W. road feature invntry id: 6854 | chris rfi highway id: 1400633 | rfi highway name: 02-C-U-00689 | rfi highway description: Pit Road #2 | rfi highway direction: Northbound | rfi highway length: 0.377 | service area: 02 | area manager area: C | sub area: U | rfi highway type: Road | rfi highway number: 0689
+Feature 17 from 'pub:WHSE_IMAGERY_AND_BASE_MAPS.MOT_ROAD_FEATURES_INVNTRY_SP', located at approximately 48.9954°N, -125.5877°W. road feature invntry id: 7681 | chris rfi highway id: 1401473 | rfi highway name: 02-C-U-00004 | rfi highway description: Rte 4 EB - Pacific Rim Highway | rfi highway direction: Eastbound | rfi highway length: 48.26 | service area: 02 | area manager area: C | sub area: U | rfi highway type: Road | rfi highway number: 0004 | highway number: H4
+
+=== ECOLOGICAL RELEVANCE ===
+This dataset may provide supporting spatial context for habitat analysis in the Ucluelet region.

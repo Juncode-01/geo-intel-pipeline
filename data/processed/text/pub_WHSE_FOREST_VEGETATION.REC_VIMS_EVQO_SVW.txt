@@ -1,0 +1,47 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_FOREST_VEGETATION.REC_VIMS_EVQO_SVW
+Dataset ID:     pub:WHSE_FOREST_VEGETATION.REC_VIMS_EVQO_SVW
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  17
+Geometry Types: Polygon
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.518937 S=48.922485 E=-125.4 N=49.0
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  rec evqo code: categorical | values: M, PR, R
+  scenic area ind: categorical | values: Y
+  vli polygon no: numeric | range 231.00 to 4158.00 | mean 2482.82
+  update userid: categorical | values: BCTS, Weyer
+  update date: categorical | values: 2000-08-15, 2012-01-01, 2012-03-09
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 17
+  Polygon: 17 features
+Area distribution (hectares): min=0.0 median=8.8 max=447.7
+Approximate centre: 48.9728°N, -125.4604°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 17 features:
+
+Feature 0 from 'pub:WHSE_FOREST_VEGETATION.REC_VIMS_EVQO_SVW', located at approximately 48.9260°N, -125.5125°W. rec evqo code: R | scenic area ind: Y | vli polygon no: 1755 | update userid: Weyer | update date: 2000-08-15 00:00:00
+Feature 1 from 'pub:WHSE_FOREST_VEGETATION.REC_VIMS_EVQO_SVW', located at approximately 48.9351°N, -125.4651°W. rec evqo code: PR | scenic area ind: Y | vli polygon no: 1754 | update userid: Weyer | update date: 2000-08-15 00:00:00
+Feature 2 from 'pub:WHSE_FOREST_VEGETATION.REC_VIMS_EVQO_SVW', located at approximately 48.9539°N, -125.4905°W. rec evqo code: PR | scenic area ind: Y | vli polygon no: 1745 | update userid: Weyer | update date: 2000-08-15 00:00:00
+Feature 3 from 'pub:WHSE_FOREST_VEGETATION.REC_VIMS_EVQO_SVW', located at approximately 48.9628°N, -125.4933°W. rec evqo code: PR | scenic area ind: Y | vli polygon no: 3911 | update userid: Weyer | update date: 2012-03-09 00:00:00
+Feature 4 from 'pub:WHSE_FOREST_VEGETATION.REC_VIMS_EVQO_SVW', located at approximately 48.9676°N, -125.4664°W. rec evqo code: PR | scenic area ind: Y | vli polygon no: 1738 | update userid: Weyer | update date: 2000-08-15 00:00:00
+Feature 5 from 'pub:WHSE_FOREST_VEGETATION.REC_VIMS_EVQO_SVW', located at approximately 48.9703°N, -125.4742°W. rec evqo code: PR | scenic area ind: Y | vli polygon no: 4152 | update userid: Weyer | update date: 2012-03-09 00:00:00
+Feature 6 from 'pub:WHSE_FOREST_VEGETATION.REC_VIMS_EVQO_SVW', located at approximately 48.9747°N, -125.4675°W. rec evqo code: PR | scenic area ind: Y | vli polygon no: 4153 | update userid: Weyer | update date: 2012-03-09 00:00:00
+Feature 7 from 'pub:WHSE_FOREST_VEGETATION.REC_VIMS_EVQO_SVW', located at approximately 48.9776°N, -125.4664°W. rec evqo code: PR | scenic area ind: Y | vli polygon no: 4154 | update userid: Weyer | update date: 2012-03-09 00:00:00
+Feature 8 from 'pub:WHSE_FOREST_VEGETATION.REC_VIMS_EVQO_SVW', located at approximately 48.9839°N, -125.5055°W. rec evqo code: PR | scenic area ind: Y | vli polygon no: 3909 | update userid: Weyer | update date: 2012-03-09 00:00:00
+Feature 9 from 'pub:WHSE_FOREST_VEGETATION.REC_VIMS_EVQO_SVW', located at approximately 48.9858°N, -125.5118°W. rec evqo code: PR | scenic area ind: Y | vli polygon no: 3955 | update userid: Weyer | update date: 2012-03-09 00:00:00
+Feature 10 from 'pub:WHSE_FOREST_VEGETATION.REC_VIMS_EVQO_SVW', located at approximately 48.9426°N, -125.4597°W. rec evqo code: PR | scenic area ind: Y | vli polygon no: 4158 | update userid: Weyer | update date: 2012-03-09 00:00:00
+Feature 11 from 'pub:WHSE_FOREST_VEGETATION.REC_VIMS_EVQO_SVW', located at approximately 48.9543°N, -125.4396°W. rec evqo code: PR | scenic area ind: Y | vli polygon no: 1748 | update userid: Weyer | update date: 2000-08-15 00:00:00
+Feature 12 from 'pub:WHSE_FOREST_VEGETATION.REC_VIMS_EVQO_SVW', located at approximately 48.9688°N, -125.4148°W. rec evqo code: PR | scenic area ind: Y | vli polygon no: 277 | update userid: Weyer | update date: 2000-08-15 00:00:00
+Feature 13 from 'pub:WHSE_FOREST_VEGETATION.REC_VIMS_EVQO_SVW', located at approximately 48.9871°N, -125.4439°W. rec evqo code: PR | scenic area ind: Y | vli polygon no: 262 | update userid: Weyer | update date: 2000-08-15 00:00:00
+Feature 14 from 'pub:WHSE_FOREST_VEGETATION.REC_VIMS_EVQO_SVW', located at approximately 49.0000°N, -125.4373°W. rec evqo code: PR | scenic area ind: Y | vli polygon no: 231 | update userid: BCTS | update date: 2012-01-01 00:00:00
+Feature 15 from 'pub:WHSE_FOREST_VEGETATION.REC_VIMS_EVQO_SVW', located at approximately 48.9999°N, -125.4149°W. rec evqo code: PR | scenic area ind: Y | vli polygon no: 4043 | update userid: Weyer | update date: 2012-03-09 00:00:00
+Feature 16 from 'pub:WHSE_FOREST_VEGETATION.REC_VIMS_EVQO_SVW', located at approximately 49.0000°N, -125.4685°W. rec evqo code: M | scenic area ind: Y | vli polygon no: 263 | update userid: BCTS | update date: 2012-01-01 00:00:00
+
+=== ECOLOGICAL RELEVANCE ===
+Vegetation and forest cover data indicates tree species composition. Chanterelles form mycorrhizal associations primarily with conifers — especially Douglas-fir, Sitka spruce, western hemlock, and western red cedar, all common in the Ucluelet region.

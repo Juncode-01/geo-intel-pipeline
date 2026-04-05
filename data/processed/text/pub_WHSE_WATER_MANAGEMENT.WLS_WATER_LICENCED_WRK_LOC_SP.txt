@@ -1,0 +1,47 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_WATER_MANAGEMENT.WLS_WATER_LICENCED_WRK_LOC_SP
+Dataset ID:     pub:WHSE_WATER_MANAGEMENT.WLS_WATER_LICENCED_WRK_LOC_SP
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  20
+Geometry Types: Point
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.590969 S=48.928923 E=-125.513955 N=48.979676
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  water licenced work loc id: numeric | range 239542649.00 to 239547881.00 | mean 239543509.90
+  feature code: categorical | values: BN09300000, BR03300000, EA22350130, EA30400000
+  works id: text | 16 unique values | sample: 01AP461, 01AP462, 01AP463, 01AP464, 01AP476...
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 20
+  Point: 20 features
+Approximate centre: 48.9460°N, -125.5408°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 20 features:
+
+Feature 0 from 'pub:WHSE_WATER_MANAGEMENT.WLS_WATER_LICENCED_WRK_LOC_SP', located at approximately 48.9289°N, -125.5149°W. water licenced work loc id: 239542671 | feature code: BN09300000 | works id: 01AP487
+Feature 1 from 'pub:WHSE_WATER_MANAGEMENT.WLS_WATER_LICENCED_WRK_LOC_SP', located at approximately 48.9292°N, -125.5146°W. water licenced work loc id: 239542670 | feature code: BN09300000 | works id: 01AP486
+Feature 2 from 'pub:WHSE_WATER_MANAGEMENT.WLS_WATER_LICENCED_WRK_LOC_SP', located at approximately 48.9295°N, -125.5143°W. water licenced work loc id: 239542669 | feature code: BN09300000 | works id: 01AP485
+Feature 3 from 'pub:WHSE_WATER_MANAGEMENT.WLS_WATER_LICENCED_WRK_LOC_SP', located at approximately 48.9298°N, -125.5142°W. water licenced work loc id: 239542668 | feature code: BN09300000 | works id: 01AP484
+Feature 4 from 'pub:WHSE_WATER_MANAGEMENT.WLS_WATER_LICENCED_WRK_LOC_SP', located at approximately 48.9301°N, -125.5141°W. water licenced work loc id: 239542667 | feature code: BN09300000 | works id: 01AP483
+Feature 5 from 'pub:WHSE_WATER_MANAGEMENT.WLS_WATER_LICENCED_WRK_LOC_SP', located at approximately 48.9304°N, -125.5140°W. water licenced work loc id: 239542666 | feature code: BN09300000 | works id: 01AP482
+Feature 6 from 'pub:WHSE_WATER_MANAGEMENT.WLS_WATER_LICENCED_WRK_LOC_SP', located at approximately 48.9308°N, -125.5140°W. water licenced work loc id: 239542665 | feature code: BN09300000 | works id: 01AP481
+Feature 7 from 'pub:WHSE_WATER_MANAGEMENT.WLS_WATER_LICENCED_WRK_LOC_SP', located at approximately 48.9382°N, -125.5291°W. water licenced work loc id: 239542663 | feature code: EA22350130 | works id: 01AP479
+Feature 8 from 'pub:WHSE_WATER_MANAGEMENT.WLS_WATER_LICENCED_WRK_LOC_SP', located at approximately 48.9481°N, -125.5351°W. water licenced work loc id: 239546565 | feature code: BN09300000
+Feature 9 from 'pub:WHSE_WATER_MANAGEMENT.WLS_WATER_LICENCED_WRK_LOC_SP', located at approximately 48.9484°N, -125.5360°W. water licenced work loc id: 239546564 | feature code: BN09300000
+Feature 10 from 'pub:WHSE_WATER_MANAGEMENT.WLS_WATER_LICENCED_WRK_LOC_SP', located at approximately 48.9375°N, -125.5469°W. water licenced work loc id: 239542664 | feature code: EA30400000 | works id: 01AP480
+Feature 11 from 'pub:WHSE_WATER_MANAGEMENT.WLS_WATER_LICENCED_WRK_LOC_SP', located at approximately 48.9434°N, -125.5587°W. water licenced work loc id: 239542662 | feature code: EA30400000 | works id: 01AP477
+Feature 12 from 'pub:WHSE_WATER_MANAGEMENT.WLS_WATER_LICENCED_WRK_LOC_SP', located at approximately 48.9467°N, -125.5378°W. water licenced work loc id: 239542661 | feature code: BN09300000 | works id: 01AP476
+Feature 13 from 'pub:WHSE_WATER_MANAGEMENT.WLS_WATER_LICENCED_WRK_LOC_SP', located at approximately 48.9497°N, -125.5360°W. water licenced work loc id: 239546563 | feature code: EA22350130
+Feature 14 from 'pub:WHSE_WATER_MANAGEMENT.WLS_WATER_LICENCED_WRK_LOC_SP', located at approximately 48.9503°N, -125.5443°W. water licenced work loc id: 239542697 | feature code: BR03300000 | works id: 01AP529
+Feature 15 from 'pub:WHSE_WATER_MANAGEMENT.WLS_WATER_LICENCED_WRK_LOC_SP', located at approximately 48.9542°N, -125.5864°W. water licenced work loc id: 239547881 | feature code: EA22350130
+Feature 16 from 'pub:WHSE_WATER_MANAGEMENT.WLS_WATER_LICENCED_WRK_LOC_SP', located at approximately 48.9670°N, -125.5616°W. water licenced work loc id: 239542652 | feature code: BN09300000 | works id: 01AP464
+Feature 17 from 'pub:WHSE_WATER_MANAGEMENT.WLS_WATER_LICENCED_WRK_LOC_SP', located at approximately 48.9698°N, -125.5910°W. water licenced work loc id: 239542651 | feature code: BN09300000 | works id: 01AP463
+Feature 18 from 'pub:WHSE_WATER_MANAGEMENT.WLS_WATER_LICENCED_WRK_LOC_SP', located at approximately 48.9778°N, -125.5734°W. water licenced work loc id: 239542650 | feature code: BN09300000 | works id: 01AP462
+Feature 19 from 'pub:WHSE_WATER_MANAGEMENT.WLS_WATER_LICENCED_WRK_LOC_SP', located at approximately 48.9797°N, -125.5792°W. water licenced work loc id: 239542649 | feature code: BN09300000 | works id: 01AP461
+
+=== ECOLOGICAL RELEVANCE ===
+Hydrological data indicates soil moisture patterns and drainage regimes. Chanterelles favour areas with consistent subsurface moisture but not waterlogged conditions — typically mid-slope positions near but not in riparian zones.

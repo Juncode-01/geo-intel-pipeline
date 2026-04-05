@@ -1,0 +1,61 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_FISH.WDIC_WATERBODY_POLY_SVW
+Dataset ID:     pub:WHSE_FISH.WDIC_WATERBODY_POLY_SVW
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  27
+Geometry Types: Polygon
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.621756 S=48.92637 E=-125.410815 N=49.0
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  waterbody poly id: numeric | range 345253.00 to 345472.00 | mean 345371.59
+  wbody id: numeric | range 318944.00 to 1314937.00 | mean 942269.36
+  wdic spftp code: categorical | values: L, M, W
+  type: categorical | values: L, W
+  description: categorical | values: Lake, Land, Wetland
+  new watershed code: categorical | values: 930-233800-00000-00000-0000-0000-000-000-000-000-000-000, 930-239300-00000-00000-0000-0000-000-000-000-000-000-000, 930-242800-00000-00000-0000-0000-000-000-000-000-000-000, 930-244500-00000-00000-0000-0000-000-000-000-000-000-000, 930-259955-00000-00000-0000-0000-000-000-000-000-000-000, 930-260600-32500-00000-0000-0000-000-000-000-000-000-000, 930-260600-43275-00000-0000-0000-000-000-000-000-000-000, 999-999999-99999-99999-9999-9999-999-999-999-999-999-999
+  trimmed watershed code: categorical | values: 930-233800, 930-239300, 930-242800, 930-244500, 930-259955, 930-260600-32500, 930-260600-43275, 999-999999-99999-99999-9999-9999-999-999-999-999-999-999
+  waterbody identifier: text | 25 unique values | sample: 01778ALBN, 01835ALBN, 01842ALBN, 01851ALBN, 01854ALBN...
+  gazetted name: categorical | values: ITATSOO LAKE, MAGGIE LAKE, MERCER LAKE
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 27
+  Polygon: 27 features
+Area distribution (hectares): min=0.0 median=0.7 max=62.0
+Approximate centre: 48.9841°N, -125.4770°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 27 features:
+
+Feature 0 from 'pub:WHSE_FISH.WDIC_WATERBODY_POLY_SVW', located at approximately 48.9281°N, -125.5099°W. waterbody poly id: 345472 | wbody id: 932963.0 | wdic spftp code: W | type: W | description: Wetland | new watershed code: 930-239300-00000-00000-0000-0000-000-000-000-000-000-000 | trimmed watershed code: 930-239300 | waterbody identifier: 01925ALBN
+Feature 1 from 'pub:WHSE_FISH.WDIC_WATERBODY_POLY_SVW', located at approximately 48.9443°N, -125.5241°W. waterbody poly id: 345448 | wbody id: 318983.0 | wdic spftp code: L | type: L | description: Lake | new watershed code: 930-239300-00000-00000-0000-0000-000-000-000-000-000-000 | trimmed watershed code: 930-239300 | waterbody identifier: 01919ALBN | gazetted name: ITATSOO LAKE
+Feature 2 from 'pub:WHSE_FISH.WDIC_WATERBODY_POLY_SVW', located at approximately 48.9450°N, -125.5250°W. waterbody poly id: 345451 | wdic spftp code: M | description: Land
+Feature 3 from 'pub:WHSE_FISH.WDIC_WATERBODY_POLY_SVW', located at approximately 48.9530°N, -125.5275°W. waterbody poly id: 345437 | wbody id: 318988.0 | wdic spftp code: L | type: L | description: Lake | new watershed code: 930-242800-00000-00000-0000-0000-000-000-000-000-000-000 | trimmed watershed code: 930-242800 | waterbody identifier: 01911ALBN
+Feature 4 from 'pub:WHSE_FISH.WDIC_WATERBODY_POLY_SVW', located at approximately 48.9557°N, -125.5302°W. waterbody poly id: 345429 | wbody id: 318987.0 | wdic spftp code: L | type: L | description: Lake | new watershed code: 930-242800-00000-00000-0000-0000-000-000-000-000-000-000 | trimmed watershed code: 930-242800 | waterbody identifier: 01907ALBN | gazetted name: MERCER LAKE
+Feature 5 from 'pub:WHSE_FISH.WDIC_WATERBODY_POLY_SVW', located at approximately 48.9837°N, -125.5430°W. waterbody poly id: 345380 | wbody id: 647929.0 | wdic spftp code: L | type: L | description: Lake | new watershed code: 930-244500-00000-00000-0000-0000-000-000-000-000-000-000 | trimmed watershed code: 930-244500 | waterbody identifier: 01887ALBN
+Feature 6 from 'pub:WHSE_FISH.WDIC_WATERBODY_POLY_SVW', located at approximately 48.9913°N, -125.5797°W. waterbody poly id: 345360 | wbody id: 1202659.0 | wdic spftp code: L | type: L | description: Lake | new watershed code: 999-999999-99999-99999-9999-9999-999-999-999-999-999-999 | trimmed watershed code: 999-999999-99999-99999-9999-9999-999-999-999-999-999-999 | waterbody identifier: 01880ALBN
+Feature 7 from 'pub:WHSE_FISH.WDIC_WATERBODY_POLY_SVW', located at approximately 48.9937°N, -125.5832°W. waterbody poly id: 345355 | wbody id: 1202651.0 | wdic spftp code: L | type: L | description: Lake | new watershed code: 999-999999-99999-99999-9999-9999-999-999-999-999-999-999 | trimmed watershed code: 999-999999-99999-99999-9999-9999-999-999-999-999-999-999 | waterbody identifier: 01869ALBN
+Feature 8 from 'pub:WHSE_FISH.WDIC_WATERBODY_POLY_SVW', located at approximately 48.9956°N, -125.5829°W. waterbody poly id: 345354 | wbody id: 1202649.0 | wdic spftp code: L | type: L | description: Lake | new watershed code: 999-999999-99999-99999-9999-9999-999-999-999-999-999-999 | trimmed watershed code: 999-999999-99999-99999-9999-9999-999-999-999-999-999-999 | waterbody identifier: 01866ALBN
+Feature 9 from 'pub:WHSE_FISH.WDIC_WATERBODY_POLY_SVW', located at approximately 48.9686°N, -125.6014°W. waterbody poly id: 345414 | wbody id: 1202666.0 | wdic spftp code: L | type: L | description: Lake | new watershed code: 999-999999-99999-99999-9999-9999-999-999-999-999-999-999 | trimmed watershed code: 999-999999-99999-99999-9999-9999-999-999-999-999-999-999 | waterbody identifier: 01893ALBN
+Feature 10 from 'pub:WHSE_FISH.WDIC_WATERBODY_POLY_SVW', located at approximately 48.9866°N, -125.5919°W. waterbody poly id: 345378 | wbody id: 1202663.0 | wdic spftp code: L | type: L | description: Lake | new watershed code: 999-999999-99999-99999-9999-9999-999-999-999-999-999-999 | trimmed watershed code: 999-999999-99999-99999-9999-9999-999-999-999-999-999-999 | waterbody identifier: 01884ALBN
+Feature 11 from 'pub:WHSE_FISH.WDIC_WATERBODY_POLY_SVW', located at approximately 48.9879°N, -125.5893°W. waterbody poly id: 345376 | wbody id: 1202662.0 | wdic spftp code: L | type: L | description: Lake | new watershed code: 999-999999-99999-99999-9999-9999-999-999-999-999-999-999 | trimmed watershed code: 999-999999-99999-99999-9999-9999-999-999-999-999-999-999 | waterbody identifier: 01883ALBN
+Feature 12 from 'pub:WHSE_FISH.WDIC_WATERBODY_POLY_SVW', located at approximately 48.9907°N, -125.5842°W. waterbody poly id: 345361 | wbody id: 1202661.0 | wdic spftp code: L | type: L | description: Lake | new watershed code: 999-999999-99999-99999-9999-9999-999-999-999-999-999-999 | trimmed watershed code: 999-999999-99999-99999-9999-9999-999-999-999-999-999-999 | waterbody identifier: 01882ALBN
+Feature 13 from 'pub:WHSE_FISH.WDIC_WATERBODY_POLY_SVW', located at approximately 48.9912°N, -125.5890°W. waterbody poly id: 345364 | wbody id: 1202660.0 | wdic spftp code: L | type: L | description: Lake | new watershed code: 999-999999-99999-99999-9999-9999-999-999-999-999-999-999 | trimmed watershed code: 999-999999-99999-99999-9999-9999-999-999-999-999-999-999 | waterbody identifier: 01881ALBN
+Feature 14 from 'pub:WHSE_FISH.WDIC_WATERBODY_POLY_SVW', located at approximately 48.9916°N, -125.5851°W. waterbody poly id: 345359 | wbody id: 1202658.0 | wdic spftp code: L | type: L | description: Lake | new watershed code: 999-999999-99999-99999-9999-9999-999-999-999-999-999-999 | trimmed watershed code: 999-999999-99999-99999-9999-9999-999-999-999-999-999-999 | waterbody identifier: 01879ALBN
+Feature 15 from 'pub:WHSE_FISH.WDIC_WATERBODY_POLY_SVW', located at approximately 48.9928°N, -125.5853°W. waterbody poly id: 345356 | wbody id: 1202654.0 | wdic spftp code: L | type: L | description: Lake | new watershed code: 999-999999-99999-99999-9999-9999-999-999-999-999-999-999 | trimmed watershed code: 999-999999-99999-99999-9999-9999-999-999-999-999-999-999 | waterbody identifier: 01873ALBN
+Feature 16 from 'pub:WHSE_FISH.WDIC_WATERBODY_POLY_SVW', located at approximately 48.9931°N, -125.5957°W. waterbody poly id: 345357 | wbody id: 1202653.0 | wdic spftp code: L | type: L | description: Lake | new watershed code: 999-999999-99999-99999-9999-9999-999-999-999-999-999-999 | trimmed watershed code: 999-999999-99999-99999-9999-9999-999-999-999-999-999-999 | waterbody identifier: 01872ALBN
+Feature 17 from 'pub:WHSE_FISH.WDIC_WATERBODY_POLY_SVW', located at approximately 48.9956°N, -125.6197°W. waterbody poly id: 345353 | wbody id: 932964.0 | wdic spftp code: W | type: W | description: Wetland | new watershed code: 930-259955-00000-00000-0000-0000-000-000-000-000-000-000 | trimmed watershed code: 930-259955 | waterbody identifier: 01854ALBN
+Feature 18 from 'pub:WHSE_FISH.WDIC_WATERBODY_POLY_SVW', located at approximately 48.9969°N, -125.5942°W. waterbody poly id: 345352 | wbody id: 1202648.0 | wdic spftp code: L | type: L | description: Lake | new watershed code: 999-999999-99999-99999-9999-9999-999-999-999-999-999-999 | trimmed watershed code: 999-999999-99999-99999-9999-9999-999-999-999-999-999-999 | waterbody identifier: 01862ALBN
+Feature 19 from 'pub:WHSE_FISH.WDIC_WATERBODY_POLY_SVW', located at approximately 48.9972°N, -125.5954°W. waterbody poly id: 345346 | wbody id: 1202642.0 | wdic spftp code: L | type: L | description: Lake | new watershed code: 999-999999-99999-99999-9999-9999-999-999-999-999-999-999 | trimmed watershed code: 999-999999-99999-99999-9999-9999-999-999-999-999-999-999 | waterbody identifier: 01851ALBN
+Feature 20 from 'pub:WHSE_FISH.WDIC_WATERBODY_POLY_SVW', located at approximately 48.9973°N, -125.5942°W. waterbody poly id: 345350 | wbody id: 1202645.0 | wdic spftp code: L | type: L | description: Lake | new watershed code: 999-999999-99999-99999-9999-9999-999-999-999-999-999-999 | trimmed watershed code: 999-999999-99999-99999-9999-9999-999-999-999-999-999-999 | waterbody identifier: 01856ALBN
+Feature 21 from 'pub:WHSE_FISH.WDIC_WATERBODY_POLY_SVW', located at approximately 48.9991°N, -125.6115°W. waterbody poly id: 345345 | wbody id: 1314937.0 | wdic spftp code: W | type: W | description: Wetland | new watershed code: 999-999999-99999-99999-9999-9999-999-999-999-999-999-999 | trimmed watershed code: 999-999999-99999-99999-9999-9999-999-999-999-999-999-999 | waterbody identifier: 01842ALBN
+Feature 22 from 'pub:WHSE_FISH.WDIC_WATERBODY_POLY_SVW', located at approximately 48.9997°N, -125.5951°W. waterbody poly id: 345339 | wbody id: 319007.0 | wdic spftp code: L | type: L | description: Lake | new watershed code: 930-260600-32500-00000-0000-0000-000-000-000-000-000-000 | trimmed watershed code: 930-260600-32500 | waterbody identifier: 01835ALBN
+Feature 23 from 'pub:WHSE_FISH.WDIC_WATERBODY_POLY_SVW', located at approximately 48.9966°N, -125.4250°W. waterbody poly id: 345349 | wdic spftp code: M | description: Land
+Feature 24 from 'pub:WHSE_FISH.WDIC_WATERBODY_POLY_SVW', located at approximately 48.9971°N, -125.5829°W. waterbody poly id: 345348 | wbody id: 647931.0 | wdic spftp code: L | type: L | description: Lake | new watershed code: 930-260600-43275-00000-0000-0000-000-000-000-000-000-000 | trimmed watershed code: 930-260600-43275 | waterbody identifier: 01858ALBN
+Feature 25 from 'pub:WHSE_FISH.WDIC_WATERBODY_POLY_SVW', located at approximately 48.9975°N, -125.5823°W. waterbody poly id: 345347 | wbody id: 647930.0 | wdic spftp code: L | type: L | description: Lake | new watershed code: 930-260600-43275-00000-0000-0000-000-000-000-000-000-000 | trimmed watershed code: 930-260600-43275 | waterbody identifier: 01857ALBN
+Feature 26 from 'pub:WHSE_FISH.WDIC_WATERBODY_POLY_SVW', located at approximately 48.9971°N, -125.4195°W. waterbody poly id: 345253 | wbody id: 318944.0 | wdic spftp code: L | type: L | description: Lake | new watershed code: 930-233800-00000-00000-0000-0000-000-000-000-000-000-000 | trimmed watershed code: 930-233800 | waterbody identifier: 01778ALBN | gazetted name: MAGGIE LAKE
+
+=== ECOLOGICAL RELEVANCE ===
+Hydrological data indicates soil moisture patterns and drainage regimes. Chanterelles favour areas with consistent subsurface moisture but not waterlogged conditions — typically mid-slope positions near but not in riparian zones.

@@ -1,0 +1,39 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_GULLS
+Dataset ID:     pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_GULLS
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  7
+Geometry Types: Polygon
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.9 S=48.8 E=-125.4 N=49.0
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  gull id: numeric | range 5994.00 to 10347.00 | mean 8816.00
+  ri: numeric | range 2.00 to 5.00 | mean 3.86
+  ra spr: numeric | range 0.00 to 0.00 | mean 0.00
+  ra sum: numeric | range 0.00 to 0.00 | mean 0.00
+  ra win: numeric | range 0.00 to 0.00 | mean 0.00
+  ra fal: numeric | range 0.00 to 0.00 | mean 0.00
+  project: categorical | values: WCVI
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 7
+  Polygon: 7 features
+Area distribution (hectares): min=1274.7 median=3868.4 max=37276.5
+Approximate centre: 48.8906°N, -125.6692°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 7 features:
+
+Feature 0 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_GULLS', located at approximately 48.8454°N, -125.6855°W. gull id: 10347 | ri: 5 | ra spr: 0 | ra sum: 0 | ra win: 0 | ra fal: 0 | project: WCVI
+Feature 1 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_GULLS', located at approximately 48.8924°N, -125.7176°W. gull id: 5994 | ri: 3 | ra spr: 0 | ra sum: 0 | ra win: 0 | ra fal: 0 | project: WCVI
+Feature 2 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_GULLS', located at approximately 48.9001°N, -125.4358°W. gull id: 9561 | ri: 3 | ra spr: 0 | ra sum: 0 | ra win: 0 | ra fal: 0 | project: WCVI
+Feature 3 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_GULLS', located at approximately 48.9329°N, -125.5351°W. gull id: 9208 | ri: 5 | ra spr: 0 | ra sum: 0 | ra win: 0 | ra fal: 0 | project: WCVI
+Feature 4 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_GULLS', located at approximately 48.9442°N, -125.4165°W. gull id: 8907 | ri: 4 | ra spr: 0 | ra sum: 0 | ra win: 0 | ra fal: 0 | project: WCVI
+Feature 5 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_GULLS', located at approximately 48.9319°N, -125.6074°W. gull id: 8872 | ri: 2 | ra spr: 0 | ra sum: 0 | ra win: 0 | ra fal: 0 | project: WCVI
+Feature 6 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_GULLS', located at approximately 48.9688°N, -125.6171°W. gull id: 8823 | ri: 5 | ra spr: 0 | ra sum: 0 | ra win: 0 | ra fal: 0 | project: WCVI
+
+=== ECOLOGICAL RELEVANCE ===
+This dataset may provide supporting spatial context for habitat analysis in the Ucluelet region.

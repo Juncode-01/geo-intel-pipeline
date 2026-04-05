@@ -1,0 +1,36 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_WATER_MANAGEMENT.DWS_SOURCE_AREAS_SP
+Dataset ID:     pub:WHSE_WATER_MANAGEMENT.DWS_SOURCE_AREAS_SP
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  1
+Geometry Types: Polygon
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.633941 S=48.979261 E=-125.551631 N=49.0
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  zone type: categorical | values: Aquifer Boundary
+  zone details: categorical | values: Entire aquifer boundary
+  source area id: categorical | values: AQ_0159
+  aquifer material: categorical | values: Sand and Gravel
+  aquifer vulnerability: categorical | values: High
+  subtype: categorical | values: Unconfined sand and gravel - late glacial outwash
+  aquifer url: categorical | values: https://apps.nrs.gov.bc.ca/gwells/aquifers/159
+  date delineated: categorical | values: 2018
+  area sqkm: numeric | range 16.43 to 16.43 | mean 16.43
+  data source: categorical | values: BCGW Ground Water Aquifers dataset
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 1
+  Polygon: 1 features
+Area distribution (hectares): min=785.7 median=785.7 max=785.7
+Approximate centre: 48.9926°N, -125.5940°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 1 features:
+
+Feature 0 from 'pub:WHSE_WATER_MANAGEMENT.DWS_SOURCE_AREAS_SP', located at approximately 48.9926°N, -125.5940°W. zone type: Aquifer Boundary | zone details: Entire aquifer boundary | source area id: AQ_0159 | aquifer material: Sand and Gravel | aquifer vulnerability: High | subtype: Unconfined sand and gravel - late glacial outwash | aquifer url: https://apps.nrs.gov.bc.ca/gwells/aquifers/159 | date delineated: 2018 | area sqkm: 16.434 | data source: BCGW Ground Water Aquifers dataset
+
+=== ECOLOGICAL RELEVANCE ===
+Hydrological data indicates soil moisture patterns and drainage regimes. Chanterelles favour areas with consistent subsurface moisture but not waterlogged conditions — typically mid-slope positions near but not in riparian zones.

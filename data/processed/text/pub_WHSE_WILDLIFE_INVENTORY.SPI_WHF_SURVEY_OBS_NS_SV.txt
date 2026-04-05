@@ -1,0 +1,47 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_WILDLIFE_INVENTORY.SPI_WHF_SURVEY_OBS_NS_SV
+Dataset ID:     pub:WHSE_WILDLIFE_INVENTORY.SPI_WHF_SURVEY_OBS_NS_SV
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  2
+Geometry Types: Point
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.4712 S=48.90705 E=-125.46912 N=48.90719
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  survey observation id: numeric | range 476029.00 to 476030.00 | mean 476029.50
+  species code: categorical | values: B-BAEA
+  species english name: categorical | values: Bald Eagle
+  scientific name: categorical | values: Haliaeetus leucocephalus
+  project name: categorical | values: 2002 - Bald Eagle - BC Coast - Vancouver Island - MOE
+  project web page: categorical | values: http://a100.gov.bc.ca/pub/siwe/details.do?projectId=4198
+  bcsee species code url: categorical | values: http://a100.gov.bc.ca/pub/eswp/search.do?searchType=COMBINED&method=process&esId=18209
+  observed number: numeric | range 1.00 to 1.00 | mean 1.00
+  observation datetime: categorical | values: 2002-04-04
+  observation year: numeric | range 2002.00 to 2002.00 | mean 2002.00
+  observation month: numeric | range 4.00 to 4.00 | mean 4.00
+  observation day: numeric | range 4.00 to 4.00 | mean 4.00
+  utm zone: numeric | range 10.00 to 10.00 | mean 10.00
+  utm easting: numeric | range 318922.00 to 319074.00 | mean 318998.00
+  utm northing: numeric | range 5420062.00 to 5420082.00 | mean 5420072.00
+  latitude: numeric | range 48.91 to 48.91 | mean 48.91
+  longitude: numeric | range -125.47 to -125.47 | mean -125.47
+  data 10: categorical | values: NE
+  study area name: categorical | values: Vancouver Island Coast
+  survey name: categorical | values: 2002 - Bald Eagle - Vancouver Island Coast - MOE - Aerial Surveys
+  provincial list: categorical | values: Yellow
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 2
+  Point: 2 features
+Approximate centre: 48.9071°N, -125.4702°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 2 features:
+
+Feature 0 from 'pub:WHSE_WILDLIFE_INVENTORY.SPI_WHF_SURVEY_OBS_NS_SV', located at approximately 48.9070°N, -125.4691°W. survey observation id: 476029 | species code: B-BAEA | species english name: Bald Eagle | scientific name: Haliaeetus leucocephalus | project name: 2002 - Bald Eagle - BC Coast - Vancouver Island - MOE | project web page: http://a100.gov.bc.ca/pub/siwe/details.do?projectId=4198 | bcsee species code url: http://a100.gov.bc.ca/pub/eswp/search.do?searchType=COMBINED&method=process&esId=18209 | observed number: 1 | observation datetime: 2002-04-04 00:00:00 | observation year: 2002 | observation month: 4 | observation day: 4 | utm zone: 10 | utm easting: 319074 | utm northing: 5420062 | latitude: 48.90705 | longitude: -125.46912 | data 10: NE | study area name: Vancouver Island Coast | survey name: 2002 - Bald Eagle - Vancouver Island Coast - MOE - Aerial Surveys | provincial list: Yellow
+Feature 1 from 'pub:WHSE_WILDLIFE_INVENTORY.SPI_WHF_SURVEY_OBS_NS_SV', located at approximately 48.9072°N, -125.4712°W. survey observation id: 476030 | species code: B-BAEA | species english name: Bald Eagle | scientific name: Haliaeetus leucocephalus | project name: 2002 - Bald Eagle - BC Coast - Vancouver Island - MOE | project web page: http://a100.gov.bc.ca/pub/siwe/details.do?projectId=4198 | bcsee species code url: http://a100.gov.bc.ca/pub/eswp/search.do?searchType=COMBINED&method=process&esId=18209 | observed number: 1 | observation datetime: 2002-04-04 00:00:00 | observation year: 2002 | observation month: 4 | observation day: 4 | utm zone: 10 | utm easting: 318922 | utm northing: 5420082 | latitude: 48.90719 | longitude: -125.4712 | data 10: NE | study area name: Vancouver Island Coast | survey name: 2002 - Bald Eagle - Vancouver Island Coast - MOE - Aerial Surveys | provincial list: Yellow
+
+=== ECOLOGICAL RELEVANCE ===
+This dataset may provide supporting spatial context for habitat analysis in the Ucluelet region.

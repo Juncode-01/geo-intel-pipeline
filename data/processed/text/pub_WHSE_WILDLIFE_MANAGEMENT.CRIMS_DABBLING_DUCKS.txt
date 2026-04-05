@@ -1,0 +1,36 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_DABBLING_DUCKS
+Dataset ID:     pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_DABBLING_DUCKS
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  4
+Geometry Types: Polygon
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.682183 S=48.84517 E=-125.4 N=49.0
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  dabbling id: numeric | range 8799.00 to 9574.00 | mean 9127.25
+  ri: numeric | range 2.00 to 4.00 | mean 2.50
+  ra spr: numeric | range 0.00 to 0.00 | mean 0.00
+  ra sum: numeric | range 0.00 to 0.00 | mean 0.00
+  ra win: numeric | range 0.00 to 0.00 | mean 0.00
+  ra fal: numeric | range 0.00 to 0.00 | mean 0.00
+  project: categorical | values: WCVI
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 4
+  Polygon: 4 features
+Area distribution (hectares): min=1274.7 median=1602.8 max=3868.4
+Approximate centre: 48.9275°N, -125.4895°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 4 features:
+
+Feature 0 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_DABBLING_DUCKS', located at approximately 48.9001°N, -125.4358°W. dabbling id: 9574 | ri: 2 | ra spr: 0 | ra sum: 0 | ra win: 0 | ra fal: 0 | project: WCVI
+Feature 1 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_DABBLING_DUCKS', located at approximately 48.9329°N, -125.5351°W. dabbling id: 9217 | ri: 2 | ra spr: 0 | ra sum: 0 | ra win: 0 | ra fal: 0 | project: WCVI
+Feature 2 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_DABBLING_DUCKS', located at approximately 48.9442°N, -125.4165°W. dabbling id: 8919 | ri: 4 | ra spr: 0 | ra sum: 0 | ra win: 0 | ra fal: 0 | project: WCVI
+Feature 3 from 'pub:WHSE_WILDLIFE_MANAGEMENT.CRIMS_DABBLING_DUCKS', located at approximately 48.9688°N, -125.6171°W. dabbling id: 8799 | ri: 2 | ra spr: 0 | ra sum: 0 | ra win: 0 | ra fal: 0 | project: WCVI
+
+=== ECOLOGICAL RELEVANCE ===
+This dataset may provide supporting spatial context for habitat analysis in the Ucluelet region.

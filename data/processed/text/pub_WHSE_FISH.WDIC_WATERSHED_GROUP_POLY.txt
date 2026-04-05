@@ -1,0 +1,28 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_FISH.WDIC_WATERSHED_GROUP_POLY
+Dataset ID:     pub:WHSE_FISH.WDIC_WATERSHED_GROUP_POLY
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  1
+Geometry Types: MultiPolygon
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.673408 S=48.874806 E=-125.4 N=49.0
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  watershed group code: categorical | values: ALBN
+  watershed group name: categorical | values: ALBERNI INLET
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 1
+  MultiPolygon: 1 features
+Area distribution (hectares): min=9733.2 median=9733.2 max=9733.2
+Approximate centre: 48.9696°N, -125.5083°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 1 features:
+
+Feature 0 from 'pub:WHSE_FISH.WDIC_WATERSHED_GROUP_POLY', located at approximately 48.9696°N, -125.5083°W. watershed group code: ALBN | watershed group name: ALBERNI INLET
+
+=== ECOLOGICAL RELEVANCE ===
+Hydrological data indicates soil moisture patterns and drainage regimes. Chanterelles favour areas with consistent subsurface moisture but not waterlogged conditions — typically mid-slope positions near but not in riparian zones.

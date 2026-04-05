@@ -1,0 +1,86 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_WILDLIFE_INVENTORY.SPI_SURVEY_OBS_MASKED_SP
+Dataset ID:     pub:WHSE_WILDLIFE_INVENTORY.SPI_SURVEY_OBS_MASKED_SP
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  1
+Geometry Types: MultiLineString
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.9 S=49.0 E=-125.5 N=49.0
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  spi som sp sysid: numeric | range 38155.00 to 38155.00 | mean 38155.00
+  data request instructions: categorical | values: All secured data and information is governed by the Species and Ecosystems Data and Information Security policy and procedures.
+To initiate a data request, copy the data from column DATA_REQUEST_COLUMN_VALUES and paste it into an email to spi_mail@gov.bc.ca.
+In the email clearly:
+- demonstrate your 'Need to know'
+- details of the project requiring the secured data and information, including project name and description.
+- area of interest or project location
+- your role/responsibility relative to the requested data and information
+- list of project partners and their roles, including members that will require access to the data
+- your contact information
+- finally, indicate whether you already have a signed Confidentiality and Non-Reproduction Agreement (ConA),
+    OR
+- provide your Company/Institution, Job/Position Title
+Your request for secured data will be assessed and a Data Manager will contact you.
+  data request details: categorical | values: SPI_PROJECT_ID=5439 | SPECIES_CODE=M-OVCA | OBSERVATION_YEAR=2012 | MASK_SOURCE_POLYGON_DATASET=NTS_50K_GRID | MASK_SOURCE_POLYGON=92F/04 | TAXONOMIC_UNIT_ID=23920 | OBSERVATION_TYPE_CODE=SO
+  species code: categorical | values: M-OVCA
+  species english name: categorical | values: Bighorn Sheep
+  species scientific name: categorical | values: Ovis canadensis canadensis
+  bcsee species code url: categorical | values: http://a100.gov.bc.ca/pub/eswp/search.do?searchType=COMBINED&method=process&esId=16396
+  observation year: numeric | range 2012.00 to 2012.00 | mean 2012.00
+  project name: categorical | values: 1985-ongoing - Bighorn Sheep - Census - Ashnola/Similkameen - Okanagan Region
+  spi project id: numeric | range 5439.00 to 5439.00 | mean 5439.00
+  project web page url: categorical | values: http://a100.gov.bc.ca/pub/siwe/details.do?projectId=5439
+  project coordinator: categorical | values: Aaron Reid
+  global rank: categorical | values: G4
+  provincial rank: categorical | values: S3?
+  provincial list: categorical | values: Blue
+  endemic to bc ind: categorical | values: N
+  breeds in bc ind: categorical | values: Y
+  identified wildlife ind: categorical | values: Y
+  identified wildlife date: categorical | values: 2006-06-15
+  furbearer ind: categorical | values: N
+  accidental code: numeric | range 1.00 to 1.00 | mean 1.00
+  exotic code: numeric | range 1.00 to 1.00 | mean 1.00
+  species tracked by cdc ind: categorical | values: Y
+  element occurance exists ind: categorical | values: N
+  national general status code: categorical | values: 4
+  name type code: categorical | values: Animal
+  name type subgroup: categorical | values: Vertebrate Animal
+  taxonomic level: categorical | values: Species
+  phylum name: categorical | values: Craniata
+  class name: categorical | values: Mammalia
+  class english: categorical | values: mammals
+  order name: categorical | values: Artiodactyla
+  family name: categorical | values: Bovidae
+  taxonomic unit id: numeric | range 23920.00 to 23920.00 | mean 23920.00
+  observation type code: categorical | values: SO
+  mask source polygon dataset: categorical | values: NTS_50K_GRID
+  mask source polygon: categorical | values: 92F/04
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 1
+  MultiLineString: 1 features
+Approximate centre: 49.0000°N, -125.7000°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 1 features:
+
+Feature 0 from 'pub:WHSE_WILDLIFE_INVENTORY.SPI_SURVEY_OBS_MASKED_SP', located at approximately 49.0000°N, -125.7000°W. spi som sp sysid: 38155 | data request instructions: All secured data and information is governed by the Species and Ecosystems Data and Information Security policy and procedures.
+To initiate a data request, copy the data from column DATA_REQUEST_COLUMN_VALUES and paste it into an email to spi_mail@gov.bc.ca.
+In the email clearly:
+- demonstrate your 'Need to know'
+- details of the project requiring the secured data and information, including project name and description.
+- area of interest or project location
+- your role/responsibility relative to the requested data and information
+- list of project partners and their roles, including members that will require access to the data
+- your contact information
+- finally, indicate whether you already have a signed Confidentiality and Non-Reproduction Agreement (ConA),
+    OR
+- provide your Company/Institution, Job/Position Title
+Your request for secured data will be assessed and a Data Manager will contact you. | data request details: SPI_PROJECT_ID=5439 | SPECIES_CODE=M-OVCA | OBSERVATION_YEAR=2012 | MASK_SOURCE_POLYGON_DATASET=NTS_50K_GRID | MASK_SOURCE_POLYGON=92F/04 | TAXONOMIC_UNIT_ID=23920 | OBSERVATION_TYPE_CODE=SO | species code: M-OVCA | species english name: Bighorn Sheep | species scientific name: Ovis canadensis canadensis | bcsee species code url: http://a100.gov.bc.ca/pub/eswp/search.do?searchType=COMBINED&method=process&esId=16396 | observation year: 2012 | project name: 1985-ongoing - Bighorn Sheep - Census - Ashnola/Similkameen - Okanagan Region | spi project id: 5439 | project web page url: http://a100.gov.bc.ca/pub/siwe/details.do?projectId=5439 | project coordinator: Aaron Reid | global rank: G4 | provincial rank: S3? | provincial list: Blue | endemic to bc ind: N | breeds in bc ind: Y | identified wildlife ind: Y | identified wildlife date: 2006-06-15 00:00:00 | furbearer ind: N | accidental code: 1 | exotic code: 1 | species tracked by cdc ind: Y | element occurance exists ind: N | national general status code: 4 | name type code: Animal | name type subgroup: Vertebrate Animal | taxonomic level: Species | phylum name: Craniata | class name: Mammalia | class english: mammals | order name: Artiodactyla | family name: Bovidae | taxonomic unit id: 23920 | observation type code: SO | mask source polygon dataset: NTS_50K_GRID | mask source polygon: 92F/04
+
+=== ECOLOGICAL RELEVANCE ===
+This dataset may provide supporting spatial context for habitat analysis in the Ucluelet region.

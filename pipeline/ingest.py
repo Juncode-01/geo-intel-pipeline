@@ -9,6 +9,7 @@ import pandas as pd
 from agents.collector_agent import CollectorAgent
 from agents.classifier_agent import ClassifierAgent
 from agents.fetcher_agent import FetcherAgent
+from agents.converter_agent import ConverterAgent
 from config import WFS_DISCOVERY_KEYWORDS
 
 
@@ -98,6 +99,13 @@ def run_ingestion(
         fetcher.get_fetch_summary()
 
     print("\nIngestion pipeline complete.")
+
+    # --- Step 4: Convert fetched data to LLM-readable text ---
+    print("STEP 4: Converting geographic data to text...")
+    print("-" * 40)
+    converter = ConverterAgent()
+    converter.run()
+
     return df_relevant
 
 

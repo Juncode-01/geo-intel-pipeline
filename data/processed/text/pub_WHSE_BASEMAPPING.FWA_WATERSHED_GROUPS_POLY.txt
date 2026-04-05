@@ -1,0 +1,33 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_BASEMAPPING.FWA_WATERSHED_GROUPS_POLY
+Dataset ID:     pub:WHSE_BASEMAPPING.FWA_WATERSHED_GROUPS_POLY
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  2
+Geometry Types: MultiPolygon, Polygon
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.673327 S=48.874486 E=-125.4 N=49.0
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  watershed group id: numeric | range 2.00 to 29.00 | mean 15.50
+  watershed group code: categorical | values: ALBN, CLAY
+  watershed group name: categorical | values: Alberni Inlet, Clayoquot
+  area ha: numeric | range 327903.52 to 385338.50 | mean 356621.01
+  feature code: categorical | values: WA2510000
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 2
+  MultiPolygon: 1 features
+  Polygon: 1 features
+Area distribution (hectares): min=0.0 median=4860.5 max=9721.1
+Approximate centre: 48.9696°N, -125.5080°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 2 features:
+
+Feature 0 from 'pub:WHSE_BASEMAPPING.FWA_WATERSHED_GROUPS_POLY', located at approximately 48.9696°N, -125.5080°W. watershed group id: 2 | watershed group code: ALBN | watershed group name: Alberni Inlet | area ha: 385338.496209019 | feature code: WA2510000
+Feature 1 from 'pub:WHSE_BASEMAPPING.FWA_WATERSHED_GROUPS_POLY', located at approximately 49.0000°N, -125.5004°W. watershed group id: 29 | watershed group code: CLAY | watershed group name: Clayoquot | area ha: 327903.517945596 | feature code: WA2510000
+
+=== ECOLOGICAL RELEVANCE ===
+Hydrological data indicates soil moisture patterns and drainage regimes. Chanterelles favour areas with consistent subsurface moisture but not waterlogged conditions — typically mid-slope positions near but not in riparian zones.

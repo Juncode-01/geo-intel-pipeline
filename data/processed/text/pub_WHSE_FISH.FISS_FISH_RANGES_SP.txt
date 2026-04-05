@@ -1,0 +1,129 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_FISH.FISS_FISH_RANGES_SP
+Dataset ID:     pub:WHSE_FISH.FISS_FISH_RANGES_SP
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  99
+Geometry Types: Polygon, MultiPolygon
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.672271 S=48.920088 E=-125.4 N=49.0
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  species code: text | 33 unique values | sample: AS, BL, BNH, CAL, CAS...
+  species name: text | 33 unique values | sample: American Shad, Atlantic Salmon, Brook Trout, Brown Catfish (formerly Brown Bullhead), Brown Trout...
+  range code: categorical | values: Core, Estuarine, Exotic, Peripheral
+  species range group: numeric | range 255.00 to 380.00 | mean 320.55
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 99
+  Polygon: 66 features
+  MultiPolygon: 33 features
+Area distribution (hectares): min=27.8 median=31.4 max=9609.5
+Approximate centre: 48.9699°N, -125.5081°W
+
+=== FEATURE DESCRIPTIONS ===
+Dataset has 99 features. Describing a representative sample of 99:
+
+Feature 62 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9700°N, -125.5081°W. species code: RL | species name: River Lamprey | range code: Core | species range group: 259
+Feature 40 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9650°N, -125.5770°W. species code: DV | species name: Dolly Varden | range code: Core | species range group: 262
+Feature 95 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9700°N, -125.5081°W. species code: CM | species name: Chum Salmon | range code: Core | species range group: 260
+Feature 18 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9520°N, -125.4097°W. species code: PK | species name: Pink Salmon | range code: Core | species range group: 278
+Feature 97 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9700°N, -125.5081°W. species code: SK | species name: Sockeye Salmon | range code: Core | species range group: 305
+Feature 84 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9650°N, -125.5770°W. species code: TSB | species name: Threespine Stickleback | range code: Core | species range group: 298
+Feature 64 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9700°N, -125.5081°W. species code: CCT | species name: Coastal Cutthroat Trout | range code: Core | species range group: 270
+Feature 42 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9650°N, -125.5770°W. species code: BNH | species name: Brown Catfish (formerly Brown Bullhead) | range code: Exotic | species range group: 290
+Feature 10 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9520°N, -125.4097°W. species code: CP | species name: Carp | range code: Peripheral | species range group: 336
+Feature 0 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9520°N, -125.4097°W. species code: DV | species name: Dolly Varden | range code: Core | species range group: 262
+Feature 31 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9520°N, -125.4097°W. species code: SMB | species name: Smallmouth Bass | range code: Exotic | species range group: 304
+Feature 76 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9700°N, -125.5081°W. species code: GB | species name: Brown Trout | range code: Exotic | species range group: 356
+Feature 47 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9650°N, -125.5770°W. species code: CM | species name: Chum Salmon | range code: Core | species range group: 260
+Feature 26 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9520°N, -125.4097°W. species code: CAL | species name: Coastrange Sculpin (formerly Aleutian Sculpin) | range code: Core | species range group: 292
+Feature 44 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9650°N, -125.5770°W. species code: CH | species name: Chinook Salmon | range code: Core | species range group: 318
+Feature 4 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9520°N, -125.4097°W. species code: EB | species name: Brook Trout | range code: Exotic | species range group: 335
+Feature 22 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9520°N, -125.4097°W. species code: SH | species name: American Shad | range code: Estuarine | species range group: 294
+Feature 12 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9520°N, -125.4097°W. species code: ST | species name: Steelhead | range code: Core | species range group: 357
+Feature 88 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9650°N, -125.5770°W. species code: RL | species name: River Lamprey | range code: Core | species range group: 259
+Feature 73 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9700°N, -125.5081°W. species code: DV | species name: Dolly Varden | range code: Core | species range group: 262
+Feature 49 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9650°N, -125.5770°W. species code: PMB | species name: Pumpkinseed | range code: Exotic | species range group: 334
+Feature 70 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9700°N, -125.5081°W. species code: AS | species name: Atlantic Salmon | range code: Exotic | species range group: 309
+Feature 68 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9700°N, -125.5081°W. species code: PK | species name: Pink Salmon | range code: Core | species range group: 278
+Feature 15 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9520°N, -125.4097°W. species code: RL | species name: River Lamprey | range code: Core | species range group: 259
+Feature 39 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9650°N, -125.5770°W. species code: CCT | species name: Coastal Cutthroat Trout | range code: Core | species range group: 270
+Feature 33 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9650°N, -125.5770°W. species code: RB | species name: Rainbow Trout | range code: Core | species range group: 255
+Feature 9 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9520°N, -125.4097°W. species code: RB | species name: Rainbow Trout | range code: Core | species range group: 255
+Feature 81 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9700°N, -125.5081°W. species code: GSG | species name: Green Sturgeon | range code: Estuarine | species range group: 332
+Feature 11 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9520°N, -125.4097°W. species code: LL | species name: Lake Lamprey | range code: Core | species range group: 349
+Feature 65 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9700°N, -125.5081°W. species code: ST | species name: Steelhead | range code: Core | species range group: 357
+Feature 94 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9700°N, -125.5081°W. species code: CAS | species name: Prickly Sculpin | range code: Core | species range group: 367
+Feature 30 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9520°N, -125.4097°W. species code: AS | species name: Atlantic Salmon | range code: Exotic | species range group: 309
+Feature 28 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9520°N, -125.4097°W. species code: CM | species name: Chum Salmon | range code: Core | species range group: 260
+Feature 89 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9650°N, -125.5770°W. species code: CAL | species name: Coastrange Sculpin (formerly Aleutian Sculpin) | range code: Core | species range group: 292
+Feature 5 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9520°N, -125.4097°W. species code: SK | species name: Sockeye Salmon | range code: Core | species range group: 305
+Feature 45 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9650°N, -125.5770°W. species code: AS | species name: Atlantic Salmon | range code: Exotic | species range group: 309
+Feature 69 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9700°N, -125.5081°W. species code: PL | species name: Pacific Lamprey | range code: Core | species range group: 374
+Feature 35 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9650°N, -125.5770°W. species code: SMB | species name: Smallmouth Bass | range code: Exotic | species range group: 304
+Feature 16 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9520°N, -125.4097°W. species code: RSM | species name: Rainbow Smelt | range code: Estuarine | species range group: 360
+Feature 72 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9700°N, -125.5081°W. species code: PCC | species name: Peamouth Chub | range code: Core | species range group: 301
+Feature 34 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9650°N, -125.5770°W. species code: LSM | species name: Longfin Smelt | range code: Estuarine | species range group: 333
+Feature 7 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9520°N, -125.4097°W. species code: BL | species name: Western Brook Lamprey | range code: Core | species range group: 329
+Feature 55 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9650°N, -125.5770°W. species code: SK | species name: Sockeye Salmon | range code: Core | species range group: 305
+Feature 27 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9520°N, -125.4097°W. species code: CCT | species name: Coastal Cutthroat Trout | range code: Core | species range group: 270
+Feature 19 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9520°N, -125.4097°W. species code: LSM | species name: Longfin Smelt | range code: Estuarine | species range group: 333
+Feature 80 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9700°N, -125.5081°W. species code: PMB | species name: Pumpkinseed | range code: Exotic | species range group: 334
+Feature 25 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9520°N, -125.4097°W. species code: PCC | species name: Peamouth Chub | range code: Core | species range group: 301
+Feature 53 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9650°N, -125.5770°W. species code: ST | species name: Steelhead | range code: Core | species range group: 357
+Feature 13 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9520°N, -125.4097°W. species code: PL | species name: Pacific Lamprey | range code: Core | species range group: 374
+Feature 24 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9520°N, -125.4097°W. species code: TSB | species name: Threespine Stickleback | range code: Core | species range group: 298
+Feature 3 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9520°N, -125.4097°W. species code: GC | species name: Goldfish | range code: Exotic | species range group: 344
+Feature 17 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9520°N, -125.4097°W. species code: GSG | species name: Green Sturgeon | range code: Estuarine | species range group: 332
+Feature 38 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9650°N, -125.5770°W. species code: CP | species name: Carp | range code: Peripheral | species range group: 336
+Feature 8 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9520°N, -125.4097°W. species code: CH | species name: Chinook Salmon | range code: Core | species range group: 318
+Feature 77 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9700°N, -125.5081°W. species code: BL | species name: Western Brook Lamprey | range code: Core | species range group: 329
+Feature 6 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9520°N, -125.4097°W. species code: CO | species name: Coho Salmon | range code: Core | species range group: 338
+Feature 79 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9700°N, -125.5081°W. species code: CP | species name: Carp | range code: Peripheral | species range group: 336
+Feature 36 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9650°N, -125.5770°W. species code: GSG | species name: Green Sturgeon | range code: Estuarine | species range group: 332
+Feature 91 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9700°N, -125.5081°W. species code: FM | species name: Fathead Minnow | range code: Exotic | species range group: 358
+Feature 56 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9650°N, -125.5770°W. species code: CO | species name: Coho Salmon | range code: Core | species range group: 338
+Feature 98 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9700°N, -125.5081°W. species code: SMB | species name: Smallmouth Bass | range code: Exotic | species range group: 304
+Feature 54 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9650°N, -125.5770°W. species code: EU | species name: Eulachon | range code: Peripheral | species range group: 380
+Feature 43 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9650°N, -125.5770°W. species code: LL | species name: Lake Lamprey | range code: Core | species range group: 349
+Feature 50 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9650°N, -125.5770°W. species code: KO | species name: Kokanee | range code: Core | species range group: 342
+Feature 66 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9700°N, -125.5081°W. species code: LL | species name: Lake Lamprey | range code: Core | species range group: 349
+Feature 46 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9650°N, -125.5770°W. species code: WSG | species name: White Sturgeon | range code: Peripheral | species range group: 359
+Feature 67 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9700°N, -125.5081°W. species code: WSG | species name: White Sturgeon | range code: Peripheral | species range group: 359
+Feature 61 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9700°N, -125.5081°W. species code: SH | species name: American Shad | range code: Estuarine | species range group: 294
+Feature 96 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9700°N, -125.5081°W. species code: CO | species name: Coho Salmon | range code: Core | species range group: 338
+Feature 78 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9700°N, -125.5081°W. species code: BNH | species name: Brown Catfish (formerly Brown Bullhead) | range code: Exotic | species range group: 290
+Feature 41 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9650°N, -125.5770°W. species code: FM | species name: Fathead Minnow | range code: Exotic | species range group: 358
+Feature 58 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9650°N, -125.5770°W. species code: PCC | species name: Peamouth Chub | range code: Core | species range group: 301
+Feature 48 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9650°N, -125.5770°W. species code: CAS | species name: Prickly Sculpin | range code: Core | species range group: 367
+Feature 85 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9650°N, -125.5770°W. species code: SH | species name: American Shad | range code: Estuarine | species range group: 294
+Feature 57 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9650°N, -125.5770°W. species code: GB | species name: Brown Trout | range code: Exotic | species range group: 356
+Feature 75 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9700°N, -125.5081°W. species code: TSB | species name: Threespine Stickleback | range code: Core | species range group: 298
+Feature 32 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9520°N, -125.4097°W. species code: BNH | species name: Brown Catfish (formerly Brown Bullhead) | range code: Exotic | species range group: 290
+Feature 93 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9700°N, -125.5081°W. species code: KO | species name: Kokanee | range code: Core | species range group: 342
+Feature 59 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9700°N, -125.5081°W. species code: CAL | species name: Coastrange Sculpin (formerly Aleutian Sculpin) | range code: Core | species range group: 292
+Feature 63 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9700°N, -125.5081°W. species code: RSM | species name: Rainbow Smelt | range code: Estuarine | species range group: 360
+Feature 83 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9700°N, -125.5081°W. species code: EU | species name: Eulachon | range code: Peripheral | species range group: 380
+Feature 37 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9650°N, -125.5770°W. species code: BL | species name: Western Brook Lamprey | range code: Core | species range group: 329
+Feature 29 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9520°N, -125.4097°W. species code: GB | species name: Brown Trout | range code: Exotic | species range group: 356
+Feature 1 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9520°N, -125.4097°W. species code: PMB | species name: Pumpkinseed | range code: Exotic | species range group: 334
+Feature 52 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9650°N, -125.5770°W. species code: GC | species name: Goldfish | range code: Exotic | species range group: 344
+Feature 21 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9520°N, -125.4097°W. species code: WSG | species name: White Sturgeon | range code: Peripheral | species range group: 359
+Feature 2 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9520°N, -125.4097°W. species code: FM | species name: Fathead Minnow | range code: Exotic | species range group: 358
+Feature 23 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9520°N, -125.4097°W. species code: EU | species name: Eulachon | range code: Peripheral | species range group: 380
+Feature 87 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9650°N, -125.5770°W. species code: PL | species name: Pacific Lamprey | range code: Core | species range group: 374
+Feature 90 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9650°N, -125.5770°W. species code: EB | species name: Brook Trout | range code: Exotic | species range group: 335
+Feature 74 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9700°N, -125.5081°W. species code: EB | species name: Brook Trout | range code: Exotic | species range group: 335
+Feature 86 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9650°N, -125.5770°W. species code: PK | species name: Pink Salmon | range code: Core | species range group: 278
+Feature 82 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9700°N, -125.5081°W. species code: GC | species name: Goldfish | range code: Exotic | species range group: 344
+Feature 20 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9520°N, -125.4097°W. species code: CAS | species name: Prickly Sculpin | range code: Core | species range group: 367
+Feature 60 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9700°N, -125.5081°W. species code: LSM | species name: Longfin Smelt | range code: Estuarine | species range group: 333
+Feature 71 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9700°N, -125.5081°W. species code: CH | species name: Chinook Salmon | range code: Core | species range group: 318
+Feature 14 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9520°N, -125.4097°W. species code: KO | species name: Kokanee | range code: Core | species range group: 342
+Feature 92 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9700°N, -125.5081°W. species code: RB | species name: Rainbow Trout | range code: Core | species range group: 255
+Feature 51 from 'pub:WHSE_FISH.FISS_FISH_RANGES_SP', located at approximately 48.9650°N, -125.5770°W. species code: RSM | species name: Rainbow Smelt | range code: Estuarine | species range group: 360
+
+=== ECOLOGICAL RELEVANCE ===
+This dataset may provide supporting spatial context for habitat analysis in the Ucluelet region.

@@ -1,0 +1,47 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_WATER_MANAGEMENT.WLS_WATER_RESERVES_POLY
+Dataset ID:     pub:WHSE_WATER_MANAGEMENT.WLS_WATER_RESERVES_POLY
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  14
+Geometry Types: Polygon, MultiPolygon
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.667117 S=48.920232 E=-125.4 N=49.0
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  water reserve poly id: numeric | range 107495.00 to 107533.00 | mean 107513.29
+  water reserve description: categorical | values: Toquaht Nation Water Reservation Order - OIC 094/2011, Ucluelet FN Water Reservation Order - OIC 096/2011
+  order in council number: categorical | values: 0094/2011, 0096/2011
+  url: categorical | values: http://www.env.gov.bc.ca/wsd/water_rights/scanned_lic_dir/Water%20Act%20Reserves/237%20-%20OIC%200094-2011%20Toquaht%20Nation%20Water%20Reservation%20Order/, http://www.env.gov.bc.ca/wsd/water_rights/scanned_lic_dir/Water%20Act%20Reserves/239%20-%20OIC%200096-2011%20Ucluelet%20FN%20Water%20Reservation%20Order/
+  location name: categorical | values: Toquaht Nation, Ucluelet First Nation
+  polygon type: categorical | values: Maa-nulth Treaty
+  source type: categorical | values: FNTreatyLands
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 14
+  Polygon: 7 features
+  MultiPolygon: 7 features
+Area distribution (hectares): min=7.1 median=32.5 max=2637.4
+Approximate centre: 48.9691°N, -125.5075°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 14 features:
+
+Feature 0 from 'pub:WHSE_WATER_MANAGEMENT.WLS_WATER_RESERVES_POLY', located at approximately 48.9234°N, -125.5078°W. water reserve poly id: 107523 | water reserve description: Toquaht Nation Water Reservation Order - OIC 094/2011 | order in council number: 0094/2011 | url: http://www.env.gov.bc.ca/wsd/water_rights/scanned_lic_dir/Water%20Act%20Reserves/237%20-%20OIC%200094-2011%20Toquaht%20Nation%20Water%20Reservation%20Order/ | location name: Toquaht Nation | polygon type: Maa-nulth Treaty | source type: FNTreatyLands
+Feature 1 from 'pub:WHSE_WATER_MANAGEMENT.WLS_WATER_RESERVES_POLY', located at approximately 48.9284°N, -125.5076°W. water reserve poly id: 107510 | water reserve description: Toquaht Nation Water Reservation Order - OIC 094/2011 | order in council number: 0094/2011 | url: http://www.env.gov.bc.ca/wsd/water_rights/scanned_lic_dir/Water%20Act%20Reserves/237%20-%20OIC%200094-2011%20Toquaht%20Nation%20Water%20Reservation%20Order/ | location name: Toquaht Nation | polygon type: Maa-nulth Treaty | source type: FNTreatyLands
+Feature 2 from 'pub:WHSE_WATER_MANAGEMENT.WLS_WATER_RESERVES_POLY', located at approximately 48.9298°N, -125.5107°W. water reserve poly id: 107513 | water reserve description: Toquaht Nation Water Reservation Order - OIC 094/2011 | order in council number: 0094/2011 | url: http://www.env.gov.bc.ca/wsd/water_rights/scanned_lic_dir/Water%20Act%20Reserves/237%20-%20OIC%200094-2011%20Toquaht%20Nation%20Water%20Reservation%20Order/ | location name: Toquaht Nation | polygon type: Maa-nulth Treaty | source type: FNTreatyLands
+Feature 3 from 'pub:WHSE_WATER_MANAGEMENT.WLS_WATER_RESERVES_POLY', located at approximately 48.9504°N, -125.4463°W. water reserve poly id: 107522 | water reserve description: Toquaht Nation Water Reservation Order - OIC 094/2011 | order in council number: 0094/2011 | url: http://www.env.gov.bc.ca/wsd/water_rights/scanned_lic_dir/Water%20Act%20Reserves/237%20-%20OIC%200094-2011%20Toquaht%20Nation%20Water%20Reservation%20Order/ | location name: Toquaht Nation | polygon type: Maa-nulth Treaty | source type: FNTreatyLands
+Feature 4 from 'pub:WHSE_WATER_MANAGEMENT.WLS_WATER_RESERVES_POLY', located at approximately 48.9707°N, -125.5107°W. water reserve poly id: 107503 | water reserve description: Ucluelet FN Water Reservation Order - OIC 096/2011 | order in council number: 0096/2011 | url: http://www.env.gov.bc.ca/wsd/water_rights/scanned_lic_dir/Water%20Act%20Reserves/239%20-%20OIC%200096-2011%20Ucluelet%20FN%20Water%20Reservation%20Order/ | location name: Ucluelet First Nation | polygon type: Maa-nulth Treaty | source type: FNTreatyLands
+Feature 5 from 'pub:WHSE_WATER_MANAGEMENT.WLS_WATER_RESERVES_POLY', located at approximately 48.9646°N, -125.4245°W. water reserve poly id: 107524 | water reserve description: Toquaht Nation Water Reservation Order - OIC 094/2011 | order in council number: 0094/2011 | url: http://www.env.gov.bc.ca/wsd/water_rights/scanned_lic_dir/Water%20Act%20Reserves/237%20-%20OIC%200094-2011%20Toquaht%20Nation%20Water%20Reservation%20Order/ | location name: Toquaht Nation | polygon type: Maa-nulth Treaty | source type: FNTreatyLands
+Feature 6 from 'pub:WHSE_WATER_MANAGEMENT.WLS_WATER_RESERVES_POLY', located at approximately 48.9941°N, -125.4031°W. water reserve poly id: 107495 | water reserve description: Toquaht Nation Water Reservation Order - OIC 094/2011 | order in council number: 0094/2011 | url: http://www.env.gov.bc.ca/wsd/water_rights/scanned_lic_dir/Water%20Act%20Reserves/237%20-%20OIC%200094-2011%20Toquaht%20Nation%20Water%20Reservation%20Order/ | location name: Toquaht Nation | polygon type: Maa-nulth Treaty | source type: FNTreatyLands
+Feature 7 from 'pub:WHSE_WATER_MANAGEMENT.WLS_WATER_RESERVES_POLY', located at approximately 48.9405°N, -125.5273°W. water reserve poly id: 107533 | water reserve description: Ucluelet FN Water Reservation Order - OIC 096/2011 | order in council number: 0096/2011 | url: http://www.env.gov.bc.ca/wsd/water_rights/scanned_lic_dir/Water%20Act%20Reserves/239%20-%20OIC%200096-2011%20Ucluelet%20FN%20Water%20Reservation%20Order/ | location name: Ucluelet First Nation | polygon type: Maa-nulth Treaty | source type: FNTreatyLands
+Feature 8 from 'pub:WHSE_WATER_MANAGEMENT.WLS_WATER_RESERVES_POLY', located at approximately 48.9638°N, -125.6009°W. water reserve poly id: 107499 | water reserve description: Ucluelet FN Water Reservation Order - OIC 096/2011 | order in council number: 0096/2011 | url: http://www.env.gov.bc.ca/wsd/water_rights/scanned_lic_dir/Water%20Act%20Reserves/239%20-%20OIC%200096-2011%20Ucluelet%20FN%20Water%20Reservation%20Order/ | location name: Ucluelet First Nation | polygon type: Maa-nulth Treaty | source type: FNTreatyLands
+Feature 9 from 'pub:WHSE_WATER_MANAGEMENT.WLS_WATER_RESERVES_POLY', located at approximately 48.9665°N, -125.6007°W. water reserve poly id: 107518 | water reserve description: Ucluelet FN Water Reservation Order - OIC 096/2011 | order in council number: 0096/2011 | url: http://www.env.gov.bc.ca/wsd/water_rights/scanned_lic_dir/Water%20Act%20Reserves/239%20-%20OIC%200096-2011%20Ucluelet%20FN%20Water%20Reservation%20Order/ | location name: Ucluelet First Nation | polygon type: Maa-nulth Treaty | source type: FNTreatyLands
+Feature 10 from 'pub:WHSE_WATER_MANAGEMENT.WLS_WATER_RESERVES_POLY', located at approximately 48.9730°N, -125.6117°W. water reserve poly id: 107498 | water reserve description: Ucluelet FN Water Reservation Order - OIC 096/2011 | order in council number: 0096/2011 | url: http://www.env.gov.bc.ca/wsd/water_rights/scanned_lic_dir/Water%20Act%20Reserves/239%20-%20OIC%200096-2011%20Ucluelet%20FN%20Water%20Reservation%20Order/ | location name: Ucluelet First Nation | polygon type: Maa-nulth Treaty | source type: FNTreatyLands
+Feature 11 from 'pub:WHSE_WATER_MANAGEMENT.WLS_WATER_RESERVES_POLY', located at approximately 48.9767°N, -125.5949°W. water reserve poly id: 107505 | water reserve description: Ucluelet FN Water Reservation Order - OIC 096/2011 | order in council number: 0096/2011 | url: http://www.env.gov.bc.ca/wsd/water_rights/scanned_lic_dir/Water%20Act%20Reserves/239%20-%20OIC%200096-2011%20Ucluelet%20FN%20Water%20Reservation%20Order/ | location name: Ucluelet First Nation | polygon type: Maa-nulth Treaty | source type: FNTreatyLands
+Feature 12 from 'pub:WHSE_WATER_MANAGEMENT.WLS_WATER_RESERVES_POLY', located at approximately 48.9786°N, -125.5748°W. water reserve poly id: 107532 | water reserve description: Ucluelet FN Water Reservation Order - OIC 096/2011 | order in council number: 0096/2011 | url: http://www.env.gov.bc.ca/wsd/water_rights/scanned_lic_dir/Water%20Act%20Reserves/239%20-%20OIC%200096-2011%20Ucluelet%20FN%20Water%20Reservation%20Order/ | location name: Ucluelet First Nation | polygon type: Maa-nulth Treaty | source type: FNTreatyLands
+Feature 13 from 'pub:WHSE_WATER_MANAGEMENT.WLS_WATER_RESERVES_POLY', located at approximately 48.9979°N, -125.6633°W. water reserve poly id: 107511 | water reserve description: Ucluelet FN Water Reservation Order - OIC 096/2011 | order in council number: 0096/2011 | url: http://www.env.gov.bc.ca/wsd/water_rights/scanned_lic_dir/Water%20Act%20Reserves/239%20-%20OIC%200096-2011%20Ucluelet%20FN%20Water%20Reservation%20Order/ | location name: Ucluelet First Nation | polygon type: Maa-nulth Treaty | source type: FNTreatyLands
+
+=== ECOLOGICAL RELEVANCE ===
+Hydrological data indicates soil moisture patterns and drainage regimes. Chanterelles favour areas with consistent subsurface moisture but not waterlogged conditions — typically mid-slope positions near but not in riparian zones.

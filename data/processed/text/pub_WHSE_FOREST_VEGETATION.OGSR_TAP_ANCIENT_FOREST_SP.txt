@@ -1,0 +1,43 @@
+=== DATASET RECORD ===
+Title:          pub:WHSE_FOREST_VEGETATION.OGSR_TAP_ANCIENT_FOREST_SP
+Dataset ID:     pub:WHSE_FOREST_VEGETATION.OGSR_TAP_ANCIENT_FOREST_SP
+Source:         WFS
+Fetched:        2026-04-05
+Feature Count:  10
+Geometry Types: Polygon
+Coverage Area:  Ucluelet, BC region
+Bounding Box:   W=-125.514347 S=48.942534 E=-125.410004 N=48.997499
+Coordinate System: WGS84 (EPSG:4326)
+
+=== ATTRIBUTE SCHEMA ===
+  ogsr taf sysid: numeric | range 33219.00 to 33228.00 | mean 33223.50
+  ancient forest id: numeric | range 37604.00 to 37616.00 | mean 37610.40
+  tap classification label: categorical | values: Ancient at older than 400 years
+  region name: categorical | values: West Coast Natural Resource Region
+  district name: categorical | values: South Island Natural Resource District
+  landscape unit provid: numeric | range 815.00 to 815.00 | mean 815.00
+  landscape unit name: categorical | values: Maggie
+  bgc label: categorical | values: CWH vh 1, CWH vm 1
+
+=== SPATIAL SUMMARY ===
+Total features in Ucluelet area: 10
+  Polygon: 10 features
+Area distribution (hectares): min=0.0 median=5.5 max=166.8
+Approximate centre: 48.9738°N, -125.4364°W
+
+=== FEATURE DESCRIPTIONS ===
+Describing all 10 features:
+
+Feature 0 from 'pub:WHSE_FOREST_VEGETATION.OGSR_TAP_ANCIENT_FOREST_SP', located at approximately 48.9437°N, -125.4937°W. ogsr taf sysid: 33219 | ancient forest id: 37604 | tap classification label: Ancient at older than 400 years | region name: West Coast Natural Resource Region | district name: South Island Natural Resource District | landscape unit provid: 815 | landscape unit name: Maggie | bgc label: CWH vh 1
+Feature 1 from 'pub:WHSE_FOREST_VEGETATION.OGSR_TAP_ANCIENT_FOREST_SP', located at approximately 48.9611°N, -125.4807°W. ogsr taf sysid: 33223 | ancient forest id: 37609 | tap classification label: Ancient at older than 400 years | region name: West Coast Natural Resource Region | district name: South Island Natural Resource District | landscape unit provid: 815 | landscape unit name: Maggie | bgc label: CWH vm 1
+Feature 2 from 'pub:WHSE_FOREST_VEGETATION.OGSR_TAP_ANCIENT_FOREST_SP', located at approximately 48.9654°N, -125.4406°W. ogsr taf sysid: 33220 | ancient forest id: 37606 | tap classification label: Ancient at older than 400 years | region name: West Coast Natural Resource Region | district name: South Island Natural Resource District | landscape unit provid: 815 | landscape unit name: Maggie | bgc label: CWH vh 1
+Feature 3 from 'pub:WHSE_FOREST_VEGETATION.OGSR_TAP_ANCIENT_FOREST_SP', located at approximately 48.9759°N, -125.4244°W. ogsr taf sysid: 33222 | ancient forest id: 37608 | tap classification label: Ancient at older than 400 years | region name: West Coast Natural Resource Region | district name: South Island Natural Resource District | landscape unit provid: 815 | landscape unit name: Maggie | bgc label: CWH vh 1
+Feature 4 from 'pub:WHSE_FOREST_VEGETATION.OGSR_TAP_ANCIENT_FOREST_SP', located at approximately 48.9771°N, -125.4381°W. ogsr taf sysid: 33221 | ancient forest id: 37607 | tap classification label: Ancient at older than 400 years | region name: West Coast Natural Resource Region | district name: South Island Natural Resource District | landscape unit provid: 815 | landscape unit name: Maggie | bgc label: CWH vh 1
+Feature 5 from 'pub:WHSE_FOREST_VEGETATION.OGSR_TAP_ANCIENT_FOREST_SP', located at approximately 48.9801°N, -125.4438°W. ogsr taf sysid: 33224 | ancient forest id: 37612 | tap classification label: Ancient at older than 400 years | region name: West Coast Natural Resource Region | district name: South Island Natural Resource District | landscape unit provid: 815 | landscape unit name: Maggie | bgc label: CWH vm 1
+Feature 6 from 'pub:WHSE_FOREST_VEGETATION.OGSR_TAP_ANCIENT_FOREST_SP', located at approximately 48.9815°N, -125.4576°W. ogsr taf sysid: 33226 | ancient forest id: 37614 | tap classification label: Ancient at older than 400 years | region name: West Coast Natural Resource Region | district name: South Island Natural Resource District | landscape unit provid: 815 | landscape unit name: Maggie | bgc label: CWH vm 1
+Feature 7 from 'pub:WHSE_FOREST_VEGETATION.OGSR_TAP_ANCIENT_FOREST_SP', located at approximately 48.9807°N, -125.4382°W. ogsr taf sysid: 33227 | ancient forest id: 37615 | tap classification label: Ancient at older than 400 years | region name: West Coast Natural Resource Region | district name: South Island Natural Resource District | landscape unit provid: 815 | landscape unit name: Maggie | bgc label: CWH vm 1
+Feature 8 from 'pub:WHSE_FOREST_VEGETATION.OGSR_TAP_ANCIENT_FOREST_SP', located at approximately 48.9821°N, -125.4309°W. ogsr taf sysid: 33225 | ancient forest id: 37613 | tap classification label: Ancient at older than 400 years | region name: West Coast Natural Resource Region | district name: South Island Natural Resource District | landscape unit provid: 815 | landscape unit name: Maggie | bgc label: CWH vm 1
+Feature 9 from 'pub:WHSE_FOREST_VEGETATION.OGSR_TAP_ANCIENT_FOREST_SP', located at approximately 48.9967°N, -125.5119°W. ogsr taf sysid: 33228 | ancient forest id: 37616 | tap classification label: Ancient at older than 400 years | region name: West Coast Natural Resource Region | district name: South Island Natural Resource District | landscape unit provid: 815 | landscape unit name: Maggie | bgc label: CWH vm 1
+
+=== ECOLOGICAL RELEVANCE ===
+Vegetation and forest cover data indicates tree species composition. Chanterelles form mycorrhizal associations primarily with conifers — especially Douglas-fir, Sitka spruce, western hemlock, and western red cedar, all common in the Ucluelet region.
