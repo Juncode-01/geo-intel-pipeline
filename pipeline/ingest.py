@@ -11,6 +11,7 @@ from agents.classifier_agent import ClassifierAgent
 from agents.fetcher_agent import FetcherAgent
 from agents.converter_agent import ConverterAgent
 from agents.vector_store_agent import VectorStoreAgent
+from agents.query_agent import QueryAgent
 from config import WFS_DISCOVERY_KEYWORDS
 
 
