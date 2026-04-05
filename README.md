@@ -21,8 +21,8 @@ pip install -r requirements.txt
 
 ## Status
 - [x] Manual dataset labelling (130 records)
-- [ ] Random Forest classifier
-- [ ] Data collection agent
-- [ ] Format converters
+- [x] Random Forest classifier
+- [x] Data collection agent
+- [x] Format converters
 - [ ] Vector database
 - [ ] Local LLM integration
